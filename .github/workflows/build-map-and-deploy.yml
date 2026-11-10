@@ -146,6 +146,21 @@ jobs:
               )
           PY
 
+      - name: Reuse enroute chart tiles (same PDF + script)
+        id: enrcache
+        uses: actions/cache@v4
+        with:
+          path: map/enroute.pmtiles
+          key: enroute-${{ hashFiles('AirNavFlow/ENROUTE.pdf', 'tools/enroute_tiles.py') }}
+
+      - name: Enroute chart PDF -> transparent georeferenced tiles (enroute.pmtiles)
+        if: steps.enrcache.outputs.cache-hit != 'true' && hashFiles('AirNavFlow/ENROUTE.pdf') != ''
+        run: |
+          sudo apt-get install -y -qq poppler-utils > /dev/null
+          pip install --quiet numpy scipy pillow pmtiles
+          mkdir -p map
+          python3 tools/enroute_tiles.py AirNavFlow/ENROUTE.pdf map/enroute.pmtiles --zmax 10
+
       - name: Report file sizes
         run: |
           ls -lh map/
@@ -169,6 +184,7 @@ jobs:
           mkdir -p site
           for d in AirNavFlow FalCon2CP; do cp -r "$d" site/; done
           cp map/thailand.pmtiles map/elevation.pmtiles site/AirNavFlow/
+          if [ -f map/enroute.pmtiles ]; then cp map/enroute.pmtiles site/AirNavFlow/; fi
           echo '<!doctype html><meta charset=utf-8><title>DataBase</title><p>Data files: <a href="AirNavFlow/">AirNavFlow</a> · <a href="FalCon2CP/">FalCon2CP</a>' > site/index.html
 
       - uses: actions/configure-pages@v5
