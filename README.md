@@ -5,6 +5,7 @@ Big data files for AirNavFlow, FalCon2CP and future projects, served on GitHub P
 One folder per project, served at https://spidersqdn.github.io/DataBase/<folder>/
 
 - `AirNavFlow/thailand.pmtiles` offline OSM map (~260 MB) and `AirNavFlow/elevation.pmtiles` elevation (~117 MB), built by the workflow
+- `AirNavFlow/ENROUTE.pdf` AIP enroute chart; the workflow turns it into `AirNavFlow/enroute.pmtiles` (georeferenced from the lat/long labels on the frame, white made transparent, zoom 5-10) shown in the app as MAP "ENROUTE (AIP)". New AIRAC: upload the new PDF with the same name.
 - `FalCon2CP/` reserved for FalCon2CP
 - New project: add a folder and add its name to the `for d in ...` line in the workflow
 
