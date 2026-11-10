@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """Turn the AIP Thailand ENROUTE CHART - ICAO (one A0 PDF page, Lambert conformal) into a
-transparent, Web-Mercator raster .pmtiles for AirNavFlow.
+Web-Mercator raster .pmtiles for AirNavFlow (white paper kept; the app can key it out).
 
 Georeference comes from the chart itself: the lat/long labels on the frame edges
 (pdftotext -bbox) give the meridian lines (straight, meeting at the cone apex) and the
-parallel radii (circles round the apex). White paper inside the frame becomes transparent;
-everything outside the frame (legends) is left out.
+parallel radii (circles round the apex). Everything outside the frame (legends) is left out.
 
 usage: enroute_tiles.py ENROUTE.pdf out.pmtiles [--zmin 5] [--zmax 10]
 needs: poppler-utils (pdftoppm, pdftotext), numpy, scipy, pillow, pmtiles
@@ -138,14 +137,10 @@ def main():
     print("frame px", fx0, fy0, fx1, fy1, "image", img.size)
     apex, th, rho = model(mer, par, frame_pt)
 
-    # white -> alpha inside the frame, outside the frame fully transparent
-    rgb = np.asarray(img).astype(np.float32); del img
-    al = 255 - rgb.min(axis=2)
-    al[al <= 6] = 0
-    safe = np.maximum(al, 1)[..., None]
-    col = 255 - (255 - rgb) * (255 / safe)
-    rgba = np.dstack([np.clip(col, 0, 255), al]).astype(np.uint8); del rgb, col
-    rgba[:fy0, :, 3] = 0; rgba[fy1:, :, 3] = 0; rgba[:, :fx0, 3] = 0; rgba[:, fx1 + 1:, 3] = 0
+    # keep the white paper inside the frame (the app can make it transparent per tile); outside the frame = transparent
+    rgb = np.asarray(img); del img
+    al = np.zeros(rgb.shape[:2], np.uint8); al[fy0:fy1, fx0:fx1 + 1] = 255
+    rgba = np.dstack([rgb, al]); del rgb, al
 
     def chart_px(lat, lon):
         r = np.polyval(rho, lat); t = np.polyval(th, lon)
