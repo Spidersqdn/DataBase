@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Turn the AIP Thailand ENROUTE CHART - ICAO (one A0 PDF page, Lambert conformal) into a
-transparent, Web-Mercator raster .pmtiles for AirNavFlow.
+Web-Mercator raster .pmtiles for AirNavFlow (white paper kept; the app can key it out).
 
 Georeference comes from the chart itself: the lat/long labels on the frame edges
 (pdftotext -bbox) give the meridian lines (straight, meeting at the cone apex) and the
-parallel radii (circles round the apex). White paper inside the frame becomes transparent;
-everything outside the frame (legends) is left out.
+parallel radii (circles round the apex). The whole sheet is kept; metadata "frame" = map frame outline [lon, lat] so the app can make
+only the inside transparent (legends stay white).
 
 usage: enroute_tiles.py ENROUTE.pdf out.pmtiles [--zmin 5] [--zmax 10]
 needs: poppler-utils (pdftoppm, pdftotext), numpy, scipy, pillow, pmtiles
@@ -138,23 +138,29 @@ def main():
     print("frame px", fx0, fy0, fx1, fy1, "image", img.size)
     apex, th, rho = model(mer, par, frame_pt)
 
-    # white -> alpha inside the frame, outside the frame fully transparent
-    rgb = np.asarray(img).astype(np.float32); del img
-    al = 255 - rgb.min(axis=2)
-    al[al <= 6] = 0
-    safe = np.maximum(al, 1)[..., None]
-    col = 255 - (255 - rgb) * (255 / safe)
-    rgba = np.dstack([np.clip(col, 0, 255), al]).astype(np.uint8); del rgb, col
-    rgba[:fy0, :, 3] = 0; rgba[fy1:, :, 3] = 0; rgba[:, :fx0, 3] = 0; rgba[:, fx1 + 1:, 3] = 0
+    # whole sheet kept (legends stay white); the app keys white -> transparent inside the frame only (metadata "frame")
+    rgb = np.asarray(img); del img
+    PH, PW = rgb.shape[:2]
+    al = np.full(rgb.shape[:2], 255, np.uint8)
+    rgba = np.dstack([rgb, al]); del rgb, al
 
     def chart_px(lat, lon):
         r = np.polyval(rho, lat); t = np.polyval(th, lon)
         return (apex[0] + r * np.sin(t)) * k, (apex[1] + r * np.cos(t)) * k
 
-    # bbox of the frame in lat/lon (sample its edge)
-    lat_g, lon_g = np.meshgrid(np.linspace(0, 30, 301), np.linspace(90, 115, 251))
+    lat_s = np.linspace(-20, 50, 7001); rho_s = np.polyval(rho, lat_s); o = np.argsort(rho_s)
+    def px_latlon(x, y):  # chart px -> (lon, lat), inverse of chart_px
+        x = x / k - apex[0]; y = y / k - apex[1]
+        return (math.atan2(x, y) - th[1]) / th[0], float(np.interp(math.hypot(x, y), rho_s[o], lat_s[o]))
+    # frame outline in lon/lat (edges are straight on the chart, curved on the web map)
+    frame = []
+    for (xa, ya), (xb, yb) in [((fx0, fy0), (fx1, fy0)), ((fx1, fy0), (fx1, fy1)), ((fx1, fy1), (fx0, fy1)), ((fx0, fy1), (fx0, fy0))]:
+        for t in np.linspace(0, 1, 24, endpoint=False):
+            lo, la = px_latlon(xa + (xb - xa) * t, ya + (yb - ya) * t); frame.append([round(lo, 5), round(la, 5)])
+    # bbox of the whole sheet in lat/lon (sample its edge)
+    lat_g, lon_g = np.meshgrid(np.linspace(-10, 40, 501), np.linspace(80, 125, 451))
     X, Y = chart_px(lat_g, lon_g)
-    inside = (X >= fx0) & (X <= fx1) & (Y >= fy0) & (Y <= fy1)
+    inside = (X >= 0) & (X <= PW) & (Y >= 0) & (Y <= PH)
     W_, S_, E_, N_ = lon_g[inside].min() - .1, lat_g[inside].min() - .1, lon_g[inside].max() + .1, lat_g[inside].max() + .1
     print("bounds", round(W_, 2), round(S_, 2), round(E_, 2), round(N_, 2))
 
@@ -196,7 +202,7 @@ def main():
              "min_zoom": a.zmin, "max_zoom": a.zmax,
              "min_lon_e7": int(W_ * 1e7), "min_lat_e7": int(S_ * 1e7), "max_lon_e7": int(E_ * 1e7), "max_lat_e7": int(N_ * 1e7),
              "center_zoom": 6, "center_lon_e7": int((W_ + E_) / 2 * 1e7), "center_lat_e7": int((S_ + N_) / 2 * 1e7)},
-            {"name": "ENROUTE CHART - ICAO (AIP Thailand)", "attribution": "AIP Thailand / CAAT"})
+            {"name": "ENROUTE CHART - ICAO (AIP Thailand)", "attribution": "AIP Thailand / CAAT", "frame": frame})
     print("wrote", a.out, round(os.path.getsize(a.out) / 1e6, 1), "MB")
 
 
