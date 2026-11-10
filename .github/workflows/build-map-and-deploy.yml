@@ -1,6 +1,7 @@
 # Spidersqdn/DataBase: builds the big offline map files for AirNavFlow and serves them on
 # GitHub Pages at https://spidersqdn.github.io/DataBase/<Project>/ (one folder per project).
-# AirNavFlow/: thailand.pmtiles + elevation.pmtiles (built here). FalCon2CP/: committed files.
+# AirNavFlow/: thailand.pmtiles + elevation.pmtiles (built here).
+# FalCon2CP/: *.pmtiles attached to Release tag "falcon2cp-maps" (uploaded by hand, copied here).
 # Kept apart from the app repos so each app deploy stays ~2 MB.
 # One-time setup: repo Settings > Pages > Source = "GitHub Actions".
 name: Build offline map and deploy
@@ -150,6 +151,18 @@ jobs:
           ls -lh map/
           echo "### Offline map: $(du -h map/thailand.pmtiles | cut -f1) (maxzoom $MAP_MAXZOOM)" >> "$GITHUB_STEP_SUMMARY"
           echo "### Elevation: $(du -h map/elevation.pmtiles | cut -f1) (maxzoom $ELEV_MAXZOOM)" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: FalCon2CP maps from Release "falcon2cp-maps" (skipped if missing)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p FalCon2CP
+          if gh release download falcon2cp-maps -R "$GITHUB_REPOSITORY" -p '*.pmtiles' -D FalCon2CP --clobber; then
+            ls -lh FalCon2CP/*.pmtiles
+            echo "### FalCon2CP: $(du -ch FalCon2CP/*.pmtiles | tail -1 | cut -f1)" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No release falcon2cp-maps yet, skipping"
+          fi
 
       - name: Site folder (one folder per project)
         run: |
