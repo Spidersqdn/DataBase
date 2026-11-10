@@ -201,3 +201,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000   # 30 min: big map files can take >10 min to sync to Pages
