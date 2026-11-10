@@ -4,7 +4,9 @@ Web-Mercator raster .pmtiles for AirNavFlow (white paper kept; the app can key i
 
 Georeference comes from the chart itself: the lat/long labels on the frame edges
 (pdftotext -bbox) give the meridian lines (straight, meeting at the cone apex) and the
-parallel radii (circles round the apex). The whole sheet is kept; metadata "frame" = map frame outline [lon, lat] so the app can make
+parallel radii (circles round the apex) = first guess. The sheet is not a pure LCC (east side was
+~3 NM off), so every 1 deg graticule crossing inside the frame is then located on the image and a
+cubic (lat, lon) -> chart fit through them (~80 points, rms ~0.1 NM) is used. The whole sheet is kept; metadata "frame" = map frame outline [lon, lat] so the app can make
 only the inside transparent (legends stay white).
 
 usage: enroute_tiles.py ENROUTE.pdf out.pmtiles [--zmin 5] [--zmax 10]
@@ -81,6 +83,39 @@ def model(mer, par, frame_pt):
     return apex, th, rho
 
 
+def poly_terms(lat, lon, deg=3):
+    a = (np.asarray(lat, float) - 13) / 8; b = (np.asarray(lon, float) - 101) / 6
+    return np.stack([a ** i * b ** j for i in range(deg + 1) for j in range(deg + 1 - i)], -1)
+
+
+def grid_fit(gimg, kk, frame_pt, lcc):
+    """the sheet is not a pure LCC: find every 1 deg graticule crossing inside the frame (grey lines)
+    near the LCC guess and fit a cubic (lat, lon) -> chart pt through them"""
+    im = np.asarray(gimg).astype(int); r, g, b = im[..., 0], im[..., 1], im[..., 2]
+    gray = (abs(r - g) < 12) & (abs(g - b) < 12) & (r > 110) & (r < 215)
+    FL, FT, FR, FB = [v * kk for v in frame_pt]; W = 40
+    pts = []
+    for lat in range(-5, 35):
+        for lon in range(85, 120):
+            x, y = lcc(lat, lon); x = int(x * kk); y = int(y * kk)
+            if x < FL + W or x > FR - W or y < FT + W or y > FB - W:
+                continue
+            win = gray[y - W:y + W, x - W:x + W]; cs = win.sum(0); rs = win.sum(1)
+            cx, cy = int(np.argmax(cs)), int(np.argmax(rs))
+            if cs[cx] >= W * 1.2 and rs[cy] >= W * 1.2:
+                pts.append((lat, lon, (x - W + cx) / kk, (y - W + cy) / kk))
+    if len(pts) < 20:
+        return None
+    P = np.array(pts, float); keep = np.ones(len(P), bool)
+    for _ in range(3):
+        T = poly_terms(P[keep, 0], P[keep, 1])
+        cx = np.linalg.lstsq(T, P[keep, 2], rcond=None)[0]; cy = np.linalg.lstsq(T, P[keep, 3], rcond=None)[0]
+        T = poly_terms(P[:, 0], P[:, 1]); e = np.hypot(T @ cx - P[:, 2], T @ cy - P[:, 3])
+        keep = e < max(1.5, 3 * np.median(e))
+    print("graticule crossings", len(P), "used", int(keep.sum()), "rms pt", round(float(np.sqrt((e[keep] ** 2).mean())), 2), "max pt", round(float(e[keep].max()), 2))
+    return cx, cy
+
+
 def merc_tile_latlon(z, x, y, n=256):
     s = (np.arange(n) + 0.5) / n
     X = (x + s[None, :]) / 2 ** z
@@ -132,11 +167,18 @@ def main():
     # georeference on a fixed 140 dpi render (same result whatever the output detail)
     with tempfile.TemporaryDirectory() as d:
         subprocess.run(["pdftoppm", "-r", "140", "-f", "1", "-l", "1", "-png", "-singlefile", a.pdf, os.path.join(d, "g")], check=True, stderr=subprocess.DEVNULL)
-        frame_pt = frame_and_snap(Image.open(os.path.join(d, "g.png")).convert("RGB"), 140 / 72.0)
+        gimg = Image.open(os.path.join(d, "g.png")).convert("RGB"); gimg.load()
+        frame_pt = frame_and_snap(gimg, 140 / 72.0)
     k = dpi / 72.0
     fx0, fy0, fx1, fy1 = [int(round(v * k)) for v in frame_pt]
     print("frame px", fx0, fy0, fx1, fy1, "image", img.size)
+    print("mer", {v: (round(d["top"], 1), round(d["bot"], 1)) for v, d in sorted(mer.items())})
+    print("par", {v: (round(d["L"], 1), round(d["R"], 1)) for v, d in sorted(par.items())})
     apex, th, rho = model(mer, par, frame_pt)
+    def lcc(lat, lon):  # chart pt
+        r = np.polyval(rho, lat); t = np.polyval(th, lon)
+        return apex[0] + r * np.sin(t), apex[1] + r * np.cos(t)
+    gf = grid_fit(gimg, 140 / 72.0, frame_pt, lcc); del gimg
 
     # whole sheet kept (legends stay white); the app keys white -> transparent inside the frame only (metadata "frame")
     rgb = np.asarray(img); del img
@@ -145,13 +187,22 @@ def main():
     rgba = np.dstack([rgb, al]); del rgb, al
 
     def chart_px(lat, lon):
-        r = np.polyval(rho, lat); t = np.polyval(th, lon)
-        return (apex[0] + r * np.sin(t)) * k, (apex[1] + r * np.cos(t)) * k
+        if gf is None:
+            X, Y = lcc(lat, lon)
+        else:
+            T = poly_terms(lat, lon); X, Y = T @ gf[0], T @ gf[1]
+        return X * k, Y * k
 
     lat_s = np.linspace(-20, 50, 7001); rho_s = np.polyval(rho, lat_s); o = np.argsort(rho_s)
-    def px_latlon(x, y):  # chart px -> (lon, lat), inverse of chart_px
-        x = x / k - apex[0]; y = y / k - apex[1]
-        return (math.atan2(x, y) - th[1]) / th[0], float(np.interp(math.hypot(x, y), rho_s[o], lat_s[o]))
+    def px_latlon(x, y):  # chart px -> (lon, lat), inverse of chart_px (LCC guess + Newton)
+        u = x / k - apex[0]; v = y / k - apex[1]
+        lo, la = (math.atan2(u, v) - th[1]) / th[0], float(np.interp(math.hypot(u, v), rho_s[o], lat_s[o]))
+        for _ in range(8):
+            X, Y = chart_px(la, lo); h = 1e-4
+            Xa, Ya = chart_px(la + h, lo); Xo, Yo = chart_px(la, lo + h)
+            J = np.array([[(Xa - X) / h, (Xo - X) / h], [(Ya - Y) / h, (Yo - Y) / h]], float)
+            dla, dlo = np.linalg.solve(J, [x - X, y - Y]); la += dla; lo += dlo
+        return float(lo), float(la)
     # frame outline in lon/lat (edges are straight on the chart, curved on the web map)
     frame = []
     for (xa, ya), (xb, yb) in [((fx0, fy0), (fx1, fy0)), ((fx1, fy0), (fx1, fy1)), ((fx1, fy1), (fx0, fy1)), ((fx0, fy1), (fx0, fy0))]:
