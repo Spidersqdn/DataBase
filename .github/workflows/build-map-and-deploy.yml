@@ -1,6 +1,7 @@
 # Spidersqdn/DataBase: builds the big offline map files for AirNavFlow and serves them on
-# GitHub Pages at https://spidersqdn.github.io/DataBase/ (thailand.pmtiles, elevation.pmtiles).
-# Kept apart from the app repo so each app deploy stays ~2 MB.
+# GitHub Pages at https://spidersqdn.github.io/DataBase/<Project>/ (one folder per project).
+# AirNavFlow/: thailand.pmtiles + elevation.pmtiles (built here). FalCon2CP/: committed files.
+# Kept apart from the app repos so each app deploy stays ~2 MB.
 # One-time setup: repo Settings > Pages > Source = "GitHub Actions".
 name: Build offline map and deploy
 
@@ -150,11 +151,12 @@ jobs:
           echo "### Offline map: $(du -h map/thailand.pmtiles | cut -f1) (maxzoom $MAP_MAXZOOM)" >> "$GITHUB_STEP_SUMMARY"
           echo "### Elevation: $(du -h map/elevation.pmtiles | cut -f1) (maxzoom $ELEV_MAXZOOM)" >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Site folder (map files only)
+      - name: Site folder (one folder per project)
         run: |
           mkdir -p site
-          cp map/thailand.pmtiles map/elevation.pmtiles site/
-          echo '<!doctype html><meta charset=utf-8><title>AirNavFlow map files</title><p>Map files for <a href="https://spidersqdn.github.io/AirNavFlow/">AirNavFlow</a>.' > site/index.html
+          for d in AirNavFlow FalCon2CP; do cp -r "$d" site/; done
+          cp map/thailand.pmtiles map/elevation.pmtiles site/AirNavFlow/
+          echo '<!doctype html><meta charset=utf-8><title>DataBase</title><p>Data files: <a href="AirNavFlow/">AirNavFlow</a> · <a href="FalCon2CP/">FalCon2CP</a>' > site/index.html
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
