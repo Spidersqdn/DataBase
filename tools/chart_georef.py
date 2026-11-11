@@ -7,7 +7,7 @@ Returns None when the page has no usable grid (NOT TO SCALE charts, text pages).
 import math
 import re
 
-LBL = re.compile(r'^(\d{2,3})-(\d{2})$')
+LBL = re.compile(r'^(\d{2,3})-(\d{2}(?:\.\d)?)$')
 
 
 def _segments(page):
@@ -34,28 +34,53 @@ def _snap(c, lo, hi, segs, tol, reach):
     return best[1] if best else c
 
 
-def _fit(pairs):
-    """least squares val = a*pos + b; drops the worst outlier while it is clearly off."""
-    pairs = list(pairs)
-    while len(pairs) >= 2:
-        n = len(pairs)
-        mx = sum(p for p, _ in pairs) / n
-        my = sum(v for _, v in pairs) / n
-        sxx = sum((p - mx) ** 2 for p, _ in pairs)
-        if sxx < 1e-6:
-            return None
-        a = sum((p - mx) * (v - my) for p, v in pairs) / sxx
-        b = my - a * mx
-        res = [abs(a * p + b - v) for p, v in pairs]
-        worst = max(range(n), key=lambda i: res[i])
-        span = max(v for _, v in pairs) - min(v for _, v in pairs)
-        if res[worst] > max(0.02 * span, 0.05 / 60) and n > 2:
-            pairs.pop(worst)
-            continue
-        if len({round(v, 6) for _, v in pairs}) < 2 or res[worst] > 0.05 * span:
-            return None
-        return a, b
-    return None
+def _lsq(pairs):
+    """least squares val = a*pos + b"""
+    n = len(pairs)
+    mx = sum(p for p, _ in pairs) / n
+    my = sum(v for _, v in pairs) / n
+    sxx = sum((p - mx) ** 2 for p, _ in pairs)
+    if sxx < 1e-6:
+        return None
+    a = sum((p - mx) * (v - my) for p, v in pairs) / sxx
+    return a, my - a * mx
+
+
+def _cands(pairs, tol=7.0):
+    """grid fits val = a*pos + b from every pair of different labels; labels within tol pt of the
+    line are inliers (a page may hold an inset with its own grid, or labels beside a tick).
+    Returns [(score, a, b), ...] best first, one per inlier set."""
+    out, seen = [], set()
+    for i in range(len(pairs)):
+        for j in range(i + 1, len(pairs)):
+            (p1, v1), (p2, v2) = pairs[i], pairs[j]
+            if v1 == v2 or abs(p1 - p2) < 10:
+                continue
+            a = (v2 - v1) / (p2 - p1)
+            b = v1 - a * p1
+            inl = tuple(k for k, (p, v) in enumerate(pairs) if abs((v - b) / a - p) <= tol)
+            if inl in seen or len({pairs[k][1] for k in inl}) < 2:
+                continue
+            seen.add(inl)
+            f = _lsq([pairs[k] for k in inl])
+            if f:  # score = page span covered by the labels: the main diagram wins over an inset
+                ps = [pairs[k][0] for k in inl]
+                out.append((max(ps) - min(ps) + len(inl), f[0], f[1]))
+    out.sort(key=lambda c: -c[0])
+    return out[:12]
+
+
+def _merge(pairs, gap=25):
+    """same label printed on both sides of its tick (or repeated on one line): one point at the mean."""
+    out = []
+    for p, v in sorted(pairs, key=lambda q: (q[1], q[0])):
+        if out and out[-1][1] == v and p - out[-1][2] <= gap:
+            g = out[-1]
+            g[0].append(p)
+            g[2] = p
+        else:
+            out.append([[p], v, p])
+    return [(sum(g[0]) / len(g[0]), g[1]) for g in out]
 
 
 def page_georef(page):
@@ -66,7 +91,7 @@ def page_georef(page):
         m = LBL.match(t)
         if not m:
             continue
-        deg, mn = int(m.group(1)), int(m.group(2))
+        deg, mn = int(m.group(1)), float(m.group(2))
         if mn >= 60:
             continue
         val = deg + mn / 60
@@ -77,27 +102,55 @@ def page_georef(page):
             lon.append((_snap(cx, y0, y1, vs, 8, 14), val))
     if not lat or not lon:
         return None
-    latc = (min(v for _, v in lat) + max(v for _, v in lat)) / 2
+    lat, lon = _merge(lat), _merge(lon)
+    latc = sorted(v for _, v in lat)[len(lat) // 2]
     cos = math.cos(math.radians(latc))
-    fy, fx = _fit(lat), _fit(lon)
-    # only one label on an axis: take its scale from the other axis (conformal chart: dlat = dlon * cos(lat))
-    if fy and not fx and len({v for _, v in lon}) == 1:
-        ax = -fy[0] / cos
-        fx = (ax, lon[0][1] - ax * lon[0][0])
-    elif fx and not fy and len({v for _, v in lat}) == 1:
-        ay = -fx[0] * cos
-        fy = (ay, lat[0][1] - ay * lat[0][0])
-    if not fy or not fx:
-        return None
-    (ay, by), (ax, bx) = fy, fx
-    if ay >= 0 or ax <= 0:            # north must be up, east to the right
-        return None
-    # scale check: 1' lat (NM) vs 1' lon * cos(lat) should match within 15 % on a conformal chart
-    k = (1 / -ay) / (1 / ax / cos)
-    if not 0.85 < k < 1.15:
-        return None
+    cy, cx = _cands(lat), _cands(lon)
+    best = None
+    for ny, ay, by in cy:
+        for nx, ax, bx in cx:
+            if ay >= 0 or ax <= 0:        # north must be up, east to the right
+                continue
+            k = (1 / -ay) / (1 / ax / cos)  # conformal: 1' lat = 1' lon * cos(lat) on the page
+            if 0.85 < k < 1.15 and (best is None or ny + nx > best[0]):
+                best = (ny + nx, ay, by, ax, bx)
+    if best:
+        _, ay, by, ax, bx = best
+    else:
+        # only one label value on an axis: take its scale from the other axis
+        if cy and not cx and len({v for _, v in lon}) == 1 and cy[0][1] < 0:
+            ay, by = cy[0][1], cy[0][2]
+            ax = -ay / cos
+            bx = lon[0][1] - ax * lon[0][0]
+        elif cx and not cy and len({v for _, v in lat}) == 1 and cx[0][1] > 0:
+            ax, bx = cx[0][1], cx[0][2]
+            ay = -ax * cos
+            by = lat[0][1] - ay * lat[0][0]
+        else:
+            return None
     pts = []
     for u, v in ((0.1, 0.1), (0.9, 0.1), (0.1, 0.9), (0.9, 0.9)):
         x, y = u * W, v * H
         pts.append([round(u, 4), round(v, 4), round(ay * y + by, 6), round(ax * x + bx, 6)])
     return pts
+
+
+def page_anchor(page):
+    """NOT TO SCALE pages: one point whose lat/long is known from a single lat label and a single
+    long label (crossing of the two grid lines). Returns [u, v, lat, lon] or None."""
+    hs, vs = _segments(page)
+    lat, lon = {}, {}
+    for x0, y0, x1, y1, t, *_ in page.get_text('words'):
+        m = LBL.match(t)
+        if not m or float(m.group(2)) >= 60:
+            continue
+        deg, val = int(m.group(1)), int(m.group(1)) + float(m.group(2)) / 60
+        if 0 <= deg <= 30 and len(m.group(1)) == 2:
+            lat.setdefault(val, _snap((y0 + y1) / 2, x0, x1, hs, 6, 14))
+        elif 90 <= deg <= 120:
+            lon.setdefault(val, _snap((x0 + x1) / 2, y0, y1, vs, 8, 14))
+    if not lat or not lon:
+        return None
+    la, y = sorted(lat.items())[0]
+    lo, x = sorted(lon.items())[0]
+    return [round(x / page.rect.width, 4), round(y / page.rect.height, 4), round(la, 6), round(lo, 6)]

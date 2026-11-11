@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Write <dir>/index.json for the AirNavFlow CHART box: every PNG/JPG/WEBP/PDF under <dir>
 (sub-folders kept), its size, PDF page count, a short label per page (SID / STAR / ILS Rwy 21L ...)
-and 'geo': per page the preset georeference found from the lat/long grid labels (tools/chart_georef.py),
+'nts': for pages without a grid fit, one known point [x, y, lat, lon] or null (the app then uses the
+runway midpoint), and 'geo': per page the preset georeference found from the lat/long grid labels (tools/chart_georef.py),
 as [[x, y, lat, lon], ...] in pixels of the app's render (long side 2600 px), or null.
 Usage: python3 tools/charts_index.py AirNavFlow/charts"""
 import json, os, re, sys
@@ -15,7 +16,7 @@ try:
 except ImportError:  # labels are a nice-to-have: list the files anyway
     pypdf = None
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from chart_georef import page_georef  # noqa: E402
+from chart_georef import page_anchor, page_georef  # noqa: E402
 
 
 def page_geo(page):
@@ -26,6 +27,18 @@ def page_geo(page):
     W, H = page.rect.width, page.rect.height
     sc = min(6, 2600 / max(W, H))
     return [[round(u * W * sc, 1), round(v * H * sc, 1), la, lo] for u, v, la, lo in g]
+
+
+def page_nts(page, geo):
+    """page without a grid fit: one known point (single lat + long label) for the NOT TO SCALE overlay, px."""
+    if geo:
+        return None
+    a = page_anchor(page)
+    if not a:
+        return None
+    W, H = page.rect.width, page.rect.height
+    sc = min(6, 2600 / max(W, H))
+    return [round(a[0] * W * sc, 1), round(a[1] * H * sc, 1), a[2], a[3]]
 
 EXT = re.compile(r'\.(png|jpe?g|webp|pdf)$', re.I)
 APCH = re.compile(r'\b((?:ILS|LOC|RNP|RNAV|GPS|VOR|NDB|DME|TACAN|VISUAL)(?:\s*(?:or|/)\s*(?:LOC|DME|ILS))?(?:\s+[A-Z])?\s+Rwy\s*\d{2}[LRC]?)', re.I)
@@ -68,6 +81,7 @@ def main(root):
                     e['pages'] = len(doc)
                     e['labels'] = [page_label(pg.get_text()) for pg in doc]
                     e['geo'] = [page_geo(pg) for pg in doc]
+                    e['nts'] = [page_nts(pg, g) for pg, g in zip(doc, e['geo'])]
                 except Exception as ex:
                     print('warn', rel, ex, file=sys.stderr)
             elif f.lower().endswith('.pdf') and pypdf:
