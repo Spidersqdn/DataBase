@@ -179,6 +179,12 @@ jobs:
             echo "No release falcon2cp-maps yet, skipping"
           fi
 
+      - name: AirNavFlow charts list (charts/index.json for the CHART box)
+        if: hashFiles('AirNavFlow/charts/**') != ''
+        run: |
+          pip install --quiet pypdf || true
+          python3 tools/charts_index.py AirNavFlow/charts
+
       - name: Site folder (one folder per project)
         run: |
           mkdir -p site
