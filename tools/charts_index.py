@@ -1,13 +1,31 @@
 #!/usr/bin/env python3
 """Write <dir>/index.json for the AirNavFlow CHART box: every PNG/JPG/WEBP/PDF under <dir>
-(sub-folders kept), its size, PDF page count and a short label per page (SID / STAR / ILS Rwy 21L ...).
+(sub-folders kept), its size, PDF page count, a short label per page (SID / STAR / ILS Rwy 21L ...)
+and 'geo': per page the preset georeference found from the lat/long grid labels (tools/chart_georef.py),
+as [[x, y, lat, lon], ...] in pixels of the app's render (long side 2600 px), or null.
 Usage: python3 tools/charts_index.py AirNavFlow/charts"""
 import json, os, re, sys
 
 try:
-    import pypdf
+    import pymupdf  # labels + grid georeference
+except ImportError:
+    pymupdf = None
+try:
+    import pypdf  # labels only
 except ImportError:  # labels are a nice-to-have: list the files anyway
     pypdf = None
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from chart_georef import page_georef  # noqa: E402
+
+
+def page_geo(page):
+    """preset control points in px of the app render (same scale as chartPdfToPng)."""
+    g = page_georef(page)
+    if not g:
+        return None
+    W, H = page.rect.width, page.rect.height
+    sc = min(6, 2600 / max(W, H))
+    return [[round(u * W * sc, 1), round(v * H * sc, 1), la, lo] for u, v, la, lo in g]
 
 EXT = re.compile(r'\.(png|jpe?g|webp|pdf)$', re.I)
 APCH = re.compile(r'\b((?:ILS|LOC|RNP|RNAV|GPS|VOR|NDB|DME|TACAN|VISUAL)(?:\s*(?:or|/)\s*(?:LOC|DME|ILS))?(?:\s+[A-Z])?\s+Rwy\s*\d{2}[LRC]?)', re.I)
@@ -44,7 +62,15 @@ def main(root):
             p = os.path.join(d, f)
             rel = os.path.relpath(p, root).replace(os.sep, '/')
             e = {'f': rel, 'bytes': os.path.getsize(p)}
-            if f.lower().endswith('.pdf') and pypdf:
+            if f.lower().endswith('.pdf') and pymupdf:
+                try:
+                    doc = pymupdf.open(p)
+                    e['pages'] = len(doc)
+                    e['labels'] = [page_label(pg.get_text()) for pg in doc]
+                    e['geo'] = [page_geo(pg) for pg in doc]
+                except Exception as ex:
+                    print('warn', rel, ex, file=sys.stderr)
+            elif f.lower().endswith('.pdf') and pypdf:
                 try:
                     r = pypdf.PdfReader(p)
                     e['pages'] = len(r.pages)
@@ -55,7 +81,9 @@ def main(root):
     out.sort(key=lambda e: e['f'])
     with open(os.path.join(root, 'index.json'), 'w', encoding='utf-8') as fh:
         json.dump({'charts': out}, fh, ensure_ascii=False, separators=(',', ':'))
-    print(len(out), 'charts,', sum(e['bytes'] for e in out) // 1048576, 'MB')
+    geo = sum(1 for e in out for g in e.get('geo') or [] if g)
+    pages = sum(e.get('pages', 1) for e in out)
+    print(len(out), 'charts,', sum(e['bytes'] for e in out) // 1048576, 'MB,', geo, '/', pages, 'pages georeferenced')
 
 
 if __name__ == '__main__':
