@@ -3,6 +3,7 @@ Served at https://spidersqdn.github.io/DataBase/CoWork/
 
 | File | Content |
 |---|---|
+| `AP.txt` | Airport list (ICAO, IATA, name, province, lat/long, elev) for the place-search box |
 | `AD.txt` | Airport info (freq, nav aids, remarks) per ICAO |
 | `RWY.txt` | Runway ends (ID, bearing, size, lat/long) per ICAO |
 | `สนามบิน ทบ.txt` | Army airfields (type, name, MGRS or lat,long, unit) |
