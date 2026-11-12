@@ -203,10 +203,10 @@ jobs:
       - name: Site folder (one folder per project)
         run: |
           mkdir -p site
-          for d in AirNavFlow FalCon2CP; do cp -r "$d" site/; done
+          for d in AirNavFlow FalCon2CP CoWork; do cp -r "$d" site/; done
           cp map/thailand.pmtiles map/elevation.pmtiles site/AirNavFlow/
           if [ -f map/enroute.pmtiles ]; then cp map/enroute.pmtiles site/AirNavFlow/; fi
-          echo '<!doctype html><meta charset=utf-8><title>DataBase</title><p>Data files: <a href="AirNavFlow/">AirNavFlow</a> · <a href="FalCon2CP/">FalCon2CP</a>' > site/index.html
+          echo '<!doctype html><meta charset=utf-8><title>DataBase</title><p>Data files: <a href="AirNavFlow/">AirNavFlow</a> · <a href="FalCon2CP/">FalCon2CP</a> · <a href="CoWork/">CoWork</a>' > site/index.html
 
       - name: Add place-search index to the site (CoWork/places.json)
         run: |
