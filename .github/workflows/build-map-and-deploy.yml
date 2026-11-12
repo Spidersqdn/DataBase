@@ -2,6 +2,7 @@
 # GitHub Pages at https://spidersqdn.github.io/DataBase/<Project>/ (one folder per project).
 # AirNavFlow/: thailand.pmtiles + elevation.pmtiles (built here).
 # FalCon2CP/: *.pmtiles attached to Release tag "falcon2cp-maps" (uploaded by hand, copied here).
+#   + places.json for the search box, built from repo AirNavFlow (tools/places_json.py).
 # Kept apart from the app repos so each app deploy stays ~2 MB.
 # One-time setup: repo Settings > Pages > Source = "GitHub Actions".
 name: Build offline map and deploy
@@ -178,6 +179,12 @@ jobs:
           else
             echo "No release falcon2cp-maps yet, skipping"
           fi
+
+      - name: FalCon2CP places.json (search box) from AirNavFlow airports + data/สนามบิน ทบ.txt
+        run: |
+          pip install --quiet mgrs
+          git clone --depth 1 https://github.com/Spidersqdn/AirNavFlow /tmp/anf
+          python3 tools/places_json.py /tmp/anf FalCon2CP/places.json
 
       - name: AirNavFlow charts list (charts/index.json for the CHART box)
         if: hashFiles('AirNavFlow/charts/**') != ''
