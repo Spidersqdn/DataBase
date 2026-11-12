@@ -1,0 +1,114 @@
+# Checks the Thailand eAIP (aip.caat.or.th) for a new AIRAC cycle. Runs by itself every
+# Monday 14:00 Asia/Bangkok (GitHub cron can start a few hours late), or by hand.
+# When one is published it compares ENR 3, ENR 4, ENR 5.1, AD 2, AMDT, SUP and AIC
+# with the previous cycle and opens an issue "AIP AIRAC <date>" with a change table
+# and the diff (as comments, up to MAX_DIFF_COMMENTS; the full diff is also kept as
+# a workflow artifact). It also saves the new cycle's pages as plain text in CoWork/AIP/
+# (served at https://spidersqdn.github.io/DataBase/CoWork/AIP/, shared by AirNavFlow + FalCon2CP),
+# commits them to main and redeploys the site. GitHub only, no secrets needed.
+name: AIP AIRAC watch
+
+on:
+  schedule:
+    - cron: "0 7 * * 1" # Monday 07:00 UTC = 14:00 Bangkok
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: aip-watch
+  cancel-in-progress: false
+
+env:
+  AIRAC_REF: "2026-10-01" # any known AIRAC effective date
+  MAX_DIFF_COMMENTS: "10"
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick the cycle to check
+        id: pick
+        run: |
+          NEW=""; PREV=""
+          while read -r N P; do
+            [ -z "$N" ] && continue
+            if [ -z "$(gh issue list --state all --label aip-watch --search "\"AIP AIRAC $N\" in:title" --json number -q '.[].number')" ]; then
+              NEW=$N; PREV=$P; break
+            fi
+          done < <(python3 .github/scripts/aip_diff.py find --ref "$AIRAC_REF")
+          [ -z "$NEW" ] && echo "No new AIRAC cycle to check"
+          echo "new=$NEW" >> "$GITHUB_OUTPUT"
+          echo "prev=$PREV" >> "$GITHUB_OUTPUT"
+
+      - name: Download both cycles and diff
+        if: steps.pick.outputs.new != ''
+        run: python3 .github/scripts/aip_diff.py diff --new "${{ steps.pick.outputs.new }}" --prev "${{ steps.pick.outputs.prev }}" --out aip-out --save CoWork/AIP
+
+      - name: Commit CoWork/AIP and redeploy the site
+        if: steps.pick.outputs.new != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A CoWork/AIP
+          if git diff --cached --quiet; then echo "CoWork/AIP unchanged"; exit 0; fi
+          git commit -m "AIP AIRAC ${{ steps.pick.outputs.new }}: CoWork/AIP"
+          git push
+          # a push made with GITHUB_TOKEN does not start other workflows, so start the deploy here
+          gh workflow run build-map-and-deploy.yml --ref main
+
+      - name: Keep the diff as a workflow artifact
+        if: steps.pick.outputs.new != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: aip-diff-${{ steps.pick.outputs.new }}
+          path: aip-out
+          retention-days: 90
+
+      - name: Open the issue with the diff
+        if: steps.pick.outputs.new != ''
+        run: |
+          NEW=${{ steps.pick.outputs.new }}
+          RUN="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          gh label create aip-watch --color 1d76db --description "AIP AIRAC change check" 2>/dev/null || true
+          {
+            cat aip-out/summary.md
+            echo
+            echo "Full diff: artifact \`aip-diff-$NEW\` in [this run]($RUN)."
+            echo "Source: https://aip.caat.or.th/$NEW-AIRAC/html/index-en-GB.html"
+            echo "Pages as text: CoWork/AIP/ (https://spidersqdn.github.io/DataBase/CoWork/AIP/)"
+          } > body.md
+          URL=$(gh issue create --title "AIP AIRAC $NEW" --body-file body.md --label aip-watch --assignee "${{ github.repository_owner }}")
+          NUM=${URL##*/}
+          if [ ! -s aip-out/all.diff ]; then
+            gh issue close "$NUM" --comment "No changes in the checked pages."
+            exit 0
+          fi
+          # Pack page diffs into comments under GitHub's 65k-character limit
+          python3 - "$MAX_DIFF_COMMENTS" <<'PY' > /dev/null
+          import glob, os, sys
+          limit, parts, cur = int(sys.argv[1]), [], ""
+          for f in sorted(glob.glob("aip-out/diff/*.diff")):
+              text = open(f).read()
+              name = os.path.basename(f)[:-5]
+              for i in range(0, len(text), 60000):
+                  block = "**%s**\n```diff\n%s\n```\n" % (name, text[i:i + 60000])
+                  if cur and len(cur) + len(block) > 62000:
+                      parts.append(cur); cur = ""
+                  cur += block
+          if cur:
+              parts.append(cur)
+          os.makedirs("aip-out/comments", exist_ok=True)
+          for i, p in enumerate(parts[:limit]):
+              open("aip-out/comments/%03d.md" % i, "w").write(p)
+          if len(parts) > limit:
+              open("aip-out/comments/%03d.md" % limit, "w").write(
+                  "%d more diff parts not posted; download the workflow artifact." % (len(parts) - limit))
+          PY
+          for c in aip-out/comments/*.md; do gh issue comment "$NUM" --body-file "$c"; done

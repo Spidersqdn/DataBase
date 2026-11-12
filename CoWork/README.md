@@ -6,6 +6,7 @@ Served at https://spidersqdn.github.io/DataBase/CoWork/
 | `AD.txt` | Airport info (freq, nav aids, remarks) per ICAO |
 | `RWY.txt` | Runway ends (ID, bearing, size, lat/long) per ICAO |
 | `สนามบิน ทบ.txt` | Army airfields (type, name, MGRS or lat,long, unit) |
+| `AIP/` | Latest AIP Thailand pages as text, updated automatically each AIRAC (see AIP/README.md) |
 
 Edit here only (pencil icon on GitHub, Commit). The site updates in a few minutes; apps pick it up on next open
 and keep an offline copy. Format: `a | b | c` per line, `#` = comment.
