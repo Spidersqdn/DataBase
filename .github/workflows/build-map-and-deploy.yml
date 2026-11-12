@@ -1,6 +1,7 @@
 # Spidersqdn/DataBase: builds the big offline map files for AirNavFlow and serves them on
 # GitHub Pages at https://spidersqdn.github.io/DataBase/<Project>/ (one folder per project).
 # AirNavFlow/: thailand.pmtiles + elevation.pmtiles (built here).
+# CoWork/places.json: offline place-search index built from thailand.pmtiles (both apps).
 # FalCon2CP/: *.pmtiles attached to Release tag "falcon2cp-maps" (uploaded by hand, copied here).
 # Kept apart from the app repos so each app deploy stays ~2 MB.
 # One-time setup: repo Settings > Pages > Source = "GitHub Actions".
@@ -161,6 +162,20 @@ jobs:
           mkdir -p map
           python3 tools/enroute_tiles.py AirNavFlow/ENROUTE.pdf map/enroute.pmtiles --zmax 10
 
+      - name: Reuse place-search index (same map + script)
+        id: placescache
+        uses: actions/cache@v4
+        with:
+          path: map/places.json
+          key: places-${{ hashFiles('map/thailand.pmtiles', 'tools/places_index.py') }}
+
+      - name: Place-search index from the map (CoWork/places.json, shared by AirNavFlow + FalCon2CP)
+        if: steps.placescache.outputs.cache-hit != 'true'
+        continue-on-error: true
+        run: |
+          pip install --quiet pmtiles mapbox-vector-tile
+          python3 tools/places_index.py map/thailand.pmtiles map/places.json | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Report file sizes
         run: |
           ls -lh map/
@@ -192,6 +207,10 @@ jobs:
           cp map/thailand.pmtiles map/elevation.pmtiles site/AirNavFlow/
           if [ -f map/enroute.pmtiles ]; then cp map/enroute.pmtiles site/AirNavFlow/; fi
           echo '<!doctype html><meta charset=utf-8><title>DataBase</title><p>Data files: <a href="AirNavFlow/">AirNavFlow</a> · <a href="FalCon2CP/">FalCon2CP</a>' > site/index.html
+
+      - name: Add place-search index to the site (CoWork/places.json)
+        run: |
+          if [ -f map/places.json ]; then mkdir -p site/CoWork && cp map/places.json site/CoWork/; ls -lh site/CoWork/places.json; fi
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
