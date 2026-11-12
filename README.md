@@ -6,6 +6,7 @@ One folder per project, served at https://spidersqdn.github.io/DataBase/<folder>
 
 - `AirNavFlow/thailand.pmtiles` offline OSM map (~260 MB) and `AirNavFlow/elevation.pmtiles` elevation (~117 MB), built by the workflow
 - `AirNavFlow/ENROUTE.pdf` AIP enroute chart; the workflow turns it into `AirNavFlow/enroute.pmtiles` (georeferenced from the lat/long labels on the frame, white made transparent, zoom 5-10) shown in the app as MAP "ENROUTE (AIP)". New AIRAC: upload the new PDF with the same name.
+- `CoWork/places.json` offline place-search index (towns, villages, airfields, hospitals, temples, peaks, dams ...: Thai + English names, lat/lon) built at deploy by `tools/places_index.py` from `thailand.pmtiles`; used by AirNavFlow and FalCon2CP. Format: `{"kinds":[...],"p":[[name_th,name_en,lat,lon,kind_index],...]}`
 - `FalCon2CP/` reserved for FalCon2CP
 - `CoWork/` shared data used by several apps (airport info `AD.txt`, runways `RWY.txt`, army airfields `สนามบิน ทบ.txt`). Edit these here; AirNavFlow and FalCon2CP read them from https://spidersqdn.github.io/DataBase/CoWork/
 - New project: add a folder and add its name to the `for d in ...` line in the workflow
