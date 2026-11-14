@@ -1,5 +1,7 @@
 # Checks the Thailand eAIP (aip.caat.or.th) for a new AIRAC cycle. Runs by itself every
-# Monday 14:00 Asia/Bangkok (GitHub cron can start a few hours late), or by hand.
+# Monday 14:00 and 18:00 Asia/Bangkok (GitHub cron can start a few hours late), or by hand.
+# The 18:00 run replaces the old Claude scheduled task; a second run is harmless because
+# cycles that already have an issue are skipped.
 # When one is published it compares ENR 3, ENR 4, ENR 5.1, AD 2, AMDT, SUP and AIC
 # with the previous cycle and opens an issue "AIP AIRAC <date>" with a change table
 # and the diff (as comments, up to MAX_DIFF_COMMENTS; the full diff is also kept as
@@ -11,6 +13,7 @@ name: AIP AIRAC watch
 on:
   schedule:
     - cron: "0 7 * * 1" # Monday 07:00 UTC = 14:00 Bangkok
+    - cron: "0 11 * * 1" # Monday 11:00 UTC = 18:00 Bangkok (backup, replaces the Claude task)
   workflow_dispatch:
 
 permissions:
