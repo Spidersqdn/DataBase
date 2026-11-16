@@ -1,0 +1,970 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUI
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUI-en-GB.html
+VTUI
+— Sakon Nakhon/ Sakon Nakhon
+VTUI
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTUI
+— Sakon Nakhon/ Sakon Nakhon
+VTUI
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+171143N
+1040707E
+2
+Direction and distance from (city)
+12 km N from city
+3
+Elevation/Reference temperature
+529 ft
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+1°9' W(2025)/0°1' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Sakon Nakhon Airport
+Sakon Nakhon Airport
+Sakon Nakhon-Nakhon Phanom Road,
+Thatnaweng, Mueang Sakon Nakhon,
+Sakon Nakhon 47000
+Thailand
+Tel:
++664 272 4044-5
+Fax:
++664 272 4041
+AFS:
+VTUIYDYX
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTUI
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1100
+2
+Customs and immigration
+NIL
+3
+Health and sanitation
+NIL
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+2300-1100
+6
+MET Briefing Office
+NIL
+7
+ATS
+2300-1100
+8
+Fuelling
+NIL
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Udon Thani Air Traffic Control Centre (1st floor of tower building)
+Tel: +664 223 0124
+Tel: +669 2262 3477
+Fax: +664 224 2797
+VTUI
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+NIL
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTUI
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:994.eng;616
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1830.eng;842
+3
+Transportation
+LimousineTPASSENGER_FACILITY;Annotation:2903.eng;1261 and Car rentalTPASSENGER_FACILITY;Annotation:2904.eng;1261
+4
+Medical facilities
+Hospital in the cityTPASSENGER_FACILITY;Annotation:2905.eng;1262
+5
+Bank and Post Office
+NIL
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTUI
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 6
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1760.eng;539
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTUI
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTUI
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
+1 | Apron surface and strength
+Apron A (EAST)
+Surface: Concrete
+Strength: PCN 47/R/D/X/
+Apron A (WEST)
+Surface: Concrete
+Strength: PCN 47/R/C/X/
+2 | Taxiway width, surface and strength
+TWY A, B and C
+Width: 23 m
+Surface: Asphalt Concrete
+Strength: PCN 43/F/D/X/
+TWY D
+Width: 23 m
+Surface: Asphalt Concrete
+Strength: PCN 46/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 534 ft (163 m)
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTUI
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID sings: Marked
+TWY guide line: Yes
+VDGS of aircraft stand: NIL,
+Aircraft parking shall follow marshaller instructions.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, , , CL, Aiming Point and Side StripeTRWY_MARKING;Annotation:2906.eng;1007
+RWY LGT: , RWY Edge and RWY End
+TWY marking: CL, Edge and RWY Holding PositionTTWY_MARKING;Annotation:2907.eng;1503
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTUI
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 05/APCH
+area
+RWY 23/TKOF
+area
+Billboard
+565 ft (172 m)
+NIL / NIL
+171102.9N
+1040632.0E
+AWOS
+557 ft (170 m)
+Painted red/white
+LGTD
+171204.6N
+1040725.6E
+Road sign
+565 ft (172 m)
+NIL / NIL
+171108.3N
+1040625.1E
+AWOS554 ft (169 m)Painted red/whiteLGTD
+171204.7N
+1040725.7E
+Building
+558 ft (170 m)
+NIL / NIL
+171108.6N
+1040627.8E
+AWOS
+565 ft (172 m)
+Painted red/white
+LGTD
+171205.8N
+1040726.8E
+High voltage pole
+685 ft (209 m)
+NIL / LGTD
+171039.2N
+1040542.6E
+AWOS
+565 ft (172 m)
+Painted red/white
+LGTD
+171205.9N
+1040726.9E
+High voltage pole
+690 ft (210 m)
+NIL / LGTD
+171029.4N
+1040546.7E
+AWOS
+566 ft (172 m)
+Painted red/white
+LGTD
+171123.7N
+1040642.3E
+RWY 05/APCH
+area
+RWY 23/TKOF
+area
+High voltage pole
+690 ft (210 m)
+NIL / LGTD
+171020.3N
+1040550.5E
+AWOS
+566 ft (172 m)
+Painted red/white
+LGTD
+171123.6N
+1040642.2E
+High voltage pole
+677 ft (206 m)
+NIL / LGTD
+171011.5N
+1040554.3E
+Glide slope
+581 ft (177 m)
+Painted red/white
+LGTD
+171208.0N
+1040728.9E
+Telecommunication mast
+692 ft (211 m)
+NIL / LGTD
+171054.2N
+1040556.9E
+Water tank
+623 ft (190 m)
+Painted red/white
+NIL
+171108.4N
+1040641.4E
+Telecommunication mast
+683 ft (208 m)
+NIL / LGTD
+171051.3N
+1040556.0E
+Water tank
+623 ft (190 m)
+Painted red/white
+NIL
+171107.2N
+1040640.8E
+RWY 05/APCH
+area
+RWY 23/TKOF
+area
+Telecommunication mast
+702 ft (214 m)
+NIL / LGTD
+171049.8N
+1040557.7E
+Radio mast
+969 ft (295 m)
+Painted red/white
+LGTD
+171212.1N
+1040612.1E
+Building
+577 ft (176 m)
+NIL / NIL
+171110.2N
+1040625.4E
+Radio mast
+943 ft (287 m)
+Painted red/white
+LGTD
+171212.9N
+1040603.6E
+DME
+552 ft (168 m)
+Painted red/white
+NIL
+171106.0N
+1040632.6E
+Radio mast
+748 ft (228 m)
+Painted red/white
+LGTD
+171122.9N
+1040541.3E
+Radio mast
+721 ft (220 m)
+Painted red/white
+LGTD
+171118.6N
+1040610.7E
+Radio mast
+714 ft (218 m)
+Painted red/white
+LGTD
+171107.8N
+1040646.5E
+Radio mast
+691 ft (211 m)
+Painted red/white
+LGTD
+171107.1N
+1040646.9E
+Radio mast
+1003 ft (306 m)
+Painted red/white
+LGTD
+171042.7N
+1040450.1E
+Radio mast
+753 ft (230 m)
+Painted red/white
+LGTD
+171142.4N
+1040516.9E
+Radio mast
+739 ft (225 m)
+Painted red/white
+LGTD
+171326.8N
+1040625.8E
+Radio mast
+738 ft (225 m)
+Painted red/white
+LGTD
+171327.0N
+1040624.9E
+Radio mast
+843 ft (257 m)
+Painted red/white
+LGTD
+170930.6N
+1040747.2E
+Radio mast
+689 ft (210 m)
+Painted red/white
+170924.2N
+1040748.6E
+Radio mast
+753 ft (230 m)
+Painted red/white
+LGTD
+170933.7N
+1040756.5E
+Radio mast
+720 ft (220 m)
+Painted red/ white
+LGTD
+170917.6N
+1040755.1E
+Telecommunication
+mast
+911 ft (278 m)
+Painted red/white
+LGTD
+171006.5N
+1040837.7E
+Telecommunication
+mast
+682 ft (208 m)
+Painted red/white
+LGTD
+171044.2N
+1040736.9E
+Telecommunication
+mast
+708 ft (216 m)
+Painted red/white
+LGTD
+171208.9N
+1040554.8E
+Telecommunication
+mast
+697 ft (213 m)
+Painted red/white
+LGTD
+171148.2N
+1040536.7E
+Telecommunication
+mast
+710 ft (216 m)
+Painted red/white
+LGTD
+171145.0N
+1040532.0E
+Telecommunication
+mast
+705 ft (215 m)
+NIL / LGTD
+171343.6N
+1040617.7E
+Telecommunication
+mast
+746 ft (227 m)
+Painted red/white
+LGTD
+171418.1N
+1040630.2E
+Telecommunication
+mast
+717 ft (219 m)
+NIL / LGTD
+170930.5N
+1040747.0E
+Telecommunication
+mast
+700 ft (213 m)
+NIL / LGTD
+170919.3N
+1040711.3E
+Telecommunication
+mast
+794 ft (242 m)
+Painted red/white
+LGTD
+170937.1N
+1040819.6E
+Apron Flood light pole
+620 ft (189 m)
+NIL / LGTD
+171148.8N
+1040701.5E
+Apron Flood light pole
+620 ft (189 m)
+NIL / LGTD
+171147.5N
+1040700.1E
+Apron Flood light pole
+620 ft (189 m)
+NIL / LGTD
+171146.1N
+1040658.6E
+Apron Flood light pole
+621 ft (189 m)
+NIL / LGTD
+171145.0N
+1040657.4E
+Apron Flood light pole
+621 ft (189 m)
+NIL / LGTD
+171143.8N
+1040656.3E
+Lightning rod
+on top of building
+605 ft (185 m)
+NIL / NIL
+171148.1N
+1040659.4E
+ATC tower (Old)
+593 ft (181 m)
+Painted red/white
+NIL
+171127.4N
+1040700.7E
+ATC Tower
+653 ft (199 m)
+Painted red/white
+LGTD
+171146.2N
+1040657.3E
+VTUI
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Sakon Nakhon,
+Upper Northeastern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2200-1100
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Upper Northeastern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2354.eng;813
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2355.eng;813
+Tel: +664 271 6574 ext. 7613TSERVICE;Annotation:2356.eng;813
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2357.eng;813, U85TSERVICE;Annotation:2358.eng;813, Daily Weather ForecastTSERVICE;Annotation:2359.eng;813, satellite and radar imagesTSERVICE;Annotation:2360.eng;813
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS) and Weather Radar
+9
+ATS units provided with information
+Sakon Nakhon TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTUI
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY(M)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+05
+045.50°
+2600x45
+PCN 43/F/D/X/
+Asphaltic Concrete
+171112.56N
+1040635.89E
+529 F
+TDZ 529 F
+23
+225.50°
+2600x45
+PCN 43/F/D/X/
+Asphaltic Concrete
+171212.45N
+1040738.22E
+526 F
+TDZ 526 F
+Slope of RWY-SWY
+SWY dimensions (M)
+CWY dimensions (M) | Strip dimensions (M) | RESA dimensions (M) | Location and description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+0.0385%TRWY_DIRECTION;Annotation:2147.eng;402
+NIL
+NIL
+2720x150
+300x90
+NIL
+NIL
+NIL
+0.0385%TRWY_DIRECTION;Annotation:2148.eng;403
+NIL
+NIL
+2720x150
+168x90
+NIL
+NIL
+NIL
+VTUI
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+05
+2600
+2600
+2600
+2600
+NIL
+23
+2600
+2600
+2600
+2600
+NIL
+VTUI
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+05
+NILTRWY_DIRECTION_ALS;Annotation:463.eng;335
+Green
+NIL
+PAPI
+LEF 3°
+(55.77 F)
+NIL
+NIL
+2600 M
+30 M
+FM 0 M-2000 M
+White,
+FM 2000 M- 2600 M
+Yellow, LIH
+Red
+NIL
+NIL
+RTIL
+23
+SALS
+420 M
+LIH
+Green
+NIL
+PAPI
+LEF 3°
+(47.48 FT)
+NIL
+NIL
+2600 M
+30 M
+FM 0 M-2000 M
+White,
+FM 2000 M-2600 M
+Yellow, LIH
+Red
+NIL
+NIL
+NIL
+VTUI
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: On top of ATC towerTAERO_GND_LGT;Annotation:1761.eng;565, FLG W G EV 3 SEC.TAERO_GND_LGT;Annotation:1762.eng;565
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI: Wind cone at 1360 M from THR 05 off set to the left side 90 M
+from RCL, illuminated.
+3
+TWY edge and centre line lighting
+TWY edge: ALL TWY
+TWY centre line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply at Airfield Lighting (AFL) building
+Switch-over time: 15 SEC.TAD_HP;Annotation:1764.eng;455
+5
+Remarks
+NIL
+VTUI
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTUI
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on SKN DVOR/DME
+(171250.8N
+1040812.4E)
+2
+Vertical limits
+2000 F/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Sakon Nakhon Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTUI
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Sakon Nakhon
+Approach
+123.35 MHz
+284.0 MHz
+121.5 MHz)
+As AD OPR HR
+1) Emergency frequency
+Sakon Nakhon Tower
+119.65 MHz
+236.6 MHz
+121.5 MHz)
+As AD OPR HR
+A
+Sakon Nakhon Airport
+128.25 MHz
+As AD OPR HR
+VTUI
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+SN
+365 KHz
+H24
+171149.1N
+1040653.4E
+NIL
+Data refer from commissioning checked as follows:
+Bearing 181°-360° 50 NM. orbit altitude should not below
+3 000 ft.
+Bearing 001°-140° 50 NM. orbit unable to check due to border limited
+Bearing 141°-180° unusable beyond 15 NM.
+DVOR/DME
+SKN
+114.2 MHz
+CH 89X
+H24
+171250.8N
+1040812.3E
+180 m
+(600 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at required altitude in various areas as follows:
+30 NM. orbit (Due to border limited)
+Radial 000º-130º altitude should not below 2 100 ft.
+40 NM. orbit
+Radial 131º-280º altitude should not below 5 500 ft.
+Radial 281º-359º altitude should not below 2 100 ft.
+IILS CAT I
+LOC 23
+ISKN
+110.3 MHz
+CH40X
+H24
+171107.7N
+1040630.9E
+NIL
+Designated operation coverage 18 NM. ALT 6800 ft/AMSL.
+DME 23
+171106.0N
+1040632.6E
+180 m
+(600 ft)
+Paired with LOC FREQ
+GP 23
+335.0 MHz
+H24
+171208.1N
+1040728.9E
+NIL
+3 DEG REF Datum height 50 ft.
+VTUI
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. VFR REPORTING POINTS AND LOCAL PROCEDURES
+Reporting points for VFR flight in order to expedite and maintain an orderly flow of air traffic into Sakon Nakhon Airport, the procedures of inbound traffic for VFR flight, conventional and prop - jet aircraft be set up as follows:
+Aircraft entering to land from north of Sakon Nakhon Airport, shall report over Nong Wai reservoir designated as November Whisky (172205.2N 1040316E) which is approximately 10 NM on radial 334 of SKN DVOR/DME (171250.89N1040812.34E), when reaching NW the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from east of Sakon Nakhon Airport, shall report over Hoai Wung reservoir designated as Hotel Whisky (171805.2N 1043056.2E) which is approximately 22.5 NM on radial 077 of SKN DVOR/DME (171250.89N1040812.34E) when reaching HW the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from south of Sakon Nakhon Airport, shall report over Nam Phung Dam designated as November Papa (170245.3N 1041216.3E), which is approximately 11 NM on radial 158 of SKN DVOR/DME (171250.89N1040812.34E), when reaching NP the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from south of Sakon Nakhon Airport, shall report over Ban Na reservoir, designated as November Kilo (164625.4N 1040201.5E) which is approximately 27 NM on radial 192 of SKN DVOR/DME (171250.89N1040812.34E), when reaching NK the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from west of Sakon Nakhon Airport, shall report over Nam Un reservoir, designated as November Uniform (171005.2N 1034646.5E) which is approximately 20.5 NM on radial 262 of SKN DVOR/DME (171250.89N1040812.34E), when reaching NU the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+2. 180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, all aircraft Maximum Takeoff Weight (MTOW) more than 5700 KG are not allowed to make 180 degrees turn on the runway. The turn shall be made on the runway turn pad at the end of runway 05 and 23 only. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTUI
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTUI
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 05:
+SAKON NAKHON OMNI 05 Departure: Required climb gradient 201 ft per NM (3.3%) until 3,300 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.3% | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 2,000 ft (or altitude assigned by ATC between 2,000 ft - 2,900 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 23:
+SAKON NAKHON OMNI 23 Departure: Required climb gradient 274 ft per NM (4.5%) until 3,300 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb4.5% | (ft/min) | 296 | 342 | 456 | 684 | 911 | 1139 | 1367
+No turn before DER.
+After departure climb straight ahead until 2,000 ft (or altitude assigned by ATC between 2,000 ft - 2,900 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTUI
+AD 2.23 ADDITIONAL INFORMATION
+- Bird concentration in the vicinity of runway 23 (end of runway 05)
+VTUI
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTUI-2-1
+Instrument Approach Chart - ICAO - VOR RWY 05
+AD 2-VTUI-8-1
+Instrument Approach Chart - ICAO - VOR RWY 05 (Fix and point list table)
+AD 2-VTUI-8-2
+Instrument Approach Chart - ICAO - VOR RWY 23
+AD 2-VTUI-8-3
+Instrument Approach Chart - ICAO - VOR RWY 23 (Fix and point list table)
+AD 2-VTUI-8-4
+Instrument Approach Chart - ICAO - ILS RWY 23
+AD 2-VTUI-8-5
+Instrument Approach Chart - ICAO - ILS RWY 23 (Fix and point list table)
+AD 2-VTUI-8-6
+Instrument Approach Chart - ICAO - LOC RWY 23
+AD 2-VTUI-8-7
+Instrument Approach Chart - ICAO - LOC RWY 23 (Fix and point list table)
+AD 2-VTUI-8-8
+Instrument Approach Chart - ICAO - RNP RWY 05
+AD 2-VTUI-8-9
+Instrument Approach Chart - ICAO - RNP RWY 05 (Tabular description)
+AD 2-VTUI-8-10
+Instrument Approach Chart - ICAO - RNP RWY 23
+AD 2-VTUI-8-11
+Instrument Approach Chart - ICAO - RNP RWY 23 (Tabular description)
+AD 2-VTUI-8-12

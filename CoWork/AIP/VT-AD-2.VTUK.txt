@@ -1,0 +1,676 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUK
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUK-en-GB.html
+VTUK
+— Khon Kaen
+VTUK
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTUK
+— Khon Kaen
+VTUK
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+162800N
+1024701E
+2
+Direction and distance from (city)
+APRX 8 km SE from the city
+3
+Elevation/Reference temperature
+681 ft/37°C
+4 | Geoid Undulation at AD ELEV PSN
+-99 ft
+5
+MAG VAR/Annual change
+0°59'W(2025)/0°1'E
+5
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Khon Kaen Airport
+Khon Kaen Airport
+68/24 Moo 5, Tambon Banped
+Amphoe Muang
+Khon Kaen Province 40000, Thailand
+Tel:
++664 346 8170-5
+Fax:
++664 346 8186
+AFS:
+V
+6
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+7
+Remarks
+Operator: Department of Airports
+VTUK
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1500
+2
+Customs and immigration
+2300-1500 Other than this period on request
+3
+Health and sanitation
+2300-1500 Other than this period on request
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+2300-1500
+6
+MET Briefing Office
+NIL
+7
+ATS
+2300-1500
+8
+Fuelling
+2400-1300 Other than this period on request
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Udon Thani Air Traffic Control Centre (1st floor of tower building)
+Tel: +664 223 0124
+Tel: +669 2262 3477
+Fax: +664 224 2797
+VTUK
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+JET A-1
+3
+Fuelling facilities/capacity
+1 JET A-1 Refueller @ 12,000 LTFUEL;Annotation:1431.eng;536
+1 JET A-1 Refueller @ 8,000 LTFUEL;Annotation:1432.eng;536
+1 AVGAS Refueller @ 3,000 LTFUEL;Annotation:1433.eng;536
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTUK
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1434.eng;726
+2
+Restaurants
+Available at the airport and in the cityTPASSENGER_FACILITY;Annotation:1435.eng;727
+3
+Transportation
+TaxiTPASSENGER_FACILITY;Annotation:1436.eng;728 and Car Rental and BusTPASSENGER_FACILITY;Annotation:1437.eng;728
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+Bank: open from 0030-1300TPASSENGER_FACILITY;Annotation:1439.eng;729
+Post office: open from 0330-1330TPASSENGER_FACILITY;Annotation:1440.eng;730
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTUK
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 8
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1441.eng;565
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTUK
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTUK
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+APRON1 and APRON2
+Surface: Concrete
+Strength: PCN 75/R/C/W/
+2 | Taxiway width, surface and strength
+and
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 96/F/D/W/
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 65/F/C/X/
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 96/F/D/W/
+3
+Altimeter checkpoint location and elevation
+Location : At apron
+Elevation : 638 ftTAD_HP;Annotation:4321.eng;375
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTUK
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+Nose-wheel guide lines at apron
+VDGS of aircraft stand: Stand number 2 and 3
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR, TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY marking: CL, Edge and RWY Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTUK
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+VTUK
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Upper Northeastern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Upper Northeastern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2308.eng;830
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2309.eng;830
+Tel: +664 346 8224TSERVICE;Annotation:2310.eng;830
+Fax: +664 346 8086TSERVICE;Annotation:2311.eng;830
+6
+Flight documentation
+Language(s) used
+ChartsTSERVICE;Annotation:2334.eng;830, Tabular formsTSERVICE;Annotation:2335.eng;830 and Abbreviated Plain Language TextsTSERVICE;Annotation:2336.eng;830
+English
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2312.eng;830, U85TSERVICE;Annotation:2313.eng;830, U70TSERVICE;Annotation:2314.eng;830, U50TSERVICE;Annotation:2315.eng;830, U40TSERVICE;Annotation:2316.eng;830, U30TSERVICE;Annotation:2317.eng;830, U25TSERVICE;Annotation:2318.eng;830, U20TSERVICE;Annotation:2319.eng;830, SWHTSERVICE;Annotation:2320.eng;830, SWMTSERVICE;Annotation:2321.eng;830, SWLTSERVICE;Annotation:2322.eng;830, P85TSERVICE;Annotation:2323.eng;830, P70TSERVICE;Annotation:2324.eng;830, P50TSERVICE;Annotation:2325.eng;830, P40TSERVICE;Annotation:2326.eng;830, P30TSERVICE;Annotation:2327.eng;830, P25TSERVICE;Annotation:2328.eng;830, P20TSERVICE;Annotation:2329.eng;830, P15TSERVICE;Annotation:2330.eng;830, satellite and radar imagesTSERVICE;Annotation:2331.eng;830
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Khon Kaen TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTUK
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+03
+032.83°
+2600x45
+PCN 65/F/C/X/
+Asphaltic concrete
+162726.35N
+1024638.84E
+THR 606 ft
+21
+212.83°
+2600x45
+PCN 65/F/C/X/
+Asphaltic concrete
+162837.40N
+1024726.35E
+THR 671 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | Location and description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
++0.80%
+NIL
+NIL
+2720x150
+NIL
+NIL
+NIL
+NIL
+-0.60%
+NIL
+NIL
+2720x150
+NIL
+NIL
+NIL
+NIL
+VTUK
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+03
+2600
+2600
+2600
+2600
+NIL
+21
+2600
+2600
+2600
+2600
+NIL
+VTUK
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+03
+NIL
+Green
+NIL
+PAPI
+Left 3°
+(56.07 ft)
+NIL
+NIL
+2600 m,
+50 m,
+FM 0 m - 2000 m
+White,
+FM 2000 m - 2600 m
+Yellow,
+LIH
+Red
+NIL
+NIL
+RTILTRWY_DIRECTION_ALS;Annotation:425.eng;309
+21
+NIL
+Green
+NIL
+PAPI
+Left 3°
+(55.15 ft)
+NIL
+NIL
+2600 m,
+50 m,
+FM 0 m - 2000 m
+White,
+FM 2000 m - 2600 m
+Yellow,
+LIH
+Red
+NIL
+NIL
+RTILTRWY_DIRECTION_ALS;Annotation:426.eng;310
+VTUK
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1444.eng;513, FLG W G EV 3 SECTAERO_GND_LGT;Annotation:832.eng;513
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI:
+1. Wind cone at 1270 m from THR 03, off set to right side 120 m from RCL, illuminated.
+2. Wind cone at 896 m from THR 21 off set to left side 125 m from RCL, illuminated.TAD_HP;Annotation:4442.eng;375
+3
+TWY edge and centre line lighting
+TWY Edge: All TWY
+TWY Centre Line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Air Field Lighting (AFL) building.
+Switch-over time: 15 SECTAD_HP;Annotation:1446.eng;375
+5
+Remarks
+Flares 2 HR PNTAERO_GND_LGT;Annotation:1516.eng;513
+VTUK
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTUK
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on KKN DVOR/DME
+(162815.3N 1024716.8E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+KHON KAEN
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTUK
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Khon Kaen Approach
+123.4 MHz
+240.0 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Khon Kaen Tower
+122.25 MHz
+236.6 MHz
+121.5 MHz)
+As AD OPR HR
+GND
+Khon Kaen Ground
+121.9 MHz
+As AD OPR HR
+A
+Khon Kaen Airport
+126.85 MHz
+As AD OPR HR
+VTUK
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+KN
+393 KHz | H24
+162743.3N
+1024704.2E
+NIL
+Coverage clockwise orbit 50 NM checked as follows:
+Bearing 350° -225° at altitude 2 500 ft.
+Bearing 226° - 349° at altitude 5 000 ft.
+NIL
+DVOR/DME
+KKN
+114.9 MHz
+CH96X
+H24
+162815.2N
+1024716.7E
+210 m
+(700 ft)
+DVOR/DME restriction due to terrain surround DVOR/DME station, coverage check does not provide adequate signal 40 NMnm. at required altitude in various areas as follows:
+Radial 001°-080° altitude should not below 2 500 ft.
+Radial 081°-220° altitude should not below 2 000 ft.
+Radial 221°-360° altitude should not below 3 500 ft.
+VTUK
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. 180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, aircraft code letter C or higher shall make 180 degrees turn at the runway turn pads located on both end of runway. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTUK
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTUK
+AD 2.22 FLIGHT PROCEDURES
+1. VFR Procedures
+Details of VFR entry and exit procedures, see charts.
+2. Take-off and Landing when VTD65 Active
+During military air exercise taking place on exercise area Nam Phong Range (VTD65), all aircraft departing/arriving VTUK shall comply with the following instructions:
+Pilot might be requested to take-off RWY 21 and landing RWY 03.
+If unable to comply with RWY restriction, pilot shall inform ATC immediately and expect delay.
+3. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+4. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+5. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 03:
+KHONKAEN OMNI 03 Departure: Required climb gradient 201 ft per NM (3.3%) until 3,400 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.3% | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,500 ft (or altitude assigned by ATC between 1,500 ft - 3,000 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 21:
+KHONKAEN OMNI 21 Departure: Required climb gradient 201 ft per NM (3.3%) until 3,400 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.3% | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,500 ft (or altitude assigned by ATC between 1,500 ft - 3,000 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTUK
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+Bird concentrations in the vicinity of an aerodrome.
+VTUK
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTUK-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTUK-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTUK-2-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03 - AKRET1A ALGIT1A EMRUT1A NEMTE1A ONUVI1A SEDNO1C
+AD 2-VTUK-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03 - AKRET1A ALGIT1A EMRUT1A NEMTE1A ONUVI1A SEDNO1C (Tabular description)
+AD 2-VTUK-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03 - AKRET1A ALGIT1A EMRUT1A NEMTE1A ONUVI1A SEDNO1C (Waypoint list table)
+AD 2-VTUK-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21 - AKRET1B ALGIT1B EMRUT1B NEMTE1B ONUVI1B SEDNO1D
+AD 2-VTUK-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21 - AKRET1B ALGIT1B EMRUT1B NEMTE1B ONUVI1B SEDNO1D (Tabular description)
+AD 2-VTUK-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21 - AKRET1B ALGIT1B EMRUT1B NEMTE1B ONUVI1B SEDNO1D (Waypoint list table)
+AD 2-VTUK-6-7
+Instrument Approach Chart - ICAO - NDB z RWY 03
+AD 2-VTUK-8-1
+Instrument Approach Chart - ICAO - NDB RWY 21
+AD 2-VTUK-8-3
+Instrument Approach Chart - ICAO - VOR RWY 03
+AD 2-VTUK-8-5
+Instrument Approach Chart - ICAO - VOR RWY 03 (Fix and point list table)
+AD 2-VTUK-8-6
+Instrument Approach Chart - ICAO - VOR RWY 21
+AD 2-VTUK-8-7
+Instrument Approach Chart - ICAO - VOR RWY 21 (Fix and point list table)
+AD 2-VTUK-8-8
+Instrument Approach Chart - ICAO - RNP RWY 03
+AD 2-VTUK-8-9
+Instrument Approach Chart - ICAO - RNP RWY 03 (Tabular description)
+AD 2-VTUK-8-10
+Instrument Approach Chart - ICAO - RNP RWY 03 (Waypoint list table)
+AD 2-VTUK-8-11
+Instrument Approach Chart - ICAO - RNP RWY 21
+AD 2-VTUK-8-13
+Instrument Approach Chart - ICAO - RNP RWY 21 (Tabular description)
+AD 2-VTUK-8-14
+Instrument Approach Chart - ICAO - RNP RWY 21 (Waypoint list table)
+AD 2-VTUK-8-15
+VFR ENTRY PROCEDURE CHART - RWY 03/21 (NORTH)
+AD 2-VTUK-9-1
+VFR ENTRY PROCEDURE CHART - RWY 03/21 (NORTH) (Tabular description)
+AD 2-VTUK-9-2
+VFR ENTRY PROCEDURE CHART - RWY 03/21 (SOUTH)
+AD 2-VTUK-9-3
+VFR ENTRY PROCEDURE CHART - RWY 03/21 (SOUTH) (Tabular description)
+AD 2-VTUK-9-4
+VFR EXIT PROCEDURE CHART - RWY 03 (NORTH)
+AD 2-VTUK-9-5
+VFR EXIT PROCEDURE CHART - RWY 03 (NORTH) (Tabular description)
+AD 2-VTUK-9-6
+VFR EXIT PROCEDURE CHART - RWY 03 (SOUTH)
+AD 2-VTUK-9-7
+VFR EXIT PROCEDURE CHART - RWY 03 (SOUTH) (Tabular description)
+AD 2-VTUK-9-8
+VFR EXIT PROCEDURE CHART - RWY 21 (NORTH)
+AD 2-VTUK-9-9
+VFR EXIT PROCEDURE CHART - RWY 21 (NORTH) (Tabular description)
+AD 2-VTUK-9-10
+VFR EXIT PROCEDURE CHART - RWY 21 (SOUTH)
+AD 2-VTUK-9-11
+VFR EXIT PROCEDURE CHART - RWY 21 (SOUTH) (Tabular description)
+AD 2-VTUK-9-12

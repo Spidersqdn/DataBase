@@ -1,0 +1,688 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUN
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUN-en-GB.html
+VTUN
+— Nakhon Ratchasima / Khorat
+VTUN
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTUN
+— Nakhon Ratchasima / Khorat
+VTUN
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+145604N
+1020443E
+2
+Direction and distance from (city)
+020/5 KM from Nakhon Ratchasima
+3
+Elevation/Reference temperature
+222 M(729) /35°C
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+NIL
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Wing 1, Khorat AFB
+Royal Thai Air Force
+Nakhon Ratchasima Province
+Thailand
+Tel:
++662 534 6000 Ext. 40554-5
+Tel: +668 7248 6083
+Fax: NIL
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Royal Thai Air Force
+VTUN
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+0100-0900 MON-FRI
+2
+Customs and immigration
+NIL
+3
+Health and sanitation
+0100-0900 MON-FRI
+4
+AIS Briefing Office
+0100-0900 MON-FRI
+5
+ATS Reporting Office (ARO)
+0100-0900 MON-FRI
+6
+MET Briefing Office
+0100-0900 MON-FRI
+7
+ATS
+H24
+8
+Fuelling
+0100-0900 MON-FRI
+9
+Handling
+0100-0900 MON-FRI
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO): Located at Base Operation Office.
+(1st floor of Flight support unit building) Tel: +664 435 8110 Ext 40515-6 E-mail: [email protected]
+VTUN
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+JP-8
+3
+Fuelling facilities/capacity
+- 5 JP-8 Refueller @ 20,000 L
+- 2 JP-8 Refueller @ 24,000 L
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTUN
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+Near the ADTPASSENGER_FACILITY;Annotation:1575.eng;768 and in the cityTPASSENGER_FACILITY;Annotation:1576.eng;768
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1577.eng;769
+3
+Transportation
+Car hire from and to the cityTPASSENGER_FACILITY;Annotation:1578.eng;770
+4
+Medical facilities
+First aid at AerodromeTPASSENGER_FACILITY;Annotation:1579.eng;771, hospital in the cityTPASSENGER_FACILITY;Annotation:1580.eng;771
+5
+Bank and Post Office
+In the cityTPASSENGER_FACILITY;Annotation:1581.eng;772
+6
+Tourist Office
+Office in the cityTPASSENGER_FACILITY;Annotation:1583.eng;774
+7
+Remarks
+NIL
+VTUN
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 6
+2
+Rescue equipment
+YES
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTUN
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTUN
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCN 50/R/B/W/
+2 | Taxiway width, surface and strength
+Width: 23 M
+Surface: Concrete
+Strength:
+TWY A: PCN 46/R/B/W/
+TWY B: PCN 46/R/B/W/
+TWY C: PCN 53/R/B/W/
+TWY D: PCN 47/R/B/W/
+TWY E: PCN 47/R/B/W/
+TWY J: PCN 39/R/B/W/
+TWY G: PCN 39/R/B/W/
+3
+Altimeter checkpoint location and elevation
+Elevation: 221 M (727 FT)
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTUN
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+NIL
+2
+RWY and TWY markings and LGT
+RWY and TWY: Marked and lighted
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTUN
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+NIL
+Radio mast
+HGT 183 m
+painted red/white LGTD on top
+145610N
+1020020E
+Radio mast
+HGT 131 m
+painted red/white LGTD on top
+145640N
+1020820E
+NIL
+Radio mast
+HGT 86 m
+painted red/white LGTD on top
+145237N
+1020435E
+GP Antenna INSTL HGT 15 m AGL
+on left side of RWY24, 242 m FM THR and 120 m FM RCL,
+painted red/white and red LGTD on top
+145620.0N
+1020522.0E
+VTUN
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Khorat
+2
+Hours of service
+MET Office outside hours
+H24
+3
+Office responsible for TAF preparation
+Periods of validity
+00, 065, 12
+4
+Type of landing forecast
+Interval of issuance
+TrendTSERVICE;Annotation:1585.eng;839
+2 HRTSERVICE;Annotation:1586.eng;839
+5
+Briefing/consultation provided
+Personal Consultation
+6
+Flight documentation
+Language(s) used
+English
+7
+Charts and other information available for
+briefing or consultation
+NIL
+8
+Supplementary equipment available for
+providing information
+TelefaxTSERVICE;Annotation:1587.eng;839
+Self-Briefing TerminalTSERVICE;Annotation:1588.eng;839
+9
+ATS units provided with information
+Khorat
+Khorat APP
+10
+Additional information (limitation of service, etc.)
+NIL
+VTUN
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY
+(m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+06
+062.5°
+3000x45
+PCN 59/R/B/W/
+Concrete
+145541.63N
+1020358.39E
+222 m/729 ft
+24
+242.5°
+3000x45
+PCN 59/R/B/W/
+Concrete
+145627.20N
+1020527.42E
+210 m/686 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13
+0.498%
+NIL
+NIL
+3120x140
+240x90
+NIL
+NIL
+0.498%
+NIL
+NIL
+3120x140
+240x90
+NIL
+NIL
+VTUN
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+06
+3000
+3000
+3000
+3000
+The TORA/ASDA
+When entering RWY from TWY G is 2,552 m.
+The TORA/ASDA
+When entering RWY from TWY D is 1,950 m.
+24
+3000
+3000
+3000
+3000
+The TORA/ASDA
+When entering RWY from TWY J is 2,582 m.
+The TORA/ASDA
+When entering RWY from TWY C is 2,222 m.
+VTUN
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+06
+CAT1
+900 m
+Green
+PAPI
+Both 3°.19 ft
+NIL
+NIL
+3000 m
+45 m
+White, LIH
+Red
+NIL
+NIL
+24
+CAT1
+900 m
+Green
+PAPI
+Both 3°
+66.11 ft
+NIL
+NIL
+3000 m
+45 m
+White, LIH
+Red
+NIL
+NIL
+VTUN
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: Alternating white and green lightsTAERO_GND_LGT;Annotation:1590.eng;555 installed on The top of water tank towerTAERO_GND_LGT;Annotation:1589.eng;555.
+ABN: Installed at location 145543NE
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+3 WDIs are lighted and installed at following locations:
+- 1 WDI 320 M from THR 06, 109 M off-set to the right from RWY Centre Line.illuminated.
+- 1 WDI 1,112 M from THR 24, 140 M off-set to the left from RWY Centre Line.illuminated.
+- 1 WDI 292 M from THR 24, 117 M off-set to the left from RWY Centre Line.illuminated.
+2 Anemometers are lighted and installed at following locations:
+- 1 Anemometer 441 M. from RWY Centre Line locations at 145557.71N 1020501.55E.
+- 1 Anemometer 144 M. from RWY Centre Line locations at 145606.70N 1020457.88E.
+3
+TWY edge and centre line lighting
+EDGE: ALL TWY
+TWY Centre line lighting: NIL
+4
+Secondary power supply/switch-over time
+- Secondary power supply at tower automatic within 15 Sec. limited to RDO/COM only.
+- Secondary power supply all air field lighting (AFL). automatic
+Switch-over time: 0 Sec.
+5
+Remarks
+NIL
+VTUN
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+Helicopter LDG/TKOF by using runways
+VTUN
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 10 NM radius centred on 1456.1N 10204.8E
+2
+Vertical limits
+3000 F/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Khorat Tower
+English, Thai
+5
+Transition altitude
+11000 F
+6
+Remarks
+NIL
+VTUN
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Khorat Approach
+349.0 MHZ
+129.75 MHZ
+H24
+Secondary Operation
+ASR
+Khorat Arrival
+349.0 MHZ
+129.75 MHZ
+0100-0900
+MON-FRI | Weekend and Public holiday on
+request at least 1 hour priorrequired to Radar Approach.
+ASR
+Khorat Departure
+285.0 MHZ
+134.1 MHZ
+SRA
+Final Controller
+382.4 MHZ
+TWR
+Khorat Tower
+240.5 MHZ
+122.2 MHZ
+*121.5 MHZ
+*243.0 MHZ
+H24
+*Emergency Freq.
+GND
+Khorat Ground
+257.8 MHZ
+121.75 MHZ
+ATIS
+Khorat AD
+134.8 MHZ
+390.6 MHZ | 0100-0900
+MON-FRI
+VTUN
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+TACAN
+KR
+CH125X | 2300-1100
+145606.0N
+1020421.8E
+NIL
+315 m (Centre line of RWY)
+DVOR/DME
+KR
+113.7 MHz
+CH84X
+H24
+145502.3N
+1020823.3E
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at required altitude in various areas as follows:
+Radial 081°-280° altitude should not below 5 000 ft
+Radial 281°-080° altitude should not below 3 500 ft
+ILS (CAT I)
+LOC
+GP/DME
+IKR
+109.9 MHz
+CH36X
+MON-FRI 2300-1100
+145535.3N
+1020346.0E
+PAPI, runway 24 not coincident with ILS glide slope starting from 0.6 DME or 960 ft (MSL)
+GP
+333.8 MHz | MON-FRI 2300-1100
+145620.0N
+1020522.0E
+Military used and/or civil
+aircraft used in military
+services only
+GP Antenna INSTL
+HGT 15 m AGL on left side of RWY24, 242 m FM THR and 120 m FM RCL,
+painted red/white and
+red LGTD on top
+LLZ
+109.9 MHz
+CH36X
+MON-FRI 2300-1100
+145533.8N
+1020346.8E
+VTUN
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. VFR REPORTING POINTS AND LOCAL PROCEDURES
+Reporting points for VFR flight
+In order to expedite and maintain an orderly flow of air traffic into Khorat Airport, the procedures of inbound traffic for VFR flight, conventional and prop-jet aircraft be set up as follows
+Aircraft entering to land from northwest or northeast of Khorat Airport, shall report over MIKE Point (151100.0 N 1020400.00 E, approximately R360/15 NM from KRT TACAN) and/or NOVEMBER Point (150600.00 N 1020400.00 E, approximately R360/10 NM from KRT TACAN) When reaching NOVEMBER Point the aircraft will be instructed to join aerodrome traffic pattern accordingly.
+Aircraft entering to land from southwest or southeast of Khorat Airport, shall report over YANKEE Point (143500.00 N 1020400.00 E, approximately R180/20 NMfrom KRT TACAN) and/or Sierra Point (144500.00 N 1020400.00 E, approximately R180/10 NMfrom KRT TACAN) When reaching SIERRA Point the aircraft will be instructed to join aerodrome traffic pattern accordingly.
+2. Inbound - join circuit pattern at 45 º in the middle of the down at the following heights:
+a. 1 500 FT for jet aircraft,
+b. 1 000 FT for conventional aircraft,
+c. 800 FT for light aircraft,
+d. 500 FT for helicopter.
+VTUN
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTUN
+AD 2.22 FLIGHT PROCEDURES
+1. VFR HELICOPTER ROUTES WITHIN KHORAT AIRPORT
+Helicopter Operating Procedures as follow;
+1.1 Helicopters flying VFR shall operate on the VFR helicopter routes under VMC while entering,leaving or transiting over Khorat controlled airspace, in accordance with the attached chart, except when directed by air traffic controllers.
+1.2 Helicopters shall maintain 500 FT above ground level when following the VFR helicopter routes and make position reports of each reporting point on the VFR helicopter routes, unless otherwise advised by air traffic controllers.
+1.3 Helicopters intending to fly via positions/points which not prescribed on the VFR helicopter routes shall advise air traffic controllers.
+1.4 ATC instructions for helicopters operating on the VFR helicopter routes shall be issued as follows: (aircraft call sign) CLEARED TO (destination or point) VIA HELICOPTER ROUTES, MAINTAIN (altitude) REPORT ESTABLISHED [or REPORT OVER (point)]
+1.5 Helicopters are responsible for obstacle and terrain clearance, if any manoeuvres deviate from the assigned VFR helicopter routes, regarding obstacle or terrain, the helicopter pilots shall advise air traffic controllers for such manoeuvres and, afterwards, resume on the VFR helicopter routes as soon as practicable.
+1.6 Helicopters shall maintain own separation from other VFR traffic within Khorat controlled airspace, including Class C airspace. Air traffic controllers will provide traffic information, regarding known traffic, when available.
+1.7 Air traffic controllers may instruct helicopters to fly via published VFR reporting points or instruct the helicopters to hold over any positions/points deemed necessary, depending on traffic conditions..
+1.8 If helicopters encounter visibility below VMC minima during flight, the helicopter pilots shall advise air traffic controllers without delay.
+1.9 Helicopters shall maintain two-way communication with Khorat Tower or khorat Approach while in Khorat control airspace and shall change over to other units only when instructed to do so by the controllers.
+1.10 Before taking off from heliports or helipads within Khorat controlled airspace, helicopters shall contact Khorat Tower on frequency 122.2 MHZ or Khorat Approach on frequency 129.75 MHZ. If such communication could not be done, helicopter pilots/operators shall use other available means, e.g. telephones, to receive departure instructions and necessary information prior to take-off.
+1.11 After take-off, two-way radio communication shall be established as soon as possible. If helicopters are unable to contact the ATC units before reaching altitude 500 FT above ground level, e.g. due to communication equipment failure, the helicopters shall return to land for solving the problem and notify Khorat Tower by telephone.
+1.12 In case where helicopters departing from outside Khorat controlled airspace are unable to contact Khorat Approach or Khorat Tower before entering Khorat controlled airspace, the helicopters shall enter the VFR helicopter routes via the nearest reporting point and fly on the VFR helicopter routes to the destination as filed in the flight plan or as latest notified to air traffic controllers..
+1.13 The completion of landings at heliports or helipads within Khorat controlled airspace shall be notified to Khorat Tower by radio or telephone as soon as practicable.
+1.14 Table of VFR reporting points for helicopters within Khorat controlled airspace.
+No. | Reporting Point | Landmark | Redial/DME from KRT VOR | Lat/Long
+1. | PHOL SONG KRAM | Railway Station | R-021/27D KRT | 152053.72N 1021813.06E
+2. | NONG PRUE | Pond | R-072/30D KRT | 150456.00N 1023747.00E
+3. | DON WAI | Pond | R-038/15D KRT | 150659.62N 1021733.66E
+4. | JOR HOR | Bridge | R-360/7D KRT | 150138.02N 1020817.00E
+5 | SURANAREE RTA CAMP | Intersection | R-301/5D KRT | 145729.00N 1020357.00E
+6. | LAM SAM LAI | Pond | R-227/22D KRT | 144004.45N 1015134.47E
+7. | KUT CHIK | Railway Station | R-268/15D KRT | 145419.00N 1015253.00E
+8. | LAM TAK KONG | Railway Station | R-262/38D KRT | 144851.00 1012936.00E
+9. | SI KHIU | Bridge | R-264/26D KRT | 145145.00N 1014154.00E
+10. | MIKE 6 | Bridge | R-295/11D KRT | 145935.38N 1015755.17E
+KRT VOR/DME | - | 145502.35N 1020823.32E
+1.15 VFR helicopter routes for departure and arrival at Khorat Airport (VTUN)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+VTUN - NORTHEAST BOUND | PHOL SONG KRAM
+VTUN - EAST BOUND | DON WAI | NONG PRUE
+VTUN - SOUTHWEST BOUND | MIKE 6 | SI KHIU | LAM TAK KONG
+VTUN - SOUTH BOUND | MIKE 6 | KUT CHIK | LAM SAM LAI
+1.16 VFR helicopter routes for departure and arrival at SURANAREE (RTA CAMP)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+RTA CAMP - NORTHEAST BOUND | PHOL SONG KRAM
+RTA CAMP - EAST BOUND | DON WAI | NONG PRUE
+RTA CAMP - SOUTHWEST BOUND | MIKE 6 | SI KHIU | LAM TAK KONG
+RTA CAMP - SOUTH BOUND | MIKE 6 | KUT CHIK | LAM SAM LAI
+1.17 VFR helicopter routes for departure and arrival at JOR HOR (RTP CAMP)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+RTP CAMP - NORTHEAST BOUND | PHOL SONG KRAM
+RTP CAMP - EAST BOUND | DON WAI | NONG PRUE
+RTP CAMP - SOUTHWEST BOUND | MIKE 6 | SI KHIU | LAM TAK KONG
+RTP CAMP - SOUTH BOUND | MIKE 6 | KUT CHIK | LAM SAM LAI
+2. Aerodrome traffic circuit
+- Using both sides of traffic circuit.
+2.1 Overhead Pattern
+Fly initial at 300 KIAS. Pattern and Break altitude is 2,200 ft. MSL. The standard break is:
+- Using runway 06 by Right turn pattern.
+- Using runway 24 by left turn pattern.
+2.2 Straight-In Pattern
+Request a straight-in upon contact with Korat Approach and reiterate your request with Korat Tower when transferred to the tower frequency. Be at 1,700 ft. MSL by 6 NM.
+2.3 Re-entry Pattern
+The re-entry pattern altitude is 2,700 ft. MSL. Proceed to the 6 NM initial or closed traffic pattern as directed by Korat Tower.
+2.4 Closed Traffic Pattern
+Do not climb above 1,700 ft. MSL before the turn to downwind. Mid-field and present position closed patterns are authorized with Korat Tower approval.
+3. Radio Communication Failure Procedure
+All attempts should be made to have radio-capable aircraft bring/chase NORDO aircraft home. If no chase ship is available, follow the single-ship recovery procedures below:
+- Intercept KRT R-330 or R-150 at 10 DME 1,700 ft. MSL then proceeded inbound.
+- Hold at 3-5 DME until the active runway can be determined.
+- Join appropriate downwind at 7 NM initial.
+- Fly low approach between runway and taxiway at 1,300 ft. MSL, rock wings.
+- Pitchout at departure end, establish landing configuration, and check mobile control or tower for the green light on downwind
+and/or on final.
+- After landing, taxi clears off the runway and waits for the “Follow Me” vehicle.
+VTUN
+AD 2.23 ADDITIONAL INFORMATION
+- Runway 06/24 RAG installed details as follows:
+BAK14 : 1,415 FT from threshold runway 06 / 1,252 FT from threshold runway 24 Operating cable height above runway 3 inches.
+NET BARRIER : 115 FT from threshold into overrun runway 06 / 82 FT from threshold into overrun runway 24 height 3.70 M.
+- Bird concentrations in the vicinity of an aerodrome.
+VTUN
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Instrument Approach Chart - ICAO - ILS or LOC RWY 24
+AD 2-VTUN-8-1
+Instrument Approach Chart - ICAO - ILS or LOC RWY 24 (Fix and point list table)
+AD 2-VTUN-8-2

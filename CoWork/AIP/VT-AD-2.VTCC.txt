@@ -1,0 +1,1201 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCC
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCC-en-GB.html
+VTCC
+— Chiang Mai/ Chiang Mai International Airport
+VTCC
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTCC
+— Chiang Mai/ Chiang Mai International Airport
+VTCC
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+184617N
+0985746E
+Centre of RWY 18/36 1050 m from THR RWY 18
+2
+Direction and distance from (city)
+4 km SW
+3
+Elevation/Reference temperature
+316 m (1036 ft)/33.3°C
+4 | Geoid Undulation at AD ELEV PSN | -39 m (-129 ft)
+5
+MAG VAR/Annual change
+0°55'W (2025)/0°2'E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Chiang Mai International Airport
+Airport of Thailand Public Company Limited
+60 Mahidol Road Suthep Subdistrict Mueang District
+Chiang Mai
+50200 Thailand
+Tel:
++665 392 2000
+Fax:
++665 392 2020
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Airports of Thailand Public Company Limited (AOT)
+VTCC
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+H24
+2
+Customs and immigration
+H24
+3
+Health and sanitation
+H24
+4
+AIS Briefing Office
+H24
+5
+ATS Reporting Office (ARO)
+H24
+6
+MET Briefing Office
+H24
+7
+ATS
+H24
+8
+Fuelling
+H24
+9
+Handling
+H24
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Chiang Mai Air Traffic Control Center (1st floor of tower
+building)
+Tel: +669 1818 5798
+Fax:+66 5327 7897
+VTCC
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+Trucks 1.5-3.5 t up to 10 t
+Handling/Possible
+2
+Fuel/oil types
+JET A-1 and AV GAS 100 LLTFUEL;Annotation:4322.eng;522
+3
+Fuelling facilities/capacity
+Fuelling provide by PTT Public Company Limited.
+Tel: +665 328 1600
+JET A-1
+1 JET A-1 Hydrant Dispenser
+5 JET A-1 Storage Tank Capacity 2,550,000 L
+2 JET A-1 Refueller Truck @ 18,000 L
+1 JET A-1 Refueller Truck @ 12,000 L
+3 JET A-1 Dispenser TruckTFUEL;Annotation:4323.eng;522
+AV GAS 100 LL
+1 AVGAS DC Motor Trailer from drum 200 L
+5 AVGAS 100LL (Drum200 L) Capacity 1,000 LTFUEL;Annotation:4322.eng;522
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+Chiang Mai International Airport has provided ground handling agents as the following number:
+Thai Airways International Public Co.,ltd (TG)
+URL:
+www.thaiairways.com
+Tel:
++665 392 2284
+Email:
+[email protected]
+[email protected]
+[email protected]TONLINE_CONTACT;Annotation:4381.eng;436
+BAGS Ground Services Co.,Ltd
+URL:
+www.bags-groundservices.com
+Tel:
++665 392 2461
+Chiang Mai Ground Handling Services Co., Ltd.
+Tel:
++668 0495 9391
+Email:
+[email protected]
+Hs Aviation Co., Ltd.
+Tel:
++668 1901 2070 , +668 5485 3307
+URL:
+www.hsavia.aero
+Email:
+[email protected]
+Thai Ground Handling
+URL:
+www.thai-handling.com
+Tel:
++668 0502 5184
+Email:
+[email protected]
+VTCC
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+Near ADTPASSENGER_FACILITY;Annotation:1150.eng;661 and in the cityTPASSENGER_FACILITY;Annotation:1159.eng;661
+2
+Restaurants
+At the ADTPASSENGER_FACILITY;Annotation:1151.eng;662 and in the cityTPASSENGER_FACILITY;Annotation:1160.eng;662
+3
+Transportation
+Public BusTPASSENGER_FACILITY;Annotation:1154.eng;663, Airport TaxiTPASSENGER_FACILITY;Annotation:1155.eng;663 and LimousinesTPASSENGER_FACILITY;Annotation:1156.eng;663
+4
+Medical facilities
+Medical clinic at AD (Domestic terminal, level 1)
+and ambulance service is available H24.
+Emergency number is +665 392 2222
+5
+Bank and Post Office
+Bank: Currency Exchange service: Available at AD DailyTPASSENGER_FACILITY;Annotation:1161.eng;665 0000TTMSHT;Annotation:1449.eng;1391-1600TTMSHT;Annotation:1450.eng;1391
+Post Office: Available at AD Daily 0130 – 1300
+6
+Tourist Office
+Tourist Assistance Center Chiangmai (TAC):
+Available at AD Daily 0000 – 1700
+7
+Remarks
+NIL
+VTCC
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 9
+2
+Rescue equipment
+Adequately provided as recommended by ICAO
+3
+Capability for removal of disabled aircraft
+Available - Up to B-747 TAD_HP_GND_SER;Annotation:1164.eng;554
+4
+Remarks
+For removal of disabled aircraft, please contact:
+- Rescue and Fire Fighting Department
+Tel: +665 392 2199, +665 392 2000 ext.23100
+- Maintenance Department
+Tel: +665 392 2000 ext. 3333, 23090
+- Thai Airways International Public Company Limited
+Tel: +668 1952 2793
++668 9700 9892
++666 4469 9399
++669 2998 9649
+- Royal Thai Air Force
+Tel: +665 328 1012 ext.5-7422, 5-7410
++665 328 1012-15
+VTCC
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons
+VTCC
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+South Apron Aircraft Stand NR 1-19
+Surface: Concrete
+Strength: PCR 660/R/A/W/
+South Apron Aircraft Stand NR 20L, 20 And 20R
+Surface: Concrete
+Strength: PCR 660/R/A/W/
+2 | Taxiway width, surface and strength
+Taxiway A
+Width: 23 m, Surface: Concrete, PCR 660/R/A/W/
+Taxiway B, G
+Width: 23 m, Surface: Asphalt, PCR 660/R/A/W/
+Taxiway C
+Width: 23 m, Surface: Asphalt, PCR 700/F/C/X/
+Taxiway D Rapid exit taxiway
+Width: 28 m, Surface: Asphalt, PCR 700/F/C/X/
+Taxiway E
+Width: 28 m, Surface: Asphalt, PCR 1350/R/D/W/
+Taxiway F
+Width: 23 m, Surface: Concrete, PCR 660/R/A/W/
+Taxiway H
+Width: 23 m, Surface: Concrete, PCR 660/R/A/W/
+Taxiway P
+Width: 23 m, Surface: Asphalt, PCR 950/F/D/X/
+Width: 23 m, Surface: ConcreteTTWY;Annotation:179.eng;239, PCR 660TTWY;Annotation:180.eng;239/RTTWY;Annotation:181.eng;239/ATTWY;Annotation:182.eng;239/WTTWY;Annotation:184.eng;239/TTTWY;Annotation:183.eng;239
+Taxiway P5, P6
+Width: 35 m, Surface: Concrete, PCR 660/R/A/W/
+Taxiway Q
+Width: 23 m, Surface: Concrete, PCR 660/R/A/W/
+3
+Altimeter checkpoint location and elevation
+Location: At Apron
+Elevation: 307.2 m/1008 ft
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTCC
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Taxiing guidance signs at all intersections with TWY and RWY and at all holding positions.
+Nose-Wheel guide lines at apron.
+Solid Nose-Wheel guide lines at aircraft stands.
+Nose-in guidance at aircraft stands.
+Safegate Docking System at stand number 3, 4, 5, 6, 7 and 8.
+2
+RWY and TWY markings and LGT
+RWY marking: DESIG, , , CL, AIM and Side StripeTRWY_MARKING;Annotation:193.eng;146
+RWY LGT: , RWY Edge and RWY End lights
+TWY marking: Centre line, Edge, RWY Holding Positions
+TTWY_MARKING;Annotation:163.eng;363 and Intermediate Holding PositionsTTWY_MARKING;Annotation:164.eng;363
+TWY LGT: TWY Edge lights
+3
+Stop bars
+NIL
+4 | Other runway protection measures
+NIL
+5
+Remarks
+NIL
+VTCC
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+TKOF RWY 36/ APCH RWY 18
+Building
+HGT 370 m MSL
+184818.5N
+0985744.5E
+Mountain North West
+of Aerodrome
+Building
+HGT 373 m MSL
+184824.7N
+0985748.5E
+Building
+HGT 381 m MSL
+184722.2N
+0985827.3E
+See Aerodrome Obstacle Chart Type A
+Building
+HGT 382 m MSL
+184744.8N
+0985709.9E
+Antenna on top of
+DVOR/DME Station
+HGT 315 m MSL
+184558.0N
+0985740.6E
+Antenna
+HGT 319 m MSL
+184555.7N
+0985740.6E
+LLWAS
+HGT 324 m MSL
+184456.2N
+0985738.2E
+LLWAS
+HGT 323 m MSL
+184534.9N
+0985739.0E
+LLWAS
+HGT 328 m MSL
+184659.2N
+0985740.2E
+VTCC
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Northern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Northern Meteorological Center,
+30 HR
+4
+Type of landing forecast
+Interval of issuance
+30 MinTSERVICE;Annotation:2152.eng;820
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:1167.eng;820
+Tel: +665 320 3801TSERVICE;Annotation:1168.eng;820
+Fax: +665 320 3801TSERVICE;Annotation:1169.eng;820
+6
+Flight documentation
+Language(s) used
+ChartsTSERVICE;Annotation:2153.eng;820, Tabular formsTSERVICE;Annotation:2154.eng;820 and Abbreviated Plain Language Texts.TSERVICE;Annotation:2155.eng;820
+English
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2156.eng;820, U85TSERVICE;Annotation:2157.eng;820, U70TSERVICE;Annotation:2158.eng;820, U50TSERVICE;Annotation:2159.eng;820, U40TSERVICE;Annotation:2160.eng;820, U30TSERVICE;Annotation:2161.eng;820, U25TSERVICE;Annotation:2162.eng;820, U20TSERVICE;Annotation:2163.eng;820, SWHTSERVICE;Annotation:2164.eng;820, SWMTSERVICE;Annotation:2165.eng;820, SWLTSERVICE;Annotation:2166.eng;820, P85TSERVICE;Annotation:2167.eng;820, P70TSERVICE;Annotation:2168.eng;820, P50TSERVICE;Annotation:2169.eng;820, P40TSERVICE;Annotation:2170.eng;820, P30TSERVICE;Annotation:2171.eng;820, P25TSERVICE;Annotation:2172.eng;820, P20TSERVICE;Annotation:2173.eng;820, P15TSERVICE;Annotation:2174.eng;820, satellite and radar imagesTSERVICE;Annotation:2175.eng;820
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Chiang Mai TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTCC
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY(m)
+Strength (PCR) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+18
+180°
+180.00°
+3400x45
+PCR 650/F/B/X/Asphalt
+300 m BFR THR
+(Displacement) and
+100 m RWY ENDS
+are PCR 660TRWY;Annotation:196.eng;253/RTRWY;Annotation:197.eng;253/ATRWY;Annotation:198.eng;253/WTRWY;Annotation:199.eng;253/TTRWY;Annotation:200.eng;253ConcreteTRWY;Annotation:195.eng;253
+184651.80N
+0985746.52E-39 m (-129 ft)
+316 m/ 1036 ft
+36
+360.00°
+360°
+3100TRWY;Annotation:1901.eng;253x45
+PCR 650TRWY;Annotation:196.eng;253/F/B/X/
+Asphalt
+100 m FM THR36
+is PCR 660TRWY;Annotation:196.eng;253/RTRWY;Annotation:197.eng;253/ATRWY;Annotation:198.eng;253/WTRWY;Annotation:199.eng;253/TTRWY;Annotation:200.eng;253ConcreteTRWY;Annotation:195.eng;253
+184510.94N
+0985746.26E-39.4 m (-129.3 ft)
+306.9 m/ 1006.9 ft
+307.5 m/ 1008.9 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | Location and description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+0% -0.05% -0.50% -0.34% -0.49% -0.10% -0.02% -0.06%
+(300m 669m 1200m 1750m 2479m 2875m 3300m 3400m)
+TRWY_DIRECTION;Annotation:194.eng;177
+NIL
+NIL
+3520x300
+240x90
+NIL
+NIL
+NIL
++0.06% +0.02% +0.10% +0.49% +0.34% +0.50% +0.05%
+(100m 525m 921m 1650m 2200m 2731m 3100m)
+TRWY_DIRECTION;Annotation:201.eng;178
+NIL
+NIL
+3220TRWY;Annotation:1902.eng;253x300
+240x150
+NIL
+Yes
+NIL
+VTCC
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+18
+3400
+3400
+3400
+3100
+NIL
+36
+3100
+3100
+3100
+3100
+NIL
+VTCC
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+18
+SALS
+420 m
+LIH
+Green
+PAPI
+Both
+3° (61 ft)
+NIL
+NIL
+3100 m
+60 m
+White;LIH
+Red
+NIL
+NIL
+36
+SALS
+420 m
+LIH
+Green
+PAPI
+Both
+3° (63 ft)
+NIL
+NIL
+3100 m
+60 m
+White;LIH
+Red
+NIL
+NIL
+VTCC
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower buildingTAERO_GND_LGT;Annotation:1170.eng;508, FLG W G EV 2.5 SEC
+IBN: NIL
+As AD Administration
+2
+LDI location and LGT
+Anemometer location and LGT
+Wind ConeTAD_HP;Annotation:1172.eng;310 near right PAPI 36, illuminated
+Anemometer: NIL
+3
+TWY edge and centre line lighting
+EDGE: All TWY
+Centre Line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting At AD
+switch-overtime : 15 SECTAD_HP;Annotation:1264.eng;310
+5
+Remarks
+NIL
+VTCC
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTCC
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on CMA DVOR/DME
+(184558N
+0985740E)
+2
+Vertical limits
+5000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Chiang Mai Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTCC
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Chiang Mai Approach
+129.6 MHz
+305.4 MHz
+121.5 MHz)
+243.0 MHz)
+H24
+1)Emergency frequency
+Chiang Mai Tower
+118.1 MHz
+236.6 MHz
+121.5 MHz)
+243.0 MHz)
+H24
+GND
+Chiang Mai Ground
+121.9 MHz
+275.8 MHz
+H24
+A
+Chiang Mai Int Airport
+127.425 MHz
+301.5 MHz
+H24
+VTCC
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid, MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give VAR)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+CMA
+116.9 MHz
+CH 116X
+H24
+184558.0N
+0985740.4E
+330 m
+(1100 ft)
+DVOR/DME restriction due to mountainous terrain surround station coverage check does not provide adequate signal at required altitudes in various area as follows:
+40 NM Orbit
+Radial 350º-080º altitude should not below 8 000 ft
+Radial 081º-180º altitude should not below 7 000 ft
+Radial 181º-240º altitude should not below 9 000 ft
+20 NM Orbit (Due to mountainous terrain)
+Radial 241º-349º altitude should not below 12 000 ft
+ILS CAT I
+LOC 36
+ICMA
+109.9 MHz | H24
+184707.4N
+0985746.6E
+(LOC)
+Instrument landing system (ILS)
+Reference Datum Height (RDH) is 16.5 m.
+A. Localizer
+Coverage 18 NM within ± 10° and 10 NM between ± 10° and ± 35° from the front course line.
+The localizer antenna array is located on the extended runway centre line at distance 478.4 m from THR of RWY 18.
+Height of the array is 2.3 m.
+B. Glide path 3°
+Coverage in sectors of 8° in azimuth on each side of the centre line of the ILS glide path to a distance of 10 NM up to 1.75 times the glide angle and down to 0.45 times the glide angle above the horizontal or down to 0.30 times the glide angle as required.
+Location 327.6 m (1,075 ft) from THR
+RWY 36, 120.3 m (395 ft) west side from RWY centre line.
+C. DME
+Paired with Glide Slope.
+Power output 100 watts.
+Bi-directional antenna.
+Location 1447.4 m (4749 ft) from THR
+RWY 36, 176.3 m (579 ft) west side from RWY centre line
+GP 36
+DME 36
+333.8 MHz
+CH36X
+184521.6N
+0985742.1E
+184521.6N 0985742.1E
+300 m
+(1000 ft)
+CHM
+CH 109TTACAN;Annotation:222.eng;104
+184631.9NTTACAN;Annotation:223.eng;104
+985738.7ETTACAN;Annotation:224.eng;104
+PN to ATC
+VTCC
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. VFR REPORTING POINTS AND LOCAL PROCEDURES
+1.1
+CHIANG MAI INTERNATIONAL AIRPOR
+1.1.1 Reporting points for VFR flight
+In order to expedite and maintain and orderly flow of air traffic into Chiang Mai International Airport, the procedures of the inbound traffic of VFR flight, conventional and prop-jet aircraft, be set up as follow:
+Aircraft entering to land from north of Chiang Mai International Airport, shall report over Mae Rim District, designated as MIKE ROMEO (1855.0N 9857.1E), Which is approximately 9 NM on R-353 of CMA VOR. When reaching MR the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from northeast of Chiang Mai International Airport, shall report over Doi Saket District, designated as DELTA SIERRA (1852.5N 9908.5E) and San Sai District, designated as SIERRA SIERRA (1851.5N 9903.0E) Which are approximately 12 NM on R-057 and 7 NM on R-043 of CMA VOR respectively. When reaching DS the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from east of Chiang Mai International Airport, shall report over San Kampaeng District, designated as SIERRA KILO (1844.5N 9907.5E) Which is approximately 9 NM on R-099 of CMA VOR. When reaching SK the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from south of Chiang Mai International Airport, shall report over Mae Tha District, designated as MIKE TANGO (1827.5N 9908.0E) and Sarapi District as SIERRA INDIA (1843.0N 9902.0E) Which are approximately 21 NM on R-152 and 5 NM on R-130 of CMA VOR respectively. When reaching SI the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+1.1.2 Aerodrome traffic circuit
+Using runway 18 by entering left traffic circuit only.
+Using runway 36 by entering right traffic circuit only.
+1.1.3 Overhead approach pattern
+Using runway 18 by left turn pattern.
+Using runway 36 by right turn pattern.
+2. STARTING UP PROCEDURE
+2.1
+Chiang Mai International Airport
+2.1.1 All IFR aircraft are to call “Ground Control” 5 minutes prior to start up request for ATC clearance.
+2.1.2 Pilot are to inform “Ground Control” their call signs, and proposed flight level if it is different from the flight plan when they make the
+call as item 2.1.1 above.
+2.1.3 In order to provide a more flexible ground traffic movement all domestic departures shall on longer be required to be ready to taxi
+within 5 minutes after clearance received.
+3. LOW VISIBILITY PROCEDURES (LVP)
+3.1 RWY 36 is equipped with ILS and approved for CAT I operations.
+3.2 Low visibility procedures will be activated when visibility is less than RVR 800 m.
+3.3 Airport low visibility procedures will be enforced based on 3 Phases of Low Visibility Conditions (LVC) as following.
+3.3.1 LVC Warning
+3.3.1.1 LVC Warning will be activated when RVR is less than 800 m but not less than 550 m (RVR 550 – less than 800 m)
+3.3.1.2 All ground operators will be informed by voice broadcasting.
+3.3.1.3 All Operations near taxiway and runway will be restricted in accordance with the conditions set out in the aerodrome manual and airline’s SOPs until low visibility condition is terminated.
+3.3.1.4 Vehicles operating on service road shall maintain a speed within 20 km/hr and vehicles operating in movement area shall maintain a speed within 10 km/hr. All vehicles shall be ascertained that their headlamps and obstacle lights are turned on throughout the whole area of operations.
+3.3.2 LVC Phase A (RVR 200 – less than 550 m)
+3.3.2.1 LVP Phase A will be activated when RVR is less than 550 m but not less than 200 m.
+3.3.2.2 All ground operators will be informed by both flashing-orange lights which located at the airside entrance gate number 1, aircraft parking stand number 3,5,7,12,17 and by voice broadcasting.
+3.3.2.3 Vehicles operating on service road shall maintain a speed within 20 km/hr and vehicles operating in Apron shall maintain a speed
+within 10 km/hr.All vehicles shall be ascertained that their headlamps and obstacle lights are turned on throughout the whole area of
+operations. All operations on taxiway and runway shall be terminated and vacated from the area.
+3.3.3 LVC Phase B (RVR less than 200 m)
+3.3.3.1 LVP Phase B will be activated when RVR is less than 200 m.
+3.3.3.2 All ground operators will be informed by both flashing-white lights which located at the airside entrance gate number 1, aircraft parking stand number 3,5,7,12,17 and by voice broadcasting.
+3.3.3.3 All ground operations will be restricted in accordance with the conditions set out in the aerodrome manual and airline’s SOPs. All ground equipment brakes shall be on a lock position and the chock shall be put to the wheel of that equipment.
+3.3.3.4 All operations and vehicles in apron area are restricted in accordance with the conditions set out in the aerodrome manual and airline’s SOPs.
+3.4
+Termination of low visibility procedures (RVR more than 800 m)
+3.4.1 All ground operators will be informed when low visibility conditions are terminated by voice broadcasting and all warning lights are turned off.
+3.4.2 After low visibility condition termination notification, all ground operators shall resume normal operations.
+Remark: RVR = Runway Visual Range
+4. SAFEGATE DOCKING SYSTEM – IN SYSTEM AT CHIANG MAI INTL AIRPORT
+4.1 INTRODUCTION
+4.1.1 The SAFEGATE Docking System – in system is install at bay 3, 4, 5, 6, 7 and 8
+4.1.2 The system enables the pilots seated on the left of the cockpit to position his aircraft on the correct stand centre line and stop position
+4.2 PILOT OPERATING INSTRUCTION
+4.2.1 Safety procedure
+General warning
+The DGS system has a built-in error detection program to inform the aircraft pilot of impending dangers during the docking procedure.
+If the pilot is unsure of the information, being shown on the DGS display unit, he must immediate stop the aircraft and obtain further information for clearance.
+Item to check before entering the stand area
+Warning: The pilot shall not enter the stand area, unless the docking system first is showing the vertical running arrows. The pilot must not proceed beyond the bridge, unless these arrows have been superseded by the closing rate bar.
+Warning: The pilot shall not enter the stand area, unless the aircraft type displayed is equal to the approaching aircraft/ The Correctness of other information, such as ‘door 2’, shall also be checked.
+The SBU message
+The message STOP SBU means that docking has been interrupted and has to be resumed only by manual guidance. Do not try to resume docking without manual guidance.
+START-OF-DOCKING
+The system is started by pressing one of the aircraft type buttons on the operator panel. When the button has been pressed, WAIT will be displayed.
+CAPTURE
+The floating arrows indicate that the system is activated and in capture mode, searching for an approaching aircraft.
+If shall be checked that the correct aircraft type is displayed. The lead-in line shall be followed.
+The pilot must not proceed beyond the bridge, unless the arrows have been superseded by closing rate bar.
+TRACKING
+When the aircraft has been caught by the laser, the floating arrow is replaced by the yellow centre line indicator.
+A flashing red arrow indicates the direction to turn.
+The vertical yellow arrow shows position in relation to the centre line. This indicator give correct position and azimuth guidance.
+CLOSING RATE
+Display of digital countdown will start when the aircraft is 20 m from stop position.
+When the aircraft is less than 12 m from the stop position, the closing rate is indicated by turning off one row of the centre line symbol per 0.5 m, covered by the aircraft. Thus, when the last row is turned off, 0.5 m remains to stop.
+ALIGNED TO CENTRE
+The aircraft is 8 m from the stop position. The absence of any direction arrow indicates an aircraft on the centre line.
+SLOW DOWN .
+If the aircraft is approaching faster than the accepted speed, the system will show SLOW DOWN as a warning to the pilot
+AZIMUTH GUIDANCE.
+The aircraft is 4 m from the stop-position. The yellow arrow indicates an aircraft to the right of the centre line, and the red flashing arrow indicates the direction to turn.
+STOP POSITION REACHED .
+When the correct stop-position is reached, the display will show STOP and red lights will be lit.
+DOCKING COMPLETE .
+When the aircraft has parked, OK will be displayed.
+OVERSHOOT .
+If the aircraft overshoot the stop-position, TOO FAR will be displayed.
+STOP SHORT .
+If the aircraft is found standing still but has not reached the intended stop position, the message STOP OK will be shown after a while.
+WAIT .
+If some object is blocking the view toward the approaching aircraft or the detected aircraft is lost during docking, before 12 m to STOP, the display will show WAIT. The docking will continue as soon as the blocking object has disappeared or the system detects the aircraft again.
+As the aircraft is approaching the stop position, the aircraft geometry is being checked. If, for any reason, aircraft verification is not made 12 m before the stop-position, the display will show WAIT, STOP and ID FAIL. The text will be alternating on the upper two row of the display .
+The pilot must not proceed beyond the bridge, unless the “WAIT” message has been superseded by the closing rate bar.
+BAD WEATHER CONDITION .
+During heavy fog, rain or snow, the visibility for the docking system can be reduced.
+When the system is activated and in capture mode, the display will deactivate the floating arrows and show DOWN GRADE.
+This message will be superseded by the closing rate bar, as soon as the System detects the approaching aircraft.
+The pilot must not proceed beyond the bridge, unless the DOWN GRADE text has been superseded by the closing rate bar.
+AIRCRAFT VERIFICATION FAILURE .
+During entry into the stand, the aircraft geometry is being checked. If, for any reason, aircraft verification is not made 40 ft metres before the stop-position, the display will first show WAIT and make a second verification check. If this fails STOP and ID FAIL will be displayed. The text will be alternating on the upper two rows of the display.
+The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+GATE BLOCKED .
+If an object is found blocking the view from the DGS to the planned stop position for the aircraft, the docking procedure will be halted with a GATE BLOCK message. The docking procedure will resume as soon as the blocking object has been removed.
+The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+VIEW BLOCKED
+If the view towards the approaching aircraft is hindered for instance by dirt on the window, the DGS will report a view block condition. Once the system is able to see the aircraft through the dirt, the message will be replaced with a closing rate display.
+The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar
+SBU-STOP
+Any unrecoverable error during the docking procedure will generate an SBU condition. The display will show red stop bar and the text STOP SBU.
+A manual backup procedure must be used for docking guidance.
+TOO FAST
+If the aircraft approaches with a speed higher than the docking system can handle, the message STOP (with red squares) and TOO FAST will be displayed.
+The docking system must be re-started or docking procedure completed by manual guidance.
+EMERGENCY STOP
+When the emergency stop button is pressed, STOP is displayed.
+CHOCKS ON
+CHOCK ON will be displayed, when the ground staff has put the chocks in front of the nose wheel and pressed the “Chocks On” button on the operator panel.
+ERROR
+If a system error occurs, the message ERROR is display with an error code. The code is used for maintenance purposes and explained else where.
+SYSTEM BREAKDOWN
+In case of a severe system failure, the display will go black, except for a red stop indicator. A manual backup procedure must be used for docking guidance.
+POWER FAILURE
+In case of a power failure, the display will be completely black. A manual backup procedure must be used for docking guidance.
+5. OPERATION PROCEDURES OF AIRCRAFT STAND NR 20R FOR GROUND HANDLING AGENTS
+5.1 All vehicles and ground equipment shall not move passing the right-wing tip of the aircraft.
+5.2 When operating at the front-right of aircraft, all vehicles and ground equipment shall go in-out at the front only.
+5.3 When operating at the rear of aircraft, all vehicles and ground equipment shall go in-out at the rear only.
+6. PUSH BACK PROCEDURE
+6.1 When flight formalities have been completed and the aircraft is ready for push back, the pilot shall contact ATC for start-up and
+push back clearance.
+6.2 All aircraft shall start-up with only one engine at idle power during push back from the stand at a safe position for taxiing by
+push-back tug and shall taxi with minimum breakaway thrust.
+6.3 In order to avoid jet blast damage to the other aircraft, equipment and personnel on nearby stands, the following aircraft maneuvering procedures are to be observed:
+6.3.1 When the pilot is ready for start-up and push back, he shall seek confirmation from the ground crew that there is no hazard to
+his aircraft starting up.
+6.3.2 Ground crew must ensure that the area behind an aircraft is clear of vehicles, equipment and other obstructions before the start-up or push back of aircraft commences.
+6.3.3 Pilots are reminded that they should always use minimum power when starting engine on the apron and when taxiing. It is especially important when starting to taxi that breakaway thrust is kept to a minimum.
+6.3.4 When the anti-collision beacons of the aircraft have been switched on, no vehicular movement is permitted behind the aircraft.
+6.4 Aircraft shall be parked nose-in either to the terminal building on a stand attached to a passenger loading bridge or on a remote stand.
+6.5 Aircraft above code letter A and B will need to be pushed back from the stand towards the Taxiway Center Line considering
+the Standard Taxi Routes by using push-back tug.
+6.6 The procedures of push back aircraft will vary when it becomes necessary to expedite the flow of traffic. ATC will issue specific instructions to the pilots and make sure that the pilots also understand the instructions.
+6.7 Power-back is not permitted at any parking stands.
+7. SELF- MANEUVERING
+7.1 Self-maneuvering is permitted only for aircraft code letter A, B, or aircraft with wingspan up to 24 meters (79 feet).
+7.2 Marshalling service shall be provided and shall have wing walker personnel guiding on both side of the aircraft wing tips.
+7.3 Self-maneuvering can be conducted when the next adjacent aircraft parking stand is vacant.
+7.4 Pilots are reminded that they should always use minimum power during self- maneuvering operations.
+8. AIRPORT COLLABORATIVE DECISION MAKING (A-CDM)
+8.1 GENERAL
+8.1.1 The Airport Collaborative Decision Making (A-CDM) process at Chiang Mai International Airport designed to optimize resource management through the utilization of advanced tools and technologies. This process prioritizes collaboration among key stakeholders, including Airport Operator (AP), Air Traffic Controller (ATC), Air Traffic Flow Management Unit (ATFMU), Ground Handlers (GH), Aircraft Operator (AO) and other partners, to ensure adherence to the highest standards of safety, security, environmental sustainability, and community welfare.
+8.1.2 All flights operated at Chiang Mai International Airport are required to participate in the A-CDM to optimize airport operations by sharing accurate and timely information among airport partners. The process can help balance the number of flights with an ability to handle, both under normal situation and under any occurrence requiring co-decision making.
+8.2 DEFINITION OF TERMS COMMONLY USED IN A-CDM
+8.2.1 Target Off-Block Time (TOBT) - The time that an Aircraft Operator (AO) or Ground Handler (GH) estimates that an aircraft will be ready, all doors closed, boarding bridge removed, push back vehicle available and ready to start-up and push back immediately upon reception of clearance from the Aerodrome Control Tower (TWR).
+8.2.2 Target Start-Up Approval Time (TSAT) - The time provided by ATC taking into account TOBT, CTOT and/or the traffic situation that an aircraft can expect start-up / push back approval.
+8.2.3 Calculated Take-Off Time (CTOT) - A time calculated and issued by the ATFMU, as a result of tactical slot allocation, at which a flight is expected to become airborne.
+8.3 A-CDM OPERATIONAL ASPECTS
+8.3.1 INTRODUCTION
+This section details the key operational aspects of the Airport Collaborative Decision Making (A-CDM) process at Chiang Mai International Airport, focusing on Target Off-Block Time (TOBT), Target Start-Up Approval Time (TSAT), and start-up and push back procedures. It defines the roles and responsibilities necessary to ensure efficient and coordinated pre-departure operations, helping to minimize delays and optimize airport efficiency.
+8.3.2 Chiang Mai A-CDM Procedure Overview
+The chart below describes the simple overview of the Pre-Departure process at Chiang Mai International Airport from the time that airlines input the TOBT to the time that aircraft is airborne. It includes the responsibilities and procedures in brief, as described below.
+8.3.3 Target Off-Block Time (TOBT) Procedures
+8.3.3.1 General
+The TOBT is the essential contribution of airlines to the A-CDM process which establishes the Pre-Departure Sequence taking into account operators preferences and operational constraints. Airlines or person responsible for the TOBT are required to access and manually input the TOBT into the A-CDM Portal in order that the start-up approval time (TSAT) can be expected.
+8.3.3.2 Person Responsible for TOBT
+Aircraft operator (AO) is responsible for the input of and adherence to the TOBT. However, AO may prefer to delegate this function to ground handler (GH). It is the responsibility of the AO/GH to communicate and ensure that the pilot of a flight has the correct TOBT and TSAT prior to requesting ATC clearance. AO need to ensure that a timely, accurate and stable TOBT is provided. If it becomes obvious that the TOBT cannot be respected, it shall be updated by the person responsible for the TOBT as early as possible.
+8.3.3.3 TOBT Input and Revision
+The following has to be taken into account for the input and/or revision of the TOBT:
+The initial TOBT can be entered up to 120 minutes (2 hours) before the Estimated Off-Block Time (EOBT).
+TOBT entries cannot be set to a time earlier than the current time.
+TOBT updates can be made as frequently as necessary until the TSAT is issued (40 minutes before TOBT).
+After the TSAT is issued, the TOBT can be revised up to 5 times to maintain operational stability.
+Any new TOBT must differ by at least 5 minutes (+/ - 5 minutes) from the last entered TOBT to ensure a consistent
+Pre-Departure Sequence.
+8.3.3.4 Flights with Calculated Take-Off Time (CTOT)
+Flights with CTOT will usually take priority when calculating TSATs in order to minimize potential CTOT delay.
+8.3.3.5 TOBT Deletion
+Only users authorized to input or revise TOBT can delete a TOBT.
+If the TOBT is deleted, the TSAT will be automatically deleted.
+The TOBT must be deleted in the following situations:
+When the TOBT cannot be estimated, such as due to technical problems with the aircraft., or
+When the permitted number of TOBT inputs (5 times) after the generation of the TSAT has been exceeded.
+If a new TOBT is available, the process shall continue, and the responsible person must input the new TOBT.
+8.3.3.6 TOBT Reporting Channels
+The TOBT is reported or updated by the following ways:
+A-CDM Portal Web Based Application (https://acdm.airportthai.co.th/)
+A-CDM Portal Mobile Application
+8.3.4 Target Start-Up Approval Time (TSAT) Procedures
+8.3.4.1 General
+The TSAT is calculated based on the following key parameters:
+Target Off-Block Time (TOBT)
+Calculated Take-Off Time (CTOT)
+Operation Capacity
+Variable Taxi Time (VTT)
+Parking Stand
+Departure Runway
+8.3.4.2 TSAT Distribution and Management
+The TSAT is displayed and distributed 40 minutes prior to the TOBT.
+After TSAT has been distributed, the TOBT can only be revised not more than 5 times to ensure a stable sequence and accurate CTOT allocation.
+Any subsequent TOBT revision will trigger a recalculation of the TSAT. An incorrect TOBT can lead to disadvantages in further sequencing and/or CTOT allocation for regulated flights.
+The TSAT may be subject to change and can be revised due to air traffic management considerations.
+The AO or GH is responsible for updating and ensuring that the pilot has the correct TOBT and TSAT before requesting ATC clearance.
+8.3.4.3 TSAT Reporting Channels
+The TSAT will be issued to airlines or person responsible for TOBT via:
+A-CDM Portal Web Based Application (https://acdm.airportthai.co.th/)
+A-CDM Portal Mobile Application
+8.3.5 Start-Up and Push Back Procedures
+8.3.5.1 General
+Start-up and push back approval are issued taking into account the TOBT and TSAT. The sequence of the start-up and push back request is no longer a factor. The following rules apply:
+8.3.5.2 Start-Up and Push Back Procedures
+To ensure the pilot receives accurate TOBT and TSAT before requesting start-up and push back clearance, the AO or GH shall communicate and confirm the times with the pilot in advance.
+Pilots shall ensure that the aircraft is ready for push back at the TOBT.
+If there is any change to the TSAT, the AO/GH shall update the pilot as soon as possible.
+The pilot shall contact Ground Control for start-up and push back at TSAT +/- 5 minutes (TSAT window). The following scenarios may occur:
+Before the TSAT window: The flight will be asked to call again when it is within the TSAT window.
+Within the TSAT window: The flight will be planned for the outbound sequence and can expect start-up approval directly or within a few minutes, depending on the actual operational situation.
+After the TSAT window: The TSAT for the flight has expired. The flight will be denied start-up approval. The pilot must contact the AO/GH to update the TOBT and then contact ATC again once the TOBT update has resulted in a new TSAT.
+Ground Control will issue start-up and push back clearance taking the TSAT into account.
+If a flight is unable to push back due to the aircraft not being ready, the TSAT will be cancelled. The pilot must notify the AO/GH to update the TOBT for a new TSAT.
+Note: When a departing aircraft is occupying a gate that has been assigned to an arriving aircraft, the departing aircraft may be instructed by ground control to push back onto the taxiway without engine start-up to allow the arriving aircraft to taxi in. An Expected Taxi Time will be provided accordingly.
+8.4 A-CDM IN ADVERSE CONDITION
+8.4.1 Adverse conditions, such as severe weather events, technical disruptions, or unexpected incidents, can significantly impact airport capacity and the overall flow of air traffic. In such situations, A-CDM partners must follow established procedures within their respective roles to effectively manage disruptions, minimize delays, and ensure operational continuity.
+8.4.2 In the event of adverse conditions, the A-CDM process will continue as usual. However, to ensure smooth and efficient operations, additional cooperation and TOBT management may be required.
+8.4.2.1 Pilots shall contact ATC within the TSAT window (+/- 5 minutes from TSAT) to request start-up clearance and push back approval from the stand. If there is a change in TSAT, ATC will inform the pilots accordingly
+8.4.2.2 GH/AO must update TOBT at the end of the turnaround, especially during adverse conditions, to ensure accurate departure sequencing and minimize delays.
+8.5 A-CDM CONTINGENCY OPERATIONS
+8.5.1 In scenarios where the A-CDM (Airport Collaborative Decision Making) system is not operational, either due to the A-CDM Portal and Mobile application being unavailable, or a failure in connectivity between the A-CDM system and the iDEP/TopSky systems, significant disruptions can occur. Under such circumstances, Contingency Operations will be activated.
+8.5.2 Pilots shall adhere to the push back procedures outlined in AIP Thailand VTCC AD 2.20.
+8.5.3 ATC will issue start-up and push back instructions in accordance with prevailing traffic conditions.
+8.6 CONTACT
+Apron Management Unit
+Tel: +665 392 2000 Ext. 23064
+E-mail: [email protected]
+VTCC
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTCC
+AD 2.22 FLIGHT PROCEDURE
+1. VFR HELICOPTER ROUTES WITHIN CHIANG MAI INTERNATIONAL AIRPOR AREA
+Helicopter Operating Procedures as follow;
+1.1 Helicopters flying VFR shall operate on the VFR helicopter routes under VMC while entering, leaving or transiting over Chiang Mai controlled airspace, in accordance with the attached chart, except when directed by air traffic controllers.
+1.2 Helicopters shall maintain 500 ft above ground level when following the VFR helicopter routes and make position reports of each reporting point on the VFR helicopter routes, unless otherwise advised by air traffic controllers.
+1.3 Helicopters intending to fly via positions/points which not prescribed on the VFR helicopter routes shall advise air traffic controllers.
+1.4 ATC instructions for helicopters operating on the VFR helicopter routes shall be issued as follows: (aircraft call sign) CLEARED TO (destination or point) VIA HELICOPTER ROUTES, MAINTAIN (altitude) REPORT ESTABLISHED [or REPORT OVER (point)]
+1.5 Helicopters are responsible for obstacle and terrain clearance, if any manoeuvres deviate from the assigned VFR helicopter routes, regarding obstacle or terrain, the helicopter pilots shall advise air traffic controllers for such manoeuvres and, afterwards, resume on the VFR helicopter routes as soon as practicable.
+1.6 Helicopters shall maintain own separation from other VFR traffic within Chiang Mai International Airport area, including Class G airspace. Air traffic controllers will provide traffic information, regarding known traffic, when available.
+1.7 Air traffic controllers may instruct helicopters to fly via published VFR reporting points or instruct the helicopters to hold over any positions/points deemed necessary, depending on traffic conditions.
+1.8 If helicopters encounter visibility below VMC minima during flight, the helicopter pilots shall advise air traffic controllers without delay
+1.9 Helicopters shall maintain two-way communication with Chiang Mai Tower or Chiang Mai Approach while in Chiang Mai controlled airspace and shall change over to other units only when instructed to do so by the controllers.
+1.10 Before taking off from heliports or helipads within Chiang Mai controlled airspace, helicopters shall contact Chiang Mai Tower on frequency 118.1 MHz or Chiang Mai Approachon frequency 129.6 MHz. If such communication could not be done, helicopter pilots/operators shall use other available means, e.g. telephones, to receive departure instructions and necessary information prior to take-off.
+1.11 After take-off, two-way radio communication shall be established as soon as possible. If helicopters are unable to contact the ATC units before reaching altitude 500 ft above ground level, e.g. due to communication equipment failure, the helicopters shall return to land for solving the problem and notify Chiang Mai Tower by telephone.
+1.12 In case where helicopters departing from outside Chiang Mai controlled airspace are unable to contact Chiang Mai Approach or Chiang Mai Tower before entering Chiang Mai controlled airspace, the helicopters shall enter the VFR helicopter routes via the nearest reporting point and fly on the VFR helicopter routes to the destination as filed in the flight plan or as latest notified to air traffic controllers.
+1.13 The completion of landings at heliports or helipads within Chiang Mai controlled airspace shall be notified to Chiang Mai Tower by radio or telephone as soon as practicable.
+1.14 Table of VFR reporting points for helicopters within Chiang Mai Control Zone
+No. | Reporting Point | Landmark | Radial/DME from CMA VOR | Lat/Long
+1. | MAE RIM | Dararassamee Police Camp | R-354/9.0D | 185456.84N 985631.35E
+2. | MAE JO | Mae Jo Junction | R-021/8.1D | 185334.55N 990037.99E
+3. | PA LAN | Bor Hin Intersection | R-039/8.3D | 185228.96N 990305.72E
+4. | SAN NA MENG | West of the 8 Building | R-055/6.4D | 184945.62N 990305.78E
+5. | SAN KLANG | San Klang Village | R-088/5.2D | 184611.43N 990305.67E
+6. | BO SANG | Bo Sang Intersection | R-092/6.8D | 184550.47N 990452.92E
+7. | TOT | TOT Office Building | R-131/6.7D | 184139.58N 990305.75E
+8. | DOI TI | Doi Ti Junction | R-159/13.9D | 183259.96N 990305.68E
+9. | TON TONG | South of School | R-185/13.6D | 183220.64N 985639.70E
+10. | THA WANG PRAO | Tha Wang Prao Intersection | R-203/15.1D | 183150.66N 985146.99E
+11. | NAM PRAE | Reservoir | R-228/6.8D | 184121.00N 985226.00E
+12. | ROYAL FLORA | Royal Park Rajapruek | R-242/2.3D | 184449.59N 985531.47E
+1.15 VFR helicopter routes for departure and arrival at Chiang Mai International Airport (VTCC)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+VTCC – NORTHWEST BOUND AND NORTHBOUND | SAN KLANG | SAN NA MENG | PA LAN | MAE JO | MAE RIM
+VTCC – NORTHEAST BOUND | SAN KLANG | SAN NA MENG
+VTCC – EASTBOUND | SAN KLANG
+VTCC – SOUTHEAST BOUND AND SOUTHBOUND | SAN KLANG | TOT | DOI TI
+VTCC – WESTBOUND AND SOUTHWEST BOUND | ROYAL FLORA | NAM PRAE | THA WANG PRAO
+1.16 VFR helicopter routes for departure and arrival at Dararassamee Police Camp (HDR) and Ban Rim Tai
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HDR – EASTBOUND | MAE JO | PA LAN | SAN NA MENG | BO SANG
+HDR – SOUTHEAST BOUND AND SOUTHBOUND | MAE JO | PA LAN | SAN NA MENG | SAN KLANG | TOT | DOI TI
+HDR – SOUTHWEST BOUND | MAE JO | PA LAN | SAN NA MENG | SAN KLANG | TOT | DOI TI
+TON TONG | THA WANG PRAO
+1.17 VFR helicopter routes for departure and arrival at Khun Nane (HKN) and Three King RTA Camp (HTK)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HKN – NORTHEAST BOUND | PA LAN
+HKN – EASTBOUND | PA LAN | SAN NA MENG | BO SANG
+HKN – SOUTHEAST BOUND AND SOUTHBOUND | PA LAN | SAN NA MENG | SAN KLANG | TOT | DOI TI
+HDR – SOUTHWEST BOUND | PA LAN | SAN NA MENG | SAN KLANG | TOT | DOI TI | TON TONG
+THA WANG PRAO
+1.18 VFR helicopter routes for departure and arrival at Pra Pin Klao RTA Camp (HPK) and Battalion Development 3 (HPN)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HPK – NORTHWEST BOUND AND NORTHBOUND | PA LAN | MAE JO | MAE RIM
+HPK – NORTHEAST BOUND | PA LAN
+HPK – EASTBOUND | PA LAN | SAN NA MENG | BO SANG
+HPK – SOUTHEAST BOUND AND SOUTHBOUND | PA LAN | SAN NA MENG | SAN KLANG | TOT | DOI TI
+HPK – SOUTHWEST BOUND | PA LAN | SAN NA MENG | SAN KLANG | TOT | DOI TI | TON TONG
+THA WANG PRAO
+1.19 VFR helicopter routes for departure and arrival at Phamuang Force, Nong Hor (HNH)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HNH – WESTBOUND NORTHWEST BOUND AND NORTHBOUND | SAN NA MENG | PA LAN | MAE JO | MAE RIM
+HNH – NORTHEAST BOUND | SAN NA MENG
+HNH – EASTBOUND | SAN NA MENG | BO SANG
+HNH – SOUTHEAST BOUND AND SOUTHBOUND | SAN NA MENG | SAN KLANG | TOT | DOI TI
+HNH – SOUTHWEST BOUND | SAN NA MENG | SAN KLANG | TOT | DOI TI | TON TONG | THA WANG PRAO
+1.20 VFR helicopter routes for departure and arrival at Kawila RTA Camp (HKW) and Pa Dad helipad (HPD)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HKW – NORTHWEST BOUND AND NORTHBOUND | SAN KLANG | SAN NA MENG | PA LAN | MAE JO | MAE RIM
+HKW – NORTHEAST BOUND | SAN KLANG | SAN NA MENG
+HKW – EASTBOUND | SAN KLANG
+HKW – SOUTHEAST BOUND AND SOUTHBOUND | SAN KLANG | TOT | DOI TI
+HKW – SOUTHWEST BOUND | SAN KLANG | TOT | DOI TI | TON TONG | THA WANG PRAO
+1.21 VFR helicopter routes for departure and arrival at Rue See Base (HRS)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HRS –NORTHBOUND | SAN KLANG | SAN NA MENG | PA LAN | MAE JO | MAE RIM
+HRS – NORTHEAST BOUND | SAN KLANG | SAN NA MENG
+HRS – EASTBOUND | SAN KLANG
+HRS – SOUTHBOUND SOUTHEAST BOUND AND SOUTHWEST BOUND | NAM PRAE | THA WANG PRAO
+1.22 VFR helicopter routes for departure and arrival at EGAT Hang Dong (HEG)
+Direction of Flight | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point | Reporting Point
+HEG – NORTHBOUND | TOT | SAN KLANG | SAN NA MENG | PA LAN | MAE JO | MAE RIM
+HEG – NORTHEAST BOUND | TOT | SAN KLANG | SAN NA MENG
+HEG – EASTBOUND | TOT | SAN KLANG
+HEG – SOUTHBOUND SOUTHEAST BOUND AND SOUTHWEST BOUND | NAM PRAE | THA WANG PRAO
+2. SPEED CONTROL PROCEDURE IN CHIANG MAI TMA
+All arriving turbo-propeller and turbo-jet aircraft when flying below 10000 ft AMSL are subject to fly not faster than indicated air speed 250 knots unless authorized by ATC.
+Speed will be reduced to 220 knots during 20-25 track miles from touchdown.
+180 knots at Intermediate fix (Including aircraft from RNAV STAR), or shortly before closing heading to intercept or to establish the final course,
+150 to 160 knots at FAP or FAF; all speed to be flown as accurately as possible. At the other times, speed control may be applied on a tactical basis to extent determined by ATC.
+Pilots who unable to comply with the speed limits specifics above for reasons of flight safety and/or weather conditions should inform ATC and state the speed acceptable.
+ATC will notify that the aircraft may keep its preferred speed without restriction and will use the phrase “NO SPEED RESTRICTIONS”. An instruction to notify that the aircraft need no longer comply with the previous issued speed restriction, the phrase “RESUME NORMAL SPEED” will be used.
+All aircraft navigating under conditions of RNAV STARs shall conform to speed limitation as published then at IF pilot shall comply with speed control procedures unless otherwise instructed by ATC.
+If the pilots do not comply, the flight shall follow ATC instruction for re-sequencing.
+NOTE - an instruction to “RESUME NORMAL SPEED” does not cancel speed restrictions that applicable to published procedure of upcoming segments of flight, aircraft shall comply speed restrictions specified in a) b) c) and d)
+VTCC
+AD 2.23 ADDITIONAL INFORMATION
+1. OPERATION OF ALL NON-SCHEDULED FLIGHT AT CHIANG MAI INTERNATIONAL AIRPOR
+1.1 All aircrafts wishing to operate at Chiang Mai International Airport shall adhere to the following procedures
+1.1.1 All flights, including flight selecting Chiang Mai International Airport as alternate aerodromes shall have handling agent at Chiang Mai International Airport.
+1.1.2 Nose-in parking is applicable to all aircrafts.
+1.1.3 All aircrafts ready to taxi out shall prepare their own tow bars.
+Remark : Aircraft below letter “C” is allowed to self-manoeuvre but must inform to Chiang Mai International Airport before doing so. Moreover, aircraft below letter “C” shall be correctly bonded and correct earthing procedure shall be employed.
+2. BIRD CONCENTRATIONS
+Chiang Mai International Airport has implemented various kinds of wildlife management programme to prevent the attraction of birds on its boundary along with dispersal tasks to tackle the number of birds that may potentially endanger the operating aircraft. Nevertheless, due to the factors that are beyond the airport capability or authority, certain types of birds are present below.
+2.1 Bird concentrations in the vicinity of an aerodrome.
+2.1.1 The number of varieties of birds are found in Chiang Mai International Airport throughout the year. The larger number of birds commonly found, and highly endangered kinds are as follows:
+Common name | Weight (kg) | Period
+Black-eared Kite | 0.56 - 0.94 | October – February (Winter Migration)
+Common Rock Dove | 0.18 – 0.36 | All year (Particularly in April - September)
+Red-Wattled Lapwing | 0.11-0.23 | All year
+2.1.2 There could be an increase in bird activities during the usual migratory months of September to April and November to June. During this period, migratory birds may use the airport as their feeding ground.
+2.1.3 Various active dispersal devices generating lights, sound or cracking effects are used for bird dispersal to mitigate wildlife hazards where necessary within Chiang Mai International Airport (such as pyrotechnic, horn, etc.).
+2.1.4 There could be some activities to reduce birds and make the area unattractive for birds such as mowing the grass and other plants, removing aquatic weeds from drainage.
+2.2 Grass mowing program
+2.2.1 Grass mowing in the airside may take place daily during 0100 - 1000 UTC (Daytime) and 1400 – 2300 (Nighttime)
+2.2.2 The mowing work is carried out in the following areas:
+grass areas outside the boundary of runways strip and the critical area
+grass areas outside the boundary of taxiways strip. For safety reasons, the work will stop when taxiing aircraft approaches.
+2.2.3 Presence of workers and machines are under ATC and AOT staff supervision.
+2.2.4 All grass mowing activities will attract birds; therefore, pilots are advised to exercise with caution.
+VTCC
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome chart - ICAO
+AD 2-VTCC-2-1
+Aircraft Parking/Docking Chart – ICAO
+AD 2-VTCC-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTCC-2-5
+Aerodrome Obstacle Chart - ICAO Type A - RWY 18/36
+AD 2-VTCC-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RWY 18
+AD 2-VTCC-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RWY 18 (Tabular description 1)
+AD 2-VTCC-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RWY 18 (Tabular description 2)
+AD 2-VTCC-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RWY 36
+AD 2-VTCC-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RWY 36 (Tabular description 1)
+AD 2-VTCC-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RWY 36 (Tabular description 2)
+AD 2-VTCC-6-7
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - ENBAT2S PANTA2S PUMAM2S
+AD 2-VTCC-6-9
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - ENBAT2S PANTA2S PUMAM2S (Tabular description)
+AD 2-VTCC-6-10
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - KABMU2S MONLO2S
+AD 2-VTCC-6-11
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - KABMU2S MONLO2S (Tabular description)
+AD 2-VTCC-6-12
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - ADLUS2S IGUDA2S LAMUN2S VISES2S
+AD 2-VTCC-6-13
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - ADLUS2S IGUDA2S LAMUN2S VISES2S
+(Tabular description)
+AD 2-VTCC-6-14
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - ADLUS2S IGUDA2S LAMUN2S VISES2S (Waypoint list table)
+AD 2-VTCC-6-15
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - LAMUN2W VISES2W
+AD 2-VTCC-6-17
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - LAMUN2W VISES2W (Tabular description)
+AD 2-VTCC-6-18
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2N IGUDA2N KABMU2N MONLO2N PANTA2N PUMAM2N
+AD 2-VTCC-6-19
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2N IGUDA2N KABMU2N MONLO2N PANTA2N PUMAM2N (Tabular description 1)
+AD 2-VTCC-6-20
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2N IGUDA2N KABMU2N MONLO2N PANTA2N PUMAM2N (Tabular description 2)
+AD 2-VTCC-6-21
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2N IGUDA2N KABMU2N MONLO2N PANTA2N PUMAM2N (Waypoint list table)
+AD 2-VTCC-6-22
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2C IGUDA2C KABMU2C MONLO2C PANTA2C PUMAM2C
+AD 2-VTCC-6-23
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2C IGUDA2C KABMU2C MONLO2C PANTA2C PUMAM2C (Tabular description 1)
+AD 2-VTCC-6-24
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2C IGUDA2C KABMU2C MONLO2C PANTA2C PUMAM2C (Tabular description 2)
+AD 2-VTCC-6-25
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ENBAT2C IGUDA2C KABMU2C MONLO2C PANTA2C PUMAM2C (Waypoint list table)
+AD 2-VTCC-6-26
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - LAMUN2N VISES2N
+AD 2-VTCC-6-27
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - LAMUN2N VISES2N (Tabular description)
+AD 2-VTCC-6-28
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ADLUS2N
+AD 2-VTCC-6-29
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - ADLUS2N (Tabular description)
+AD 2-VTCC-6-30
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2B CMA2B ENBAT2B KABMU2B MARNI2B MONLO2B PANTA2B PUMAM2B
+AD 2-VTCC-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2B CMA2B ENBAT2B KABMU2B MARNI2B MONLO2B PANTA2B PUMAM2B (Radio communication failure table)
+AD 2-VTCC-7-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2B CMA2B ENBAT2B KABMU2B MARNI2B MONLO2B PANTA2B PUMAM2B (Tabular description 1)
+AD 2-VTCC-7-3
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2B CMA2B ENBAT2B KABMU2B MARNI2B MONLO2B PANTA2B PUMAM2B (Tabular description 2)
+AD 2-VTCC-7-4
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2B CMA2B ENBAT2B KABMU2B MARNI2B MONLO2B PANTA2B PUMAM2B (Tabular description 3)
+AD 2-VTCC-7-5
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2B CMA2B ENBAT2B KABMU2B MARNI2B MONLO2B PANTA2B PUMAM2B (Waypoint list table)
+AD 2-VTCC-7-6
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2X LAMUN2X VISES2X
+AD 2-VTCC-7-7
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2X LAMUN2X VISES2X (Radio communication failure table)
+AD 2-VTCC-7-8
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - ADLUS2X LAMUN2X VISES2X
+(Tabular description)
+AD 2-VTCC-7-9
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ENBAT2A MARNI2A PANTA2A PUMAM2A
+AD 2-VTCC-7-11
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ENBAT2A MARNI2A PANTA2A PUMAM2A
+(Radio communication failure table)
+AD 2-VTCC-7-12
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ENBAT2A MARNI2A PANTA2A PUMAM2A
+(Tabular description)
+AD 2-VTCC-7-13
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ENBAT2A MARNI2A PANTA2A PUMAM2A (Waypoint list table)
+AD 2-VTCC-7-14
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ADLUS2A CMA2A KABMU2A MONLO2A
+AD 2-VTCC-7-15
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ADLUS2A CMA2A KABMU2A MONLO2A
+(Radio communication failure table)
+AD 2-VTCC-7-16
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ADLUS2A CMA2A KABMU2A MONLO2A
+(Tabular description 1)
+AD 2-VTCC-7-17
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - ADLUS2A CMA2A KABMU2A MONLO2A
+(Tabular description 2)
+AD 2-VTCC-7-18
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - LAMUN2A VISES2A
+AD 2-VTCC-7-19
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - LAMUN2A VISES2A (Radio communication failure table)
+AD 2-VTCC-7-20
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - LAMUN2A VISES2A (Tabular description)
+AD 2-VTCC-7-21
+Instrument Approach Chart - ICAO - VOR a RWY 18
+AD 2-VTCC-8-1
+Instrument Approach Chart - ICAO - VOR a RWY 18 (Fix and point list table)
+AD 2-VTCC-8-2
+Instrument Approach Chart - ICAO - VOR RWY 36
+AD 2-VTCC-8-3
+Instrument Approach Chart - ICAO - VOR RWY 36 (Fix and point list table)
+AD 2-VTCC-8-4
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 36
+AD 2-VTCC-8-5
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 36 (Fix and point list table)
+AD 2-VTCC-8-6
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 36
+AD 2-VTCC-8-7
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 36 (Tabular description)
+AD 2-VTCC-8-8
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 36 (Fix and point list table)
+AD 2-VTCC-8-9
+Instrument Approach Chart - ICAO - RNP RWY 18
+AD 2-VTCC-8-11
+Instrument Approach Chart - ICAO - RNP RWY 18 (Tabular description)
+AD 2-VTCC-8-12
+Instrument Approach Chart - ICAO - RNP RWY 36
+AD 2-VTCC-8-13
+Instrument Approach Chart - ICAO - RNP RWY 36 (Tabular description)
+AD 2-VTCC-8-14

@@ -1,0 +1,769 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPM
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPM-en-GB.html
+VTPM
+— Tak/ Mae Sot
+VTPM
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTPM
+— Tak/ Mae Sot
+VTPM
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+164159.73N
+0983300.44E
+2
+Direction and distance from (city)
+5 km W, from city
+3
+Elevation/Reference temperature
+693 ft / 37°C
+4 | Geoid Undulation at AD ELEV PSN
+-128 ft
+5
+MAG VAR/Annual change
+0°47' W(2025)/0°2'E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Mae Sot Airport
+Mae Sot Airport
+Amphoe Mae Sot
+Tak Province
+Thailand
+Tel:
++665 556 3620
+Fax:
++665 554 4593
+AFS:
+VTPMYDYX
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTPM
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+0130-1100
+2
+Customs and immigration
+On request
+3
+Health and sanitation
+On request
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+0130-1100
+6
+MET Briefing Office
+NIL
+7
+ATS
+0130-1100
+8
+Fuelling
+NIL
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Phitsanulok Airport (1st floor of airport building)
+Tel: +665 530 1078
+Tel: +669 2262 3140
+Fax: +665 530 1077
+VTPM
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+NIL
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTPM
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+in the cityTPASSENGER_FACILITY;Annotation:987.eng;611
+2
+Restaurants
+in the cityTPASSENGER_FACILITY;Annotation:988.eng;612
+3
+Transportation
+Car rentalTPASSENGER_FACILITY;Annotation:2911.eng;1263
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+NIL
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTPM
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 6
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1840.eng;537
+3
+Capability for removal of disabled aircraft
+Available up to A320/B737-800
+For removal of disabled aircraft by contracted external
+resource please contact aerodrome coordinator:
+Airport safety manager:
+Tel: +665 556 3620
+4
+Remarks
+All aircraft capable of aerodrome use can be removed using contracted external resource
+VTPM
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTPM
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Apron 1
+Surface: Asphaltic concrete
+Strength: PCN 34/F/C/X/
+Apron 2
+Surface: Concrete
+Strength: PCN 42/R/C/X/
+2 | Taxiway width, surface and strength
+Taxiway A
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 34/F/C/X/
+Taxiway B and Taxiway C
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 42/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location: At Apron
+Elevation: 690 ft
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTPM
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+Nose-wheel guide lines at apron
+VDGS of aircraft stands: Aircraft stand No.2 at Apron 2
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, , , CL, Aiming Point and Side StripeTRWY_MARKING;Annotation:2912.eng;1013
+RWY LGT: , RWY Edge and RWY End
+TWY marking: CL, Edge and RWY Holding PositionTTWY_MARKING;Annotation:2913.eng;1515
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTPM
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 09/TKOF Area
+Radio mast
+ELEV 958 ft (292 m)
+NIL/NIL
+164223.8N
+0983637.2E
+Building
+ELEV 860 ft (262 m)
+NIL/NIL
+164235.0N
+0983421.0E
+NIL
+RWY 09/TKOF Area
+Radio mast
+ELEV 899 ft (274 m)
+Painted red/white
+NIL
+164224.4N
+0983642.7E
+Radio mast
+ELEV 860 ft (262 m)
+NIL/NIL
+164207.5N
+0983015.8E
+RWY 09/TKOF Area
+Radio mast
+ELEV 1060 ft (323 m)
+NIL/NIL
+164213.5N
+0983707.5E
+Radio mast
+ELEV 860 ft (262 m)
+Painted red/white
+NIL
+164210.1N
+0983106.4E
+Radio mast
+ELEV 850 ft (259 m)
+NIL/NIL
+164347.2N
+0983334.9E
+Radio mast
+ELEV 840 ft (256 m)
+NIL/NIL
+164403.9N
+0983403.6E
+Radio mast
+ELEV 846 ft (258 m)
+NIL/NIL
+164335.8N
+0983504.2E
+Radio mast
+ELEV 846 ft (258 m)
+Painted red/white
+NIL
+164242.7N
+0983424.9E
+Radio mast
+ELEV 860 ft (262 m)
+Painted red/white
+NIL
+164255.0N
+0983505.7E
+Radio mast
+ELEV 866 ft (264 m)
+Painted red/white
+NIL
+164256.3N
+0983513.9E
+Radio mast
+ELEV 863 ft (263 m)
+Painted red/white
+NIL
+164259.5N
+0983528.5E
+Radio mast
+ELEV 1083 ft (330 m)
+NIL/NIL
+164356.9N
+0983359.0E
+Radio mast
+ELEV 860 ft (262 m)
+NIL/NIL
+164224.0N
+0983425.0E
+Radio mast
+ELEV 850 ft (259 m)
+NIL/NIL
+164217.3N
+0983221.4E
+Radio mast
+ELEV 879 ft (268 m)
+NIL/NIL
+164402.2N
+0983358.8E
+Radio mast
+ELEV 896 ft (273 m)
+NIL/NIL
+164305.9N
+0983341.5E
+Water tank
+ELEV 833 ft (254 m)
+NIL/NIL
+164219.6N
+0983233.9E
+At Aerodrome
+Apron flood light pole
+ELEV 781 ft (238 m)
+NIL/LGTD
+164206.3N
+0983233.7E
+Apron flood light pole
+ELEV 781 ft (238 m)
+NIL/LGTD
+164206.3N
+0983235.7E
+Apron flood light pole
+ELEV 781 ft (238 m)
+NIL/LGTD
+164206.3N
+0983237.7E
+Apron flood light pole
+ELEV 778 ft (237 m)
+NIL/LGTD
+164206.4N
+0983238.6E
+Apron flood light pole
+ELEV 778 ft (237 m)
+NIL/LGTD
+164208.3N
+0983240.9E
+Apron flood light pole
+ELEV 778 ft (237 m)
+NIL/LGTD
+164208.3N
+0983242.9E
+Apron flood light pole
+ELEV 778 ft (237 m)
+NIL/LGTD
+164208.3N
+0983244.9E
+Apron flood light pole
+ELEV 778 ft (237 m)
+NIL/LGTD
+164208.4N
+0983247.0E
+ATC tower
+ELEV 771 ft (235 m)
+Painted red/white
+LGTD
+164206.9N
+0983235.8E
+VTPM
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Mae Sot,
+Northern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+0000-1100
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Northern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2283.eng;811
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2284.eng;811
+Tel: +665 556 3286TSERVICE;Annotation:2285.eng;811
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2286.eng;811, U85TSERVICE;Annotation:2287.eng;811, Daily Weather ForecastTSERVICE;Annotation:2288.eng;811, satellite and radar imagesTSERVICE;Annotation:2289.eng;811
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS)
+9
+ATS units provided with information
+Mae Sot TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTPM
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+09
+089.13°
+2100x45
+PCN 42/F/C/X/
+Asphaltic concrete
+164159.42N
+0983238.85E
+-128 ft
+691 ft
+27
+269.13°
+2100x45
+PCN 42/F/C/X/
+Asphaltic concrete
+164200.25N
+0983335.89E
+-127 ft
+681 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | Location and description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+NIL
+NIL
+NIL
+2220x280
+240x90
+NIL
+NIL
+THR displaced by 410 m
+NIL
+NIL
+NIL
+2220x280
+240x90
+NIL
+NIL
+NIL
+VTPM
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+09
+2100
+2100
+2100
+1690
+THR displaced by 410 M
+27
+2100
+2100
+2100
+2100
+NIL
+VTPM
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+09
+NIL
+Green
+NIL
+NIL
+NIL
+NIL
+2100 M
+60 M
+White;
+FM 0 M - 410 M Red,
+FM 410 M - 1500 M White,
+FM 1500 M -2100 M Yellow,
+5 steps, LIH
+Red
+NIL
+NIL
+NIL
+27
+SALS
+420 M
+LIH
+Green
+NIL
+PAPI
+Left 3.4°
+(53.60 FT)
+NIL
+NIL
+2100 M
+60 M
+White,
+FM 1500 M - 2100 M Yellow,
+5 steps, LIH
+Red
+NIL
+NIL
+RTIL
+VTPM
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1841.eng;588, FLG W G EV 2.5 SECTAERO_GND_LGT;Annotation:1842.eng;588.
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+WDI: 1. Wind cone at 322 M from THR 27 off set left side 80 M from RCL, illuminatedTAD_HP;Annotation:2916.eng;471
+2. Wind cone at 1834 M from THR 27 off set right side 80 M from RCL, illuminatedTAD_HP;Annotation:3262.eng;471
+Anemometer: NIL
+3
+TWY edge and centre line lighting
+Edge: All TWY
+Centre Line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Airfield Lighting (AFL) building
+Switch- over time: 11 SECTAD_HP;Annotation:1845.eng;471.
+5
+Remarks
+NIL
+VTPM
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTPM
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+Starting from a point 164442N 0982900E and then clockwise along 5NM arc radius centred on MS DVOR/DME
+(164152N 0983230E) to a point 163700N 0983500E and then along Bangkok FIR to the starting point.
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Mae Sot Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTPM
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Mae Sot Approach
+120.65 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Mae Sot Tower
+121.5 MHz)
+118.35 MHz
+236.6 MHz
+As AD OPR HR
+A
+Mae Sot Airport
+126.65 MHZ
+As AD OPR HR
+VTPM
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+MS
+316
+KHz
+H24
+164206.9N
+0983223.2E
+NIL
+Data refer from commissioning as follows:
+50 NM orbit flown from bearing 340°-170° clockwise orbit at altitude 7 500 ft result found satisfactory
+Bearing 171°-339° clockwise orbit unable to perform due to border limited
+DVOR/DME
+MS
+116.7
+MHz
+CH114X
+H24
+164152.1N
+0983229.6E
+210 m (700 ft)
+DVOR/DME restrictions,
+Unusable due to roughness out of tolerance
+Radial 104° distance between 6.0-13.0 DME altitude 5 500 ft
+Radial 012° distance between 22.0-24.0 DME altitude 5 000 ft
+Radial 124° distance between 32.0-34.0 DME altitude 6 600 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at the required altitude in various areas as follows:
+Radial 000°-030° altitude should not below 7 000 ft
+Radial 031°-060° altitude should not below 9 000 ft
+Radial 061°-070° altitude should not below 10 000 ft
+Radial 071°-120° altitude should not below 9 000 ft
+Radial 121°-360° unable to perform due to border limited
+VTPM
+AD 2.20 LOCAL AERODROME REGULATIONS
+- All aircraft flying to Mae Sot Airport are requested to use RWY 27 for landing due to RWY 09 unsuitable, because it may cross over Yangon FIR while approaching to land.
+- To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, aircraft code letter C (Wing span above 24 M.) or higher are not allowed to make 180 degrees turn on the runway. The turn shall be made on the runway turn pad located on both end of runway. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTPM
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTPM
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute a visual departure:
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 09:
+MAESOT OMNI 09 Departure: Required climb gradient 365 ft per NM (6.0%) until 7,500 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb 6.0% | (ft/min) | 395 | 456 | 608 | 911 | 1215 | 1519 | 1823
+No turn before DER.
+After departure climb straight ahead 3,000 ft (or altitude assigned by ATC between 3,000 – 6,500 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTPM
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+Bird concentrations in the vicinity of an aerodrome.
+VTPM
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTPM-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTPM-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTPM-2-5
+Aerodrome Obstacle Chart - ICAO Type A - RWY 09/27
+AD 2-VTPM-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 09 - KADAV1A KADAV1B KADAV1C VEGRA1A
+AD 2-VTPM-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 09 - KADAV1A KADAV1B KADAV1C VEGRA1A (Tabular description)
+AD 2-VTPM-6-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - KADAV1W TORAN1W URGUM1W VEGRA1W
+AD 2-VTPM-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - KADAV1W TORAN1W URGUM1W VEGRA1W (Tabular description)
+AD 2-VTPM-7-2
+Instrument Approach Chart - ICAO - VOR RWY 27
+AD 2-VTPM-8-1
+Instrument Approach Chart - ICAO - VOR RWY 27 (Fix and point list table)
+AD 2-VTPM-8-2
+Instrument Approach Chart - ICAO - RNP RWY 27
+AD 2-VTPM-8-3
+Instrument Approach Chart - ICAO - RNP RWY 27 (Tabular description)
+AD 2-VTPM-8-4

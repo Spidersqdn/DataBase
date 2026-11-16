@@ -1,0 +1,2062 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTBD
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTBD-en-GB.html
+AD 2 AERODROMES
+VTBD
+— Bangkok/ Don Mueang International Airport
+VTBD
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTBD
+— Bangkok/ Don Mueang International Airport
+VTBD
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+135452N
+135451.74N
+1003620E.49E
+centre line of RWY 03L/21R, 1510 m from THR RWY 21R
+2
+Direction and distance from (city)
+12 NM NE of Bangkok
+3
+Elevation/Reference temperature
+3
+2.65 m (9 ft) / 32.6°C
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+0°43' W (2025) /0°2' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Airports of Thailand Public Company Limited (AOT)
+Don Mueang International Airport
+222 Vibhavadi Rangsit Road, Donmueang,
+Bangkok 10210
+Thailand
+Tel:
++662 535 1515
+Tel:
++662 535 1516
+Fax:
++662 535 1065
+Fax:
++662 535 1306
+Email:
+[email protected]
+URL:
+www.airportthai.co.th
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Airports of Thailand Public Company Limited (AOT)
+VTBD
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+H24
+2
+Customs and immigration
+H24
+3
+Health and sanitation
+H24
+4
+AIS Briefing Office
+H24
+5
+ATS Reporting Office (ARO)
+H24
+6
+MET Briefing Office
+H24
+7
+ATS
+H24
+8
+Fuelling
+H24
+9
+Handling
+H24
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+AIS Briefing Office and ATS Reporting Office (ARO):
+Located at 2nd floor, the central block building, Don Mueang International Airport
+Tel: +66 2515 3263
+Fax: +66 2535 1879
+AFTN: VTBDZPZX
+E-mail: [email protected]
+VTBD
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+Available form
+Asia Ground Service Co.,Ltd (AGS)
+7 Forklifts (7 t - 1 Forklifts, 5 t - 1 Forklifts, 3 t - 1 Forklifts, 2.5 t -4 Forklifts)
+3 Electric Hand-lifts (1.5 t - 3 Forklifts), 2 Trucks
+Handling weight up to 200 t per day.
+Technology Asia Pacific Co.,Ltd (TAP)
+4 Forklifts (7 t - 1 Forklifts, 2.5 t - 3 Forklifts)
+Handling weight up to 200 t per day.
+2
+Fuel/oil types
+Jet A1 and AVGAS
+3
+Fuelling facilities/capacity
+Bangkok Aviation Fuel Service Public Co.,Ltd. (BAFS)
+URL:
+www.bafsthai.com
+Tel:
++662 834 8900
+Fax:
++662 834 8999
+Fuel Dispenser Truck: 21
+Fuel Truck: 7, Capacity: 65,000 L
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+Private Aircraft operated by Mjets Ltd.
+6
+Repair facilities for visiting aircraft
+Private Aircraft operated by Mjets Ltd.
+7
+Remarks
+The airport has provided ground handling agents as following number:
+AGS CARGO DMK
+Email:
+[email protected]
+Tel:
++662 504 3821-3
+Tel:
++669 5208 4161-2
+Fax:
++662 504 3825
+AOT GROUND AVIATION SERVICES CO., LTD. (AOTGA)
+URL: www.aotga.com
+Ground Handling InquiryTTEL_CONTACT;Annotation:2504.eng;1048:
+- Marketing DepartmentTTEL_CONTACT;Annotation:2021.eng;1048
+Email:
+[email protected]
+Tel:
++666 4182 5396
+Operation InquiryTTEL_CONTACT;Annotation:2505.eng;1050:
+- Ground Operations Control/Operations DepartmentTONLINE_CONTACT;Annotation:2022.eng;986
+Email:
+[email protected], [email protected],
+Tel:
++668 2941 7679 (24 hrs.)
+Tel:
++666 4182 5391 (24 hrs.)
+Tel:
++662 535 3818 (24 hrs.)
+Radio contact Call sign: Blue Port Don Mueang
+Frequency:129.350MHz
+- GA Aviation Channel (Private aircraft) and AOTGA Premium LoungeTTEL_CONTACT;Annotation:3161.eng;1708
+Ground & Operation DepartmentTTEL_CONTACT;Annotation:3162.eng;1708
+Email:
+[email protected]
+Tel:
++666 4182 5389 (24 hrs.)
+BANGKOK AIR CATERING DON MUEANG CO., L
+Email:
+[email protected]
+MJETS LIMI (Private Aircraft only)
+Handling ServiceTONLINE_CONTACT;Annotation:282.eng;279
+Email:
+[email protected]
+Tel:
++662 034 5622 (24 hrs.)
+Tel:
++668 5485 6623 (24 hrs.)
+VHF FREQ:131.175MHZ " MJets OPS "
+AOG Support & MRO
+Email:
+[email protected]
+Tel:
++668 5484 8722
+TAP CARGO DMK
+Email:
+[email protected]
+Tel:
++662 157 3539
+Fax:
++662 157 3540
+SITA:
+DMK, DMK
+THAI AIRWAYS INTERNATIONAL PUBLIC CO.,LTD. (TG)
+Email:
+[email protected]
+Tel:
++662 563 8107
+Fax:
++662 563 8106
+SITA:
+DMKZM
+AFS:
+V
+VTBD
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+At the 4th floor (Terminal 2)
+Tel:
++662 535 7555-8
+Also near AD and in the cityTPOSTAL_ADDR;Annotation:1086.eng;709
+2
+Restaurants
+At the AD and in the cityTPASSENGER_FACILITY;Annotation:1087.eng;636
+3
+Transportation
+Public TaxiTPASSENGER_FACILITY;Annotation:1088.eng;637, Airport TaxiTPASSENGER_FACILITY;Annotation:1089.eng;637, Limousine serviceTPASSENGER_FACILITY;Annotation:1090.eng;637, Airport Shuttle BusTPASSENGER_FACILITY;Annotation:1091.eng;637, Limo BusTPASSENGER_FACILITY;Annotation:1092.eng;637, TrainTPASSENGER_FACILITY;Annotation:1093.eng;637, BusTPASSENGER_FACILITY;Annotation:1094.eng;637 and Car rental serviceTPASSENGER_FACILITY;Annotation:1095.eng;637.
+4
+Medical facilities
+First aid at Airport Clinic, H24TPASSENGER_FACILITY;Annotation:1096.eng;638
+5
+Bank and Post Office
+Bank: At Terminal 1 & 2TPASSENGER_FACILITY;Annotation:1097.eng;639
+Post office: At the 3rd Floor (Terminal 1 & 2)
+Tel:
++662 504 3070 (Terminal 1TTEL_CONTACT;Annotation:1098.eng;899)
+Tel:
++662 504 3181 (Terminal 2TTEL_CONTACT;Annotation:1099.eng;900)
+Open : Daily 0130 - 1200TPASSENGER_FACILITY;Annotation:1100.eng;640
+6
+Tourist Office
+Office at the 1st Floor (Terminal 1)
+Arrival hallTTEL_CONTACT;Annotation:1101.eng;901;
+Tel:
++662 535 3433
+7
+Remarks
+For further informationTPASSENGER_FACILITY;Annotation:1102.eng;642
+Tel:
++662 535 1192
+Tel:
++662 535 2110
+Email:
+[email protected]
+VTBD
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 9
+2
+Rescue equipment
+Adequately provided as recommended by ICAO
+3
+Capability for removal of disabled aircraft
+Available up to B747TAD_HP_GND_SER;Annotation:1104.eng;545
+4
+Remarks
+For removal of disabled aircraft by contracted external resource please contact aerodrome coordinator:
+Airport Operations Department
+- Airside Services Division
+Tel: +662 535 1283
+Tel: +662 535 1288
+Rescue and Fire Fighting Department
+- Aircraft Fire Fighting Division
+Tel: +662 535 1118
+VTBD
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTBD
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+North Apron
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+Pier 2-3
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+Pier 3-4
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+Pier 4-5
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+Pier 5-6
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+Pier 6
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+South Apron
+Surface: Concrete
+Strength: PCR 830/R/B/W/
+2 | Taxiway width, surface and strength
+Width: 23 m - 50 m
+Surface: Concrete
+Strength: See Aerodrome Ground Movement Chart - ICAO for taxiway strength, surface and width.
+3
+Altimeter checkpoint location and elevation
+Location: At Apron
+Elevation: 3.25 m/10 ft
+4
+VOR checkpoints
+Location:
+- At holding position RWY 21R on TWY B (north) - RDL 023/2.2 NM
+- At holding position RWY 03L on TWY S (nearby TWY C) - RDL 012/0.6 NM
+Radio frequency: 117.7 MHz
+5
+INS checkpoints
+See Aerodrome Ground Movement Chart - ICAO (Verso) for coordinates of aircraft stand.
+6
+Remarks
+See Aerodrome Ground Movement Chart - ICAO for REMARKS
+- Taxilane T between TWY V and TWY S can be used for Aircraft Code Letter A, B, C, D only
+- TWY Y conditions of use:
+When RWY 03R/21L is in use by arriving and departing aircraft, TWY Y is not allowed
+to be used by other aircraft. On the contrary if TWY Y is in use by any aircraft,
+RWY 03R/21L will not be allowed to be used by other aircraft.
+VTBD
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Taxiing guidance signs at all intersections with TWY and RWY at all holding positions.
+Nose-wheel guide lines at aprons
+Solid nose-wheel guide lines at aircraft stands
+Guide lines at apron.
+Nose-in guidance at aircraft stands.
+2
+RWY and TWY markings and LGT
+RWY: Designation, THR, TDZ, centre line, RWY Edge, RWY End
+as appropriate, marked and lighted.
+TWY: Holding position at all TWY/RWY Intersections, marked.
+Edge at all TWY, marked and lighted
+Centre line at all TWY, marked.
+Centre line at D, E, F, J, O, R, S, C, C (south), lighted
+Intermediate holding position light are provided at all TWY intersections along TWY C.
+3
+Stop bars
+Stop Bar Lights installed detail as follow:
+At holding position RWY 21R on TWY B north, distance 130 m from RCL
+At holding position RWY 21R on TWY D, distance 130 m right side of RCL
+At holding position RWY 21R on TWY D, distance 210 m left side of RCL
+At holding position RWY 21R on TWY E, distance 90 m right side of RCL
+At holding position RWY 21R on TWY J, distance 90 m right side of RCL
+At holding position RWY 21R on TWY S, distance 90 m right side of RCL
+At holding position RWY 21R on TWY S, distance 130 m left side of RCL
+At holding position RWY 21R on TWY C south, distance 90 m from RCL
+4
+Remarks
+Aircraft marshalling and Towing service:
+The marshalling of scheduled and non-scheduled aircraft into the bays either manually and the pushing out of aircraft for departure shall be under the responsibility of the aircraft operator or its appointed ground handling agency.
+VTBD
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+NIL
+Radio mast
+HGT 70 m
+Marked, Lighted
+135307.986N
+1003351.109E
+NIL
+Radio mast
+HGT 61 m
+Marked, Lighted
+1354532.097N
+1003709.84E
+NIL
+Building
+HGT 78 m
+Marked, Lighted
+135339.003N
+1003341.633E
+NIL
+Building
+HGT 87.10 m
+Lighted
+135212.877N
+1003403.106E
+NIL
+Building
+HGT 50 m
+Lighted
+135711.109N
+1003715.04E
+NIL
+VTBD
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorology Division,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Aeronautical Meteorology Division
+30 HR
+4
+Type of landing forecast
+Interval of issuance
+TRENDTSERVICE;Annotation:1201.eng;818
+30 MinTSERVICE;Annotation:1202.eng;818
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2104.eng;818
+Tel: +662 535 1256TSERVICE;Annotation:2105.eng;818
+Fax: +662 535 1252TSERVICE;Annotation:2106.eng;818
+6
+Flight documentation
+Language(s) used
+Charts, Tabular formsTSERVICE;Annotation:1108.eng;818 and Abbreviated Plain Language TextsTSERVICE;Annotation:1107.eng;818.
+English
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2107.eng;818, U85TSERVICE;Annotation:2108.eng;818, SWHTSERVICE;Annotation:2109.eng;818, SWMTSERVICE;Annotation:2110.eng;818, SWLTSERVICE;Annotation:2111.eng;818, P85TSERVICE;Annotation:2112.eng;818, P70TSERVICE;Annotation:2113.eng;818, P50TSERVICE;Annotation:2114.eng;818,P40TSERVICE;Annotation:2115.eng;818, P30TSERVICE;Annotation:2116.eng;818, P25TSERVICE;Annotation:2117.eng;818, P20TSERVICE;Annotation:2118.eng;818, P15TSERVICE;Annotation:2119.eng;818, satellite and radar picturesTSERVICE;Annotation:2120.eng;818
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Don Mueang TWR
+10 | Additional information (limited of service, etc.)
+NIL
+VTBD
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY(M)
+Strength (PCR) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+03L
+029.00°
+029°
+3700x60
+PCR 1200/R/C/W/
+Asphalt
+217 m FM THR and
+122 m RWY ends
+are PCR 670/R/B/W/T
+Concrete
+135349.24N
+1003545.38E
+THR 2.0 m/7.0
+21R
+209.00°
+209°
+3700x60
+PCR 1200/R/C/W/
+Asphalt
+122 m FM THR and
+217 m RWY ends
+are PCR 670/R/B/W/T
+Concrete
+135534.87N
+1003644.62E
+THR 2.0 m/7.0
+03R
+028.00°
+028°
+3500x45
+PCR 1000/F/C/X/
+Asphalt
+135358.45N
+1003605.50E
+THR 1.49 m/5
+21L
+208.00°
+208°
+3500x45
+PCR 1000/F/C/X/
+Asphalt
+135528.33N
+1003655.97E
+THR 1.9.92 m/6.34
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | Location and description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+-0.05% 0% -0.05%
+(350m 2 850m 500m)TRWY_DIRECTION;Annotation:61.eng;97
+NIL
+150x150
+3820x260
+240x120
+NIL
+NIL
+NIL
++0.056% 0% -0.05%
+(500m 2 850m 350m)TRWY_DIRECTION;Annotation:62.eng;98
+NIL
+150x150
+3820x260
+240x110
+NIL
+NIL
+NIL
++0.03% -0.036%
+(2 000m 1 500m)TRWY_DIRECTION;Annotation:63.eng;99
+NIL
+150x150
+3620x160
+90x90
+NIL
+NIL
+NIL
++0.036% -0.03%
+(1 500m 2 000m)TRWY_DIRECTION;Annotation:64.eng;100
+NIL
+150x150
+3620x160
+240x90
+NIL
+NIL
+NIL
+VTBD
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+03L
+3700
+3850
+3700
+3700
+NIL
+21R
+3700
+3850
+3700
+3700
+NIL
+03R
+3500
+3650
+3500
+3500
+NIL
+21L
+3500
+3650
+3500
+3150
+NIL
+VTBD
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THRLGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+03L
+SALS
+420 m
+LIH
+Green
+PAPI
+Both
+3°
+(71.85 ft)
+NIL
+3700m, 30 m
+White
+FM 2800 m-3400 m
+Red/White;
+FM 3400 m
+Red; LIH
+3700 m, 60 m
+White,
+FM 3100 m-3700 m
+Yellow; LIH
+Red
+NIL
+NIL
+21R
+CAT II
+900 m
+LIH
+with FLG
+Green
+PAPI
+Both
+3°
+(65.42 ft)
+900 m
+3700 m, 30 m
+White
+FM 2800 m-3400 m
+Red/White;
+FM 3400 m
+Red; LIH
+3700 m, 60 m
+White,
+FM 3100 m-3700 m
+Yellow; LIH
+Red
+NIL
+NIL
+03R
+SALS
+(5 BAR)
+300 m
+LIH
+Green
+PAPI
+Both
+3°
+(63.35 ft)
+NIL
+NIL
+3500 m, 60 m
+White;
+FM 2900 m-3500 m
+Yellow; LIH
+Red
+NIL
+NIL
+21L
+CAT I
+900 m
+LIH
+with FLG
+Green
+PAPI
+Both
+3°
+(63.81 ft)
+NIL
+NIL
+3500 m, 60m
+Red;
+FM 350 m-2900 m
+White
+FM 2900 m Yellow; LIH
+Red
+NIL
+NIL
+VTBD
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At the top of TWR-S BuildingTAERO_GND_LGT;Annotation:1109.eng;507 FLG WG EV 3 SecTAERO_GND_LGT;Annotation:823.eng;507
+IBN: NIL
+HN: IMC
+2
+LDI location and LGT
+Anemometer location and LGT
+WDI
+: 1 WDI 375 m FM THR RWY 21R AND 179 m FM RWY 21R CL, BTN RWY 21R AND 21L illuminatedTAD_HP;Annotation:1131.eng;229
+: 1 WDI left side of THR RWY 21L, 158 m FM RWY CL illuminatedTAD_HP;Annotation:1132.eng;229
+3
+TWY edge and centre line lighting
+Edge: All TWY
+Centre Line: TWY D, E, F, J, O, R, S, C, C (south)
+4
+Secondary power supply/switch-over time
+-Secondary power supply to all lighting at RWY 21L/03R
+Switch-over time: 0 SecTAD_HP;Annotation:1133.eng;229
+-Secondary power supply to all lighting at RWY 21R/03L
+Switch-over time: 0 SecTAD_HP;Annotation:1134.eng;229
+5
+Remarks
+NIL
+VTBD
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+Helicopters to approach using active runway and land as instructed by ATC.
+VTBD
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+Don Mueang Aerodrome Traffic Zone (ATZ) a circle, radius 5 NM centred on V ARP (135452N 1003620E)
+2
+Vertical limits
+2000
+ft / AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Don Mueang Tower
+English, Thai
+5
+Transition altitude
+11000 ft MSL
+6
+Remarks
+NIL
+VTBD
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Bangkok Approach
+119.1 MHz / 274.5 MHz
+120.3 MHz / 274.5 MHz
+122.35 MHz / 274.5 MHz
+124.35 MHz / 274.5 MHz
+125.2 MHz / 274.5 MHz 133.4 MHz / 274.5 MHz
+125.8 MHz)
+121.5 MHz) / 243.0MHz)
+H24
+1) Emergency frequency
+2)Clearance delivery for
+helicopters operating within
+BKK CTR
+3)Arrival ATIS
+4)Departure ATIS
+Don Mueang Approach
+119.4 MHz / 274.5 MHz
+121.5 MHz) / 243.0MHz)
+H24
+Don Mueang Arrival
+133.0 MHz / 274.5 MHz
+121.5 MHz) / 243.0MHz)
+H24
+Don Mueang Tower
+118.1 MHz / 236.6 MHz
+121.5 MHz) / 243.0 MHz)
+H24
+Don Mueang Ground
+121.9 MHz / 257.8 MHz
+122.5 MHz / 257.8 MHz
+H24
+Don Mueang Delivery
+127.7 MHz | H24
+ATIS
+Don Mueang Intl Airport
+126.4 MHz)/ 344.6 MHz)/ 118.55 MHz)
+H24
+VTBD
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid, MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give VAR)
+ID
+Frequency
+Hours of operation
+Positions of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+BKK
+117.7 MHz
+CH 124X
+H24
+135336.7N
+1003546.3E
+0 m
+(0 ft)
+DVOR/DME restriction due to obstacles surround DVOR/DME station, coverage check does not provide adequate signal 40 NM at required altitude in various areas as follows:
+Radial 321°-030° altitude should not below 2 500 ft.
+Radial 031°-060° altitude should not below 4 000 ft.
+Radial 061°-120° altitude should not below 3 000 ft.
+Radial 121°-320° altitude should not below 4 000 ft.
+ILS CAT ll
+LOC-21R
+IBKK
+109.3 MHz | H24
+135340.6N
+1003540.6E
+Instrument Landing System
+- Reference Datum Height (RDH) is 16.46 m (54 ftTILS_GP;Annotation:285.eng;146).
+A. Localizer
+- LOC 300 m. (984 ft.) from THR RWY 03L, along RWY centre line. Course width 3°
+B. Glide Path 3°
+- GP 333 m. (1,093 ft.) from THR RWY 21R, 120 m. (394 ft.) from RWY centre line.
+C.DME
+- Co-located with GP.
+GP 21R
+332.0 MHz
+H24
+135523.4N
+1003642.8E
+DME | | CH 30X
+135523.4N
+1003642.8E
+0 m
+(0 ft)
+ILS CAT I
+LOC
+21L
+IDMG
+110.3 MHz
+H24
+135351.8N
+1003601.8E
+Instrument Landing System
+Reference Datum Height (RDH) is 53 ft.
+A. Localizer
+LOC 225 m. from THR RWY 03R, along RWY centre line.
+Course width 3.6°
+B. Glide Path 3°
+GP 320 m. from THR RWY 21L, 120 m. from RWY centre line.
+C. DME
+Co-located with GP
+GP 21L
+335.0 MHz
+H24
+135521.2N
+1003647.4E
+DME 21L | | CH40X
+135521.2N
+1003647.4E
+0 m
+(0 ft)
+ILS CAT I
+LOC
+03L
+IBKD
+109.7 MHz
+CH34X
+H24
+135543.8N
+1003649.7E
+Instrument Landing System
+Designated operation coverage 9 DME (IBKD), ALT 6000 ft/AMSL
+Reference Datum Height (RDH) is 55 ft.
+A. Localizer
+Course width 3.0°
+B. Glide Path 3°
+GP unusable beyond 6° right side of localizer course
+C. DME
+Co-located with LOC
+DME 03L | | | H24
+135544.8N
+1003647.5E
+0 m
+(0 ft)
+GP 03L
+333.2 MHz | H24
+135356.4N
+1003554.0E
+VTBD
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. Technical Test Flights
+A technical test flight after repair over Don Mueang International Airport can only be performed upon permission given by the Airport Authority at least 24 hours prior to each test flight.
+2. Parking Area for General Aviation
+The parking area for general aviation aircraft is also available.
+3. Removal of Disabled Aircraft
+3.1 When the aircraft is involved in an accident at Don Mueang International Airports, the aircraft operator or the registered owner is responsible for removal of its disabled aircraft. If the accident is likely to cause danger or obstruction to the movement of other aircraft or vehicles, the General Manager of Don Mueang International Airport or his authorized representative may order the aircraft operator or the registered owner to remove its disabled aircraft without delay.
+3.2 If the aircraft operator or the registered owner does not comply with such order, the General Manager of Don Mueang International Airport or his authorized representative shall empower to remove the aircraft himself. The expense incurred in removing such aircraft shall be recovered from aircraft operator or the registered owner. The General Manager of Don Mueang International Airport or his authorized representative shall not be responsible for any damage occurring to the aircraft during its removal.
+4. Use of Runways 03R/21L – Don Mueang International Airport
+4.1 The use of Runway 03R/21L at Don Mueang International Airport is normally restricted to military traffic. But they may be made available to civil traffic. The hours of operation is 24 hours daily, all traffic is controlled by Don Mueang Tower.
+4.2 The traffic circuit pattern for these runways is as follows:
+4.2.1 Outbound - after take-off, turn to east and leave circuit pattern at an angle of 45 º to the cross-wind leg.
+4.2.2 Inbound - join circuit pattern at 45 º in the middle of the down - wind leg east of the runway, at the following heights:
+1 500 ft for jet aircraft,
+1 000 ft for conventional aircraft,
+800 ft for light aircraft,
+500 ft for helicopter.
+4.2.3 No straight in approaches are permitted without prior approval from Don Mueang Tower.
+5. Starting up Procedures
+5.1 When Flight Formalities have been completed and aircraft is ready to start-up, all IFR aircraft are to call Don Mueang Delivery for ATC clearance on the frequency 127.7 MHz, giving parking stand number or location TSAT and proposed flight level.
+5.2 Pilots are to call Don Mueang Ground on 121.9 MHz or 122.5 MHz for push back and start up and should give parking stand number or location and ATIS information.
+5.2.1 Unless other ATC restriction is imposed, the aircraft must be push back within 5 minutes from the time ATC clearance is received otherwise the ATC clearance will be cancelled.
+Additionally, in order to provide a more flexible ground traffic movement, all domestic departures shall no longer be required to push back within 5 minutes after clearance received.
+5.2.2 If ATC clearance includes a departure time restriction in order to establish longitudinal separation, pilots shall maintain listening watch on Don Mueang ground in readiness for push back and are to call Don Mueang ground in the appropriate time with the departure time restriction. Pilots who fail to comply with these requirements or amended departure time restriction will result in cancellation of ATC clearance.
+6. Warning for Taxiing Aircraft
+6.1 Pilots should exercise extreme caution when manoeuvring on the apron due to the proximity of other aircraft, ground staff and equipments. In case the point that aircraft assigned to park at terminal contact gates, engine power should be restricted to the absolute minimum required to reduce the adverse effect of jet blast when making the turn to parking bay. Pilots who cannot follow this procedure must stop before making the turn, then request ATC for towing-in. If accident occurred during aircraft taxiing or turning. Pilots and airline operators must take responsible to all of the damages.
+6.2 In order to prevent jet blast damage the aircraft parking on area closed to taxiway B (North) all taxiing aircraft have to reduce to minimum power while taxiing along taxiway B (North).
+6.3 Aircraft landing RWY 21L, when vacating the RWY to the right on TWY S, must hold short of RWY 21R at the holding PSN and remain on Don Mueang Tower frequency 118.1 MHz for permission to cross the RWY.Changing of frequency shall not be done unless otherwise advised. The aircraft shall continuously guard the VHF emergency frequency 121.5 MHz at all times for reasons of safety.
+7. Closure of Runway
+7.1 Aircraft will not be refused permission to land or take off at Don Mueang International Airport solely because of adverse weather conditions. The pilot-in-command of a commercial air transport aircraft shall be responsible for operation in accordance with applicable company weather minima.
+7.2 The Runway will be closed
+When the surface of the runway is unsafe (rough surface of dangerous obstruction on the manoeuvring area) or
+At such other times and in conditions specified by NOTAM.
+7.3 Take off and Landing:
+The pilot-in-command shall not take off and landing without a clearance from Don Mueang Tower
+After Landing, The pilot-in-command shall vacate the runway as expeditiously as possible, in order to reduce runway occupancy time.
+7.4 Disturbance of ILS Glide Path signal
+In the interest of maximizing the traffic flow during VMC conditions, Don Mueang Tower may authorize a departing aircraft to cross the Runway 21R to use RWY 21L for departure. This may cause reflection and/or diffraction of the ILS Glide Path signal. The arriving aircraft will be advised accordingly.
+8. Low visibility procedures (LVP)
+8.1
+RWY 21R is equipped with ILS and is approved for CAT II operations and low visibility take-off (LVTO)
+8.2 Low visibility procedures will be established when a visibility of less than RVR 550 m or a cloud base of less than 200 ft
+8.3
+RWY exits.
+8.3.1 All RWY exits are equipped with GREEN/YELLOW coded taxiway centre line lights to indicate the boundary of the localizer sensitive area.
+8.3.2 Pilots should select the first convenient exit and continue on the TWY centre line lead-off lights toward to TWY B for A designated parking stand.
+8.3.3 The following route restrictions shall be used during low visibility operations.
+When vacating on TWY O taxi route is O-B or O-N and B
+When vacating on TWY R taxi route is R-B
+When vacating on TWY S taxi route is S-B
+When vacating on TWY C(S) taxi route is C(S)-B
+8.3.4 Pilots are required to make a “RUNWAY VACATED” call giving due allowance for the size of the aircraft to ensure that the entire aircraft has vacated the localizer sensitive area.
+8.4
+RWY-holding positions.
+8.4.1 Departing aircraft are required to use the TWY D and B(N) which are CAT II holding positions.
+8.4.2 Intersection take-offs are not permitted.
+8.5
+CAT II approach and landing.
+8.5.1 Pilots will be informed by ATIS or RTF when low visibility procedures are in operation.
+8.5.2 Pilots must request an ILS CAT II approach on first contact with Bangkok Approach. Pilots may carry out a practice ILS CAT II approach if traffic conditions permitted.
+8.5.3 Aircraft will be vectored to intercept the localizer at least 10 NM from touchdown.
+8.5.4 Special procedures and safeguarding will be applied during CAT II operations to protect aircraft operating in low visibility and to avoid interference to the ILS signals in accordance with ICAO DOC 9365: Manual of All-Weather Operations.
+8.6 Low visibility take-off.
+Pilots wishing to conduct an ILS guided take-off shall inform ATC on start-up in order to ensure that the protection of the localizer sensitive area is provided.
+8.7 RWY 21L is not permitted for landing and take-off in low visibility procedures.
+9. Pilot Procedure to Enhance Runway Capacity
+To achieve the highest possible rate/hour for departure and arrival at Don Mueang International Airport, the runway occupancy times shall be reduced to a minimum. Therefore the follow procedure are introduced;
+9.1 Departing aircraft
+9.1.1 Commensurate with safety and standard operating procedure, one receipt of line up clearance, pilots should ensure that they are able to taxi into the correct hold and line up position on the runway as soon as the preceding aircraft has commenced its take-off roll .
+9.1.2 Cockpit checks should be completed before line up, any further checks requiring completion whilst on the runway shall be kept to a minimum. Pilots shall ensure that they are able to commence the take-off roll immediately after a take-off clearance is issued.
+9.1.3 Pilots unable to comply with these procedure shall inform ATC prior to passing the runway holding position .
+9.1.4 Departures shall normally be cleared in the order in which they are ready for take-off, except that deviations may be made from this order of priority to facilitate the maximum number of departures with the least average delay.
+9.2 Arriving aircraft
+Pilots are reminded that rapid exit from the landing runway enables ATC to apply minimum spacing on Final Approach that will achieve maximum runway utilization as well as minimize the occurrence of go-arounds.
+10. Aircraft Manoeuvring Procedures
+In order to avoid jet blast damage to the terminal building and to aircraft, equipment and personnel on nearby stands, the following aircraft manoeuvring procedures are to be observed:
+10.1 When the pilot is ready for start-up and push-back, he shall seek confirmation from the ground crew that there is on hazard to his aircraft starting up. He shall then notify the ground controller that he is ready for push-back. On being told by Don Mueang Ground that push-back is approved, he shall co-ordinate with the ground crew for the start-up and push-back of the aircraft.
+10.2 Ground crew must ensure that the area behind an aircraft is clear of vehicles, equipment and other obstructions before the start-up or push-back of aircraft commences.
+10.3 Pilots are reminded that they should always use minimum power when starting engine or manoeuvring within the apron area. It is especially important when commencing to taxi that breakaway thrust is kept to an absolute minimum and then reduced to idle thrust as soon as practicable.
+10.4 Following push-back from aircraft stands, the points where the tug will be disconnected from the aircraft and breakaway thrust will be applied in these positions:
+10.4.1 North and South Remote Apron
+10.4.1.1 The intersection of the lead-in line and “taxilane A” or “taxilane B” centre line.
+10.4.2 Behind the holding line on “taxilane B” marked as letter “S-TOWBAR” on the ground.
+10.4.2.1 Abeam Pier2, Pier3, Pier4, Pier5 and Pier6
+10.4.2.2 Abeam stand 73, stand 88 and stand 129
+10.4.3 On centre line of aircraft stand taxilane, from cul-de-cac stands, marked as letter “S”
+10.4.3.1 Between Pier2 and Pier3
+10.4.3.2 Between Pier3 and Pier4
+10.4.3.3 Between Pier4 and Pier5
+10.4.3.4 Between Pier5 and Pier6
+10.4.3.5 Behind stand 68 and stand 130
+10.5 Due to aircraft congestion, self-manoeuvring and power back are not permitted at any parking stands, all aircraft must use towbar for push-back procedures except authorized by airport authority.
+10.6 The following table describes the procedure for push-back of aircraft from the various aircraft stands. When it becomes necessary to vary a procedure to expedite aircraft movements, Don Mueang Ground will issue specific instructions to the pilots.
+Aircraft Stands | Aircraft Manoeuvring Procedures
+North Remote Apron
+Stands 1 2 3 4 5 6 7 8 9 10A 10B 10C 91 92 93 94 95 96 97 98 99 100A 100B 100C
+The aircraft (on idle power) shall be pushed back to face either north or south till its nosewheel is at the intersection of the lead-in line and “taxilane A” centre line. Breakaway thrust will be applied when cleared to taxi.
+Remarks
+Stand 100B and stand 100C in case of push-back facing north, the aircraft shall then be towed forward until behind stand 100B.
+Terminal Apron
+Stands 12
+The aircraft (on idle power) shall be pushed back to face either north or south till its nosewheel is at the intersection of the lead-in line and “taxilane A” centre line. Breakaway thrust will be applied when cleared to taxi.
+Stand 14
+The aircraft (on idle power) shall be pushed back to face north till its nosewheel is at the intersection of the lead-in line and “taxilane A” centre line, then tow forward until behind stand 14 or to face south till its nosewheel is at the intersection of the lead-in line and “taxilane A” centre line. Breakaway thrust will be applied when cleared to taxi.
+Stand 15
+The aircraft (on idle power) shall be pushed back to face south till its nosewheel is at the intersection of the lead-in line and “taxilane A” centre line. Breakaway thrust will be applied when cleared to taxi.
+Alternative
+The aircraft (on idle power) shall be pushed back onto “taxilane B” to face either north or south behind the holding line. Breakaway thrust will be applied when cleared to taxi.
+Stand 21
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, where remaining engines may be started. Breakaway thrust will be applied when cleared to taxi.
+Stands 23 25
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, where remaining engines may be started. Breakaway thrust will be applied when cleared to taxi.
+Alternative
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane A” to face south till aircraft is behind the holding line abeam stand 15, other engines may be started to idle and breakaway thrust will be applied when cleared to taxi.
+Stands 22 31 32 41 42 51 52
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line. Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Stands 61 62
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Stands 24 26 33 34 35 36 43 44 45 46 53 54 55 56 63 64 65 66 67
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Alternative
+The aircraft may start one engine to idle power. They will be pushed back onto aircraft stand taxilane to face east and then tow forward till its nosewheel is at “S” mark. Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Stand 68
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, where remaining engines may be started. Breakaway thrust will be applied when cleared to taxi.
+Alternative
+Aircraft up to A300 may start one engine to idle power. They will be pushed back onto aircraft stand taxilane to face east and then tow forward till its nosewheel is at “S” mark. Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+South Remote Apron
+Stand 121
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, where remaining engines may be started. Breakaway thrust will be applied when cleared to taxi.
+Stand 122
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north till its nosewheel is behind the holding line abeam stand 73 or south till the aircraft is on “taxilane B” abeam stand 130. Other engines may be started and breakaway thrust will be applied when cleared to taxi.
+Stand 123 125 127 129
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north or south behind the holding line, where remaining engines may be started. Breakaway thrust will be applied when cleared to taxi.
+Alternative
+The aircraft may start one engine to idle power. They will be pushed back onto aircraft stand taxilane to face east and then tow forward till its nosewheel is at “S” mark. Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Stands 124 126 128 130
+The aircraft may start one engine to idle power. They will be pushed back onto “taxilane B” to face either north till the aircraft is behind the holding line abeam stand 73 or south till the aircraft is on “taxilane B” abeam stand 130. Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Alternative
+The aircraft may start one engine to idle power. They will be pushed back onto aircraft stand taxilane to face east and then tow forward till its nosewheel is at “S” mark. Other engines may be started to idle power and breakaway thrust will be applied when cleared to taxi.
+Stands 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 101 102 103 104 105 106 107 109 110 112 113 114 115
+The aircraft (on idle power) shall be pushed back to face either north till its nosewheel is at the intersection of the lead-in line and “taxilane B” centre line or south till its body is aligned with “taxilane B” centre line. Breakaway thrust will be applied when cleared to taxi.
+Stands 89 90 108
+The aircraft (on idle power) shall be pushed back to face north till its nosewheel is at the intersection of the lead-in line and “taxilane B” centre line. Then tow forward till its nosewheel is at the intersection of the lead-in line and “taxilane B” centre line of stand 89 or south till its nosewheel is at the intersection of the lead-in line and “taxilane B” centre line. Breakaway thrust will be applied when cleared to taxi.
+11. ALLOCATION OF AIRCRAFT PARKING BAYS
+All aircraft parking bays are allocated by Ground/Apron controller with regard to aircraft type and the prevailing or anticipated traffic situation.
+12. TAXIING PROCEDURES
+12.1 Arriving Aircraft
+Aircraft entering the aprons are to follow closely to the taxiway and apron centre line so as to avoid reducing safety distances between them and parking aircraft.
+12.2 Departing Aircraft
+When start-up clearance is issued by ATC, then pushed out onto apron centre line and/or abeam centre line of taxilane B.
+12.3 Requirements for One Engine Out Taxi Operation for Code E Aircraft
+12.3.1 Prior to the commencement of One Engine Out Taxi Operation, an airline must submit its Operating Manual and Risk Assessment to the CAAT (Civil Aviation Authority of Thailand) for approval, before notifying the Airport Authority.
+12.3.2 One-Engine-Out Taxi Operations shall not be conducted during periods of adverse weather, when Low Visibility Procedures (LVP) are in effect, or under any unusual or emergency conditions.
+12.3.3 The operation shall not be carried out on taxiways that are contaminated, slippery, contain standing water or have significant gradients that may adversely affect aircraft controllability.
+12.3.4 One-Engine-Out Taxi Operations shall be conducted in such a manner that no delay occurs to engine start-up or transition to the required engine configuration for take-off at the holding position.
+13. OPERATION OF MODE S TRANSPONDERS ON GROUND
+13.1 Mode S transponder. Aircraft operators intending to use Don Mueang International Airport should ensure that mode S transponders are able to operate when the aircraft is on the ground.
+13.2 For aircraft that are capable of reporting aircraft identification (i.e. call signs used in flight), the aircraft identification should also be entered via FMS or control panel. The ICAO defined format for aircraft identification (i.e. same format as used in ICAO flight plan e.g. AIQ3321, TLM634, NOK9820) shall be used.
+13.3 Flight crew should select XPDR or the equivalent according to specific installation. It must also be ensured that the transponder is operational/activate (i.e. OUT OF STAND-BY, or OFF POSITION) and the assigned mode A code is selected in accordance with the following.
+13.3.1 For a departing flight, upon received pushback clearance.
+13.3.2 For an arriving flight, continuously until the aircraft is fully parked at the stand.
+13.4 To prevent possible interference to radar surveillance system, TCAS should be functioned;
+13.4.1 For departure, when aircraft are entering the runway or line up clearance is received;
+13.4.2 For arrival, until aircraft have vacated the runway.
+13.5 During on ground, pilot of aircraft not equipped with mode S transponder shall operate the transponder and select mode A code as individually directed by the ATC until:
+13.5.1 For departure, when receiving pushback clearance.
+13.5.2 For arrival, until aircraft have completely parked.
+13.6 Tracking and identifications of airport surface vehicles.
+13.6.1 To provide tracking and identification of any authorized movement of vehicle operating on runway(s) at Don Mueang International Airport, authorized vehicle should be equipped with mode S squitter box to inform its position when it is on the runway and the squitter box shall be activated at all time until it vacates the runway. However, the mode S squitter box on vehicle is optional, but for safety reason is highly recommended to install it on every vehicle.
+14. PROVISION OF AERODROME AIR TRAFFIC SERVICES
+14.1 Aerodrome air traffic services are generally sectorized as follows:
+14.1.1 AD Control Serviced are provide at Air Traffic Control Tower South (TWR-S).
+14.1.2 Air Traffic Control Tower North (TWR-N) will be used as contingency tower.
+15. HOT SPOT (HS) AREAS
+15.1 HS1 - Aircraft taxiing to runway 21R on taxilane B or taxiway C which are instructed to turn right onto taxiway D and to hold short of runway 21R. Use caution when making the right turn onto taxiway D and watch for the holding line surface painted and hold short of runway 21R. Do not cross the holding line surface painted for runway 21R without ATC authorization (including taxiway B north).
+15.2 HS2 - Aircraft taxiing to runway 21R on taxiway C which are instructed to turn right onto taxiway E and to hold short of runway 21R. Use caution when making the right turn onto taxiway E and watch for the holding line surface painted and hold short of runway 21R. Do not cross the holding line surface painted for runway 21R without ATC authorization.
+15.3 HS3 - Due to several intersections around this area which connect to rapid exit taxiways, aircraft taxiing from taxilane B and taxiway O to join taxiway C can do mistake enter runway 21R-03L while on taxiway O. Use caution when taxiing on taxiway O and approaching the intersection of taxiway C and do not cross the hold marking for runway 21R-03L without ATC authorization.
+15.4 HS4 - Due to several intersections around this area which connect to rapid exit taxiways, aircraft taxiing from taxilane B and taxiway R to join taxiway C can do mistake enter runway 21R-03L while on taxiway R. Use caution when taxiing on taxiway R and approaching the intersection of taxiway C and do not cross the hold marking for runway 21R-03L without ATC authorization.
+15.5 HS5 - After vacated runway 21L by right join taxiway S. Use caution when taxiing on taxiway S and watch for the holding line surface painted and hold short of runway 21R. Do not cross the holding line surface painted for runway 21R without ATC authorization.
+15.6 HS6 - Aircraft taxiing to runway 03R on taxilane T which are instructed to turn right onto taxiway S and to hold short of runway 03R. Use caution when making the right turn onto taxiway S and watch for the holding line surface painted and hold short of runway 03R. Do not cross the holding line surface painted for runway 03R without ATC authorization.
+16. AIRPORT COLLABORATIVE DECISION MAKING (A-CDM)
+16.1 GENERAL
+16.1.1 The Airport Collaborative Decision Making (A-CDM) process at Don Mueang International Airport is designed to optimize resource management through the utilization of advanced tools and technologies. This process prioritizes collaboration among key stakeholders, including Airport Operator (AP), Air Traffic Controller (ATC), Air Traffic Flow Management Unit (ATFMU), Ground Handlers (GH), Aircraft Operator (AO) and other partners, to ensure adherence to the highest standards of safety, security, environmental sustainability, and community welfare.
+16.1.2 All flights operated at Don Mueang International Airport are required to participate in the A-CDM to optimize airport operations by sharing accurate and timely information among airport partners. The process can help balance the number of flights with an ability to handle, both under normal situation and under any occurrence requiring co-decision making.
+16.2 DEFINITION OF TERMS COMMONLY USED IN A-CDM
+16.2.1 Target Off-Block Time (TOBT) - The time that an Aircraft Operator (AO) or Ground Handler (GH) estimates that an aircraft will be ready, all doors closed, boarding bridge removed, pushback vehicle available and ready to start-up and push back immediately upon reception of clearance from the Aerodrome Control Tower (TWR).
+16.2.2 Target Start-Up Approval Time (TSAT) - The time provided by ATC taking into account TOBT, CTOT and/or the traffic situation that an aircraft can expect start-up / push back approval.
+16.2.3 Calculated Take-Off Time (CTOT) - A time calculated and issued by the appropriate Central Management unit, as a result of tactical slot allocation, at which a flight is expected to become airborne.
+16.3 A-CDM OPERATIONAL ASPECTS
+16.3.1 Introduction
+This section details the key operational aspects of the Airport Collaborative Decision Making (A-CDM) process at Don Mueang International Airport, focusing on Target Off-Block Time (TOBT), Target Start-Up Approval Time (TSAT), and start-up and pushback procedures. It defines the roles and responsibilities necessary to ensure efficient and coordinated pre-departure operations, helping to minimize delays and optimize airport efficiency.
+16.3.2 Don Mueang A-CDM Procedure Overview
+The chart below describes the simple overview of the Pre-Departure process at Don Mueang International Airport from the time that airlines input the TOBT to the time that aircraft is airborne. It includes the responsibilities and procedures in brief, as described below.
+16.3.3 Target Off-Block Time (TOBT) Procedures
+16.3.3.1 General
+The TOBT is the essential contribution of airlines to the A-CDM process which establishes the Pre-Departure Sequence taking into account operators preferences and operational constraints. Airlines or person responsible for the TOBT are required to access and manually input the TOBT into the A-CDM Portal in order that the start-up approval time (TSAT) can be expected.
+16.3.3.2 Person Responsible for TOBT
+Aircraft operator (AO) is responsible for the input of and adherence to the TOBT. However, AO may prefer to delegate this function to ground handler (GH). It is the responsibility of the AO/GH to communicate and ensure that the pilot of a flight has the correct TOBT and TSAT prior to requesting ATC clearance.
+AO need to ensure that a timely, accurate and stable TOBT is provided. If it becomes obvious that the TOBT cannot be respected, it shall be updated by the person responsible for the TOBT as early as possible.
+16.3.3.3 TOBT Input and Revision
+The following has to be taken into account for the input and/or revision of the TOBT:
+The initial TOBT can be entered up to 120 minutes (2 hours) before the Estimated Off-Block Time (EOBT).
+TOBT entries cannot be set to a time earlier than the current time.
+TOBT updates can be made as frequently as necessary until the TSAT is issued (40 minutes before TOBT).
+After the TSAT is issued, the TOBT can be revised up to 5 times to maintain operational stability.
+Any new TOBT must differ by at least 5 minutes (+/ - 5 minutes) from the last entered TOBT to ensure a consistent
+Pre-Departure Sequence.
+16.3.3.4 Flights with Calculated Take-Off Time (CTOT)
+Flights with CTOT will usually take priority when calculating TSATs in order to minimize potential CTOT delay.
+16.3.3.5 TOBT Deletion Procedures
+Only users are authorized to input, revise and delete a TOBT.
+If the TOBT is deleted, the TSAT will be automatically deleted.
+The TOBT must be deleted in the following situations:
+When the TOBT cannot be estimated, such as due to technical problems with the aircraft.
+When the permitted number of TOBT inputs has been exceeded (5 times) after the generation of the TSAT.
+If a new TOBT becomes available, the process shall continue, and the person responsible must input the updated TOBT.
+16.3.3.6 TOBT Reporting Channels
+The TOBT is reported or updated by the following ways:
+A-CDM Portal Web Based Application (https://acdm.airportthai.co.th)
+A-CDM Portal Mobile Application
+16.3.4 Target Start-Up Approval Time (TSAT) Procedures
+16.3.4.1 General
+The TSAT is calculated based on the following key parameters:
+Target Off-Block Time (TOBT)
+Calculated Take-Off Time (CTOT)
+Operation Capacity
+Variable Taxi Time (VTT)
+Parking Stand
+Departure Runway
+16.3.4.2 TSAT Distribution and Management
+The TSAT is displayed and distributed 40 minutes prior to the TOBT.
+After TSAT has been distributed, the TOBT can only be revised not more than 5 times to ensure a stable sequence and accurate CTOT allocation.
+Any subsequent TOBT revision will trigger a recalculation of the TSAT. An incorrect TOBT can lead to disadvantages in further sequencing and/or CTOT allocation for regulated flights.
+The TSAT may be subject to change and can be revised due to air traffic management considerations.
+The AO or GH is responsible for updating and ensuring that the pilot has the correct TOBT and TSAT before requesting ATC clearance.
+16.3.4.3 TSAT Reporting Channels
+The TSAT will be issued to airlines or person responsible for TOBT via:
+A-CDM Portal Web Based Application (https://acdm.airportthai.co.th)
+SMS via digital trunked radio system
+A-CDM Portal Mobile Application
+16.3.5 Start-Up and Push Back Procedures
+16.3.5.1 General
+Start-up and push back approval are issued taking into account the TOBT and TSAT. The sequence of the start-up and push back request is no longer a factor. The following rules apply:
+16.3.5.2 Start-Up and Push Back Procedures
+To ensure the pilot receives accurate TOBT and TSAT before requesting start-up and pushback clearance, the AO or GH shall communicate and confirm the times with the pilot in advance.
+Pilots shall ensure that the aircraft is ready for pushback at the TOBT.
+After obtaining ATC clearance, the pilot shall monitor the designated Ground Control frequency according to the aircraft parking stand.
+If there is any change to the TSAT, Ground Control will update the pilot as soon as possible.
+The pilot shall contact Ground Control for start-up and push back at TSAT +/- 5 minutes (TSAT window). The following scenarios may occur:
+Before the TSAT window: The flight will be asked to call again when it is within the TSAT window.
+Within the TSAT window: The flight will be planned for the outbound sequence and can expect start-up approval directly or within a few minutes, depending on the actual operational situation.
+After the TSAT window: The TSAT for the flight has expired. The flight will be denied start-up approval. The pilot must contact the AO/GH to update the TOBT and then contact ATC again once the TOBT update has resulted in a new TSAT.
+Ground Control will issue start-up and push back clearance taking the TSAT into account.
+If a flight is unable to pushback due to the aircraft not being ready, the TSAT will be cancelled. The pilot must notify the AO/GH to update the TOBT for a new TSAT.
+Note 1: In case of self-manoeuvring authorized by Airport Authority, the aircraft shall be ready to self-manoeuvring then taxi or taxi out from parking stand.
+Note 2: The aircraft may be allowed to commence pushback before the assigned time (TSAT) due to traffic condition such as bay replacement, and etc. However, the flight should not expect an earlier departure time as the planed pre-departure sequence will be maintained.
+16.4 A-CDM IN ADVERSE CONDITION
+16.4.1 Adverse conditions, such as severe weather events, technical disruptions, or unexpected incidents, can significantly impact airport capacity and the overall flow of air traffic. In such situations, A-CDM partners must follow established procedures within their respective roles to effectively manage disruptions, minimize delays, and ensure operational continuity.
+16.4.2 In the event of adverse conditions, the A-CDM process will continue as usual. However, to ensure smooth and efficient operations, additional cooperation and TOBT management may be required.
+16.4.2.1 Pilots shall contact ATC within the TSAT window (+/- 5 minutes from TSAT) to request start-up clearance and pushback approval from the stand. If there is a change in TSAT, ATC will inform the pilots accordingly.
+16.4.2.2 GH/AO must update TOBT at the end of the turnaround, especially during adverse conditions, to ensure accurate departure sequencing and minimize delays.
+16.5 A-CDM CONTIGENCY OPERATIONS
+16.5.1 In scenarios where the A-CDM (Airport Collaborative Decision Making) system is not operational, either due to the A-CDM Portal and Mobile application being unavailable, or a failure in connectivity between the A-CDM system and the iDEP system, significant disruptions can occur. Under such circumstances, Contingency Operations will be activated.
+16.5.2 Pilots shall adhere to the start-up and pushback procedures outlined in AIP Thailand VTBD AD 2.20.
+16.5.3 ATC will issue start-up and pushback instructions based on the "First Come, First Serve" principle.
+16.6 CONTACT
+A-CDM Contact Desk
+Tel: +662 535 2857
+Email: [email protected]
+VTBD
+AD 2.21 NOISE ABATEMENT PROCEDURES
+In order to alleviate problem of noise within the vicinity of Bangkok international airport. The noise abatement procedures in accordance with ICAO DOC 8168-OPS/611 (PAN-OPS) shall be applied for all take-off and landing, details are as follows:
+1. Departing aircraft
+Pilots are to adopt either one of the two procedures listed below for all take-off
+1.1 Procedure for alleviating noise close to the aerodrome.
+1.1.1 The noise abatement procedure is not to be initiated at less than 800 ft above aerodrome elevation.
+1.1.2 The initial climb speed to the noise abatement initiation point shall not be less than V2 plus 10 kt
+1.1.3 On reaching an altitude at or above 800 ft, adjust and maintain engine power/thrust in accordance with the noise abatement power/thrust schedule, maintain A climb speed of V2 plus 10 to 20 kt with Flaps and Slats in the take-off configuration.
+1.1.4 At no more than an altitude equivalent to 3000 ft while maintaining a positive rate of climb, accelerate and retract Flats/Slats on schedule, at 3000 ft accelerate to enroute climb speed.
+1.2 Procedure for alleviating noise distant from the aerodrome
+1.2.1 The noise abatement procedure is not to be initiated at less than 800 ft above aerodrome elevation.
+1.2.2 The initial climbing speed to the noise abatement initiation point is V2 plus 10 to 20 kt
+1.2.3 On reaching an altitude equivalent to at least 800 ft decrease aircraft body angle/angle of pitch whilst maintaining a positive rate of climb, accelerate towards VZF and reduce power with the initiation of the first Flaps/Slats retraction.
+1.2.4 Maintain a positive rate of climb and accelerate to maintain a climb speed of VZF plus 10 to 20 kt, on reaching 3000 ft transition to normal enroute climb speed.
+2.
+Arriving aircraft
+Reverse thrust above idle shall not be used between 1800 and 2200 UTC. Except for safety reason.
+VTBD
+AD 2.22 FLIGHT PROCEDURES
+1. Provision of Radar Services
+1.1 Bangkok Approach is responsible for providing radar service to aircraft operating within Bangkok Terminal Control Area and Bangkok Control Zone (see ENR 2.1-6, ENR 2.1-7).
+1.2 Arriving aircraft intending to land at Don Mueang International Airport will be transferred to Don Mueang Arrival on frequency 133.0 MHz.
+2. Approach Procedures with Radar Control
+2.1 All procedures are designed to maximize departure and arrival capacity in Bangkok Terminal Control Area and minimize noise disturbance in areas overflown.
+2.2 The final approach may be carried out by means of ILS or other available instrument approach systems at the discretion of the pilot.
+2.3 The spacing provided between aircraft will be designed to achieve maximum runway utilization within the parameters of safe separation minima including vortex effect and runway occupancy. It is important to the validity of the separation provided and the achievement of optimum runway capacity that runway occupancy time is kept to a minimum consistent with the prevailing conditions.
+2.4 The horizontal radar separation minimum shall be 5 NM except within Bangkok TMA, Bangkok CTR and Don Mueang ATZ, a reduced separation of 3 NM may be applied.
+2.5 Missed approach procedures
+2.5.1 As directed by ATC.
+2.5.2 In the absence of instructions from ATC, aircraft shall follow the missed approach procedures which contained on the Instrument Approach Charts (see VTBD AD 2.24).
+3. Standard Instrument Departures/Arrivals (RNAV SIDs/STARs)
+Aircraft departing from or arriving at Don Mueang International Airport will normally be assigned the RNAV SIDs/STARs detailed in VTBD AD 2.24.
+Note: Pilots of Non-RNAV equipped aircraft shall inform ATC and request for radar vectors.
+4. Speed Control and Altitude Restrictions Promulgation in Bangkok TMA
+In order to facilitate the air traffic flow procedure of departing and arriving aircraft within Bangkok TMA, speed control procedures and altitude restricted must be applied to optimize the spacing between aircraft and reduce the overall delay of traffic.
+4.1 Speed control
+4.1.1 Speed control shall be in force at all times unless otherwise instructed. Pilots will be individually advised by ATC when speed control is cancelled.
+4.1.2 All departing and arriving aircraft are to apply speed of not more than IAS 250 kt when flying at or below altitude of 10 000 ft.
+4.1.3 Departing aircraft shall comply with speed control restrictions as published in the RNAV SIDs Procedures unless otherwise advised by ATC.
+4.1.4 Arriving aircraft shall comply with speed control restrictions as published on the RNAV STARs Charts and Instrument Approach Procedures unless otherwise advised by ATC.
+4.1.5 En route and terminal holding speed shall be in accordance with ICAO standard holding speeds requirement. Pilots shall resume speed control procedures when leaving the holding fix.
+4.1.6 ATC may issue further speed adjustment instructions during various flight phases or/and when required by traffic situation.
+4.1.7 All speed restrictions are to be flown as accurately as possible. If unable to conform to these procedures, pilots should immediately inform ATC and state the speed to be used so that an alternative action can be taken.
+4.2 Altitude restrictions
+When a departing aircraft on a SID is cleared to climb to a level higher than the initially cleared level or the level(s) specified in the SID, the aircraft shall nevertheless follow the published vertical profile, unless such restrictions are explicitly cancelled by ATC.
+4.2.1 Departing aircraft intending to cruise below the transition level shall follow an appropriate SID track and comply with individual ATC climb instructions.
+4.2.2 When an arriving aircraft on a STAR is cleared to descend to a level lower than the level or the level(s) specified in the STAR, the aircraft shall nevertheless follow the published vertical, unless such restrictions are explicitly cancelled by ATC. Published minimum levels based on terrain clearance shall always be strictly applied.
+4.2.3 To facilitate safe traffic integration and provide vertical separation between converging traffic in Bangkok TMA, pilots shall plan their descent profile in accordance with the published STAR procedures or their descent profile against distance to touchdown.
+4.2.4 All altitude restrictions are to be flown as accurately as possible. If unable to conform to these restrictions, pilots should immediately inform ATC so that an alternative action can be taken.
+5. TCAS RA Warning
+Avoidance of unnecessary TCAS RA warning, aircraft shall strictly use rate of climb or rate of descent at 1 500 fpm or less within
+2 000ft to the assigned altitude or flight level, then use rate of climb or rate of descend at 1 000 fpm or less within 1 000 ft to the assigned altitude or flight level when flight crew is made aware of another aircraft at or approaching an adjacent altitude or flight level, unless otherwise instructed by ATC.
+6. Operational for Safety and More Effective Air Traffic Management in Bangkok TMA
+6.1 If practicable, aircraft operating within Bangkok TMA should operate SSR Mode S transponders. The data entered in the Mode S Aircraft Identification must match the three letter ICAO designator for the aircraft operating agency and the flight number to ensure the correlated flight identity.
+6.2 All departing aircraft shall remain on Don Mueang Tower frequency unless otherwise instructed by ATC.
+7. Delay during Severe Weather
+7.1 All aircraft may be delayed. Departure/arrival interval will be applied as follows:
+4 minutes or more between successive departures on the same SID or between aircraft intending to fly in the direction where severe weather is reported.
+4 minutes or more between successive arrivals on the same STAR/at the same IAWP or between aircraft intending to fly in the direction where severe weather is reported.
+7.2 When severe weather has an effect on landing/ take-off, domestic flights intending to land at Don Mueang International Airport may be requested to delay at airport of departure.
+8. VFR Flight in Bangkok Control Zone
+8.1 By Day (Sunrise/Sunset)
+Unless authorized, VFR flight will not be permitted to land / take-off at Don Mueang International Airport when weather conditions as reported to Don Mueang APP/TWR by an authorized ground observer are LESS than:
+Ground Visibility | 5 km; or
+Ceiling | 450 m (1500 ft)
+Authorization may be granted by ATC for special VFR flight, (see 8.4) to land / take-off at Don Mueang International Airport under conditions LESS than (8.1) above but NOT LESS than
+Ground Visibility | 1500 m
+8.2 By Night (Sunset/Sunrise)
+Authorization may be granted by ATC for VFR flight to land / take-off at Don Mueang International Airport under conditions reported to be AT or BETTER than (8.1) above; such flight will be treated as special VFR flight (see 8.4) for ATC purposes.
+8.3 At All Times
+VFR flight within Bangkok CTR shall be conducted so that the aircraft maintain flight visibility and distance from cloud EQUAL TO or GREATER THAN those specified in ICAO Annex 2, Table 3-1.
+Flight Visibility
+5 km below 3050 m (10 000 ft) AMSL and
+8 km at and above 3050 m (10 000 ft) AMSL
+Distance from cloud | 1500 m horizontally and 300 m (1000 ft) vertically
+8.4 Special VFR Flight
+8.4.1 Special VFR flight may be permitted when the ground visibility is not less than 1500 m, provided that the aircraft is equipped with functioning radio and the pilot has agreed to guard on the appropriate ATC communications frequency. ATC shall provide IFR separation between all special VFR flights and between such flights and IFR flights.
+8.4.2 A pilot wishing to conduct special VFR flight is to call Don Mueang Delivery on frequency 127.7 MHz for special VFR clearance.
+8.5 VFR Entry and Exit Procedures within Bangkok Control Zone
+8.5.1 General
+The VFR entry and exit procedures are designed to enhance the uniformity of light aircraft and helicopter operations under VFR in Bangkok Control Zone.
+If the communication could not be done through radio frequencies as specified, or the transponder unable to functional operated. The VFR light aircraft and helicopter may not be permitted to operate.
+VFR entry and exit procedure charts are the recommended flight paths and altitudes for the purpose of air traffic management.
+Adherence to charted flight paths and altitudes is not mandatory. ATC may assign flight paths and altitudes other than specified in charts, however, pilot has final authority to decide whether he or she would comply with it but shall comply with VFR.
+There is no substitute for alertness while operating under VFR. Pilots still have full responsibility to see and avoid other traffic and maintain adequate distance from clouds. Separation shall be provided in accordance with VFR in Class C airspace.
+Under some circumstances, suggest heading or change of altitude may be provided when requested by a pilot or whenever deemed necessary by ATC in the interest of safety and with pilot acceptance. Pilots should, as early as practicable, advise ATC if VMC conditions cannot be maintained. ATC shall request pilot’s intentions and revise the instruction as requested or, if unable, issue an alternative clearance as soon as possible.
+The VFR entry and exit procedures are to be flown only in daylight hours between sunrise to sunset.
+8.5.2 VFR entry and exit procedures for light aircraft
+h) The procedures for light aircraft are designed for aircraft with speed less than 130 knots.
+i) For light aircraft with speed of more than 130 knots, ATC may either authorize the aircraft to follow the prescribed VFR entry and exit procedures or assign flight paths and altitudes. However, pilot has final authorities to decide whether he or she would comply with it but shall always comply with VFR and pilots still have full responsibility to see and avoid other traffic as well as maintain adequate distance from clouds. Separation shall be provided in accordance with VFR in Class C airspace.
+j) Table of reporting points for light aircraft
+Reporting Points | Landmark | Radial/DME from
+BKK VOR | Coordinates
+Latitude | Longitude
+AYUTTHAYA | Preedee-Thamrong Bridge Crossing Pasak River | R-359 / 27.5D | 14° 21' 08.00'' N | 100° 34' 53.00'' E
+BANG BUA THONG | Bang Bua Thong Interchange | R-286 / 10.8D | 13° 56' 30.00'' N | 100° 25' 07.00'' E
+BANG KHU WAT | Flora Ville Golf Course | R-313 / 7.3D | 13° 58' 37.00'' N | 100° 30' 10.00'' E
+BANG LEN | Scan Inter Solar Power Plant, Bang Phasi,
+Bang len | R-293 / 20.3D | 14° 01' 42.00'' N | 100° 16' 24.00'' E
+BANG LUK SUA | Pradhana Vanalai Studio | R-070 / 28.3D | 14° 03' 26.00'' N | 101° 03' 05.00'' E
+BANG NAM PRIAO | Bang Nam Priao Intersection | R-095 / 26.6D | 13° 51' 05.00'' N | 101° 02' 58.00'' E
+BANG PAKONG | Devahastin Bridge, Bangna-Chonburi Expressway Crossing Bang Pakong River | R-136 / 33.9D | 13° 29' 13.20'' N | 101° 00' 07.80'' E
+BUENG BA | Outdoor Stadium Between Wat Bueng Ba Prapasawat and Nongsua Wittayakom School | R-042 / 19.3D | 14° 07' 51.00'' N | 100° 49' 05.00'' E
+DON FAEK | Motorway Bang Yai-Kanchanaburi Bridge Crossing Tha Chin River 4 | R-263 / 21.7D | 13° 51' 04.00'' N | 100° 13' 28.00'' E
+EKACHAI | Ekachai Golf and Country Club | R-223 / 21.7D | 13° 37' 37.00'' N | 100° 20' 38.00'' E
+HIN KONG | Hin Kong Interchange, Phahonyothin Rd. | R-030 / 35.2D | 14° 24' 30.00'' N | 100° 52' 40.00'' E
+KOH KRET | Wat Poramai Yikawas,
+Koh Kret | R-280 / 6.5D | 13° 54' 41.00'' N | 100° 29' 03.00'' E
+KOH LAN | Koh Lan | R-170 / 59.5D | 12° 54' 53.00'' N | 100° 46' 49.00'' E
+KOH SICHANG | Koh Sichang | R-165 / 47.4D | 13° 07' 45.00'' N | 100° 48' 40.00'' E
+LAM LUK KA | Bangkok Eastern Outer Ring Rd. Crossing Lamlukka Rd. | R-075 / 7.5D | 13° 56' 02.00'' N | 100° 42' 31.00'' E
+LAT BUA LUANG | Singha Beverage Co., Ltd. Ladbualuang | R-312 / 24.5D | 14° 10' 08.00'' N | 100° 16' 48.00'' E
+LAT LUM KAEO | Bangkok Western Outer Ring Rd. Crossing Pathumthani-Latlumkaeo Rd. | R-319 / 12.3D | 14° 02' 58.18'' N | 100° 27' 35.85'' E
+MUEANG THONG | Impact Arena Building | R-290 / 3.0D | 13° 54' 35.00'' N | 100° 32' 35.00'' E
+PATHUMTHANI | Pathumthani Bridge (Crossing Chaopraya River) | R-338 / 8.6D | 14° 01' 33.00'' N | 100° 32' 25.00'' E
+PRATUNAM
+PHRA IN | Bang Pa-in Interchange, Bangkok Western Outer Ring Rd. Crossing Phaholyothin Rd. | R-005 / 16.8D | 14° 12' 05.00'' N | 100° 38' 33.00'' E
+SANAP THUEP | PTT Innovation Institute Sanaptueb, Wang Noi | R-028 / 27.0D | 14° 17' 18.00'' N | 100° 48' 35.00'' E
+SAMUT SAKHON | Thachalom Roundabout | R-222 / 28.4D | 13° 32' 17.00'' N | 100° 16' 20.00'' E
+3 NM EAST | Sukhaphiban 5, Chalong Rat Expressway Toll Plaza | R-095 / 3.1D | 13° 53' 09.00'' N | 100° 38' 58.00'' E
+3 NM WEST | Armed Forces DevelopmentCommand (Dome shape) Si kan | R-333 / 3.8D | 13° 56' 17.00'' N | 100° 34' 13.00'' E
+5 NM WEST | Riverdale Golf Club, Bangkradee, Pathumthani | R-325 / 5.9D | 13° 58' 51.00'' N | 100° 32' 24.00'' E
+10 NM WEST | Kanchanapisek Rd. Crossing Pra-u-dom canal | R-300 / 10.5D | 13° 58' 43.00'' N | 100° 26' 18.00'' E
+k) VFR ENTRY AND EXIT PROCEDURES FOR LIGHT AIRCRAFT CHART BANGKOK/DON MUEANG INTL (VTBD)
+RWY 21L/21R
+I) Departure Procedures
+NORTHBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - AYUTTHAYA [ALT2500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500] - BANG LUK SUA [ALT2500] -
+HIN KONG [ALT3500] - AYUTTHAYA [ALT2500]
+WESTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG BUA THONG [ALT1000] - BANG LEN [ALT2500] -
+LAT BUA LUANG [ALT2500] or DON FAEK [ALT2500]
+SOUTHBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG BUA THONG [ALT1000] - EKACHAI [ALT2500]-
+SAMUT SAKHON [ALT2500]
+SOUTHEASTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG BUA THONG [ALT1000] - EKACHAI [ALT2500]-
+SAMUT SAKHON [ALT2500] - KOH LAN [ALT2500] or KOH SICHANG [ALT3500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500] - BANG PAKONG [ALT2500] -
+KOH SICHANG [ALT3500]
+EASTBOUND
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500]
+NORTHEASTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - AYUTTHAYA [ALT2500] -
+HIN KONG [ALT3500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500] - BANG LUK SUA [ALT2500] -
+HIN KONG [ALT3500]
+TRAINING VT D6A / VT D6B
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG BUA THONG [ALT1000] - VT D6A / VT D6B
+II) Arrival Procedures
+NORTHBOUND
+AYUTTHAYA [ALT2000] - PATHUMTHANI [ALT1000] or PRATUNAM PHRA-INN [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+AYUTTHAYA [ALT2000] - HIN KONG [ALT4500] - BANG LUK SUA [ALT2000] - BANG NAM PRIAO [ALT2000] -
+LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+WESTBOUND
+BANG LEN [ALT2000] - 10 NM WEST [ALT1500] - BANG KHU WAT [ALT1000] -5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+SOUTHBOUND
+SAMUT SAKHON [ALT2000] - EKACHAI [ALT2000] - BANG BUA THONG [ALT1500] - 10 NM WEST [ALT1500] -
+BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+SOUTHEASTBOUND
+KOH LAN [ALT2000] or KOH SICHANG [ALT2000] - SAMUT SAKHON [ALT2000] - EKACHAI [ALT2000] -
+BANG BUA THONG [ALT1500] - 10 NM WEST [ALT1500] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] -
+3 NM WEST [ALT1000]
+KOH SICHANG [ALT2000] - BANG PAKONG [ALT2000] - BANG NAM PRIAO [ALT2000] - LAM LUK KA [ALT1000] -
+3 NM EAST [ALT1000]
+EASTBOUND
+BANG NAM PRIAO [ALT2000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+NORTHEASTBOUND
+HIN KONG [ALT4500] - AYUTTHAYA [ALT2000] - PATHUMTHANI [ALT1000] or PRATUNAM PHRA-INN [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+HIN KONG [ALT4500] - BANG LUK SUA [ALT2000] - BANG NAM PRIAO [ALT2000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+TRAINING VT D6A / VT D6B
+LAT LUM KAEO [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+10 NM WEST [ALT1500] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+The details of VFR ENTRY AND EXIT PROCEDURES FOR LIGHT AIRCRAFT CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 21L/21R are given in VTBD AD 2.24 CHARTS RELATED TO AN AERODROME
+l) VFR ENTRY AND EXIT PROCEDURES FOR LIGHT AIRCRAFT CHART BANGKOK/DON MUEANG INTL (VTBD) RWY
+03L/03R
+I) Departure Procedures
+NORTHBOUND
+PATHUMTHANI [ALT1000] - AYUTTHAYA [ALT2500]
+WESTBOUND
+PATHUMTHANI [ALT1000] - 10 NM WEST [ALT1000] - BANG LEN [ALT2500] - LAT BUA LUANG [ALT2500] or
+DON FAEK [ALT2500]
+SOUTHBOUND
+PATHUMTHANI [ALT1000] - 10 NM WEST [ALT1000] - BANG BUA THONG [ALT1000] - EKACHAI [ALT2500] -
+SAMUT SAKHON [ALT2500]
+SOUTHEASTBOUND
+PATHUMTHANI [ALT1000] - 10 NM WEST [ALT1000] - BANG BUA THONG [ALT1000] - EKACHAI [ALT2500] -
+SAMUT SAKHON [ALT2500] - KOH LAN [ALT2500] or KOH SICHANG [ALT3500]
+LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500] - BANG PAKONG [ALT2500] - KOH SICHANG [ALT3500]
+EASTBOUND
+LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500] - BANG LUK SUA [ALT2500] or BANG PAKONG [ALT2500]
+NORTHEASTBOUND
+LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT2500] - BANG LUK SUA [ALT2500] - HIN KONG [ALT3500]
+PATHUMTHANI [ALT1000] - AYUTTHAYA [ALT2500] - HIN KONG [ALT3500]
+TRAINING VT D6A / VT D6B
+PATHUMTHANI [ALT1500] - LAT LUM KAEO [ALT1500] - VT D6A / VT D6B
+II) Arrival Procedures
+NORTHBOUND
+AYUTTHAYA [ALT2000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+AYUTTHAYA [ALT2000] - PRATUNAM PHRA IN [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] -
+3 NM WEST [ALT1000]
+WESTBOUND
+BANG LEN [ALT2000] - 10 NM WEST [ALT1500] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+SOUTHBOUND
+SAMUT SAKHON [ALT2000] - EKACHAI [ALT2000] - BANG BUA THONG [ALT1500] - 10 NM WEST [ALT1500] -
+BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+SOUTHEASTBOUND
+KOH LAN [ALT2000] or KOH SICHANG [ALT2000] - SAMUT SAKHON [ALT2000] - EKACHAI [ALT2000] -
+BANG BUA THONG [ALT1500] - 10 NM WEST [ALT1500] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] -
+3 NM WEST [ALT1000]
+KOH SICHANG [ALT2000] - BANG PAKONG [ALT2000] - BANG NAM PRIAO [ALT2000] - LAM LUK KA [ALT1000] -
+3 NM EAST [ALT1000]
+EASTBOUND
+BANG NAM PRIAO [ALT2000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+NORTHEASTBOUND
+HIN KONG [ALT4500] - BANG LUK SUA [ALT2000] - BANG NAM PRIAO [ALT2000] - LAM LUK KA [ALT1000] -
+3 NM EAST [ALT1000]
+HIN KONG [ALT4500] - AYUTTHAYA [ALT2000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+HIN KONG [ALT4500] - AYUTTHAYA [ALT2000] - PRATUNAM PHRA IN [ALT1000] - PATHUMTHANI [ALT1000] -
+5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+TRAINING VT D6A / VT D6B
+LAT LUM KAEO [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+10 NM WEST [ALT1500] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+The details of VFR ENTRY AND EXIT PROCEDURES FOR LIGHT AIRCRAFT CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R are given in VTBD AD 2.24 CHARTS RELATED TO AN AERODROME
+m) VFR OVERFLY PROCEDURES FOR LIGHT AIRCRAFT CHART RWY 03L/03R 21L/21R
+I) Departure Procedures
+HIN KONG [ALT3500] - BANG LUK SUA [ALT2500] - BANG NAM PRIAO [ALT2500] - BANG PAKONG [ALT2500] -
+KOH SICHANG [ALT3500] - SAMUT SAKHON [ALT2500] - DON FAEK [ALT2500] - BANG LEN [ALT2500] - LAT BUA LUANG [ALT2500] - AYUTTHAYA [ALT2500] - HIN KONG [ALT3500]
+II) Arrival Procedures
+HIN KONG [ALT4500] - BANG LUK SUA [ALT2000] - BANG NAM PRIAO [ALT2000] - BANG PAKONG [ALT2000] -
+KOH SICHANG [ALT2000] - SAMUT SAKHON [ALT2000] - DON FAEK [ALT2000] - BANG LEN [ALT2000] - LAT BUA LUANG [ALT2000] - AYUTTHAYA [ALT2000] - HIN KONG [ALT4500]
+Light aircraft within Bangkok Control Zone can join all suitable reporting points in VFR ENTRY AND EXIT PROCEDURES FOR LIGHT AIRCRAFT CHART (BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R 21L/21R and BANGKOK/SUVARNABHUMI INTL (VTBS) RWY 19/20L/20R 01/02L/02R
+The details of VFR OVERFLY PROCEDURES FOR LIGHT AIRCRAFT CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R 21L/21R are given in VTBD AD 2.24 CHARTS RELATED TO AN AERODROME
+8.5.3 VFR entry and exit procedures for helicopter
+Two-way radio communication shall be established as soon as possible or not later than reaching altitude 500 feet above ground level.
+Departing helicopters taking off from Don Mueang international airport or other heliports or helipads within Don Mueang ATZ shall be advised to contact Don Mueang Tower on frequency 118.1 MHz for departing instruction except helicopters operate within area of responsibility of Royal Thai Police Aviation Division (Tarang) contact BAPP (VFR & Helicopter Control: VHC) on frequency 125.8 MHz.
+Arriving helicopters intending to land at Don Mueang international airport or other helipads within Don Mueang ATZ shall be advised to contact Don Mueang Tower on frequency 118.1 MHz for landing instruction. The completion of landing shall be reported or informed to the appropriate ATS unit as soon as practicable.
+Those taking off from heliports or helipads outside Don Mueang ATZ shall contact BAPP (VHC) on frequency 125.8 MHz.
+If communication could not be done through radio frequencies as specified, the operator may use other available means such as telephone for departure instruction and necessary information prior to taking off.
+Adherence to charted flight paths and altitudes is not mandatory. ATC may assign flight paths and altitudes other than specified in charts, however, pilot has final authority to decide whether he or she would comply with it but shall comply with VFR.
+Table of reporting points for helicopter
+Reporting Points | Landmark | Radial/DME from
+BKK VOR | Coordinates
+Latitude | Longitude
+AYUTTHAYA | Preedee-Thamrong Bridge Crossing Pasak River | R-359 / 27.5D | 14° 21' 08.00'' N | 100° 34' 53.00'' E
+BANG KHAE | Bang Khae Interchange | R-226 / 15.4D | 13° 42' 48.00'' N | 100° 24' 27.00'' E
+BANG KHU WAT | Flora Ville Golf Course | R-313 / 7.3D | 13° 58' 37.00'' N | 100° 30' 10.00'' E
+BANG LEN | Scan Inter Solar Power Plant, Bang Phasi,
+Bang len | R-293 / 20.3D | 14° 01' 42.00'' N | 100° 16' 24.00'' E
+BANG LUK SUA | Pradhana Vanalai Studio | R-070 / 28.3D | 14° 03' 26.00'' N | 101° 03' 05.00'' E
+BANG NAM PRIAO | Bang Nam Priao Intersection | R-095 / 26.6D | 13° 51' 05.00'' N | 101° 02' 58.00'' E
+BANGPU | Sukta Bridge | R-170 / 23.1D | 13° 30' 44.00'' N | 100° 39' 44.00'' E
+BANG PAKONG | Devahastin Bridge, Bangna-Chonburi Expressway Crossing Bang Pakong River | R-136 / 33.9D | 13° 29' 13.20'' N | 101° 00' 07.80'' E
+BANGYAI | Kanchanapisek Rd.
+Crossing Rattanathibet Rd. | R-249 / 11.6D | 13° 49' 25.46'' N | 100° 24' 35.89'' E
+BHUMIBOL BRIDGE | Industrial Ring Rd. Interchange between Bhumibol 1-2 Bridge near Lat Pho Canal | R-194 / 14.0D | 13° 40' 03.00'' N | 100° 32' 09.00'' E
+BUENG BA | Outdoor Stadium Between Wat Bueng Ba Prapasawat and Nongsua Wittayakom School | R-042 / 19.3D | 14° 07' 51.00'' N | 100° 49' 05.00'' E
+CAVPAD | 2nd Cavalry Division
+Helipad (Sanam Pao) | R-186 / 7.8D | 13° 46' 20.00'' N | 100° 32' 38.00'' E
+DON FAEK | Motorway Bang Yai-Kanchanaburi Bridge Crossing Tha Chin River 4 | R-263 / 21.7D | 13° 51' 04.00'' N | 100° 13' 28.00'' E
+EKACHAI | Ekachai Golf and Country Club | R-223 / 21.7D | 13° 37' 37.00'' N | 100° 20' 38.00'' E
+HIN KONG | Hin Kong Interchange, Phahonyothin Rd. | R-030 / 35.2D | 14° 24' 30.00'' N | 100° 52' 40.00'' E
+HUAI KHWANG | Train Repairing Center | R-173 / 8.5D | 13° 45' 55.00'' N | 100° 35' 13.00'' E
+KHLONG CHAN | Rajamangala National Stadium | R-170 / 8.4D | 13° 45' 17.00'' N | 100° 37' 14.00'' E
+KOH KRET | Wat Poramai Yikawas,
+Koh Kret | R-280 / 6.5D | 13° 54' 41.00'' N | 100° 29' 03.00'' E
+KOH SICHANG | Koh Sichang | R-165 / 47.4D | 13° 07' 45.00'' N | 100° 48' 40.00'' E
+LAM LUK KA | Bangkok Eastern Outer Ring Rd. Crossing Lamlukka Rd. | R-075 / 7.5D | 13° 56' 02.00'' N | 100° 42' 31.00'' E
+LAT BUA LUANG | Singha Beverage Co., Ltd. Ladbualuang | R-312 / 24.5D | 14° 10' 08.00'' N | 100° 16' 48.00'' E
+MINBURI | Bangkok Eastern Outer Ring Rd. Crossing Ram
+Inthra Rd. | R-133 / 6.4D | 13° 49' 11.00'' N | 100° 40' 35.00'' E
+MUEANG THONG | Impact Arena Building | R-290 / 3.0D | 13° 54' 35.00'' N | 100° 32' 35.00'' E
+PAKNAM | Samuthprakarn Learning Park and Tower | R-179 / 17.6D | 13° 35' 53.82'' N | 100° 35' 56.21'' E
+PATHUMTHANI | Pathumthani Bridge (Crossing Chaopraya River) | R-338 / 8.6D | 14° 01' 33.00'' N | 100° 32' 25.00'' E
+PRATUNAM
+PHRA IN | Bang Pa-in Interchange, Bangkok Western Outer Ring Rd. Crossing Phaholyothin Rd. | R-005 / 16.8D | 14° 12' 05.00'' N | 100° 38' 33.00'' E
+RAMA V BRIDGE | Rama 5 Bridge (Crossing Chaopraya River) | R-237 / 6.6D | 13° 49' 58.00'' N | 100° 29' 43.00'' E
+SANAP THUEP | PTT Innovation Institute Sanaptueb, Wang Noi | R-028 / 27.0D | 14° 17' 18.00'' N | 100° 48' 35.00'' E
+SAMUT SAKHON | Thachalom Roundabout | R-222 / 28.4D | 13° 32' 17.00'' N | 100° 16' 20.00'' E
+TPAD | Royal Thai Police Aviation Division, Tarang | R-131 / 3.1D | 13° 51' 35.00'' N | 100° 38' 15.00'' E
+3 NM EAST | Sukhaphiban 5, Chalong Rat Expressway Toll Plaza | R-095 / 3.1D | 13° 53' 09.00'' N | 100° 38' 58.00'' E
+3 NM WEST | Armed Forces DevelopmentCommand (Dome shape) Si kan | R-333 / 3.8D | 13° 56' 17.00'' N | 100° 34' 13.00'' E
+5 NM WEST | Riverdale Golf Club, Bangkradee, Pathumthani | R-325 / 5.9D | 13° 58' 51.00'' N | 100° 32' 24.00'' E
+10 NM WEST | Kanchanapisek Rd. Crossing Pra-u-dom canal | R-300 / 10.5D | 13° 58' 43.00'' N | 100° 26' 18.00'' E
+11TH INFANTRY | 2nd Infantry Battalion, 11th Infantry Regiment,
+Bangkhen | R-179 / 2.2D | 13° 51' 24.00'' N | 100° 35' 50.00'' E
+g) VFR ENTRY AND EXIT PROCEDURES FOR HELICOPTER CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 21L/21R
+I) Departure Procedures
+NORTHBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - PATHUMTHANI [ALT1000] - PRATUNAM PHRA IN [ALT1000] - AUTTHAYA [ALT1500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BUENG BA [ALT1000] - SANAP TUEP [ALT1500] - AUTTHAYA [ALT1500]
+WESTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANGYAI [ALT1500] - DON FAEK [ALT1500] or BANG LEN [ALT1500]
+3 NM EAST [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - RAMA V BRIDGE [ALT1000] - BANGYAI [ALT1500] - DON FAEK [ALT1500] or BANG LEN [ALT1500]
+SOUTHBOUND
+MUEANG THONG [ALT1000] - RAMA V BRIDGE [ALT1000] - BANG KHAE [ALT1500] - EKACHAI [ALT1500] -
+SAMUT SAKHON [ALT1500]
+3 NM EAST [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - EKACHAI [ALT1500] - SAMUT SAKHON [ALT1500]
+SOUTHEASTBOUND
+MUEANG THONG [ALT1000] - RAMA V BRIDGE [ALT1000] - BANG KHAE [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - PAKNAM [ALT1000] - BANGPU [ALT1000] - KOH SICHANG [ALT1500] or BANG PAKONG [ALT1500] - KOH SICHANG [ALT1500]
+3 NM EAST [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - PAKNAM [ALT1000] - BANGPU [ALT1000] - KOH SICHANG [ALT1500] or BANG PAKONG [ALT1500] - KOH SICHANG [ALT1500]
+EASTBOUND
+MUEANG THONG [ALT1000] - RAMA V BRIDGE [ALT1000] - KHLONG CHAN [ALT1500] - MINBURI [ALT1000]-
+LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT1500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT1500]
+NORTHEASTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - PATHUMTHANI [ALT1000] - PRATUNAM PHRA IN [ALT1000] - SANAP TUEP [ALT1500] - HIN KONG [ALT1500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BUENG BA [ALT1000] - SANAP TUEP [ALT1500] - HIN KONG [ALT1500]
+II) Arrival Procedures
+NORTHBOUND
+AYUTTHAYA [ALT1500] - PRATUNAM PHRA IN [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] -
+3 NM WEST [ALT1000]
+AYUTTHAYA [ALT1500] - SANAP TUEP [ALT1500] - BUENG BA [ALT1000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+WESTBOUND
+DON FAEK [ALT1500] - BANGYAI [ALT1500] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+BANG LEN [ALT1500] - 10 NM WEST [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+DON FAEK [ALT1500] or BANG LEN [ALT1500] - BANGYAI [ALT1500] - RAMA V BRIDGE [ALT1000] - KHLONG CHAN [ALT1500] - MINBURI [ALT1000] - 3 NM EAST [ALT1000]
+SOUTHBOUND
+SAMUT SAKHON [ALT1500] - EKACHAI [ALT1500] - BANG KHAE [ALT1500] - RAMA V BRIDGE [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+SAMUT SAKHON [ALT1500] - EKACHAI [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - KHLONG CHAN [ALT1500] -MINBURI [ALT1000] - 3 NM EAST [ALT1000]
+SOUTHEASTBOUND
+KOH SICHANG [ALT1500] - BANG PAKONG [ALT1500] or KOH SICHANG [ALT1500] - BANGPU [ALT1000] - PAKNAM [ALT1000] - BHUMIBOL BRIDGE [ALT1500] - BANG KHAE [ALT1500] - RAMA V BRIDGE [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+KOH SICHANG [ALT1500] - BANG PAKONG [ALT1500] or KOH SICHANG [ALT1500] - BANGPU [ALT1000] - PAKNAM [ALT1000] - BHUMIBOL BRIDGE [ALT1500] - KHLONG CHAN [ALT1500] - MINBURI [ALT1000] - 3 NM EAST [ALT1000]
+EASTBOUND
+BANG NAM PRIAO [ALT1500] - LAM LUK KA [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] -
+RAMA V BRIDGE [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] -
+3 NM WEST [ALT1000]
+BANG NAM PRIAO [ALT1500] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+NORTHEASTBOUND
+HIN KONG [ALT1500] - SANAP TUEP [ALT1500] - PRATUNAM PHRA IN [ALT1000] - PATHUMTHANI [ALT1000] -
+5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+HIN KONG [ALT1500] - SANAP TUEP [ALT1500] - BUENG BA [ALT1000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+The details of VFR ENTRY AND EXIT PROCEDURES FOR HELICOPTER CHART (BANGKOK/DON MUEANG INTL (VTBD)
+RWY 21L/21R are given in VTBD AD 2.24 CHARTS RELATED TO AN AERODROME
+h) VFR ENTRY AND EXIT PROCEDURES FOR HELICOPTER CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R
+I) Departure Procedures
+NORTHBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - PATHUMTHANI [ALT1000] - PRATUNAM PHRA IN [ALT1000] - AYUTTHAYA [ALT1500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BUENG BA [ALT1000] - SANAP TUEP [ALT1500] -AYUTTHAYA [ALT1500]
+WESTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANGYAI [ALT1500] - DON FAEK [ALT1500] or BANG LEN [ALT1500]
+3 NM EAST [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - BANG KHAE [ALT1500] - BANGYAI [ALT1500] - DON FAEK [ALT1500] or BANG LEN [ALT1500]
+SOUTHBOUND
+MUEANG THONG [ALT1000] - RAMA V BRIDGE [ALT1000] - BANG KHAE [ALT1500] - EKACHAI [ALT1500] -
+SAMUT SAKHON [ALT1500]
+3 NM EAST [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - BHUMIBOL BRIDGE [ALT1500] -EKACHAI [ALT1500] - SAMUT SAKHON [ALT1500]
+SOUTHEASTBOUND
+MUEANG THONG [ALT1000] - RAMA V BRIDGE [ALT1000] - BANG KHAE [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - PAKNAM [ALT1000] - BANGPU [ALT1000] - KOH SICHANG [ALT1500] or BANG PAKONG [ALT1500] - KOH SICHANG [ALT1500]
+3 NM EAST [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - PAKNAM [ALT1000] - BANGPU [ALT1000] - KOH SICHANG [ALT1500] or BANG PAKONG [ALT1500] - KOH SICHANG [ALT1500]
+EASTBOUND
+MUEANG THONG [ALT1000] - RAMA V BRIDGE [ALT1000] - BANG KHAE [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - KHLONG CHAN [ALT1500] - MINBURI [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT1500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BANG NAM PRIAO [ALT1500]
+NORTHEASTBOUND
+MUEANG THONG [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - PATHUMTHANI [ALT1000] -PRATUNAM PHRA IN [ALT1000] - SANAP TUEP [ALT1500] - HIN KONG [ALT1500]
+3 NM EAST [ALT1000] - LAM LUK KA [ALT1000] - BUENG BA [ALT1000] - SANAP TUEP [ALT1500] - HIN KONG [A1500]
+II) Arrival Procedures
+NORTHBOUND
+AYUTTHAYA [ALT1500] - PRATUNAM PHRA IN [ALT1000] - PATHUMTHANI [ALT1000] - 5 NM WEST [ALT1000] -
+3 NM WEST [ALT1000]
+AYUTTHAYA [ALT1500] - SANAP TUEP [ALT1500] - BUENG BA [ALT1000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+WESTBOUND
+DON FAEK [ALT1500] or BANG LEN [ALT1500] - BANGYAI [ALT1500] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+BANG LEN [ALT1500] - 10 NM WEST [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+DON FAEK [ALT1500] or BANG LEN [ALT1500] - BANGYAI [ALT1500] - BANG KHAE [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - KHLONG CHAN [ALT1500] - MINBURI [ALT1000] - 3 NM EAST [ALT1000]
+SOUTHBOUND
+SAMUT SAKHON [ALT1500] - EKACHAI [ALT1500] - BANG KHAE [ALT1500] - RAMA V BRIDGE [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+SAMUT SAKHON [ALT1500] - EKACHAI [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - KHLONG CHAN [ALT1500] -MINBURI [ALT1000] - 3 NM EAST [ALT1000]
+SOUTHEASTBOUND
+KOH SICHANG [ALT1500] - BANG PAKONG [ALT1500] or KOH SICHANG [ALT1500] - BANGPU [ALT1000] - PAKNAM [ALT1000] - BHUMIBOL BRIDGE [ALT1500] - BANG KHAE [ALT1500] - RAMA V BRIDGE [ALT1000] - KOH KRET [ALT1000] - BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+KOH SICHANG [ALT1500] - BANG PAKONG [ALT1500] or KOH SICHANG [ALT1500] - BANGPU [ALT1000] - PAKNAM [ALT1000] - BHUMIBOL BRIDGE [ALT1500] - KHLONG CHAN [ALT1500] - MINBURI [ALT1000] - 3 NM EAST [ALT1000]
+EASTBOUND
+BANG NAM PRIAO [ALT1500] - LAM LUK KA [ALT1000] - MINBURI [ALT1000] - KHLONG CHAN [ALT1500] - BHUMIBOL BRIDGE [ALT1500] - BANG KHAE [ALT1500] - RAMA V BRIDGE [ALT1000] - KOH KRET [ALT1000] -BANG KHU WAT [ALT1000] - 5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+BANG NAM PRIAO [ALT1500] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+NORTHEASTBOUND
+HIN KONG [ALT1500] - SANAP TUEP [ALT1500] - PRATUNAM PHRA IN [ALT1000] - PATHUMTHANI [ALT1000] -
+5 NM WEST [ALT1000] - 3 NM WEST [ALT1000]
+HIN KONG [ALT1500] - SANAP TUEP [ALT1500] - BUENG BA [ALT1000] - LAM LUK KA [ALT1000] - 3 NM EAST [ALT1000]
+The details of VFR ENTRY AND EXIT PROCEDURES FOR HELICOPTER CHART BANGKOK/DON MUEANG INTL (VTBD)
+RWY 03L/03R are given in VTBD AD 2.24 CHARTS RELATED TO AN AERODROME
+i) VFR OVERFLY PROCEDURES FOR HELICOPTER CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R 21L/21R
+I) Departure/ Arrival Procedures
+HIN KONG [ALT1500] - BANG LUK SUA [ALT1500] - BANG NAM PRIAO [ALT1500] - BANG PAKONG [ALT1500] - BANGPU [ALT1000] - PAK NAM [ALT1000] - EKACHAI [ALT1500] - DON FAEK [ALT1500] - BANG LEN [ALT1500] - LAT BUA LUANG [ALT1500] - AYUTTHAYA [ALT1500] - HIN KONG [ALT1500]
+Helicopter within Bangkok Control Zone can join all suitable reporting points in VFR ENTRY AND EXIT PROCEDURES FOR HELICOPTER CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R 21L/21R and BANGKOK/SUVARNABHUMI INTL (VTBS) RWY 19/20L/20R 01/02L/02R
+The details of VFR OVERFLY PROCEDURES FOR HELICOPTER CHART BANGKOK/DON MUEANG INTL (VTBD) RWY 03L/03R 21L/21R are given in VTBD AD 2.24 CHARTS RELATED TO AN AERODROME
+8.6 Radio Communication Failure for VFR flights
+8.6.1 Departing aircraft
+Aircraft will not be permitted to take off unless two-way radio communications can be maintained with the control tower.
+8.6.2 Arriving aircraft
+Report position, distance, heading and altitude as well as departure point when approaching 50 NM from BKK VOR by blind transmission.
+Observe the direction of traffic in pattern and enter downwind with the flow of traffic.
+Conform to the altitude for the type of aircraft as listed in Note below.
+Make a low approach between the runways at an altitude of 500 ft, and rock the wings of the aircraft.
+Re-enter downwind leg and observe light signals.
+8.6.3 Alternative methods for communicating with ATC
+Pilots may endeavour to communicate with ATC by telephone network. The telephone numbers are as follows:
+Don Mueang Tower
+Tel: +662 515 3282, +662 515 3288, +668 1710 7449
+Suvarnabhumi Tower
+Tel: +662 131 3610-3, +668 6399 9030
+Bangkok Approach
+Tel: +662 131 3621, +662 131 3622, +668 5150 2288, +668 5150 3300
+Note: Traffic Patterns and Altitude:
+Jet Aircraft 1500 ft
+Conventional Aircraft 1000 ft
+Light Aircraft 800 ft
+Helicopter 500 ft
+Traffic Pattern, Bangkok control zone and Don Mueang aerodrome traffic zone are shown below:
+Illustration of Traffic Pattern
+Illustration of Bangkok control zone and Don Mueang aerodrome traffic zone
+9. TRAINING IN DANGER AREA
+9.1
+VT D47
+Jet / Conventional Aircraft departing from Don Mueang International Airport must contact Don Mueang Approach on frequency 119.4 MHz
+Before leaving VT D47 the pilot must report his position, distance and heading to Don Mueang Approach.
+Test Flights: If the pilot desires to fly outside the area of VT D47, he must maintain two-way radio communications with, and follow instruction from Bangkok Approach/Don Mueang Approach.
+9.2
+VT D6A / VT D6B
+Light Aircraft departing form Don Mueang International Airport must contact Don Mueang Approach, the controller will instruct the pilot over Bangbuathong at altitude not above 1000 feet before entering VT D6A / VT D6B.
+Before leaving VT D6A / VT D6B the pilot must report his position, distance and heading to Don Mueang Approach. The controller will instruct the pilot to report over Ladlumkaew at altitude not above 1000 ft, report Patum-thani, 5 NM West and then report entering downwind for landing RWY 21L/R or RWY 03R/L.
+10. Fuel Dumping Procedure and In-flight Fuel Management Procedures
+10.1 Introduction
+An aircraft in emergency or other urgent situations may need to dump fuel so as to reduce to maximum landing mass in order to affect a safe landing.
+10.2 Fuel Dumping Areas
+10.2.1 North fuel dumping area: between R-335 and R-355, distance of 30 to 50 NM from BKK VOR, altitude at or above 8500 ft.
+10.2.2 East fuel dumping area: between R-090 and R-110, distance of 30 to 50 NM from BKK VOR, altitude at or above 8500 ft.
+10.2.3 South fuel dumping area: between R-190 and R-210, distance of 30 to 50 NM from BKK VOR, altitude at or above 8500 ft.
+Illustration of Fuel dumping areas
+10.3 In-flight Fuel Management Procedures
+10.3.1 Definition
+Minimum fuel: The term used to describe a situation in which an aircraft’s fuel supply has reached a state where the flight is committed to land at a specific aerodrome and no additional delay can be accepted.
+Mayday fuel: Describes the nature of the distress conditions when the calculated usable fuel predicted to be available upon landing at the nearest aerodrome where a safe landing can be made is less than the planned final reserve fuel.
+10.3.2 Actions taken by pilot
+10.3.2.1 The pilot-in-command shall continually ensure that the amount of usable fuel remaining on board is not less than the fuel required to proceed to an aerodrome where a safe landing can be made with the planned final reserve fuel remaining upon landing.
+10.3.2.2 The pilot-in-command shall request delay information from ATC when unanticipated circumstances may result in landing at the destination aerodrome with less than the final reserve fuel plus the fuel required either to proceed to an alternate aerodrome or the fuel required to operate to an isolated aerodrome.
+10.3.2.3 The pilot-in-command shall advise ATC of a minimum fuel state by declaring “MINIMUM FUEL” when, having committed to land at a specific aerodrome, the pilot calculates that any changes to the existing clearance to that aerodrome may result in landing with less than planned final reserve fuel.
+Note 1: The declaration of “MINIMUM FUEL” informs ATC that all planned aerodrome options have been reduced to a specific aerodrome of intended landing and any changes to the existing clearance may result in landing with less than planned final reserve fuel. This is not an emergency situation but an indication that an emergency situation is possible should any additional delays occur.
+Note 2: It should be noted that Pilots should not expect any form of priority handling as a result of a “MINIMUM FUEL” declaration. ATC will, however, advise the flight crew of any additional expected delays as well as coordinate when transferring control of the aircraft to ensure that other ATC units are aware of the flight’s fuel state.
+10.3.2.4 The pilot-in-command shall declare a situation of distress related to the amount of fuel available on board the aircraft by broadcasting “MAYDAY, MAYDAY, MAYDAY, FUEL” when the calculated usable fuel predicted to be available upon landing at the nearest aerodrome where a safe landing can be made is less than the planned final reserve fuel.
+Note 1: The planned final reserve fuel refers to the value calculated in Annex 6 - Operation of Aircraft, Chapter4, item 4.3.6.3 e) 1) or 2) and is the minimum amount of fuel required upon landing at any aerodrome.
+Note 2: The words “MAYDAY FUEL” describe the nature of the distress conditions as required in Annex 10, Volume II, Chapter 5.3.2.1, b) 3).
+Note 3: Guidance on procedures for in-flight fuel management is contained in the Fuel Planning Manual (Doc 9976).
+10.3.3 Actions taken by ATC
+10.3.3.1 When a pilot reports a state of “MINIMUM FUEL”, ATC shall respond to the pilot who indicates or suggests that he is becoming short of fuel or who has declared “MINIMIM FUEL” as follows:
+10.3.3.1.1 Inform the pilot of either:
+The estimated delay, if pilots are en-route to, joining or are established in holding point such as IAWPs; or
+The estimated track mileage, if pilots are being vectored to an instrument approach; or
+10.3.3.1.2 Coordinate when transferring control of the aircraft to ensure other ATC units to be aware of the flight’s fuel state.
+10.3.3.1.3 Standard phraseology
+Pilot transmission: (C/S), MINIMUM FUEL
+Controller transmission: (C/S), ROGER [NO DELAY EXPECTED or EXPECT (delay information)]
+10.3.3.2 When a pilot reports a state of “MAYDAY, MAYDAY, MAYDAY FUEL”. This is an emergency and the aircraft shall be given priority over other traffic in the landing sequence. The aircraft will be committed to a landing, as in the event of any delay or a go-around, there may be insufficient fuel remaining for a safe landing.
+10.3.3.2.1 Standard phraseology
+Pilot transmission: (C/S) MAYDAY, MAYDAY, MAYDAY FUEL
+Controller transmission: (C/S) ROGER MAYDAY
+11. Aircraft Transponder Failure Procedures
+11.1 Control of aircraft experiencing transponder failure procedure.
+11.1.1 When a transponder failure is detected to be unserviceable prior to departure, ATC shall confirm with the pilot of his transponder operations using the following phraseologies.
+Phraseologies
+“C/S, CONFIRM TRANSPONDER ON”, or
+“C/S, CHECK YOUR TRANSPONDER OPERATED NORMALLY”, or
+“C/S, TRANSPONDER NOT RECEIVED, CHECK FUNCTIONALITY”
+When it has been confirmed that aircraft transponder fails, ATC shall advice the pilot to repair it before departure. However, the surface radar blind spot, where the transponder might not be easily detected, should be taken into consideration.
+Phraseologies
+“C/S, ADVISE TRANSPONDER REPAIRED BEFORE DEPARTURE”, or
+“C/S, ADVISE RETURN TO BAY FOR TRANSPONDER REPAIRING”
+11.1.2 When transponder appears to be unserviceable after the aircraft is airborne, ATC must inform the pilot of his transponder failure using the following phraseologies.
+Phraseologies
+“C/S, CONFIRM TRANSPONDER ON”, or
+“C/S, CHECK YOUR TRANSPONDER OPERATED NORMALLY”, or
+“C/S, TRANSPONDER NOT RECEIVED, CHECK FUNCTIONALITY”
+When it has been confirmed that the aircraft transponder fails, ATC shall advice the pilot to return to his departure airport as well as relay all necessary information to Aerodrome Control Tower and all concerned units.
+Phraseologies
+“C/S, ADVISE RETURN TO LAND AT (DEPARTURE AERODROME) FOR TRANSPONDER REPAIRING, REQUEST YOUR INTENTION”,
+“C/S, ADVISE RETURN TO BAY FOR TRANSPONDER REPAIRING”
+In case pilot decide to proceed to first intended landing or nearest suitable aerodrome, primary radar separation shall be provided. However, the pilot shall be reminded that delays can be expected and some requests might not be granted e.g. route to be flown, cruising altitude/level.
+11.2 Control of aircraft overflying Bangkok FIR or aircraft intending to land at Don Mueang International Airport with its failed transponder procedure
+11.2.1 ATC must immediately inform the pilot of his transponder failure so that he could check its operations and repair it.
+11.2.2 ATC shall control, according to the filed flight plan, the aircraft experiencing transponder failure to land safely at Don Mueang International Airport.
+11.2.3 ATC shall control, according to the filed flight plan, the over-fly aircraft experiencing transponder failure to land safely at the destination aerodrome.
+11.2.4 Approach Control shall coordinate closely with Don Mueang Tower and/or other concerned units regarding the problem.
+11.3 The above procedures shall be applied to all aircraft except state aircraft and military aircraft.
+11.4 Aircraft intending to land at Don Mueang International Airport with its failed transponder might be assigned to fly along an RNAV STAR and controlled solely by Suvarnabhumi PSR which normally covers up to 40 NM.
+12. Radio Communication Failure Procedure
+12.1 General
+12.1.1 Radio communication is considered to be failed, if during two minutes that the pilot or the ATC unit doesn’t answer the repeated calls through all available communication channels.
+12.1.2 The transponder is set to be Mode A/C code 7600 as soon as the pilot has detected communication failure.
+12.1.3 The pilot shall use all available facilities to re-establish communication with ATC unit directly or by means of the other aircraft. If necessary, the emergency frequency 121.5 MHz may be used.
+12.1.4 In any case of radio communication failure, the pilot shall continue listening on the appropriate radio frequency and transmitting the position reports, actions and flight conditions. The pilot shall comply with one of the following procedures.
+12.2 Total radio communication failure for arriving aircraft
+12.2.1 If in VMC, continue to fly in VMC and land at the nearest suitable aerodrome.
+12.2.2 If in IMC or when the pilot of an IFR flight considers it inadvisable to complete the flight in accordance with para 12.2.1 above, the pilot shall:
+12.2.2.1 If a specific STAR procedure has been designated and acknowledged prior to the occurrence of radio communication failure, comply with the radio communication failure procedures.
+Proceed according to the STAR route to the termination point AROKA for RWY 21L/21R or DOTLI for RWY 03L/03R and descend in accordance with the published all speed and altitude restrictions of the relevant STAR procedure, thence:
+For RWY 21L/21R: at AROKA and maintain altitude 3000 ft. The pilot shall make a right holding pattern as published and carry out the appropriate approach procedure.
+For RWY 03L/03R: At DOTLI, carry out the appropriate approach procedure.
+12.2.2.2 If no specific STAR procedure has been designated or acknowledged prior to the occurrence of radio communication failure, endeavor to ascertain the landing direction from any available means in para 12.5 below. The pilot then should proceed in accordance with the STAR procedure appropriate to its ATS route and landing direction and comply with the radio communication failure procedures.
+12.2.3 When an arriving aircraft is being radar vectored, if no transmissions are heard on the frequency in use for a period of two minutes, a radio frequency check is to be made. If the radio frequency check indicates a radio communication failure. Pilot should proceed in the most direct manner possible to rejoin the STAR procedure appropriate to its ATS route and landing direction.
+12.2.4 Pilots should ensure that they remain at or above the minimum sector altitude. If the aircraft is below the minimum sector altitude, pilots shall immediately climb to the minimum sector altitude.
+12.3 Total radio communication failure for missed approach aircraft
+12.3.1 The pilot shall set the aircraft transponder to Mode A/C code 7600 and fly to or proceed direct to (in case of radar vector) the appropriate missed approach holding point at 3 000 ft (For RWY 21L/RWY 21R) or 4 000 ft (For RWY 03L/RWY 03R) and hold.
+12.3.2 The pilot then shall climb and maintain 4 000 ft (For RWY21L/RWY 21R) or 5 000 ft (For RWY 03L/RWY 03R) in the holding pattern and complete one holding then start commencing an appropriate approach procedure and landing direction in accordance with para 12.5 below, thence
+For RWY 21L/21R: maintain altitude 4 000 ft and proceed direct to BKK VOR then transition to IAF and carry out an appropriate approach procedure.
+For RWY 03L/03R: maintain altitude 5 000 ft and proceed direct to DOTLI, carry out the appropriate approach procedure. Except ILS or LOC y RWY03L and VOR RWY03R: maintain altitude 5 000 ft and proceed direct to BKK VOR then transition to IAF and carry out an appropriate approach procedure.
+12.4 Partial radio communication failure for arriving aircraft
+12.4.1 Aircraft unable to receive: pilots shall adopt the total radio communication failure procedures specified in para 12.2 above.
+12.4.2 Aircraft able to receive: following verification that aircraft is able to receive ground transmissions by squawk ident, ATC will continue to issue and repeat instructions and/or clearance to the pilot.
+12.5 Identification of runway in use
+12.5.1 A pilot endeavours to obtain information on the landing runway from the following sources: ATIS, ACARS, satellite phone, etc. If unable, the pilot should rely on the best available information such as aerodrome weather forecasts, meteorological reports or any other relevant information obtained prior to the communication failure and should decide on the most appropriate landing direction.
+12.5.2 To assist the pilot in ascertaining the landing direction, the ILS and approach lighting for the runway in use will be switched on. If the approach lights for the runway-in-use are sighted but the ILS signal is not received, the pilot shall assume that the ILS is inoperative and shall proceed to land on the runway on which the approach lights have been sighted.
+12.6 Total radio communication failure for departing aircraft
+12.6.1 The pilot shall set the aircraft transponder to Mode A/C code 7600 and comply with the last acknowledged clearance up to the next reporting point on the SID, then climb to the planned cruising level in accordance with the published all speed and altitude restrictions of the relevant SID procedure. Thereafter, the pilot shall comply with the flight planned routing.
+12.6.2 Whenever a pilot experiences total radio communication failure immediately after departure and it is deemed unsafe for the flight to continue to its destination, the pilot shall adhere to the procedures below:
+12.6.2.1 The pilot shall set the aircraft transponder to Mode A/ C code 7600.
+12.6.2.2 The pilot shall comply with the last assigned altitude in accordance with the published all speed and altitude restrictions of the relevant SID procedure.
+12.6.2.3 The pilot shall climb/descend to maintain 8 500 ft for 2 minutes then proceed direct to BKK VOR and hold. If fuel dumping is necessarily required before making an approach to land, after maintaining altitude at 8 500 ft for 2 minutes, the pilot shall proceed to the nearest suitable fuel dumping area and start dumping fuel. When it is completed, the pilot must fly direct to BKK VOR and hold.
+12.6.2.4 The pilot is required to make a left holding pattern over BKK VOR with inbound course 120 and one-minute-leg to complete one holding then start commencing an appropriate approach procedure and landing direction in accordance with para 12.5 above.
+12.7 Partial radio communication failure for departing aircraft
+12.7.1 Aircraft unable to receive: pilots shall adopt the total radio failure procedures specified in para 12.6.2 above.
+12.7.2 Aircraft able to receive: following verification that aircraft is able to receive ground transmissions by squawk ident, ATC will continue to issue and repeat instructions and/or clearances to the pilot.
+12.8 Aircraft overflying Bangkok TMA
+12.8.1 The pilot shall set the aircraft transponder to Mode A/C code 7600.
+12.8.2 If in VMC, the pilot shall continue to fly in VMC and land at the nearest suitable aerodrome.
+12.8.3 If in IMC, or when the pilot of an IFR flight considers it inadvisable to complete the flight in accordance with para 12.8.2 above, the pilot shall maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of ten minutes following the aircraft’s failure to report its position over a compulsory reporting point and thereafter adjust level and speed in accordance with the filed flight plan.
+12.9 Departing or overflying aircraft under radar control
+12.9.1 The pilot shall set the aircraft transponder to Mode A/C code 7600.
+12.9.2 The pilot shall maintain the last assigned heading, speed and level, or minimum flight altitude if higher, for a period of two minutes following:
+12.9.2.1 The time the last assigned level or minimum flight altitude is reached; or
+12.9.2.2 The time the transponder is set to 7600; or
+12.9.2.3 The aircraft’s failure to report its position over a compulsory reporting point. Whichever is later, and thereafter adjust level and speed in accordance with the filed flight plan.
+12.9.3 After a period of two minutes, the pilot shall proceed in the most direct manner possible to rejoin the SID procedure appropriate to its ATS route or the flight planned route no later than the next significant point, taking into consideration to the applicable minimum flight altitude.
+12.10 Alternative methods for communicating with ATC
+Pilots may endeavour to communicate with ATC by telephone network.
+The telephone numbers are as follows:
+Don Mueang Tower Tel: +662 515 3282, +662 515 3288, +6681 710 7449
+Suvarnabhumi Tower Tel: +662 131 3610-3, +6686 399 9030
+Bangkok Approach Tel: +662 131 3621, +662131 2622, +6685 150 2288 and +6685 150 3300
+VTBD
+AD 2.23 ADDITIONAL INFORMATION
+1. Bird concentrations
+1.1 Bird concentrations in the vicinity of Don Mueang International Airport.
+1.1.1 It has been observed that migratory and resident birds in remarkable numbers appear on or in the vicinity of Don Mueang International Airport and they are present in variable numbers every month. Mostly during rainy season (June to October). Pilots are essentially requested to report bird strikes to the General Manager of the airport via
+Wildlife Hazard Control Unit
+Phone +66 2535 2636
+Email: [email protected]
+Bird Species that has potential hazard to aircraft are as follows:
+Species | Weight (kg) | Period
+Open-bill Stork | 1.90 - 2.30 | All year (mostly in July)
+Cattle Egret | 0.27 - 0.51 | All year (mostly in November)
+Purple Heron | 0.53 - 1.35 | All year (mostly in December)
+Lesser Whistling Duck | 0.55 - 0.60 | All year (mostly in June)
+Intermediate Egret | 0.40 - 0.50 | All year (mostly in January)
+Large - billed Crow | 0.45 - 1.00 | All year (mostly in September)
+Great Myna | 0.09 - 0.10 | All year (mostly in August)
+Rock Pigeon | 0.24 - 0.38 | All year (mostly in October)
+Red Collared Dove | 0.10 | All year (mostly in August)
+Surveillance Bird Species are as follows:
+Species | Weight (kg) | Period
+Great Egret | 0.7 - 1.5 | December - May (mostly in December - January)
+Grey Heron | 1.5 - 2.0 | December - January
+African Sacred Ibis | 1.3 - 1.5 | July - August (mostly in August)
+Osprey | 1.3 - 1.8 | December
+1.1.2 Don Mueang International Airport has many measures and activities to reduce wildlife hazard by managing the environment to make the area unattractive for wildlife hazard and safe for the aircraft operations. Also, Environmental management such as grass mowing, chemicals Using (reduce bird’s food resources), waste managing (refuse collection and garbage dumps), Tree trimming or cutting down, weeds dredging (in drainage ditch, water pond and lowland), Sail grading and reducing bird’s potential breeding and roosting area in airside.
+2. Requirement for Airbus A380 and Boeing 747-8 aircraft to use Don Mueang International Airport as an alternate airport is obligated is obligated to comply with the following regulations:
+Before Airbus A380 and Boeing 747-8 aircraft may use Don Mueang International Airport, all airlines must comprehend and agree with the requirement, thence shall inform airport authority and received approval prior to any operations.
+Runway 03L/21R has been approved for the designated primary arrivals and departures runway for Airbus A380 and Boeing 747-8 aircraft ONLY.
+The parking position is assigned at the aircraft stand No.80 and the alternate parking positions are at aircraft stand No.90 and Taxiway B North.
+The maneuvering area designation system is illustrated on V aerodrome – Airbus A380 and Boeing 747-8 ground movement chart.
+Upon operating to and from the aircraft stand, the Airbus A380 and Boeing 747-8 aircraft are required to strictly follow the “Follow me” guidance and be ensure that aircraft clearances and wingtips are escorted by wingman.
+Taxi and ground movement procedures are prescribed as follow:
+Taxi aid camera system is used for aircraft taxiing and ground operation. (If applicable)
+The Airbus A380 and Boeing 747-8 aircraft are required to taxi within the speed limit.
+While the Airbus A380 or Boeing 747-8 aircraft is operating on Taxiway C, the aircraft operating on Taxiway B shall be restricted up to the aircraft code C (aircraft with a maximum wingspan of 36 M).
+While other aircraft is taking off or landing on the runway 03L/21R, the Airbus A380 or Boeing 747-8 aircraft entering the runway 03L/21R is required to hold on Taxiway C.
+The aircraft gross weight of any Airbus A380 or Boeing 747-8 operating at Don Mueang International Airport must not be over 420 t
+All ground service equipments needed by the Airbus A380 or Boeing 747-8 aircraft at Don Mueang International Airport must be provided by an airline operating the Airbus A380 or Boeing 747-8 aircraft or provided by any ground service equipment company at Don Mueang International Airport.
+In case of the Airbus A380 or Boeing 747-8 aircraft accident or incident on the Airport, an aircraft owner operating the Airbus A380 or Boeing 747-8 shall be responsibility of disable aircraft removal as soon as possible.
+Turn right on taxiway S to aircraft stand number 80 or
+Turn right on taxiway C South to aircraft stand number 90
+Turn right to taxiway S then turn right and taxi on taxiway C facing to north till taxiway D then turn left to taxiway D and turn right to park on taxiway B north
+Turn left on taxiway D and turn right to park on taxiway B north or
+Turn left on taxiway E or taxiway D to taxiway D to taxiway C then taxi to south and
+Turn right on taxiway S to aircraft stand number 80 or
+Turn left on taxiway S to runway and taxi to taxiway C south to aircraft stand number 90
+AIRCRAFT STAND NO 80:
+The aircraft shall be pushed back onto taxilane B (to face either north or south) and tow forward till the aircraft is on taxiway S.
+Turn left to taxiway C and taxing toward north after that turn right onto taxiway D and prepare to take-off on runway.
+AIRCRAFT STAND NO 90:
+The aircraft shall be pushed back onto taxilane B (to face south only) and tow the aircraft on to taxilane B to stop beside aircraft stand number 108 and release the tow bar.
+The aircraft shall be taxied on taxiway C south and turn left to runway.
+The aircraft shall be taxied on runway forward north.
+Turn left on taxiway E and turn right on taxiway C after that turn on taxiway D to the runway.
+B NORTH
+The aircraft shall be taxied to runway 21R.
+AIRCRAFT STAND NO 80:
+The aircraft shall be pushed back onto taxilane B (to face either north or south) and tow forward till the aircraft is on taxiway S.
+Turn left to runway (distance for take-off ~2,900 m.)
+AIRCRAFT STAND NO 90:
+The aircraft shall be pushed back onto taxilane B (to face south only) and tow the aircraft on to taxiway C south on runway holding position.
+Turn left on runway 03L.
+B NORTH
+The aircraft shall be taxied to runway 21R.
+Turn right on taxiway E and turn left on taxiway C, taxing toward south.
+Turn left on taxiway S to runway 21R (distance for take-off ~2,900 m) (In case of low visibility, not allow to use runway 03L)
+3. Exemption granted by The Civil Aviation Authority of Thailand (CAAT):
+CAAT has granted exemption for non-compliant width of runway strip against provisions in the requirement of The Civil Aviation Authority of Thailand No.37 Aerodrome Standards Article 145, 149 and 151 for the period up to 3.7.2027
+VTBD
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTBD-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTBD-2-3
+Aircraft Parking/Docking Chart - ICAO (Verso)
+AD 2-VTBD-2-4
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTBD-2-5
+Precision Approach Terrain Chart - ICAO - RWY 21R
+AD 2-VTBD-3-1
+Aerodrome Obstacle Chart - ICAO Type A - RWY21R/03L
+AD 2-VTBD-3-3
+Aerodrome Obstacle Chart - ICAO Type A - RWY21L/03R
+AD 2-VTBD-3-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C
+AD 2-VTBD-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C (Radio communication failure table)
+AD 2-VTBD-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C (Tabular description 1)
+AD 2-VTBD-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C (Tabular description 2)
+AD 2-VTBD-6-4
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C (Tabular description 3)
+AD 2-VTBD-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C (Tabular description 4)
+AD 2-VTBD-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - ALBOS3C BONVO3C NOBER4C NUNLI3C OLVUK3C PASTO3C ROBKA3C SEMBO4C TARED3C UPKUP3C UGUVO3C (Waypoint list table)
+AD 2-VTBD-6-7
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - DOSBU3C GORSI3C HHN3C KASNI3C KIGOB3C REGOS3C RYN3C SABIS3C UKERA3C
+AD 2-VTBD-6-9
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - DOSBU3C GORSI3C HHN3C KASNI3C KIGOB3C REGOS3C RYN3C SABIS3C UKERA3C (Radio communication failure table)
+AD 2-VTBD-6-10
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - DOSBU3C GORSI3C HHN3C KASNI3C KIGOB3C REGOS3C RYN3C SABIS3C UKERA3C (Tabular description 1)
+AD 2-VTBD-6-11
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - DOSBU3C GORSI3C HHN3C KASNI3C KIGOB3C REGOS3C RYN3C SABIS3C UKERA3C (Tabular description 2)
+AD 2-VTBD-6-12
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - DOSBU3C GORSI3C HHN3C KASNI3C KIGOB3C REGOS3C RYN3C SABIS3C UKERA3C (Tabular description 3)
+AD 2-VTBD-6-13
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21L - DOSBU3C GORSI3C HHN3C KASNI3C KIGOB3C REGOS3C RYN3C SABIS3C UKERA3C (Waypoint list table)
+AD 2-VTBD-6-14
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A
+AD 2-VTBD-6-15
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R -ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A (Radio communication failure table)
+AD 2-VTBD-6-16
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A (Tabular description 1)
+AD 2-VTBD-6-17
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A (Tabular description 2)
+AD 2-VTBD-6-18
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A (Tabular description 3)
+AD 2-VTBD-6-19
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A (Tabular description 4)
+AD 2-VTBD-6-20
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - ALBOS3A BONVO3A NOBER4A NUNLI3A OLVUK3A PASTO3A ROBKA3A SEMBO4A TARED3A UPKUP3A UGUVO3A (Waypoint list table)
+AD 2-VTBD-6-21
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - DOSBU3A GORSI3A HHN3A KASNI3A KIGOB3A REGOS3A RYN3A SABIS3A UKERA3A
+AD 2-VTBD-6-23
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - DOSBU3A GORSI3A HHN3A KASNI3A KIGOB3A REGOS3A RYN3A SABIS3A UKERA3A (Radio communication failure table)
+AD 2-VTBD-6-24
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - DOSBU3A GORSI3A HHN3A KASNI3A KIGOB3A REGOS3A RYN3A SABIS3A UKERA3A (Tabular description 1)
+AD 2-VTBD-6-25
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - DOSBU3A GORSI3A HHN3A KASNI3A KIGOB3A REGOS3A RYN3A SABIS3A UKERA3A (Tabular description 2)
+AD 2-VTBD-6-26
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - DOSBU3A GORSI3A HHN3A KASNI3A KIGOB3A REGOS3A RYN3A SABIS3A UKERA3A (Tabular description 3)
+AD 2-VTBD-6-27
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21R - DOSBU3A GORSI3A HHN3A KASNI3A KIGOB3A REGOS3A RYN3A SABIS3A UKERA3A (Waypoint list table)
+AD 2-VTBD-6-28
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - ALBOS1B NOBER2B NUNLI1B OLVUK1B ROBKA1B SEMBO2B TARED1B UPKUP1B UGUVO1B
+AD 2-VTBD-6-29
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L -ALBOS1B NOBER2B NUNLI1B OLVUK1B ROBKA1B SEMBO2B TARED1B UPKUP1B UGUVO1B (Radio communication failure table)
+AD 2-VTBD-6-30
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - ALBOS1B NOBER2B NUNLI1B OLVUK1B ROBKA1B SEMBO2B TARED1B UPKUP1B UGUVO1B (Tabular description 1)
+AD 2-VTBD-6-31
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - ALBOS1B NOBER2B NUNLI1B OLVUK1B ROBKA1B SEMBO2B TARED1B UPKUP1B UGUVO1B (Tabular description 2)
+AD 2-VTBD-6-32
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - ALBOS1B NOBER2B NUNLI1B OLVUK1B ROBKA1B SEMBO2B TARED1B UPKUP1B UGUVO1B (Tabular description 3)
+AD 2-VTBD-6-33
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - ALBOS1B NOBER2B NUNLI1B OLVUK1B ROBKA1B SEMBO2B TARED1B UPKUP1B UGUVO1B (Waypoint list table)
+AD 2-VTBD-6-34
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B
+AD 2-VTBD-6-35
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B (Radio communication failure table)
+AD 2-VTBD-6-36
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B (Tabular description 1)
+AD 2-VTBD-6-37
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B (Tabular description 2)
+AD 2-VTBD-6-38
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B (Tabular description 3)
+AD 2-VTBD-6-39
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B (Tabular description 4)
+AD 2-VTBD-6-40
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03L - BONVO1B DOSBU1B GORSI1B HHN1B KASNI1B KIGOB1B PASTO1B REGOS1B RYN1B SABIS2B UKERA1B (Waypoint list table)
+AD 2-VTBD-6-41
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - ALBOS1D NOBER2D NUNLI1D OLVUK1D ROBKA1D SEMBO2D TARED1D UPKUP1D UGUVO1D
+AD 2-VTBD-6-43
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - ALBOS1D NOBER2D NUNLI1D OLVUK1D ROBKA1D SEMBO2D TARED1D UPKUP1D UGUVO1D (Radio communication failure table)
+AD 2-VTBD-6-44
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - ALBOS1D NOBER2D NUNLI1D OLVUK1D ROBKA1D SEMBO2D TARED1D UPKUP1D UGUVO1D (Tabular description 1)
+AD 2-VTBD-6-45
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - ALBOS1D NOBER2D NUNLI1D OLVUK1D ROBKA1D SEMBO2D TARED1D UPKUP1D UGUVO1D (Tabular description 2)
+AD 2-VTBD-6-46
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - ALBOS1D NOBER2D NUNLI1D OLVUK1D ROBKA1D SEMBO2D TARED1D UPKUP1D UGUVO1D (Tabular description 3)
+AD 2-VTBD-6-47
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - ALBOS1D NOBER2D NUNLI1D OLVUK1D ROBKA1D SEMBO2D TARED1D UPKUP1D UGUVO1D (Waypoint list table)
+AD 2-VTBD-6-48
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D
+AD 2-VTBD-6-49
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D (Radio communication failure table)
+AD 2-VTBD-6-50
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D (Tabular description 1)
+AD 2-VTBD-6-51
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D (Tabular description 2)
+AD 2-VTBD-6-52
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D (Tabular description 3)
+AD 2-VTBD-6-53
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D (Tabular description 4)
+AD 2-VTBD-6-54
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03R - BONVO1D DOSBU1D GORSI1D HHN1D KASNI1D KIGOB1D PASTO1D REGOS1D RYN1D SABIS2D UKERA1D (Waypoint list table)
+AD 2-VTBD-6-55
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A
+AD 2-VTBD-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Radio communication failure table)
+AD 2-VTBD-7-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Tabular description 1)
+AD 2-VTBD-7-3
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Tabular description 2)
+AD 2-VTBD-7-4
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Tabular description 3)
+AD 2-VTBD-7-5
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Tabular description 4)
+AD 2-VTBD-7-6
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Tabular description 5)
+AD 2-VTBD-7-7
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 21L/21R - ENDUU3A NAKON3A SABAI3A SEHNA3A WEHHA3A (Waypoint list table)
+AD 2-VTBD-7-8
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B
+AD 2-VTBD-7-9
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Radio communication failure table)
+AD 2-VTBD-7-10
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Tabular description 1)
+AD 2-VTBD-7-11
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Tabular description 2)
+AD 2-VTBD-7-12
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Tabular description 3)
+AD 2-VTBD-7-13
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Tabular description 4)
+AD 2-VTBD-7-14
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Tabular description 5)
+AD 2-VTBD-7-15
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 03L/03R - ENDUU1B NAKON1B SABAI1B SEHNA1B WEHHA1B (Waypoint list table)
+AD 2-VTBD-7-16
+Instrument Approach Chart - ICAO - VOR RWY 21L
+AD 2-VTBD-8-1
+Instrument Approach Chart - ICAO - VOR RWY 21R
+AD 2-VTBD-8-3
+Instrument Approach Chart - ICAO - VOR RWY 03R
+AD 2-VTBD-8-5
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 03L
+AD 2-VTBD-8-7
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 21L
+AD 2-VTBD-8-9
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 21L (Fix and point list table)
+AD 2-VTBD-8-10
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 21R CAT II
+AD 2-VTBD-8-11
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 21L
+AD 2-VTBD-8-13
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 21L (Tabular description)
+AD 2-VTBD-8-14
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 21L (Fix and point list table)
+AD 2-VTBD-8-15
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 21R CAT II
+AD 2-VTBD-8-17
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 21R CAT II (Tabular description)
+AD 2-VTBD-8-18
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 21R CAT II (Fix and point list table)
+AD 2-VTBD-8-19
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 03L
+AD 2-VTBD-8-21
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 03L (Tabular description)
+AD 2-VTBD-8-22
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 03L (Fix and point list table)
+AD 2-VTBD-8-23
+Instrument Approach Chart - ICAO - RNP RWY 21L
+AD 2-VTBD-8-25
+Instrument Approach Chart - ICAO - RNP RWY 21L (Tabular description)
+AD 2-VTBD-8-26
+Instrument Approach Chart - ICAO - RNP RWY 21R
+AD 2-VTBD-8-27
+Instrument Approach Chart - ICAO - RNP RWY 21R (Tabular description)
+AD 2-VTBD-8-28
+Instrument Approach Chart - ICAO - RNP RWY 03L
+AD 2-VTBD-8-29
+Instrument Approach Chart - ICAO - RNP RWY 03L (Tabular description)
+AD 2-VTBD-8-30
+Instrument Approach Chart - ICAO - RNP RWY 03R
+AD 2-VTBD-8-31
+Instrument Approach Chart - ICAO - RNP RWY 03R (Tabular description)
+AD 2-VTBD-8-32
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 21L/21R
+AD 2-VTBD-9-1
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 21L/21R (Verso)
+AD 2-VTBD-9-2
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 21L/21R (Tabular description 1)
+AD 2-VTBD-9-3
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 21L/21R (Tabular description 2)
+AD 2-VTBD-9-4
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 21L/21R (Tabular description 3)
+AD 2-VTBD-9-5
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R
+AD 2-VTBD-9-7
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R (Verso)
+AD 2-VTBD-9-8
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R (Tabular description 1)
+AD 2-VTBD-9-9
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R (Tabular description 2)
+AD 2-VTBD-9-10
+VFR ENTRY AND EXIT PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R (Tabular description 3)
+AD 2-VTBD-9-11
+VFR OVERFLY PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R 21L/21R
+AD 2-VTBD-9-13
+VFR OVERFLY PROCEDURE FOR LIGHT AIRCRAFT CHART - RWY 03L/03R 21L/21R (Tabular description)
+AD 2-VTBD-9-14
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 21L/21R
+AD 2-VTBD-9-15
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 21L/21R (Verso)
+AD 2-VTBD-9-16
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 21L/21R (Tabular description 1)
+AD 2-VTBD-9-17
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 21L/21R (Tabular description 2)
+AD 2-VTBD-9-18
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 21L/21R (Tabular description 3)
+AD 2-VTBD-9-19
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 21L/21R (Tabular description 4)
+AD 2-VTBD-9-20
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R
+AD 2-VTBD-9-21
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R (Verso)
+AD 2-VTBD-9-22
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R (Tabular description 1)
+AD 2-VTBD-9-23
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R (Tabular description 2)
+AD 2-VTBD-9-24
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R (Tabular description 3)
+AD 2-VTBD-9-25
+VFR ENTRY AND EXIT PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R (Tabular description 4)
+AD 2-VTBD-9-26
+VFR OVERFLY PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R 21L/21R
+AD 2-VTBD-9-27
+VFR OVERFLY PROCEDURE FOR HELICOPTER CHART - RWY 03L/03R 21L/21R (Tabular description)
+AD 2-VTBD-9-28
+BIRD CONCENTRATION AND MOVEMENT
+AD 2-VTBD-9-29

@@ -1,0 +1,713 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUW
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUW-en-GB.html
+VTUW
+— Nakhon Phanom
+VTUW
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTUW
+— Nakhon Phanom
+VTUW
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+172307N
+1043831E
+2
+Direction and distance from (city)
+15 km W from city
+3
+Elevation/Reference temperature
+587 ft / 40 °C
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+1°13' W (2025) /0°1' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Nakhon Phanom Airport
+Nakhon Phanom Airport
+Tambon Nasai, Amphoe Muang
+Nakhon Phanom Province 48000
+Thailand
+Tel:
++664 253 1586
+Fax:
++664 253 1587
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTUW
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+0000-1400
+2
+Customs and immigration
+On request
+3
+Health and sanitation
+On request
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+0000-1400
+6
+MET Briefing Office
+NIL
+7
+ATS
+0000-1400
+8
+Fuelling
+NIL
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Udon Thani Air Traffic Control Centre (1st floor of tower building)
+Tel: +664 223 0124
+Tel: +669 2262 3477
+Fax: +664 224 2797
+VTUW
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+NIL
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTUW
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1556.eng;762
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1557.eng;763
+3
+Transportation
+LimousineTPASSENGER_FACILITY;Annotation:1558.eng;764, Car RentalTPASSENGER_FACILITY;Annotation:1559.eng;764
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+NIL
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTUW
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 7
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1560.eng;572
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTUW
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTUW
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCN 61/R/C/X/
+2 | Taxiway width, surface and strength
+TWY A, B, C, D and P
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 41/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 571 ft (174 m)TALTIMETER_SOURCE;Annotation:3962.eng;1824
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTUW
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+Nose-wheel guide lines at apron
+VDGS of aircraft stands: NIL, aircraft parking shall follow marshaller strictly.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR, TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY marking: TWY CL, TWY Edge, RWY Holding Position and Intermediate Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTUW
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 33/APCH
+area
+RWY 15/TKOF
+area
+DME
+576 ft (176 m)
+Painted red/white
+LGTD | 172219.3N
+1043903.0E | AWOS 1
+613 ft (187 m)
+Painted red/white
+LGTD | 172322.1N
+1043814.9E
+NIL
+Telecommunication mast
+685 ft (209 m)
+NIL / LGTD | 172202.4N
+1043931.4E | AWOS 2
+616 ft (188 m)
+Painted red/white
+LGTD | 172322.3N
+1043814.7E
+AWOS 3
+587 ft (179 m)
+Painted red/white
+LGTD | 172239.0N
+1043846.7E
+AWOS 4
+588 ft (179m)
+Painted red/white
+LGTD | 172239.1N
+1043846.6E
+AWOS 5
+622 ft (190 m)
+Painted red/white
+LGTD | 172322.0N
+1043815.2E
+AWOS 6
+622 ft (190 m)
+Painted red/white
+LGTD | 172322.1N
+1043815.1E
+DVOR/DME
+620 ft (189 m)
+Painted red/white
+LGTD | 172317.9N
+1043818.1E
+Glide slope
+637 ft (194 m)
+Painted red/white
+LGTD | 172324.5N
+1043814.0E
+VTUW
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Nakhon Phanom,
+Upper Northeastern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2200-1400
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Upper Northeastern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2361.eng;837
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2362.eng;837
+Tel: +664 253 1532TSERVICE;Annotation:2363.eng;837
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2364.eng;837, U85TSERVICE;Annotation:2365.eng;837, Daily Weather ForecastTSERVICE;Annotation:2366.eng;837, satellite and radar imagesTSERVICE;Annotation:2367.eng;837
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS)
+9
+ATS units provided with information
+Nakhon Phanom TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTUW
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+15
+144.96°
+2500x45
+PCN 61/F/C/X/
+Asphaltic concrete
+172334.95N
+1043810.44E
+THR 587.0 ft
+33
+324.96°
+2500x45
+PCN 61/F/C/X/
+Asphaltic concrete
+172228.37N
+1043859.32E
+THR 555 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA
+dimensions
+(m) | Location &
+description of
+arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+-0.04% -0.56% -0.74% -0.05% +0.68%TRWY_DIRECTION;Annotation:4261.eng;384
+(100m 750m 1800m 2150m 2500m) | NIL
+NIL
+2680x280
+240x90 | NIL
+NIL
+NIL
+-0.68% +0.05% +0.74% +0.56% +0.04%TRWY_DIRECTION;Annotation:4262.eng;385
+(350m 700m 1750m 2400m 2500m)
+60x60
+2680x280
+240x90 | NIL
+NIL
+NIL
+VTUW
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+15
+2500
+2500
+2500
+2500
+NIL
+33
+2500
+2500
+2560
+2500
+NIL
+VTUW
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+15
+CAT1
+900 mLIH
+Green
+WBAR
+PAPI
+Left 3°
+(53.61 ft)
+NIL
+NIL
+2500 m,
+60 m,
+FM 0 m-1900 m
+White,
+FM 1900 m-
+2500 m Yellow,
+5 steps,
+LIH
+Red
+NIL
+NIL
+33
+SALS
+420 m
+LIH
+Green
+WBAR
+PAPI
+Left 3°
+(60.43 ft)
+NIL
+NIL
+2500 m,
+60 m,
+FM 0 m-1900 m
+White,
+FM 1900 m-
+2500 m Yellow,
+5 steps,
+LIH
+Red
+60 m
+RED
+NIL
+VTUW
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1561.eng;553, FLG W G EV 3 SECTAERO_GND_LGT;Annotation:1562.eng;553
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI: 1. Wind cone at 350 M from THR 15 off set to the left side 90 M
+from RCL, illuminated.
+2. Wind cone at 350 M from THR 33 off set to the left side 90 M
+from RCL, illuminated.
+3
+TWY edge and centre line lighting
+TWY edge: All TWY
+TWY centre line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the air field lighting (AFL).
+Switch over time : 15 sec.TAD_HP;Annotation:1564.eng;391
+5
+Remarks
+NIL
+VTUW
+AD 2.16 HELICOPTER LANDING area
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTUW
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on Nakhon Phanom DVOR/DME
+(172317.9N 1043818.1E)
+2
+Vertical limits
+2000 F/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Nakhon Phanom Tower
+English, Thai
+5
+Transition altitude
+11000 F
+6
+Remarks
+NIL
+VTUW
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Sakon Nakhon Approach
+123.35 MHz
+284.0 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Nakhon Phanom Tower
+122.15 MHz
+121.5 MHz)
+236.6 MHz
+As AD OPR HR
+GND
+Nakhon Phanom Ground
+121.9 MHz
+As AD OPR HR
+A
+Nakhon Phanom Airport
+128.85 MHz
+As AD OPR HR
+VTUW
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+NP
+383 KHz
+H24
+172332.6N
+1043833.5E
+50 nm Coverage clockwise orbit data refer from commissioning checked as follow:
+-Bearing 170-350 degree at 2100 ft
+-Bearing 351-169 degree unable to check due to border limited.
+DVOR/DME
+NKP
+111.6 MHz
+CH53X
+H24
+172317.8N
+1043818.0E
+180 m
+(600 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 nm at required altitudes in various areas as follows:
+Radial 181°-190° altitude should not below 2 500 ft
+Radial 191°-260° altitude should not below 4 000 ft
+Radial 261°-320° altitude should not below 2 500 ft
+Radial 321°-180° unable to check (Due to border limited)
+LOC 15
+ILS CAT I
+INKP
+109.7 MHz
+H24
+172220.6N
+1043905.0E
+ILS/DME RWY15: Localizer is unusable, due to national border.
+18 – 10 NM: Beyond 2° left of localizer inbound course.
+Within 10 NM: Beyond 20° left of localizer inbound course.
+GP 15
+333.2 MHz
+H24
+172324.4N
+1043814.0E
+GP: 3 DEG, RDH 50 ft
+DME 15
+INKP
+CH 34X
+(109.7 MHz)
+H24
+172219.3N
+1043903.0E
+180 m
+(600 ft)
+Paired with LOC FREQ.
+VTUW
+AD 2.20 LOCAL AERODROME REGULATIONS
+NAKHON PHANOM FLYING TRAINING AREA
+VFR Departure/Arrival route flying training area within VTD64 in BANGKOK FIR
+DEPARTURE ROUTES:
+Runway 15 (To Training Area 1)
+Climb straight ahead until ALT 500 FT AGL. Turn right to crosswind leg, and climb on crosswind leg until ALT 1500 FT. Then proceed direct to point TANGO (172724.77N 1042630.25E / NKP R-290/12D), continue climbing to not above ALT 2000 FT at point TANGO. After point TANGO climb to final altitude and enter training area 1.
+Runway 15 (To Training Area 2)
+Climb straight ahead until ALT 1500 FT. Turn right proceed direct to point SIERRA (170833.95N 1043502.60E / NKP R-192/15D), continue climbing to not above ALT 2000 FT at point SIERRA. After point SIERRA climb to final altitude and enter training area 2
+Runway 33 (To Training Area 1)
+Climb straight ahead until ALT 1500 FT. Then turn left to point TANGO (172724.77N 1042630.25E / NKP R-290/12D), continue climbing to not above ALT 2000 FT at point TANGO. After point TANGO climb to final altitude and enter training area 1
+Runway 33 (To Training Area 2)
+Climb straight ahead until ALT 1100 FT. Turn left to crosswind leg and downwind leg, continue climbing on downwind until ALT 2000 FT. Then maintain ALT 2000 FT proceed direct to point SIERRA (170833.95N 1043502.60E / NKP R-192/15D). After point SIERRA climb to final altitude and enter training area 2.
+ARRIVAL ROUTES:
+Runway 15/33 (From Training Area 1)
+Leaving training area 1, climb or descend, as appropriate, to ALT 3000 FT proceed to point PAPA (171714.81E 1042726.80E / NKP R-240/12D). Then proceed to point UNIFORM (172036.61N 1043511.55E / NKP R-228/4D) descending to ALT 1500 FT, and join downwind to the active runway as cleared by ATC. In case of PFL, from point PAPA, proceed to point UNIFORM descending to ALT 2500 FT and carry out PFL as cleared by ATC.
+Runway 15/33 (From Training Area 2)
+Leaving training area 2, climb or descend, as appropriate, to ALT 3000 FT proceed to point PAPA (171714.81E 1042726.80E / NKP R-240/12D). Then proceed to point UNIFORM (172036.61N 1043511.55E / NKP R-228/4D) descending to ALT 1500 FT, and join downwind to the active runway as cleared by ATC. In case of PFL, from point PAPA, proceed to point UNIFORM descending to ALT 2500 FT and carry out PFL as cleared by ATC.
+CIRCUIT PROCEDURES:
+Standard circuits shall be flown at ALT 1500 FT. Patterns shall be flown to the West of airfield (i.e. RWY15 RH, RWY33 LH circuits). Any deviation of this procedure is upon approval by ATC.
+HOLDING POINTS IN TRAINING AREA
+If required, you may be instructed to hold in the training area. The following are the points designated for holding: Area 1 Point KILO (173547.38N 1041536.09E / NKP R-300/25D) Area 2 Point NOVEMBER (165705.22N 1043103.47E / NKP R-195/27D) Point CHARLIE (165652.14N 1042533.65E / NKP R-205/29D)
+180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage, all aircraft code letter C or higher are not allowed to make 180 degrees turn on the runway. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand/ The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTUW
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTUW
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 15:
+NAKHON PHANOM OMNI 15 Departure: Required climb gradient 244 ft per NM (4.0%) until 4,200 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb4.0% | (ft/min) | 263 | 304 | 405 | 608 | 810 | 1013 | 1215
+No turn before DER.
+After departure climb straight ahead until 1,500 ft (or altitude assigned by ATC between 1,500 ft - 3,700 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 33:
+NAKHON PHANOM OMNI 33 Departure: Required climb gradient 201 ft per NM (3.3%) until 4,200 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.3% | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,500 ft (or altitude assigned by ATC between 1,500 ft - 3,700 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTUW
+AD 2.23 ADDITIONAL INFORMATION
+1. Bird Concentrations
+Bird Concentrations on and in the vicinity of an aerodrome.
+VTUW
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTUW-2-1
+Instrument Approach Chart - ICAO - VOR RWY 15
+AD 2-VTUW-8-1
+Instrument Approach Chart - ICAO - VOR RWY 15 (Fix and point list table)
+AD 2-VTUW-8-2
+Instrument Approach Chart - ICAO - VOR RWY 33
+AD 2-VTUW-8-3
+Instrument Approach Chart - ICAO - VOR RWY 33 (Fix and point list table)
+AD 2-VTUW-8-4
+Instrument Approach Chart - ICAO - ILS or LOC RWY 15
+AD 2-VTUW-8-5
+Instrument Approach Chart - ICAO - ILS or LOC RWY 15 (Fix and point list table)
+AD 2-VTUW-8-6
+Instrument Approach Chart - ICAO - RNP RWY 15
+AD 2-VTUW-8-7
+Instrument Approach Chart - ICAO - RNP RWY 15 (Tabular description)
+AD 2-VTUW-8-8
+Instrument Approach Chart - ICAO - RNP RWY 33
+AD 2-VTUW-8-9
+Instrument Approach Chart - ICAO - RNP RWY 33 (Tabular description)
+AD 2-VTUW-8-10

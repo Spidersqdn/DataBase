@@ -1,0 +1,664 @@
+# AIP Thailand AIRAC 2026-10-29 VT-ENR-4.1
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-4.1-en-GB.html
+ENR 4 RADIO NAVIGATION AIDS/SYSTEMS
+ENR 4.1 RADIO NAVIGATION AIDS - EN-ROUTE
+Name of station (VOR/VAR) | Id | Frequency (CH) | Hours of operation | Co-ordinates | ELEV DME antenna | Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+BANGKOK
+DVOR/DME
+BKK
+117.7 MHz
+(CH 124X)
+H24
+135337N
+1003546E
+0 m
+(100 ft)
+DVOR/DME restriction due to obstacles surround DVOR/DME station, coverage check does not provide adequate signal 40 NM at required altitude in various areas as follows:
+Radial 321°-030° altitude should not below 2 500 ft
+Radial 031°-060° altitude should not below 4 000 ft
+Radial 061°-120° altitude should not below 3 000 ft
+Radial 121°-320° altitude should not below 4 000 ft
+BE
+DVOR/DME
+BE
+113.1 MHz
+(CH 78X)
+H24
+054708N
+1010839E
+240 m
+(800 ft)
+DVOR/DME restrictions,
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at required altitude and distance in various areas as follows:
+Radial 350°-020° altitude should not below 8 000 ft
+Radial 021°-040° altitude should not below 6 500 ft
+Radial 041°-060° altitude should not below 9 000 ft
+Radial 061°-075° altitude should not below 15 000 ft
+Radial 076°-349° unable to check due to border limit
+BURI RAM
+DVOR/DME
+BRM
+117.2 MHz
+(CH 119X)
+H24
+151422N
+1031532E
+180 m
+(600 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at required altitude in various areas as follows:
+Radial 091°-140° altitude should not below 3 500 ft
+Radial 141°-240° altitude should not below 5 000 ft
+Radial 241°-280° altitude should not below 4 000 ft
+Radial 281°-090° altitude should not below 2 500 ft
+CHIANG MAI
+DVOR/DME
+CMA
+116.9 MHz
+(CH 116X)
+H24
+184558N
+0985740E
+330 m
+(1100 ft)
+DVOR/DME restriction due to mountainous terrain surround station coverage check does not provide adequate signal at required altitudes in various areas as follows:
+40 NM Orbit
+Radial 350º-080º altitude should not below 8 000 ft
+Radial 081º-180º altitude should not below 7 000 ft
+Radial 181º-240º altitude should not below 9 000 ft
+20 NM Orbit (Due to mountainous terrain)
+Radial 241º-349º altitude should not below 12 000 ft
+CHIANG RAI
+DVOR/DME
+C
+116.5
+MHz
+(CH 112X)
+H24
+195656N
+0995259E
+390 m
+(1300 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at the required altitude in various areas as follows:
+40 NM
+Radial 141º-180º altitude should not below 5 000 ft
+Radial 181º-210º altitude should not below 7 500 ft
+Radial 211º-255º altitude should not below 9 000 ft
+Radial 256º-265º altitude should not below 10 000 ft
+Radial 266º-270º altitude should not below 9 000 ft
+20 NM (Due to border limited)
+Radial 271º-340º altitude should not below 6 500 ft
+Radial 341º-140º altitude should not below 5 000 ft
+CHUM PHAE
+DVOR/DME
+CMP
+112.9
+MHz
+(CH 76X)
+163807N
+1015920E
+270 m
+(900 ft)
+DVOR/DME restrictions,
+Due to mountainous terrain surround DVOR/DME station, during radial check found roughness and bends out of tolerance, DVOR/DME unusable on radial as follows:
+Radial 102° distance between 9.5-10.5 DME at altitude 4 500 ft
+Radial 223º distance between 11.0-12.0 DME at altitude 5 000 ft
+Radial 273º distance between 13.0-14.0 DME at altitude 6 000 ft
+Radial 343º distance between 6.0-8.5 DME at altitude 5 500 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at required altitudes and distances in various areas as follows:
+Radial 001º-010º altitude should not below 5 500 ft
+Radial 011º-080º altitude should not below 4 500 ft
+Radial 081º-105º altitude should not below 7 000 ft
+Radial 106º-120º altitude should not below 6 000 ft
+Radial 121º-190º altitude should not below 5 000 ft
+Radial 191º-230º altitude should not below 6 000 ft
+Radial 231º-260º altitude should not below 8 000 ft
+Radial 261º-310º altitude should not below 7 000 ft
+Radial 311º-330º altitude should not below 8 000 ft
+Radial 331º-350º altitude should not below 5 500 ft
+Radial 351º-360º altitude should not below 6 500 ft
+CHUM PHON
+DVOR/DME
+CPN
+110
+MHz
+(CH 37X)
+H24
+104240N
+0992156E
+0 m
+(0 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit at the required altitude and distance in various areas as follows:
+40 NM
+Radial 011°-020° altitude should not below 5 000 ft
+Radial 021°-050° altitude should not below 4 000 ft
+Radial 051°-100° altitude should not below 2 000 ft
+Radial 101°-110° altitude should not below 4 000 ft
+Radial 111°-190° altitude should not below 2 000 ft
+Radial 191°-225° altitude should not below 4 000 ft
+Radial 226°-230° altitude should not below 6 000 ft
+30 NM (Due to border limited)
+Radial 231°-270° altitude should not below 5 000 ft
+20 NM (Due to border limited)
+Radial 271°-010° altitude should not below 5 000 ft
+HAT YAI
+DVOR/DME
+H
+115.3
+MHz
+(CH 100X)
+H24
+065603N
+1002317E
+30 m
+(100 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 171º- 240º at 10 NM ALT should not below 5 000 ft
+Radial 131º- 170º at 20 NM ALT should not below 4 000 ft
+Radial 031º-130º at 40 NM ALT should not below 5 000 ft
+Radial 241º- 270º at 40 NM ALT should not below 7 000 ft
+Radial 271º- 300º at 40 NM ALT should not below 10 000 ft
+Radial 301º- 330º at 40 NM ALT should not below 6 000 ft
+Radial 331º- 030º at 40 NM ALT should not below 3 000 ft
+HUA HIN
+DVOR/DME
+HHN
+113.3
+MHz
+(CH 80X)
+H24
+123804N
+0995704E
+30 m
+(100 ft)
+DVOR/DME restriction, due to terrain surround DVOR/DME station coverage check does not provide adequate signal 40 NM at required altitude in various areas as follows:
+40 NM clockwise orbit
+Radial 001°-170° altitude should not below 3 000 ft
+Radial 171°-210° altitude should not below 7 000 ft
+Radial 301°-340° altitude should not below 10 000 ft
+Radial 340°-360° altitude should not below 3 000 ft
+30 NM clockwise orbit (Due to border limited)
+Radial 211°- 300° altitude should not below 10 000 ft
+Radial 341° distance 10.3 DME at altitude 4 000 ft found roughness out of tolerance
+KAMPHAENG SAEN
+DVOR/DME
+KPS
+114.5 MHz
+(CH 92X)
+2300-1100
+140956N
+0995715E
+-
+KHON KAEN
+DVOR/DME
+KKN
+114.9 MHz
+(CH 96X)
+H24
+162815N
+1024717E
+210 m
+(700 ft)
+DVOR/DME restriction due to terrain surround DVOR/DME station, coverage check does not provide adequate signal 40 NM at required altitude in various areas as follows:
+Radial 001°-080° altitude should not below 2 500 ft
+Radial 081°-220° altitude should not below 2 000 ft
+Radial 221°-360° altitude should not below 3 500 ft
+KHORA
+DVOR/DME
+KR
+113.7 MHz
+(CH 84X)
+H24
+145502N
+1020823E
+210 m
+(700 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at required altitude in various areas as follows:
+Radial 081°-280° altitude should not below 5 000 ft
+Radial 281°-080° altitude should not below 3 500 ft
+KRABI
+DVOR/DME
+KBI
+111 MHz
+(CH 47X)
+H24
+080627N
+0985839E
+30 m
+(100 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at required altitude in various areas as follows:
+Radial 001º-180º altitude should not below 5 500 ft
+Radial 181º-200º altitude should not below 7 000 ft
+Radial 201º-340º altitude should not below 10 000 ft
+Radial 341º-360º altitude should not below 15 500 ft
+LAMPANG
+DVOR/DME
+LPN
+114.7 MHz
+(CH 94X)
+H24
+181636N
+0993008E
+240 m
+(800 ft)
+DVOR/DME restriction, due to terrain surround DVOR/DME station coverage check does not provide adequate signal to 40 NM at required altitudes in various areas as follows:
+Radial 351º-070º beyond 40 NM should not below 6 000 ft
+Radial 071º-130º beyond 30 NM should not below 6 000 ft
+Radial 131º-320º beyond 40 NM should not below 6 000 ft
+Radial 321º-350º beyond 30 NM should not below 6 000 ft
+LOEI
+DVOR/DME
+LOY
+115.9
+MHz
+(CH 106X)
+H24
+172649N
+1014323E
+270 m
+(900 ft)
+DVOR/DME restriction,
+Unusable due to roughness out of tolerance
+Radial 020° between 10-11 DME altitude 3 000 ft
+Radial 243° between 7-8 DME altitude 6 000 ft and between 32-33 DME altitude 7 500 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+40 NM orbit
+Radial 030°-050° altitude should not below 10 000 ft
+Radial 051°-100° altitude should not below 7 000 ft
+Radial 101°-130° altitude should not below 10 000 ft
+Radial 131°-200° altitude should not below 5 000 ft
+Radial 201°-250° altitude should not below 12 000 ft
+Radial 251°-270° altitude should not below 13 000 ft
+20 NM orbit (Due to border limited)
+Radial 271°-029° altitude should not below 4 500 ft
+MAE HONG SON
+DVOR/DME
+MHS
+115.5
+MHz
+(CH 102X)
+H24
+191911N
+0975444E
+540 m
+(1800 ft)
+DVOR/DME restrictions,
+Unusable due to roughness out of tolerance
+Radial 040° distance between 10.5-12.5 DME altitude 5 500 ft
+Radial 085° distance between 5.5-7.5 DME altitude 7 000 ft
+Radial 100° distance between 9.0-10.0 DME altitude 7 000 ft
+Radial 120° distance between 9.5 - 10.5 DME altitude 7 500 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 060°-080° altitude should not below 8 500 ft
+Radial 081°-140° altitude should not below 13 000 ft
+Radial 141°-190° altitude should not below 9 000 ft
+Radial 191°-059° unable to perform due to border limited
+MAE SO
+DVOR/DME
+MS
+116.7 MHz
+(CH 114X)
+H24
+164152N
+0983230E
+210 m
+(700 ft)
+DVOR/DME restrictions,
+Unusable due to roughness out of tolerance
+Radial 104° distance between 6.0-13.0 DME altitude 5 500 ft
+Radial 012° distance between 22.0-24.0 DME altitude 5 000 ft
+Radial 124° distance between 32.0-34.0 DME altitude 6 600 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at the required altitude in various areas as follows:
+Radial 000°-030° altitude should not below 7 000 ft
+Radial 031°-060° altitude should not below 9 000 ft
+Radial 061°-070° altitude should not below 10 000 ft
+Radial 071°-120° altitude should not below 9 000 ft
+Radial 121°-360° unable to perform due to border limited
+NAKHON PHANOM
+DVOR/DME
+NKP
+111.6 MHz;;
+(CH 53X)
+H24
+172318N
+1043818E
+180 m
+(600 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at required altitudes in various areas as follows:
+Radial 181°-190° altitude should not below 2 500 ft
+Radial 191°-260° altitude should not below 4 000 ft
+Radial 261°-320° altitude should not below 2 500 ft
+Radial 321°-180° unable to check (Due to border limited)
+NAKHON SI
+DVOR/DME
+NKS
+117.4 MHz
+(CH 121X)
+H24
+083230N
+0995649E
+0 m
+(0 ft)
+Due to mountainous terrain surround DVOR/DME station coverage check does not provide adequate signal to 40 NM at required altitudes is various areas:
+Radial 001º-190º beyond 40 NM should not below 2 500 ft
+Radial 191º-240º beyond 40 NM should not below 7 000 ft
+Radial 241º-280º beyond 25 NM should not below 8 000 ft
+Radial 281º-320º beyond 40 NM should not below 7 000 ft
+Radial 321º-360º beyond 40 NM should not below 5 000 ft
+NAN
+DVOR/DME
+NAN
+115.7 MHz
+(CH 104X)
+H24
+184833N
+1004657E
+210 m
+(700 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 011º-110º at 20 NM should not below 8 000 ft
+Radial 111º-160º at 20 NM should not below 6 000 ft
+Radial 161º-180º at 40 NM should not below 6 000 ft
+Radial 181º-330º at 40 NM should not below 7 000 ft
+Radial 311º-010º at 40 NM should not below 8 000 ft
+;;
+NARA
+DVOR/DME
+NTW
+116.3 MHz
+(CH 110X)
+H24
+063138N
+1014443E
+30 m
+(100 ft)
+DVOR/DME restriction,
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+40 NM clockwise orbit flown from
+Radial 271º-290º altitude should not below 9 000 ft
+Radial 291º-300º altitude should not below 4 000 ft
+Radial 301º-020º altitude should not below 2 000 ft
+20 NM clockwise orbit flown from
+Radial 021º-130º altitude should not below 2 000 ft
+Radial 131º-270º altitude should not below 5 000 ft
+Due to the out-of-tolerance 30 Hz FM deviation ratio on radial 294º unusable within 10-40 NM.
+PHE
+DVOR/DME
+PCB
+115.4 MHz
+(CH 101X)
+H24
+164034N
+1011148E
+150 m
+(500 ft)
+DVOR/DME restrictions,
+Unusable due to roughness out of tolerance on radial 277° distance between 7-9 DME altitude 5 500 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 061°-230° beyond 30 NM altitude should not below 6 500 ft
+Radial 231°-320° beyond 30 NM altitude should not below 8 000 ft
+Radial 321°-060° beyond 40 NM altitude should not below 7 500 ft
+PHI
+DVOR/DME
+PSL
+114.1 MHz
+(CH 88X)
+H24
+164613N
+1001729E
+60 m
+(200 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 351°-120° altitude should not below 5 500 ft
+Radial 121°-270° altitude should not below 3 000 ft
+Radial 271°-300° altitude should not below 5 000 ft
+Radial 301°-350° altitude should not below 3 500 ft
+PHRAE
+DVOR/DME
+PAE
+111.8 MHz
+(CH 55X)
+H24
+180803N
+1000959E
+180 m
+(600 ft)
+DVOR/DME restrictions,
+Unusable due to roughness out of tolerance on radial 146° distance between 7.0-8.0 DME altitude 7 000 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 055º-080º altitude should not below 9 000 ft
+Radial 081º-160º altitude should not below 11 000 ft
+Radial 161º-180º altitude should not below 8 000 ft
+Radial 181º-350º altitude should not below 6 000 ft
+Radial 351º-054º altitude should not below 6 500 ft
+PHUKE
+DVOR/DME
+PU
+116.9 MHz
+(CH 116X)
+H24
+080650N
+0981825E
+30 m
+(100 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 360º-030º altitude should not below 5 500 ft
+Radial 031º-170º altitude should not below 9 000 ft
+Radial 171º-220º altitude should not below 7 000 ft
+Radial 221º-359º altitude should not below 3 000 ft
+RANONG
+DVOR/DME
+RAN
+113.4 MHz
+(CH 81X)
+H24
+094641N
+0983501E
+30 m
+(100 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/ DME station coverage, check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+20 NM orbit
+Radial 020°-040° altitude should not below 6 000 ft
+Radial 041°-060° altitude should not below 12 000 ft
+Radial 061°-120° altitude should not below 16 000 ft
+Radial 151°-170° altitude should not below 9 000 ft
+40 NM orbit
+Radial 121°-150° altitude should not below 16 000 ft
+Radial 171°-187° altitude should not below 12 000 ft
+Radial 188°-230° altitude should not below 7 000 ft
+Radial 231°-019° unable to fly due to border limited.
+RAYONG
+DVOR/DME
+RYN
+112.5 MHz
+(CH 72X)
+H24
+124643N
+1014035E
+0 m
+(0 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at required altitude in various areas as follows:
+Radial 011º-040º altitude should not below 9 000 ft
+Radial 041º-050º altitude should not below 4 000 ft
+Radial 051º-080º altitude should not below 6 000 ft
+Radial 081º-240º altitude should not below 4 000 ft
+Radial 240º-010º altitude should not below 5 000 ft
+ROI-E
+DVOR/DME
+RO
+111.2 MHz
+(CH 49X)
+H24
+160701N
+1034620E
+150 m
+(500 ft)
+Coverage orbit data refer from commissioning checked as follows:
+40 NM clockwise orbit flown from radial 001°-360° altitude should not below 2 000 ft
+Airway W5 flown to 40 NM at 2 000 ft was checked and found satisfactory
+SAKON NAKHON
+DVOR/DME
+SKN
+114.2 MHz
+(CH 89X)
+H24
+171251N
+1040812E
+180 m
+(600 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at required altitude in various areas as follows:
+30 NM orbit (Due to border limited)
+Radial 000º-130º altitude should not below 2 100 ft
+40 NM orbit
+Radial 131º-280º altitude should not below 5 500 ft
+Radial 281º-359º altitude should not below 2 100 ft
+SONGKHLA
+DVOR/DME
+SKL
+113.5 MHz;;
+(CH 82X)
+H24
+071119.65N
+1003615.11E
+- | Military facility
+SAMUI
+DVOR/DME
+SMU
+117.6 MHz
+(CH 123X)
+H24
+093249N
+1000342E
+0 m
+(0 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at required altitude in various areas as follows:
+Radial 000º-015º beyond 25 NM altitude should not below 4 000 ft
+Radial 016º-040º beyond 25 NM altitude should not below 6 000 ft
+Radial 041º-060º beyond 20 NM altitude should not below 11 000 ft
+Radial 061º-070º beyond 25 NM altitude should not below 9 000 ft
+Radial 071º-120º beyond 40 NM altitude should not below 11 000 ft
+Radial 121º-180º beyond 40 NM altitude should not below 5 000 ft
+Radial 181º-210º beyond 25 NM altitude should not below 8 000 ft
+Radial 211º-260º beyond 20 NM altitude should not below 9 000 ft
+Radial 261º-280º beyond 25 NM altitude should not below 7 000 ft
+Radial 281º-360º beyond 40 NM altitude should not below 8 000 ft
+SURAT
+DVOR/DME
+S
+110.6 MHz
+(CH 43X)
+H24
+090746N
+0990805E
+0 m
+(0 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station coverage orbit 40 NM as follows:
+Radial 001º-070º altitude should not below 1 500 ft
+Radial 071º-090º altitude should not below 3 500 ft
+Radial 091º-150º altitude should not below 5 000 ft
+Radial 151º-190º altitude should not below 1 500 ft
+Radial 191º-360º altitude should not below 4 000 ft
+Radial 227º distance approximate 10-13 DME out of tolerance roughness and scalloping
+SUKHO
+NDB
+292 kHz;;
+H24
+171407N
+0994919E
+Route coverage checked on bearing 021° from THS to PR altitude 9 000 ft flown to 57 NM found satisfactory
+Coverage 50 NM clockwise orbit data refer from commissioning checked as follows:
+Bearing 041°-100° at altitude 4 000 ft
+Bearing 101°-190° at altitude 2 000 ft
+Bearing 191°-040° at altitude
+5 000 ft
+NDB
+350 kHz
+H24
+151633.45N
+1001751.11E
+-
+DVOR/DME
+116.6 MHz
+(CH 113X)
+H24
+073032N
+0993734E
+30 m
+(100 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at the required altitude in various areas as follows:
+20 NM orbit
+Radial 081°-130° altitude should not below 6 000 ft
+40 NM orbit
+Radial 131°-350° altitude should not below 4 000 ft
+Radial 351°-030° altitude should not below 6 000 ft
+Radial 031°-080° altitude should not below 7 000 ft
+NDB
+384 kHz
+(CH 36X)
+H24
+121628N
+1021850E
+NDB restriction, due to mountainous terrain surround NDB station, coverage check does not provide adequate signal clockwise 50 NM orbit at altitude in various areas as follows:
+Bearing 001º-145º unable to performed due to border limited
+Bearing 146º-320º altitude should not below 5 000 ft
+Bearing 321º-360º altitude should not below 8 000 ft
+UBON
+DVOR/DME
+UBL
+112.7 MHz
+(CH 74X)
+H24
+151443N
+1045157E
+120 m
+(400 ft)
+DVOR/DME restriction
+Due to obstacles surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit at required altitude in various areas as follows:
+40 NM
+Radial 111°-155° altitude should not below 3 000 ft
+Radial 156°-165° altitude should not below 7 000 ft
+Radial 166°-200° altitude should not below 5 000 ft
+Radial 201°-070° altitude should not below 3 000 ft
+30 NM (Due to border limit)
+Radial 071°-110° altitude should not below 2 000 ft
+During 6 NM orbit found 30 Hz.
+AM modulation is fluctuated within
+29%-50% between radial 170°-190°. UBON DVOR/DME unusable between radial 170°-190° (CW) beyond 10 NM altitude 2 000 ft
+UDON
+DVOR/DME
+UDN
+114.3 MHz
+(CH 90X)
+H24
+172305N
+1024630E
+180 m
+(600 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station coverage check does not provide adequate signal at required altitudes in various areas as follows:
+15 NM orbit
+RDL 277º-280º ALT should not below 5000 ft
+20 NM orbit (due to border limited)
+RDL 331º- 030º ALT should not below 2500 ft
+40 NM orbit
+RDL 031º- 090º ALT should not below 3000 ft
+RDL 091º-190º ALT should not below 4000 ft
+RDL 191º- 268º ALT should not below 5000 ft
+RDL 269º- 276º ALT should not below 8000 ft
+RDL 281º- 330º ALT should not below 5000 ft
+The En-route radial 275 (W15) beyond 20 NM ALT 6500 ft the DVOR/DME signal out of tolerance.
+U-
+DVOR/DME
+BU
+110.8
+MHz
+(CH 45X)
+H24
+124000N
+1010002E
+-
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at required altitude and distance in various areas:
+Radial 101°-170° altitude should not below 2 000 ft
+Radial 171°-250° altitude should not below 6 000 ft
+Radial 251°-320° altitude should not below 8 000 ft
+Radial 321°-050° altitude should not below 6 000 ft
+Radial 051°-100° altitude should not below 4 000 ft

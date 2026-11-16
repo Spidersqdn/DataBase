@@ -1,0 +1,801 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPP
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPP-en-GB.html
+VTPP
+— Phitsanulok
+VTPP
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTPP
+— Phitsanulok
+VTPP
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+164659N
+164658.59N
+1001645E.88E
+2
+Direction and distance from (city)
+8 km SE, from city
+3
+Elevation/Reference temperature
+148 ft/31.4°C
+4 | Geoid Undulation at AD ELEV PSN
+-116 ft
+5
+MAG VAR/Annual change
+0°51' W (2025)/ 0°2'E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Phitsanulok Airport
+Phitsanulok Airport
+Phitsanulok Province
+Thailand
+Tel:
++665 530 1010
+Fax:
++665 530 1009
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTPP
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+0000-1300
+2
+Customs and immigration
+On request
+3
+Health and sanitation
+On request
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+0000-1300
+6
+MET Briefing Office
+NIL
+7
+ATS
+0000-1300
+8
+Fuelling
+0100-1000
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Phitsanulok Air Traffic Control Centre
+(2nd floor of Administration building)
+Tel: +665 530 1078
+Tel: +669 2262 3140
+Fax: +665 530 1077
+Fuelling: Overtime fuelling service available on request
+Tel: +666 2596 8000
+VTPP
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+JET A-1, AVGAS
+3
+Fuelling facilities/capacity
+2 JET A-1 Refueller @ 12,000 LTFUEL;Annotation:1676.eng;552
+1 AVGAS Refueller @ 3,000 LTFUEL;Annotation:1677.eng;553
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTPP
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1678.eng;802
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1679.eng;803
+3
+Transportation
+LimousineTPASSENGER_FACILITY;Annotation:1680.eng;804 and car hire from the airportTPASSENGER_FACILITY;Annotation:1681.eng;804
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+Bank: NIL
+Post Office: In the cityTPASSENGER_FACILITY;Annotation:1682.eng;805
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTPP
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 6
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1683.eng;581
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTPP
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTPP
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCN 57/R/C/X/
+2 | Taxiway width, surface and strength
+TWY A, B, C, D and E
+Width: 19 m
+Surface: Asphaltic concrete
+Strength: PCN 45/F/C/X/
+TWY F and I
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 61/F/C/X/
+TWY G and H Military use only
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation 150 ft (46 m)TAD_HP;Annotation:4222.eng;443
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTPP
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR,TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY marking: CL, Edge, Intermediate Holding Position and RWY Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTPP
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 14/ APCH
+RWY 32/ TKOF | TELECOMMUNICATIONS
+MAST 13
+ELEV 366 ft (112 m)
+NIL/ LGTD | 164906.3N
+1001542.4E
+AWOS 1
+ELEV 183 ft (56 m)
+Painted red/white
+LGTD
+164730.3N
+1001625.8E
+NIL
+RWY 32/ APCH
+RWY 14/ TKOF | TELECOMMUNICATIONS
+MAST 18
+ELEV 303 ft (92 m)
+Painted red/white
+LGTD | 164530.8N
+1001817.1E
+AWOS 2
+ELEV 185 ft (56 m)
+Painted red/white
+LGTD
+164730.6N
+1001625.5E
+NIL
+RWY 14/ APCH
+RWY 32/ TKOF | RADIO MAST 2
+ELEV 288 ft (88 m)
+Painted red/white
+LGTD | 164827.8N
+1001548.0E
+AWOS 3
+ELEV 177 ft (54 m)
+Painted red/white
+LGTD
+164631.1N
+1001710.7E
+NIL
+RWY 14/ APCH
+RWY 32/ TKOF | RADIO MAST 5ELEV 252 ft (77 m)Painted red/whiteLGTD | 164808.6N
+1001557.2E | AWOS 4ELEV 176 ft (54 m)Painted red/whiteLGTD | 164631.4N
+1001710.4E | NIL
+RWY 14/ APCHRWY 32/ TKOF | RADIO MAST 10ELEV 316 ft (96 m)Painted red/whiteLGTD | 164859.7N
+1001545.1E | GLIDE SLOPEELEV 195 ft (59 m)Painted red/whiteLGTD | 164629.9N
+1001711.6E | NIL
+RWY 14/ APCHRWY 32/ TKOF | RADIO MAST 12ELEV 293 ft (89 m)Painted red/whiteLGTD | 164838.2N
+1001533.8E | TACANELEV 200 ft (61 m)NIL/ LGTD | 164631.1N
+1001713.4E | NIL
+RWY 14/ APCHRWY 32/ TKOF | RADIO MAST 17ELEV 336 ft (103 m)Painted red/whiteLGTD | 164905.0N
+1001537.2E | TELECOMMUNICATIONSMAST 5ELEV 303 ft (92 m)NIL/ LGTD | 164717.2N
+1001538.1E | NIL
+RWY 14/ APCHRWY 32/ TKOF | LIGHTNING RODELEV 268 ft (82 m)NIL/LGTD | 164816.0N
+1001541.2E | TELECOMMUNICATIONSMAST 14ELEV 311 ft (95 m)Painted red/whiteLGTD | 164712.5N
+1001550.9E | NIL
+RWY 14/ APCHRWY 32/ TKOF | DORMITORY BUILDINGELEV 257 ft (78 m)NIL/LGTD | 164819.4N
+1001553.1E | TELECOMMUNICATIONSMAST 16ELEV 321 ft (98 m)Painted red/whiteLGTD | 164910.6N
+1001716.3E | NIL
+RWY 14/ APCHRWY 32/ TKOF | APARTMENTELEV 367 ft (112 m)NIL/LGTD | 164906.2N
+1001542.4E | TELECOMMUNICATIONSMAST 17ELEV 304 ft (93 m)NIL/ LGTD | 164854.7N
+1001719.1E | NIL
+RWY 14/ APCHRWY 32/ TKOF | BUILDING 3ELEV 321 ft (98 m)NIL/LGTD | 164819.3N
+1001520.4E | TELECOMMUNICATIONSMAST 20ELEV 303 ft (92 m)NIL/ LGTD | 164502.5N
+1001654.0E | NIL
+TELECOMMUNICATIONS MAST 22ELEV 305 ft (93 m)NIL/ LGTD | 164628.7N
+1001547.8E | NIL
+TELECOMMUNICATIONS MAST 23ELEV 306 ft (93 m)Painted red/whiteLGTD | 164634.8N
+1001549.5E | NIL
+RADIO MAST 3ELEV 304 ft (93 m)Painted red/whiteLGTD | 164700.4N
+1001603.4E | NIL
+RADIO MAST 15ELEV 292 ft (89 m)Painted red/whiteLGTD | 164716.2N
+1001613.3E | NIL
+RADIO MAST 16ELEV 374 ft (114 m)NIL/ LGTD | 164733.9N
+1001649.4E | NIL
+RADIO MAST 18
+ELEV 307 ft (94 m)Painted red/whiteLGTD | 164931.3N
+1001535.1E | NIL
+RADIO MAST 19ELEV 448 ft (137 m)Painted red/whiteLGTD | 164843.7N
+1001626.8E | NIL
+RADIO MAST 20ELEV 398 ft (121 m)NIL/ LGTD | 164843.4N
+1001623.3E | NIL
+RADIO MAST 21ELEV 460 ft (140 m)Painted red/whiteLGTD | 164848.7N
+1001623.0E | NIL
+RADIO MAST 22ELEV 305 ft (93 m)Painted red/whiteLGTD | 164730.6N
+1001422.6E | NIL
+RADIO MAST 23ELEV 298 ft (91 m)Painted red/whiteLGTD | 164740.4N
+1001409.8E | NIL
+AIR TRAFFIC CONTROL
+TOWERELEV 255 ft (78 m)Painted red/whiteLGTD | 164656.1N
+1001658.1E | NIL
+TOPLAND HOTEL BUILDINGELEV 351 ft (107 m)NIL/ LGTD | 164918.6N
+1001552.4E | NIL
+VTPP
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Phitsanulok,
+Northern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2200-1300
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Northern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2265.eng;846
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2266.eng;846
+Tel: +665 530 1422 ext. 7078TSERVICE;Annotation:2267.eng;846
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2268.eng;846, U85TSERVICE;Annotation:2269.eng;846, Daily Weather ForecastTSERVICE;Annotation:2270.eng;846, satellite and radar imagesTSERVICE;Annotation:2271.eng;846
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS), Weather RadarTSERVICE;Annotation:2272.eng;846
+9
+ATS units provided with information
+Phitsanulok TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTPP
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+14
+143.89°
+3000x45
+PCN 61/F/C/X/
+Asphaltic concrete
+164738.03N
+1001615.01E
+-116 ft
+THR 148 ft
+32
+323.89°
+3000x45
+PCN 61/F/C/X/
+Asphaltic concrete
+164619.13N
+1001714.75E
+-116 ft
+THR 148 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA
+dimensions
+(m) | Location &
+description of
+arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+0%
+NIL
+NIL
+3180x280 | 240x90
+NIL
+NIL
+NIL
+0%
+60x60
+NIL
+3180x280
+NIL
+NIL
+NIL
+NIL
+VTPP
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+14
+3000
+3000
+3000
+3000
+NIL
+32
+3000
+3000
+3060
+3000
+The TORA/ASDA
+when entering RWY 32 from TWY F is 2,815
+metres (Datum Line)
+VTPP
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+14
+NIL
+Green
+PAPI
+Left 3°
+NIL
+NIL
+3000 m
+60 m
+White, LIM
+Red
+NIL
+NIL
+32
+CAT1
+900 m
+Green
+PAPI
+Left 3°
+(15.72 m)
+NIL
+NIL
+3000 m
+60 m
+White, LIM
+Red
+60 m
+Red
+NIL
+VTPP
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1684.eng;560, FLG W G EV 2.5 SEC.TAERO_GND_LGT;Annotation:1685.eng;560
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+3
+TWY edge and centre line lighting
+TWY edge: All TWY
+TWY centre line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Air Field Lighting (AFL) building.
+Switch-over time: 15 SECTAD_HP;Annotation:1688.eng;443
+5
+Remarks
+Flares 2 HR PNTAERO_GND_LGT;Annotation:1686.eng;560
+VTPP
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTPP
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on PSL DVOR/DME
+(164613N 1001729E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Phitsanulok Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTPP
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Phitsanulok Approach
+120.7 MHz
+284.0 MHz
+121.5 MHz)
+243.0 MHz)
+As AD OPR HR
+1)Emergency frequency
+Phitsanulok Tower
+118.9 MHz
+236.6 MHz
+121.5 MHz)
+243.0 MHz)
+As AD OPR HR
+GND
+Phitsanulok Ground
+121.9 MHz
+As AD OPR HR
+A
+Phitsanulok Airport
+127.4 MHz
+As AD OPR HR
+VTPP
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+PSL
+114.1 MHz
+CH88X
+H24
+164613.2N
+1001728.9E
+60 m (200 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 351°-120° altitude should not below 5 500 ft
+Radial 121°-270° altitude should not below 3 000 ft
+Radial 271°-300° altitude should not below 5 000 ft
+Radial 301°-350° altitude should not below 3 500 ft
+ILS CAT I
+LOC 32
+IPSL
+110.1 MHz
+H24
+164746.2N
+1001608.8E
+Designated operational coverage 18 NM ±10º and 10 NM ±35º of localizer course, no back course and voice feature, the antenna array is located on extended runway centre line at distance 310 m. from THR of runway 14.
+GP 32
+334.4 MHz
+CH38X
+H24
+164629.8N
+1001711.6E
+Glide Path 3°
+DME co-located with Glide Slope power output 100 watts Uni-directional
+DME 32
+334.4 MHz
+CH38X
+H24
+164629.8N
+1001711.6E
+60 m (200 ft)
+TACAN
+CH99
+1647.6N
+10016.7E
+Military Facility, operation on request 30 MIN PN to ATC.
+VTPP
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. 180 DEGREE TURN ON THE RUNWAY
+To prevent runway pavement damage, all aircraft Maximum Takeoff Weight (MTOW) more than 5700 KG are not allowed to make 180 degree turn on the runway. The turn shall be made on the runway turn pad at the end of runway 14 and 32 only. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand / The Headquarter of that operator shall be liable for the compensation caused by such violation.
+2. Advanced Visual Docking Guidance System (A-VDGS) Procedures at Phitsanulok Airport
+2.1 Inspection of Advanced Visual Docking Guidance System (A-VDGS)
+(Ref: Standard Operating Procedure of Visual Aids)
+2.1.1 Press the F1 button on the A-VDGS interface.
+2.1.2 Enter a 5-digit PIN code.
+2.1.3 Select the Test Walk menu and wait until the system is ready to operate.
+2.1.4 Operate the system to conduct Test Walk by walking along the centerline and stopping at the T-Mark.
+2.1.5 Test the foreign object detection system (Stop OBST) by means of test walk or foreign object test.
+2.1.6 Check the operability of the Emergency Stop button.
+2.1.7 Check operational readiness of the system (A-VDGS) and all components following the checklist.
+Note: If the A-VDGS system malfunctions and becomes inoperable, the bridge driver shall inform the airline or air cargo operator to provide a marshaller to guide the aircraft to the T-Mark at the aircraft stand, and report the issue to the airport operations coordinator (06), who will inform the engineering and maintenance team for inspection and repairs.
+2.2 Activation of Advanced Visual Docking Guidance System (A-VDGS)
+2.2.1 Press the F1 button on the A-VDGS interface.
+2.2.2 Enter a 5-digit PIN code.
+2.2.3 Select the aircraft type and model.
+2.2.4 Press the OK button.
+2.2.5 After the aircraft has fully parked at the T-Mark at the aircraft stand and the aircraft maintenance technician has placed chocks on the wheels, press the F1 button on the A-VDGS control panel to display the On Chock message on the pilot display.
+Note:
+1) If an incorrect aircraft model is selected, the red Stop message will appear on the pilot display. After checking the error, select Override by pressing the F2 button to allow the aircraft to park normally at the T-Mark.
+2)In case an emergency stop is necessary during aircraft docking, the bridge driver shall control the Emergency Stop button at the control display panel on the aerobridge. Airline or cargo operator shall control the Emergency Stop button at the Rotunda Column under the aerobridge.
+3)The A-VDGS command has an active time of 30 minutes. It is advised to operate the system within the specified period.
+VTPP
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTPP
+AD 2.22 FLIGHT PROCEDURES
+1. VFR PROCEDURES AND LOCAL PROCEDURES
+1.1 Details of VFR entry and exit procedures, see charts.
+1.2 Aerodrome traffic circuit
+Using both sides of traffic circuit.
+1.3 Overhead approach pattern.
+Using runway 14 by right turn pattern.
+Using runway 32 by left turn pattern.
+2. SPEED CONTROL PROCEDURE IN PHITSANULOK TMA
+All arriving turbo-propeller and turbo-jet aircraft when flying below 10000 FT AMSL are subject to fly not faster than indicated air speed 250 knots unless authorized by ATC.
+Speed will be reduced to 220 knots during 20-25 track miles from touchdown.
+180 knots at Intermediate fix (Including aircraft from RNAV STAR), or shortly before closing heading to intercept or to establish the final course,
+150 to 160 knots at FAP or FAF; all speed to be flown as accurately as possible. At the other times, speed control may be applied on a tactical basis to extent determined by ATC.
+Pilots who unable to comply with the speed limits specifics above for reasons of flight safety and/or weather conditions should inform ATC and state the speed acceptable.
+ATC will notify that the aircraft may keep its preferred speed without restriction and will use the phrase “NO SPEED RESTRICTIONS”. An instruction to notify that the aircraft need no longer comply with the previous issued speed restriction, the phrase “RESUME NORMAL SPEED” will be used.
+All aircraft navigating under conditions of RNAV STARs shall conform to speed limitation as published then at IF pilot shall comply with speed control procedures unless otherwise instructed by ATC.
+If the pilots do not comply, the flight shall follow ATC instruction for re-sequencing.
+NOTE - an instruction to “RESUME NORMAL SPEED” does not cancel speed restrictions that applicable to published procedure of upcoming segments of flight, aircraft shall comply speed restrictions specified in a) b) c) and d)
+3. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+4. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute a visual departure
+meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+the pilot shall be responsible for obstacle clearance until such specified altitude,
+the pilot prior to take-off shall agree to execute this procedure,
+the ATC clearance shall be readback,
+5. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+the pilot shall be responsible for adherence to such obtained ATC clearance,
+the pilot prior to take-off shall agree to execute this procedure,
+The ATC clearance shall be readback,
+- Runway 14:
+PHITSANULOK OMNI 14 Departure: Required climb gradient 201 ft per NM (3.3%) until 4,500 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb 3.3 % | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,000 ft (or altitude assigned by ATC between 1,000 ft – 3,500 ft), then comply with
+ATC clearance issued (or as directed by ATC).
+- Runway 32:
+PHITSANULOK OMNI 32 Departure: Required climb gradient 201 ft per NM (3.3%) until 4,500 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb 3.3 % | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,000 ft (or altitude assigned by ATC between 1,000 ft – 3,500 ft), then comply with
+ATC clearance issued (or as directed by ATC).
+VTPP
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+- Bird concentrations in the vicinity of an aerodrome.
+VTPP
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTPP-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTPP-2-3
+Aerodrome Ground Movement chart - ICAO
+AD 2-VTPP-2-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 14 - GOKON1A GOSTA1A IGPOP1A NIROP1A PEBLI1A PIBIK1A POLOB1A REMER1A
+AD 2-VTPP-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 14 - GOKON1A GOSTA1A IGPOP1A NIROP1A PEBLI1A PIBIK1A POLOB1A REMER1A (Tabular description1)
+AD 2-VTPP-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 14 - GOKON1A GOSTA1A IGPOP1A NIROP1A PEBLI1A PIBIK1A POLOB1A REMER1A (Tabular description 2)
+AD 2-VTPP-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 32 - GOKON1B GOSTA1B IGPOP1B NIROP1B PEBLI1B PIBIK1B POLOB1B REMER1B
+AD 2-VTPP-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 32 - GOKON1B GOSTA1B IGPOP1B NIROP1B PEBLI1B PIBIK1B POLOB1B REMER1B (Tabular description 1)
+AD 2-VTPP-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 32 - GOKON1B GOSTA1B IGPOP1B NIROP1B PEBLI1B PIBIK1B POLOB1B REMER1B (Tabular description 2)
+AD 2-VTPP-6-7
+Instrument Approach Chart - ICAO - VOR RWY 14
+AD 2-VTPP-8-1
+Instrument Approach Chart - ICAO - VOR RWY 14 (Fix and point list table)
+AD 2-VTPP-8-2
+Instrument Approach Chart - ICAO - VOR RWY 32
+AD 2-VTPP-8-3
+Instrument Approach Chart - ICAO - VOR RWY 32 (Fix and point list table)
+AD 2-VTPP-8-4
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 32
+AD 2-VTPP-8-5
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 32 (Fix and point list table)
+AD 2-VTPP-8-6
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 32
+AD 2-VTPP-8-7
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 32 (Tabular description 1)
+AD 2-VTPP-8-8
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 32 (Tabular description 2)
+AD 2-VTPP-8-9
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 32 (Fix and point list table)
+AD 2-VTPP-8-10
+Instrument Approach Chart - ICAO - RNP RWY 14
+AD 2-VTPP-8-11
+Instrument Approach Chart - ICAO - RNP RWY 14 (Tabular description)
+AD 2-VTPP-8-12
+Instrument Approach Chart - ICAO - RNP RWY 14 (Waypoint list table)
+AD 2-VTPP-8-13
+Instrument Approach Chart - ICAO - RNP RWY 32
+AD 2-VTPP-8-15
+Instrument Approach Chart - ICAO - RNP RWY 32 (Tabular description 1)
+AD 2-VTPP-8-16
+Instrument Approach Chart - ICAO - RNP RWY 32 (Tabular description 2)
+AD 2-VTPP-8-17
+VFR ENTRY PROCEDURE CHART - RWY 14/32
+AD 2-VTPP-9-1
+VFR ENTRY PROCEDURE CHART - RWY 14/32 (Tabular description)
+AD 2-VTPP-9-2
+VFR EXIT PROCEDURE CHART - RWY 14
+AD 2-VTPP-9-3
+VFR EXIT PROCEDURE CHART - RWY 14 (Tabular description)
+AD 2-VTPP-9-4
+VFR EXIT PROCEDURE CHART - RWY 32
+AD 2-VTPP-9-5
+VFR EXIT PROCEDURE CHART - RWY 32 (Tabular description)
+AD 2-VTPP-9-6

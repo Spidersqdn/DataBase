@@ -1,0 +1,1031 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUU
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUU-en-GB.html
+VTUU
+— Ubon Ratchathani
+VTUU
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTUU
+— Ubon Ratchathani
+VTUU
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+151505N
+151504.58N
+1045213E.88E
+2
+Direction and distance from (city)
+1 km N, from city
+1 KM N, from city
+3
+Elevation/Reference temperature
+411 ft/36°C
+4 | Geoid Undulation at AD ELEV PSN
+-74 ft
+5
+MAG VAR/Annual change
+1°1' W(2025)/0°1' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Ubon Ratchathani Airport
+Ubon Ratchathani Airport
+Amphone Muang
+Ubon Ratchathani Province 34000
+Thailand
+Tel:
++664 524 5612-3
+Fax:
++664 524 4406
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTUU
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1500
+2
+Customs and immigration
+On request
+3
+Health and sanitation
+On request
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+2300-1500
+6
+MET Briefing Office
+NIL
+7
+ATS
+2300-1500
+8
+Fuelling
+0100-1130
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Ubon Ratchathani Air Traffic Control Centre (1st floor of tower building)
+Tel: +664 525 6407, +668 9488 2157
+Fax: +664 524 0798 Ext. 7874
+VTUU
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+JET A-1, AVGAS
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTUU
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1022.eng;623
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1023.eng;624
+3
+Transportation
+Taxi meter / Shuttle Bus and Car RentalTPASSENGER_FACILITY;Annotation:1024.eng;625
+4
+Medical facilities
+Hospital in the city 2 kmTPASSENGER_FACILITY;Annotation:4342.eng;2381
+5
+Bank and Post Office
+Money exchange service available 0200 - 1100 UTCTPASSENGER_FACILITY;Annotation:1871.eng;845
+and post office in the cityTPASSENGER_FACILITY;Annotation:1872.eng;846.
+6
+Tourist Office
+Office in the cityTPASSENGER_FACILITY;Annotation:1873.eng;847
+7
+Remarks
+NIL
+VTUU
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 8
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1025.eng;541
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTUU
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTUU
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCN 61/R/C/X/
+2 | Taxiway width, surface and strength | Taxiway A and B
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 61/F/C/X/
+Taxiway C, D, E, F, G, H, I and J (Military)
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 403 ft (122.82 m)TALTIMETER_SOURCE;Annotation:4021.eng;1881
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTUU
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+Nose-wheel guide lines at apron
+VDGS of aircraft stands: stand no. 1, 2, 3, 4 and 5, aircraft parking shall follow marshaller strictly.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR, TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY marking: CL, Edge and RWY Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTUU
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+05 | Tree
+141 .1(M)m
+151420.7N
+1045121.1E
+Radio Mast
+178.7(M)9 m marked
+151348.6N
+1045108.9E
+NIL
+Sign Board
+143.5 (M)4 m
+151425.0N
+1045109.8E
+Radio Mast
+180.2(M) m marked
+151346.7N
+1045112.3E
+Sign Board
+141.4 (M) m
+151421.6N
+1045111.1E
+Radio Mast
+182.9(M)3 m marked
+151344.1N
+1045117.2E
+Sign Board
+139.0 (M) m
+151419.0N
+1045113.2E
+Radio Mast
+165.8(M)6 m marked
+151330.3N
+1045117.1E
+Building
+143.2 (M) m
+151409.3N
+1045113.1E
+Radio Mast
+179.2(M) m marked/LGT
+151328.7N
+1045125.9E
+Tree
+153.9 (M)4 m
+151404.9N
+1045045.8E
+Radio Mast
+174.3(M) m marked
+151327.0N
+1045125.7E
+Radio Mast
+168.3(M) m marked
+151442.7N
+1045052.7E
+Radio Mast
+183.1(M) m marked
+151445.5N
+1045056.1E
+Building
+166.1(M) m
+151451.5N
+1045107.2E
+Radio Mast
+166.7(M)7 m marked/LGT
+151504.1N
+1045140.0E
+Radio Mast
+171.3(M) m marked
+151459.6N
+1045056.8E
+Radio Mast
+219.4(M) m marked/LGT
+151431.5N
+1045005.1E
+Radio Mast
+200.8(M)1 m marked/LGT
+151437.6N
+1044919.2E
+Radio Mast
+196.1(M) m marked/LGT
+151445.6N
+1044930.0E
+Radio Mast
+185.4(M) m marked
+151505.6N
+1044949.7E
+Radio Mast
+180.6(M)1 m marked/LGT
+151506.6N
+1045012.8E
+Building
+170.0(M) m
+151523.3N
+1045053.9E
+Radio Mast
+210.2(M) m marked/LGT
+151524.8N
+1045042.5E
+Radio Mast
+186.6(M)7 m marked
+151535.2N
+1045049.0E
+Radio Mast
+186.3(M) m marked
+151517.1N
+1045013.8E
+Radio Mast
+165.3(M) m marked/LGT
+151515.7N
+1045013.7E
+Radio Mast
+170.5(M)1 m marked
+151514.5N
+1044950.3E
+05 | | | Radio Mast
+185.4(M) m marked/LGT
+151551.7N
+1044934.8E
+NIL
+Radio Mast
+189.4(M) m marked
+151541.1N
+1044941.1E
+Radio Mast
+165.7(M)6 m marked
+151542.4N
+1044950.1E
+Radio Mast
+194.9(M)5 m marked/LGT
+151542.6N
+1044944.0E
+Radio Mast
+170.9(M)1 m marked
+151549.9N
+1045032.8E
+Building 180.7(M)1 m
+151548.3N
+1045023.0E
+Radio Mast
+187.4(M) m marked/LGT
+151557.4N
+1045012.3E
+Building
+170.7(M)1 m
+151602.4N
+1045034.5E
+Radio Mast
+184.5(M)5 m marked
+151602.4N
+1045034.5E
+Radio Mast
+178.9(M)9 m marked/LGT
+151612.9N
+1045102.3E
+Radio Mast
+200.5(M)1 m marked
+151619.4N
+1045056.3E
+Radio Mast
+182.0(M) m marked
+151609.3N
+1045143.8E
+Radio Mast
+181.2(M) m marked/LGT
+151632.2N
+1045137.5E
+Radio Mast
+208.1(M) m marked/LGT
+151637.2N
+1045131.8E
+Radio Mast
+172.2(M) m marked/LGT
+151654.5N
+1045200.6E
+Radio Mast
+186.5(M)7 m marked/LGT
+151718.8N
+1045305.6E
+Radio Mast
+186.7(M)7 m marked
+151719.2N
+1045314.8E
+Radio Mast
+177.2(M) m marked
+151607.7N
+1045301.0E
+Radio Mast
+278.9(M)9 m marked/LGT
+151820.8N
+1045337.6E
+Radio Mast
+247.1(M) m marked/LGT
+151821.0N
+1045344.7E
+Building 130.7 (M)1 m
+151436.9N
+1045129.2E
+Radio Pole 134.4 (M) m
+151502.6N
+1045200.2E
+Building 126.8 (M)7 m
+151434.2N
+1045138.3E
+Building 128.5 (M)9 m
+151433.8N
+1045143.8E
+05
+Building
+127.0 (M) m
+AWOS
+151523.2N
+1045243.5E
+NIL
+Radio Mast G/P
+134 m marked/LGT 133.9(M)
+151525.9N
+1045247.1E
+Building Marked DVOR/DME
+DVOR/DME 133.1(M) m marked
+151442.9N
+1045157.1E
+Tower
+166.4(M) m marked/LGT Marked/LGT
+151445.8N
+1045209.2E
+23 | Tree
+131.2(M) m
+151541.7N
+1045256.9E
+Radio Mast
+179.2(M) m marked
+151345.9N
+1045136.4E
+TACAN
+130.0(M) m
+Building/LGT
+151544.7N
+1045300.0E
+Radio Mast
+181.6(M)2 m LGT
+151333.5N
+1045201.1E
+Tree
+141.7(M)2 m
+151552.8N
+1045314.5E
+Radio Mast
+176.6(M)7 m
+151236.6N
+1045141.5E
+Tree
+148.3(M) m
+151557.4N
+1045313.7E
+Radio Mast
+178.0(M) m marked/LGT
+151602.4N
+1045145.8E
+Tree
+148.4(M) m
+151600.5N
+1045314.1E
+Radio Mast
+169.9(M)70 m marked/LGT
+151411.9N
+1045147.1E
+Radio Mast
+167.6(M)8 m
+marked
+151349.8N
+1045058.0E
+Radio Mast
+170.4(M) m marked
+151416.6N
+1045149.2E
+Radio Mast
+174.6(M)5 m marked/LGT
+151411.4N
+1045149.8E
+Radio Mast
+166.5(M)7 m marked/LGT
+151425.4N
+1045200.1E
+Radio Mast
+178.6(M)9 m marked/LGT
+151409.3N
+1045227.7E
+Radio Mast
+170.4(M) m marked/LGT
+151427.7N
+1045252.7E
+Radio Mast
+170.1(M) m
+151512.0N
+1045252.7E
+Radio Mast
+174.5(M)5 m marked/LGT
+151439.8N
+1045341.1E
+Radio Mast
+172.9(M)3 m marked/LGT
+151618.3N
+1045501.2E
+Radio Mast
+262.9(M)3 m marked/LGT
+151609.5N
+1045544.3E
+VTUU
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Lower Northeastern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Lower Northeastern Meteorological Center,
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2370.eng;815
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2371.eng;815
+Tel: +664 524 4108TSERVICE;Annotation:2372.eng;815
+Fax: +664 524 4200TSERVICE;Annotation:2373.eng;815
+6
+Flight documentation
+Language(s) used
+ChartsTSERVICE;Annotation:2395.eng;815, Tabular formsTSERVICE;Annotation:2396.eng;815 and Abbreviated Plain Language TextsTSERVICE;Annotation:2397.eng;815
+English
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2374.eng;815, U85TSERVICE;Annotation:2375.eng;815, U70TSERVICE;Annotation:2376.eng;815, U50TSERVICE;Annotation:2377.eng;815, U40TSERVICE;Annotation:2378.eng;815, U30TSERVICE;Annotation:2379.eng;815, U25TSERVICE;Annotation:2380.eng;815, U20TSERVICE;Annotation:2381.eng;815, SWHTSERVICE;Annotation:2382.eng;815, SWMTSERVICE;Annotation:2383.eng;815, SWLTSERVICE;Annotation:2384.eng;815, P85TSERVICE;Annotation:2385.eng;815, P70TSERVICE;Annotation:2386.eng;815, P50TSERVICE;Annotation:2387.eng;815, P40TSERVICE;Annotation:2388.eng;815, P30TSERVICE;Annotation:2389.eng;815, P25TSERVICE;Annotation:2390.eng;815, P20TSERVICE;Annotation:2391.eng;815, P15TSERVICE;Annotation:2392.eng;815, satellite and radar imagesTSERVICE;Annotation:2393.eng;815
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Ubon Ratchathani TWR
+Ubon Ratchathani APP
+10
+Additional information (limitation of service, etc.)
+NIL
+VTUU
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY(M)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY coordinates
+THR end undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+05
+051.48°
+3000x45
+PCN 61/F/C/X/
+Asphaltic concrete
+151434.17N
+1045133.53E-74 ft
+411 ft
+23
+231.48°
+3000x45
+PCN 61/F/C/X/
+Asphaltic concrete
+151534.99N
+1045252.24E-74 ft
+397 ft
+Slope of
+RWY-SWY
+SWY dimensions (M)
+CWY dimensions (M) | Strip dimensions (M) | RESA
+dimensions
+(M) | Location &
+description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+NIL
+60x60
+NIL
+3240x180
+240x90
+NIL
+NIL
+NIL
+NIL
+60x60
+NIL
+3240x180
+240x90
+NIL
+NIL
+NIL
+VTUU
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+05
+3000
+3000
+3060
+3000
+NIL
+23
+3000
+3000
+3060
+3000
+NIL
+VTUU
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+05
+SALS
+420
+M
+LIH
+Green
+NIL
+PAPI
+LEF 3°
+(54.36 F)
+NIL
+NIL
+3 000 M
+60 M
+FM 0 M - 2400 M
+White,
+FM 2400 M - 3000M
+Yellow, LIH
+Red
+NIL | 60 M
+Red
+NIL
+23
+SALS
+407
+M
+LIH
+Green
+WBAR
+PAPI
+LEF 3°
+(49.93 F)
+NIL
+NIL
+3 000 M
+60 M
+FM 0 M - 2400 M
+White,
+FM 2400 M - 3000 M
+Yellow, LIH
+Red
+NIL | 60 M
+Red
+NIL
+VTUU
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1876.eng;527, FLG W G EV 3 SECTAERO_GND_LGT;Annotation:858.eng;527.
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI:
+1. Wind cone at 345 M from THR 05 off set to the left side 80 M from RCL, illuminated.
+2. Wind cone at 90 M from centre line of TWY A off set to the left side 177 M from RCL, illuminated.
+3. Wind cone at 370 M from THR 23 off set to the right side 78.50 M from RCL, illuminated.
+3
+TWY edge and centre line lighting
+TWY Edge: All TWY
+TWY Centre Line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Air Field Lighting (AFL) building
+Switch – over time : 15 SEC.TAD_HP;Annotation:1878.eng;477.
+5
+Remarks
+NIL
+VTUU
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTUU
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5NM radius centred on UBL DVOR/DME
+(151442.7N
+1045157.2E)
+2
+Vertical limits
+3000 F/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Ubon Tower
+English, Thai
+5
+Transition altitude
+11000 F
+6
+Remarks
+NIL
+VTUU
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Ubon Approach
+123.5 MHz
+257.8 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Ubon Tower
+119.9 MHz
+274.5 MHz
+121.5 MHz)
+243.0 MHz)
+As AD OPR HR
+GND
+Ubon Ground
+121.9 MHz
+275.8 MHz
+As AD OPR HR
+A
+Ubon Airport
+128.2 MHz
+As AD OPR HR
+ASR
+Departure Control
+Arrival Control
+335.5 MHz
+134.1 MHz
+282.2 MHz
+125.75 MHz
+0100-09002)
+MON-FRI
+(Except Public Holiday)
+2)Other this period 2 HR PN TO ATC
+Royal Thai Air Force
+ASR OPS AVBL for MIL
+- Coverage/HGT:
+PSR 70 nm/30 000ft
+SSR 200 nm/100 000 ft
+- EM: PSR 500 KW
+SSR 1.5 KW
+SRA
+Final Control
+382.4 MHz
+VTUU
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+UBL
+112.7 MHz
+CH74X
+H24
+151442.6N
+1045157.2E
+120 m
+(400 ft)
+DVOR/DME restriction
+Due to obstacles surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit at required altitude in various areas as follows:
+40 nm
+Radial 111°-155° altitude should not below 3 000 ft.
+Radial 156°-165° altitude should not below 7 000 ft.
+Radial 166°-200° altitude should not below 5 000 ft.
+Radial 201°-070° altitude should not below 3 000 ft.
+30 nm (Due to border limit)
+Radial 071°-110° altitude should not below 2 000 ft.
+During 6 NM orbit found 30 Hz.
+AM modulation is fluctuated within 29%-50% between radial 170°-190°. UBON DVOR/DME unusable between radial 170°-190° (CW) beyond 10 nm altitude 2 000 ft.
+ILS CAT I
+LOC 23
+IUBL
+110.1 MHz
+CH38X
+H24
+151424.0N
+1045120.5E
+ILS coverage over sector of 35 either side of runway centre line, no back course and voice feature, the antenna array is located on extended runway centre line at distance 500 m from THR of RWY 05, height of antenna array is 4.1 m from ground
+No marker
+GP 23
+334.4 MHz
+H24
+151526.0N
+1045247.2E
+Glide Path angle 3.0°
+DME co-located with glide path power output 100 watts omnidirectional
+DME 23 | IUBL
+334.4 MHz | H24
+151526.0N
+1045247.2E
+120 m
+(400 ft)
+UBL
+114.6 MHz
+CH93
+2300-1100
+MON-FRI
+(Except Public Holiday)
+151544.79N
+1045300.00E
+Other this period 2 HR PN TO ATC
+VTUU
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. 180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, aircraft code letter C or higher are not allowed to make 180 degrees turn on the runway. The turn shall be made on the runway turn pad located on both end of runway. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator and shall be liable for the compensation caused by such violation.
+VTUU
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTUU
+AD 2.22 FLIGHT PROCEDURES
+1. VFR REPORTING POINTS AND LOCAL PROCEDURES
+1.1 Reporting points for VFR flight
+In order to expedite and maintain an orderly flow of air traffic into Ubon Ratchathani Airport, The procedures of inbound traffic or VFR flight, conventional and prop jet aircraft be set up as follow:
+Aircraft entering to land from north of Ubon Ratchathani Airport, shall report over Khuang Nai District, designated as KILO NOVEMBER (1523.0N 10434.0E) and / or Nong Tae District designated as NOVEMBER (1524.4N 10447.9E which are 22 NM on R-300 and 11NM or R-337 of UBL DVOR/DME respectively. When reaching November the aircraft will be instructed to join aerodrome traffic pattern accordingly.
+Aircraft entering to land from west or southwest of Ubon Ratchathani Airport, shall report over Kantharom District, designated as KILO ROMEO (1505.5N 10431.5E) and/or Pak Nam Chi designated as DELTA (1511.5N 10443.5E) which are 24 NM on R-248 and 10 NM on R-250 of UBL VOR/DME respectively. When reaching DELTA the aircraft will be instructed to join aerodrome traffic pattern accordingly.
+Aircraft entering to land from south of Ubon Ratchathani Airport, shall report over Sri-cai Bridge, designated as SIERRA (1506.0N 10454.4E) which is 9 NM on R-167 of UBL DVOR/DME. When Reaching SIERRA the aircraft will be instructed to join aerodrome traffic pattern accordingly.
+1.2 Aerodrome traffic circuit
+Using both sides of traffic circuit.
+1.3 Overhead approach pattern
+Using RWY by left turn pattern.
+Using RWY by right turn pattern
+1.4 Landing and Take - off
+In order to avoid the high percentage of noise pollution at Ubon Ratchathani Airport, If traffic and weather condition permit, Pilots are requested to land by using RWY and take off RWY.
+2. SPEED CONTROL PROCEDURE IN UBON TMA
+All arriving turbo-propeller and turbo-jet aircraft when flying below 10000 FT AMSL are subject to fly not faster than indicated air speed 250 knots unless authorized by ATC.
+Speed will be reduced to 220 knots during 20-25 track miles from touchdown.
+180 knots at Intermediate fix (Including aircraft from RNAV STAR), or shortly before closing heading to intercept or to establish the final course,
+150 to 160 knots at FAP or FAF; all speed to be flown as accurately as possible. At the other times, speed control may be applied on a tactical basis to extent determined by ATC.
+Pilots who unable to comply with the speed limits specifics above for reasons of flight safety and/or weather conditions should inform ATC and state the speed acceptable.
+ATC will notify that the aircraft may keep its preferred speed without restriction and will use the phrase “NO SPEED RESTRICTIONS”. An instruction to notify that the aircraft need no longer comply with the previous issued speed restriction, the phrase “RESUME NORMAL SPEED” will be used.
+All aircraft navigating under conditions of RNAV STARs shall conform to speed limitation as published then at IF pilot shall comply with speed control procedures unless otherwise instructed by ATC.
+If the pilots do not comply, the flight shall follow ATC instruction for re-sequencing.
+NOTE - an instruction to “RESUME NORMAL SPEED” does not cancel speed restrictions that applicable to published procedure of upcoming segments of flight, aircraft shall comply speed restrictions specified in a) b) c) and d)
+3. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+4. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+5. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 05:
+UBON OMNI 05 Departure: Required climb gradient 201 ft per NM (3.3%) until 2,000 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.3% | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,500 ft (or altitude assigned by ATC between 1,500 ft - 1,800 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 23
+UBON OMNI 23 Departure: Required climb gradient 207 ft per NM (3.4%) until 2,000 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.4% | (ft/min) | 224 | 258 | 344 | 516 | 689 | 861 | 1033
+No turn before DER.
+After departure climb straight ahead until 1,500 ft (or altitude assigned by ATC between 1,500-1,800 ft), then comply with ATC clearance issued (or as directed by ATC)
+VTUU
+AD 2.23 ADDITIONAL INFORMATION
+- BAK14 RAG installed at 400 M from threshold runway 05 and 23 cable height 3 inches.
+- Net Barrier installed on both side of runway 05/23 at 35 M (115 FT.) from threshold, height 1.35 M (4.5 FT.)
+- Birds concentration on and in the vicinity of an aerodrome.
+VTUU
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTUU-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTUU-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTUU-2-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 05 - ASABO1B ENLEP1B POTEV1B SAGAL1B VENPO1B
+AD 2-VTUU-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 05 - ASABO1B ENLEP1B POTEV1B SAGAL1B VENPO1B (Tabular description)
+AD 2-VTUU-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 23 - ASABO1A ENLEP1A POTEV1A VENPO1A VESUD1A
+AD 2-VTUU-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 23 - ASABO1A ENLEP1A POTEV1A VENPO1A VESUD1A (Tabular description)
+AD 2-VTUU-6-4
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 05 – ASABO1C ENLEP1C POTEV1C VENPO1C VESUD1C
+AD 2-VTUU-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 05 – ASABO1C ENLEP1C POTEV1C VENPO1C VESUD1C (Tabular description)
+AD 2-VTUU-7-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 23 – ASABO1D ENLEP1D OBKIB1D POTEV1D VENPO1D
+AD 2-VTUU-7-3
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 23 – ASABO1D ENLEP1D OBKIB1D POTEV1D VENPO1D (Tabular description)
+AD 2-VTUU-7-4
+Instrument Approach Chart - ICAO - VOR RWY 05
+AD 2-VTUU-8-1
+Instrument Approach Chart - ICAO - VOR RWY 05 (Fix and point list table)
+AD 2-VTUU-8-2
+Instrument Approach Chart - ICAO - VOR RWY 23
+AD 2-VTUU-8-3
+Instrument Approach Chart - ICAO - VOR RWY 23 (Fix and point list table)
+AD 2-VTUU-8-4
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 23
+AD 2-VTUU-8-5
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 23 (Fix and point list table)
+AD 2-VTUU-8-6
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 23
+AD 2-VTUU-8-7
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 23 (Tabular description)
+AD 2-VTUU-8-8
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 23 (Fix and point list table)
+AD 2-VTUU-8-9
+Instrument Approach Chart - ICAO - RNP RWY 05
+AD 2-VTUU-8-11
+Instrument Approach Chart - ICAO - RNP RWY 05 (Tabular description)
+AD 2-VTUU-8-12
+Instrument Approach Chart - ICAO - RNP RWY 23
+AD 2-VTUU-8-13
+Instrument Approach Chart - ICAO - RNP RWY 23 (Tabular description)
+AD 2-VTUU-8-14

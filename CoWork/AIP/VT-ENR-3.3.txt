@@ -1,0 +1,5551 @@
+# AIP Thailand AIRAC 2026-10-29 VT-ENR-3.3
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-3.3-en-GB.html
+ENR 3.3 AREA NAVIGATION (RNAV) ROUTES
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Route segment between DWI and BKK available for overfly BKK (Bi-directional) and departing from V or V (Westbound) .
+L301
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+276°
+096°
+64.0
+NM
+FL
+460
+7 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+PAS
+140005N
+0993007E
+276°
+096°
+31.0
+NM
+FL
+460
+7 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+140306N
+0985819E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+L507
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+310°
+130°
+52.0
+NM
+FL
+460
+9 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+IGONI
+142633N
+0995430E
+310°
+130°
+39.0
+NM
+FL
+460
+9 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+NUNLI
+145127N
+0992304E
+310°
+130°
+59.0
+NM
+FL
+460
+FL
+145
+Even(1) | Odd(1)
+[Class A]
+▲
+LUDVI
+152849N
+0983530E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+L515
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+IKULA
+100007N
+0972114E
+154°
+334°
+66.0
+NM
+FL
+460
+10 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+MUDMA
+090050N
+0975115E
+154°
+334°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+UPSAB
+083348N
+0980452E
+154°
+334°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+L524
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+286°
+106°
+66.0
+NM
+FL
+460
+9 500
+ft
+Odd(1)
+[Class A]
+▲
+IBE
+141036N
+0992946E
+285°
+105°
+31.0
+NM
+FL
+460
+9 500
+ft
+Odd(1)
+[Class A]
+▲
+MIGAR
+141823N
+0985907E
+285°
+105°
+26.0
+NM
+FL
+460
+9 500
+ft
+Odd(1)
+[Class A]
+▲
+NURDA
+142451N
+0983322E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+L645
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+268°
+088°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+UBNEN
+080520N
+0974812E
+268°
+088°
+15.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+SAPAM
+080434N
+0973300E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+L759
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+318°
+138°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+SA
+082902N
+0975756E
+318°
+138°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+ANPAN
+085116N
+0973720E
+318°
+138°
+93.0
+NM
+FL
+460
+10 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+100000N
+0963312E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Point/Segment Remarks:
+(2) RNAV 2
+L770
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+(2)
+019°
+199°
+51.0
+NM
+FL
+460
+FL
+255
+Odd(1)
+[Class A]
+▲
+AVLOP
+193654N
+1010349E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Available for aircraft destination V or V only
+L877
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+MIGAR
+141823N
+0985907E
+256°
+075°
+15.0
+NM
+FL
+460
+9 500
+ft
+Odd(1)
+[Class A]
+▲
+PUMOR
+141420N
+0984348E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+L880
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+092°
+272°
+51.0
+NM
+FL
+460
+10 500
+ft
+Odd(1)
+[Class A]
+▲
+ANKOS
+135300N
+1012742E
+092°
+272°
+22.0
+NM
+FL
+460
+FL
+145
+Odd(1)
+[Class A]
+▲
+DOSBU
+135240N
+1015002E
+092°
+272°
+28.0
+NM
+FL
+460
+FL
+145
+Odd(1)
+[Class A]
+▲
+ANREN
+135212N
+1021838E
+092°
+272°
+27.0
+NM
+FL
+460
+FL
+145
+Odd(1)
+[Class A]
+▲
+OMURO
+135143N
+1024559E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR) availability:
+CDR1
+1. Weekdays, Monday to Friday 1500 -2300 UTC
+2. From Friday 1500 UTC to Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Not applicable
+Point/Segment Remarks:
+(2) Route segment between AKA and BKK available for overfly BKK (Bi-directional) and departing from V or V (Westbound)
+M502
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+260°
+080°
+49.0
+NM
+FL
+460
+10 000
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+BONVO
+134410N
+0994607E
+259°
+079°
+36.0
+NM
+FL
+460
+10 000
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+AKA
+133716N
+0991019E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound,
+portion between KADAX-
+IKOGA
+For continuation, see AIP Malaysia
+Point/Segment Remarks:
+(2)
+M626
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+EKAVO
+113737N
+0993025E
+(2)
+153°
+333°
+33.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+MENEX
+110831N
+0994543E
+154°
+334°
+17.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+NONEL
+105301N
+0995337E
+154°
+334°
+58.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+∆
+APUSA
+100057N
+1002007E
+154°
+334°
+8.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+SOR
+095353N
+1002342E
+154°
+334°
+13.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+UPNEP
+094213N
+1002936E
+153°
+333°
+12.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+VALSI
+093108N
+1003518E
+153°
+333°
+63.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+∆
+SUPIN
+083435N
+1010419E
+153°
+333°
+61.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+IKOGA
+073935N
+1013235E
+153°
+333°
+94.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+KADAX
+061602N
+1021542E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+M633
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+140306N
+0985819E
+100°
+281°
+104.0
+NM
+FL
+460
+FL
+255
+Even(1)
+[Class A]
+▲
+MUBUS
+134530N
+1004342E
+091°
+271°
+8.0
+NM
+FL
+460
+10 500
+ft
+Even(1)
+[Class A]
+▲
+UGIPA
+134524N
+1005221E
+091°
+272°
+56.0
+NM
+FL
+460
+10 500
+ft
+Even(1)
+[Class A]
+▲
+OL
+134439N
+1014956E
+092°
+272°
+23.0
+NM
+FL
+460
+FL
+145
+Even(1)
+[Class A]
+▲
+DULEM
+134416N
+1021400E
+092°
+272°
+25.0
+NM
+FL
+460
+FL
+145
+Even(1)
+[Class A]
+▲
+134349N
+1023918E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route portion between TONIK - ABTOK
+Point/Segment Remarks:
+(2)
+M644
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+RAYONG
+DVOR/DME (
+RYN
+)
+124643N
+1014035E
+(2)
+176°
+356°
+121.0
+NM
+FL
+460
+FL
+285
+Odd(1) | Even(1)
+[Class A]
+▲
+ALUMO
+104554N
+1015123E
+175°
+355°
+88.0
+NM
+FL
+460
+FL
+285
+Odd(1) | Even(1)
+[Class A]
+∆
+091736N
+1015907E
+175°
+355°
+76.0
+NM
+FL
+460
+FL
+285
+Odd(1) | Even(1)
+[Class A]
+∆
+DUGON
+080125N
+1020549E
+174°
+354°
+103.0
+NM
+FL
+460
+FL
+285
+Odd(1) | Even(1)
+[Class A]
+▲
+AB
+061818N
+1021744E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound
+Conditional Route (CDR) Availability:
+CDR1
+1. Weekdays, Monday to Friday from 1700-2200 UTC
+2. From Friday 1700 UTC to Sunday 2200 UTC
+3. Public holidays
+CDR2
+Other periods, Availability shall be notified by Airspace use plan (AUP) published in www.thaicmac.aerothai.aero
+Point/Segment Remarks:
+(2) BOPNU (BKK-VTN FIR BDRY)
+M648
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+023°
+203°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+MUGNO
+175107N
+1025753E
+023°
+203°
+8.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+BOPNU
+175826N
+1030052E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-direction northbound route
+portion between GOLUD - MUBAN
+Point/Segment Remarks:
+(2)
+(3) For continuation, see AIP Malaysia
+M751
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+(2)
+182°
+002°
+32.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+∆
+POLAK
+132106N
+1003454E
+181°
+001°
+33.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+GU
+124820N
+1003454E
+181°
+001°
+48.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+REGOS
+120007N
+1003454E
+163°
+343°
+63.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+∆
+IDAGA
+110007N
+1005348E
+164°
+344°
+49.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+EMELA
+101249N
+1010729E
+164°
+344°
+81.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+∆
+MUBAN
+085441N
+1012952E
+164°
+344°
+54.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+080220N
+1014448E
+163°
+343°
+109.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+GOLUD
+061706N
+1021639E
+(3)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound route
+M757
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+175°
+355°
+49.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+▲
+KASNI
+130450N
+1004042E
+182°
+002°
+61.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+▲
+ASEKU
+120306N
+1003905E
+182°
+002°
+93.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+▲
+NULBO
+102919N
+1003643E
+182°
+002°
+41.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+MABKO
+094809N
+1003543E
+182°
+002°
+17.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+VALSI
+093108N
+1003518E
+182°
+002°
+5.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+ROBDA
+092558N
+1003511E
+182°
+002°
+32.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+LOSDA
+085356N
+1003425E
+182°
+002°
+84.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+OBLEX
+072948N
+1003228E
+181°
+001°
+60.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+KARMI
+062940N
+1003121E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+M769
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+189°
+009°
+49.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+LEBIM
+130515N
+1002825E
+182°
+002°
+74.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+SURMA
+115122N
+1002633E
+182°
+002°
+33.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+GOKEX
+111815N
+1002544E
+182°
+002°
+70.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+DONSI
+100738N
+1002401E
+182°
+002°
+14.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+SOR
+095353N
+1002342E
+182°
+002°
+25.0
+NM
+FL
+460
+FL
+125
+Even(1)
+[Class A]
+▲
+PINUN
+092825N
+1002306E
+182°
+002°
+19.0
+NM
+FL
+460
+FL
+125
+Even(1)
+[Class A]
+▲
+RIPMU
+090852N
+1002238E
+182°
+002°
+22.0
+NM
+FL
+460
+FL
+125
+Even(1)
+[Class A]
+▲
+DOXAS
+084657N
+1002208E
+182°
+002°
+76.0
+NM
+FL
+460
+FL
+125
+Even(1)
+[Class A]
+▲
+DANDO
+073054N
+1002024E
+187°
+007°
+48.0
+NM
+FL
+460
+FL
+125
+Even(1)
+[Class A]
+▲
+RIG
+064228N
+1001504E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+When VT D71 is activated, M904 is not available for flight planning.
+Point/Segment Remarks:
+(2) Between BKK and BUT, aircraft shall keep within the lateral limit for the route and close to the centreline as much as possible to avoid entering VT P7.
+(3) Uni-directional southbound route,
+portion between BKK - TONIK
+M904
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+(3)
+163°
+343°
+49.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+KIGOB
+130646N
+1005106E
+163°
+343°
+28.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+U-
+DVOR/DME (
+BU
+)
+124000N
+1010002E
+165°
+345°
+19.0
+NM
+FL
+460
+FL
+145
+Odd(1)
+[Class A]
+▲
+PIDEL
+122143N
+1010514E
+164°
+344°
+17.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+∆
+DIPUN
+120457N
+1011011E
+164°
+344°
+93.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+∆
+SIRA
+103450N
+1013640E
+164°
+344°
+80.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+∆
+091736N
+1015907E
+161°
+341°
+153.0
+NM
+FL
+460
+FL
+245
+Odd(1) | Even(1)
+[Class A]
+▲
+065230N
+1025000E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional eastbound route
+N506
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+118°
+298°
+18.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+UGIPA
+134524N
+1005221E
+118°
+298°
+32.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+GORSI
+133055N
+1012128E
+118°
+298°
+15.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+GOMES
+132406N
+1013506E
+117°
+297°
+23.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+BERLU
+131350N
+1015620E
+117°
+297°
+36.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+▲
+BOKAK
+125736N
+1022947E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+N891
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+137°
+317°
+49.0
+NM
+FL
+460
+7 000
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+DOLNI
+131740N
+1011048E
+137°
+317°
+42.0
+NM
+FL
+460
+7 000
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+RAYONG
+DVOR/DME (
+RYN
+)
+124643N
+1014035E
+163°
+343°
+108.0
+NM
+FL
+460
+FL
+160
+Odd(1) | Even(1)
+[Class A]
+∆
+ANOBO
+110323N
+1021442E
+163°
+343°
+38.0
+NM
+FL
+460
+FL
+160
+Odd(1) | Even(1)
+[Class A]
+▲
+BENSA
+102631N
+1022630E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+P627
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+240°
+060°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+ANPUB
+075141N
+0975216E
+240°
+060°
+11.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+RUSE
+074616N
+0974257E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional westbound route
+P629
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+137°
+317°
+11.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+MUBUS
+134530N
+1004342E
+137°
+317°
+38.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+DOLNI
+131740N
+1011048E
+112°
+292°
+41.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+NUGPA
+130254N
+1014959E
+112°
+292°
+25.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+OLDIR
+125401N
+1021325E
+112°
+292°
+19.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+VAPVU
+124701N
+1023149E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+P646
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+298°
+118°
+70.0
+NM
+FL
+460
+9 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+142620N
+0993129E
+298°
+118°
+86.0
+NM
+FL
+460
+9 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+BE
+150554N
+0981231E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound
+route
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to Friday
+1000 - 2300 UTC
+2. From Friday 1000 UTC to
+Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Y1
+(
+RNAV 2)
+Route availability:
+(1) H24
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+206°
+026°
+30.0
+NM
+FL
+460
+12 000
+ft
+Even(1)
+[Class A]
+▲
+165550N
+1023308E
+206°
+026°
+152.0
+NM
+FL
+460
+12 000
+ft
+Even(1)
+[Class A]
+▲
+UBLOD
+143715N
+1012612E
+206°
+026°
+16.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+PIPOB
+142236N
+1011914E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound
+route
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to Friday
+1000 - 2300 UTC
+2. From Friday 1000 UTC to
+Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Y2
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+KHON KAEN
+DVOR/DME (
+KKN
+)
+162815N
+1024717E
+217°
+037°
+30.0
+NM
+FL
+460
+12 000
+ft
+/FL120
+Even(1)
+[Class A]
+▲
+NEM
+160345N
+1022913E
+216°
+036°
+105.0
+NM
+FL
+460
+12 000
+ft
+/FL120
+Even(1)
+[Class A]
+▲
+UBLOD
+143715N
+1012612E
+206°
+026°
+16.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+PIPOB
+142236N
+1011914E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound route
+Conditional Route (CDR) availability:
+CDR1
+Not applicable
+CDR2
+1. Available when VTD58 is activated
+2. Availability shall be notified by NOTAM
+or Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Aircraft shall keep within the lateral limit 5 NM either side of the route and close to the centreline as much as possible to avoid entering VTD58
+Y3
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+MENEX
+110831N
+0994543E
+180°
+000°
+103.0
+NM
+FL
+460
+7 000
+ft
+Even(1)
+[Class A]
+▲
+DORNA
+092459N
+0994614E
+229°
+049°
+55.0
+NM
+FL
+460
+7 000
+ft
+Even(1)
+[Class A]
+▲
+084834N
+0990507E
+229°
+049°
+32.0
+NM
+FL
+460
+7 000
+ft
+Even(1)
+[Class A]
+▲
+MONBU
+082659N
+0984056E
+229°
+049°
+30.0
+NM
+FL
+460
+7 000
+ft
+Even(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Conditional Route (CDR) availability:
+CDR1
+Not applicable
+CDR2
+1. Available when VTD58 is activated
+2. Availability shall be notified by NOTAM or Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Aircraft shall keep within the lateral limit 5 NM either side of the route and close to the centreline as much as possible to avoid entering VTD58
+Y4
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+NONEL
+105301N
+0995337E
+174°
+354°
+80.0
+NM
+FL
+460
+7 000
+ft
+Odd(1)
+[Class A]
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+211°
+031°
+30.0
+NM
+FL
+460
+7 000
+ft
+Odd(1)
+[Class A]
+▲
+MESEM
+090719N
+0994816E
+211°
+031°
+38.0
+NM
+FL
+460
+7 000
+ft
+Odd(1)
+[Class A]
+▲
+RECNO
+083425N
+0992825E
+227°
+047°
+11.0
+NM
+FL
+460
+7 000
+ft
+Odd(1)
+[Class A]
+▲
+BI
+082659N
+0992029E
+227°
+047°
+10.0
+NM
+FL
+460
+7 000
+ft
+Odd(1)
+[Class A]
+▲
+OSPEX
+082015N
+0991319E
+227°
+047°
+20.0
+NM
+FL
+460
+7 000
+ft
+Odd(1)
+[Class A]
+▲
+KRABI
+DVOR/DME (
+KBI
+)
+080627N
+0985839E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to Friday
+1700 - 2259 UTC
+2. From Friday 1700 UTC to
+Sunday 2259 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by NOTAM or
+Airspace use plan (AUP)
+published in
+www.thaicmac.aerothai.aero
+Y5
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+010°
+190°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+IGEVI
+083640N
+0982320E
+024°
+204°
+31.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+∆
+ANDAX
+090441N
+0983545E
+024°
+204°
+32.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+Odd(1)
+[Class A]
+▲
+NOMEK
+093404N
+0984835E
+026°
+206°
+76.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+Odd(1)
+[Class A]
+▲
+CHUM PHON
+DVOR/DME (
+CPN
+)
+104240N
+0992156E
+043°
+223°
+35.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+Odd(1)
+[Class A]
+▲
+MENEX
+110831N
+0994543E
+044°
+224°
+28.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+Odd(1)
+[Class A]
+▲
+EGUBO
+112838N
+1000450E
+044°
+224°
+14.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+Odd(1)
+[Class A]
+▲
+UPVIL
+113836N
+1001421E
+044°
+224°
+18.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+Odd(1)
+[Class A]
+▲
+SURMA
+115122N
+1002633E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound route
+Y7
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+148°
+328°
+38.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+▲
+PAN
+181351N
+0991917E
+163°
+343°
+33.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+∆
+KEXIL
+174204N
+0992954E
+163°
+343°
+54.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+∆
+IGPOP
+165002N
+0994708E
+163°
+343°
+31.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+▲
+PAKMO
+162013N
+0995656E
+163°
+343°
+67.0
+NM
+FL
+460
+FL
+125
+Odd(1)
+[Class A]
+▲
+BLAFF
+151633N
+1001751E
+169°
+349°
+84.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound route
+Northbound direction
+between PUT and STN is
+available for flight departing
+VTSP and arriving VTSB only
+Y8
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+197°
+017°
+44.0
+NM
+FL
+460
+12 500
+ft
+/ FL 125
+Even(1)
+[Class A]
+▲
+MO
+131110N
+1002306E
+226°
+046°
+16.0
+NM
+FL
+460
+12 500
+ft
+/ FL 125
+Even(1)
+[Class A]
+▲
+SABIS
+125959N
+1001125E
+226°
+046°
+35.0
+NM
+FL
+460
+12 500
+ft
+/ FL 125
+Even(1)
+[Class A]
+▲
+VANKO
+123511N
+0994538E
+180°
+000°
+51.0
+NM
+FL
+460
+12 500
+ft
+/ FL 125
+Even(1)
+[Class A]
+▲
+BUXEL
+114342N
+0994540E
+180°
+000°
+35.0
+NM
+FL
+460
+12 500
+ft
+/ FL 125
+Even(1)
+[Class A]
+▲
+MENEX
+110831N
+0994543E
+198°
+018°
+101.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+IKERA
+093146N
+0991532E
+198°
+018°
+25.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+SURAT
+DVOR/DME (
+S
+)
+090746N
+0990805E
+220°
+040°
+25.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+LAMUL
+084818N
+0985208E
+219°
+039°
+23.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+SAVSA
+083016N
+0983729E
+220°
+040°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route
+Y9
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+DANDO
+073054N
+1002024E
+176°
+356°
+35.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound route
+Y10
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+OBLEX
+072948N
+1003228E
+196°
+015°
+35.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+When VTD71 is activated, Y11 is not available for flight planning.
+Point/Segment Remarks:
+(2) Between KIGOB and BU, aircraft shall fly on the centerline of the route as much as possible to avoid entering VTP7.
+(3) Uni-directional
+southbound route
+Y11
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+KIGOB
+130646N
+1005106E
+(3)
+163°
+343°
+28.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+▲
+U-
+DVOR/DME (
+BU
+)
+124000N
+1010002E
+165°
+345°
+19.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+▲
+PIDEL
+122143N
+1010514E
+181°
+001°
+43.0
+NM
+FL
+460
+FL
+155
+Odd(1)
+[Class A]
+∆
+NOMEP
+113830N
+1010454E
+170°
+350°
+78.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+▲
+ANBUX
+102137N
+1011908E
+170°
+350°
+84.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+▲
+OSROG
+085820N
+1013431E
+170°
+350°
+57.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+▲
+080220N
+1014448E
+170°
+350°
+108.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+▲
+PASVA
+061529N
+1020431E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+When VTR13 is activated, Y12 is not available for flight planning.
+Point/Segment Remarks:
+(2) Uni-directional northbound route
+Y12
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+DOLNI
+131740N
+1011048E
+(2)
+161°
+341°
+44.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+ALEMI
+123626N
+1012600E
+168°
+348°
+113.0
+NM
+FL
+460
+FL
+155
+Even(1)
+[Class A]
+▲
+ALUMO
+104554N
+1015123E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Available for aircraft with V as destination only.
+Point/Segment Remarks:
+(2) Uni-directional westbound route
+Y13
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+(2)
+056°
+236°
+51.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+PIPOB
+142236N
+1011914E
+073°
+253°
+37.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A]
+▲
+RUKSA
+143351N
+1015512E
+073°
+253°
+60.0
+NM
+FL
+460
+FL
+205
+Even(1)
+[Class A]
+▲
+PAKRI
+145202N
+1025409E
+072°
+252°
+54.0
+NM
+FL
+460
+FL
+205
+Even(1)
+[Class A]
+▲
+GRASO
+150917N
+1034714E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y14
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+SELKA
+142020N
+1015311E
+024°
+204°
+38.0
+NM
+FL
+460
+FL
+205
+Odd(1)
+[Class A]
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y15
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+∆
+SANO
+145134N
+1032548E
+050°
+230°
+27.0
+NM
+FL
+460
+FL
+205
+Odd(1)
+[Class A]
+▲
+GRASO
+150917N
+1034714E
+024°
+204°
+59.0
+NM
+FL
+460
+FL
+205
+Odd(1)
+[Class A]
+▲
+GUROK
+160329N
+1041106E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional eastbound route
+Y16
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+079°
+259°
+51.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+UPKUP
+140353N
+1012655E
+078°
+258°
+31.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+LIPLI
+141028N
+1015756E
+073°
+253°
+39.0
+NM
+FL
+460
+FL
+205
+Odd(1)
+[Class A]
+▲
+XIKMA
+142236N
+1023626E
+070°
+251°
+73.0
+NM
+FL
+460
+FL
+205
+Odd(1)
+[Class A]
+▲
+PEKBA
+144808N
+1034733E
+071°
+252°
+111.0
+NM
+FL
+460
+FL
+205
+Odd(1)
+[Class A]
+▲
+BU
+152506N
+1053546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y17
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+031°
+211°
+30.0
+NM
+FL
+460
+4 500
+ft
+Even(1)
+[Class A]
+▲
+OLBAG
+095849N
+1001852E
+030°
+210°
+2.0
+NM
+FL
+460
+4 500
+ft
+Even(1)
+[Class A]
+∆
+APUSA
+100057N
+1002007E
+031°
+211°
+8.0
+NM
+FL
+460
+4 500
+ft
+Even(1)
+[Class A]
+▲
+DONSI
+100738N
+1002401E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+ConditionalRoute (CDR)
+availability;CDR11. Weekdays, Monday to Friday 1100-2300 UTC2. From Friday 1100 UTC to Sunday 2300 UTC3. Public Holidays
+CDR2
+Other period, Availability shall be
+notified by NOTAM or Airspace use
+plan (AUP) in
+www.thaicmac.aerothai.aero
+Y18
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+125°
+305°
+22.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A 000ft]
+▲
+KENNE
+064340N
+1004132E
+124°
+304°
+36.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A 000ft]
+▲
+062319N
+1011127E
+124°
+304°
+10.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A 000ft]
+▲
+PE
+061740N
+1011945E
+200°
+020°
+32.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A 000ft]
+▲
+BE
+DVOR/DME
+(
+BE
+)
+054708N
+1010839E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR)availability;
+CDR1
+1. Weekdays, Monday to Friday 1100-2300 UTC
+2. From Friday 1100 UTC to Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other period, Availability shall be notified by NOTAM or Airspace use plan (AUP) in www.thaicmac.aerothai.aero
+Y19
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+POXUN
+064718N
+1010853E
+160°
+340°
+21.0
+NM
+FL
+460
+6 500 ft
+Odd(1) | Even(1)
+[Class A]
+▲
+LERNI
+062706N
+1011618E
+160°
+340°
+10.0
+NM
+FL
+460
+6 500 ft
+Odd(1) | Even(1)
+[Class A]
+▲
+PE
+061740N
+1011945E
+200°
+020°
+32.0
+NM
+FL
+460
+6 500 ft
+Odd(1) | Even(1)
+[Class A]
+▲
+BE
+DVOR/DME
+(
+BE
+)
+054708N
+1010839E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Y20
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+044°
+224°
+51.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class
+7 000 ftA]
+▲
+MALKI
+143111N
+1011153E
+067°
+247°
+15.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class
+7 000 ftA]
+▲
+UBLOD
+143715N
+1012612E
+067°
+247°
+45.0
+NM
+FL
+460
+12 500 ft / FL
+Odd(1) | Even(1)
+[Class
+13 000 ft/ FL130A]
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+082°
+262°
+51.0
+NM
+FL
+460
+12 500 ft / FL
+Odd(1) | Even(1)
+[Class
+13 000 ft/ FL130A]
+▲
+RAMEI
+150240N
+1030040E
+082°
+262°
+22.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class
+7 000 ftA]
+▲
+RAMBU
+150554N
+1032319E
+082°
+262°
+23.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class
+7 000 ftA]
+▲
+GRASO
+150917N
+1034714E
+086°
+266°
+33.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class
+7 000 ftA]
+▲
+ASABO
+151209N
+1042102E
+086°
+266°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class
+7 000 ftA]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Y21
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+144°
+324°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+POVEX
+165905N
+1030530E
+144°
+324°
+35.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+DO
+163103N
+1032732E
+144°
+324°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+EN
+154755N
+1041024E
+131°
+311°
+22.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+ENLEP
+153353N
+1042800E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Y22
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+180°
+000°
+25.0
+NM
+FL
+460
+10 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+ANPUS
+165800N
+1024651E
+180°
+000°
+5.0
+NM
+FL
+460
+10 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+ALGI
+165300N
+1024655E
+180°
+000°
+25.0
+NM
+FL
+460
+10 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+KHON KAEN
+DVOR/DME (
+KKN
+)
+162815N
+1024717E
+112°
+292°
+31.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+SEDNO
+161733N
+1031707E
+112°
+292°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+EN
+154755N
+1041024E
+131°
+311°
+22.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+ENLEP
+153353N
+1042800E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Y23
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+023°
+203°
+70.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+EMRU
+160020N
+1023533E
+023°
+203°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+KHON KAEN
+DVOR/DME (
+KKN
+)
+162815N
+1024717E
+061°
+241°
+24.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+AKRE
+164016N
+1030856E
+061°
+242°
+65.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+SAKON NAKHON
+DVOR/DME (
+SKN
+)
+171251N
+1040812E
+071°
+252°
+31.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+NAKHON PHANOM
+DVOR/DME (
+NKP
+)
+172318N
+1043818E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-direction southboundroute
+Y24
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+IKOGA
+073935N
+1013235E
+160°
+340°
+90.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+▲
+PASVA
+061529N
+1020431E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni- direction southbound
+route
+Y25
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+091736N
+1015907E
+179°
+359°
+181.0
+NM
+FL
+460
+FL
+245
+Odd(1)
+[Class A]
+▲
+PASVA
+061529N
+1020431E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route
+Y26
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+335°
+155°
+51.0
+NM
+FL
+460
+12 500 ft/FL
+Even(1)
+[Class
+13 000 ft/ AFL]
+▲
+OLVUK
+143928N
+1001240E
+343°
+163°
+22.0
+NM
+FL
+460
+12 500 ft/FL
+Even(1)
+[Class
+13 000 ft/ AFL]
+▲
+UPMU
+150043N
+1000536E
+343°
+163°
+84.0
+NM
+FL
+460
+FL
+245
+Even(1)
+[Class AFL]
+▲
+ELDAL
+162106N
+0993839E
+343°
+163°
+22.0
+NM
+FL
+460
+FL
+245
+Even(1)
+[Class AFL]
+▲
+NUVLU
+164146N
+0993140E
+343°
+163°
+48.0
+NM
+FL
+460
+FL
+245
+Even(1)
+[Class AFL]
+▲
+BEBUV
+172713N
+0991613E
+348°
+168°
+42.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A
+7 000ft
+]
+▲
+MARNI
+180836N
+0990549E
+349°
+169°
+38.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A
+7 000ft
+]
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y27
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+344°
+164°
+51.0
+NM
+FL
+460
+12 500 ft/FL
+Even(1)
+[Class
+13 000 ft/ AFL]
+▲
+RIVDU
+144236N
+1002019E
+343°
+163°
+27.0
+NM
+FL
+460
+12 500 ft/FL
+Even(1)
+[Class
+13 000 ft/ AFL]
+▲
+UGUVO
+150835N
+1001141E
+343°
+163°
+52.0
+NM
+FL
+460
+12 500 ft/FL
+Even(1)
+[Class
+13 000 ft/ AFL]
+▲
+OVLEN
+155804N
+0995509E
+005°
+185°
+22.0
+NM
+FL
+460
+12 500 ft/FL
+Even(1)
+[Class
+13 000 ft/ AFL]
+▲
+PAKMO
+162013N
+0995656E
+008°
+188°
+3.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+PIBAN
+162314N
+0995718E
+008°
+188°
+50.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+POLOB
+171309N
+1000328E
+001°
+181°
+38.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+IBUBU
+175128N
+1000336E
+001°
+181°
+56.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+∆
+IKISU
+184739N
+1000349E
+011°
+191°
+45.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A 000ft]
+▲
+DUBEN
+193249N
+1001207E
+014°
+194°
+47.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A 000ft]
+▲
+PONUK
+201858N
+1002306E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional southbound
+route
+Y28
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+DUBEN
+193249N
+1001207E
+179°
+359°
+45.0
+NM
+FL
+460
+8 500
+ft
+Even(1)
+[Class A]
+∆
+CRIS
+184752N
+1001334E
+179°
+359°
+121.0
+NM
+FL
+460
+8 500
+ft
+Odd(1)
+[Class A]
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+181°
+001°
+30.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+▲
+PEBLI
+161606N
+1001736E
+181°
+001°
+59.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+▲
+BLAFF
+151633N
+1001751E
+169°
+349°
+84.0
+NM
+FL
+460
+6 500 ft
+Odd(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route
+Y29
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+PIBAN
+162314N
+0995718E
+041°
+221°
+30.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional westbound
+route
+Y30
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+NUVLU
+164146N
+0993140E
+271°
+091°
+37.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+URGUM
+164154N
+0985322E
+271°
+091°
+20.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+MAE SO
+DVOR/DME (
+MS
+)
+164152N
+0983230E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional south-westbound
+route
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to Friday
+from 1700 - 2200 UTC
+2. From Friday 1700 UTC to
+Sunday 2200 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Y31
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+LOEI
+DVOR/DME (
+LOY
+)
+172649N
+1014323E
+231°
+051°
+20.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+ANLUR
+171330N
+1012705E
+231°
+051°
+9.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+UDIKU
+170735N
+1011952E
+231°
+051°
+39.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+GOKON
+164301N
+1004834E
+229°
+049°
+40.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+PEBLI
+161606N
+1001736E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route
+Y32
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+ELDAL
+162106N
+0993839E
+012°
+192°
+29.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A 000ft]
+▲
+KIME
+164928N
+0994429E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound
+route
+Y33
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+BEBUV
+172713N
+0991613E
+016°
+196°
+26.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A 000ft]
+▲
+IBIRI
+175223N
+0992317E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y34
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+POLOB
+171309N
+1000328E
+021°
+201°
+26.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A 000ft]
+▲
+IDKOR
+173810N
+1001243E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to Friday
+from 1700 - 2200 UTC
+2. From Friday 1700 UTC to
+Sunday 2200 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Y35
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+LOEI
+DVOR/DME (
+LOY
+)
+172649N
+1014323E
+327°
+147°
+21.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class
+7 000 ftA]
+▲
+YAKUA
+174415N
+1013052E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional eastbound
+route
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to
+Friday from 1400 - 0100 UTC
+2. From Friday 1400 UTC to
+Sunday 0100 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Y36
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+080°
+260°
+25.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A 000ft]
+▲
+IGUDA
+185047N
+0992332E
+080°
+260°
+108.0
+NM
+FL
+460
+10 500
+ft
+Odd(1)
+[Class A 000ft]
+▲
+191105N
+1011548E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional westbound
+route
+Conditional Route (CDR)
+availability:
+CDR1
+1. Weekdays, Monday to
+Friday from 1700 - 2200 UTC
+2. From Friday 1700 UTC to
+Sunday 2200 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Y37
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+ELDAL
+162106N
+0993839E
+289°
+109°
+47.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+163541N
+0985219E
+289°
+109°
+20.0
+NM
+FL
+460
+6 500
+ft
+Even(1)
+[Class A 000ft]
+▲
+MAE SO
+DVOR/DME (
+MS
+)
+164152N
+0983230E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y93
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+AKVUG
+090349N
+0992219E
+049°
+229°
+14.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+∆
+O
+091306N
+0993248E
+049°
+229°
+18.0
+NM
+FL
+460
+4 500
+ft
+Odd(1)
+[Class A]
+▲
+DORNA
+092459N
+0994614E
+066°
+246°
+19.0
+NM
+FL
+460
+4 500
+ft
+Odd(1)
+[Class A]
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Y94
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+NAKHON SI
+DVOR/DME (
+NKS
+)
+083230N
+0995649E
+061°
+241°
+29.0
+NM
+FL
+460
+4 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+DOXAS
+084657N
+1002208E
+061°
+241°
+14.0
+NM
+FL
+460
+6 500
+ft
+Even(1) | Odd(1)
+[Class A]
+▲
+LOSDA
+085356N
+1003425E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Y95
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+142°
+322°
+20.0
+NM
+FL
+460
+4 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+RUMVA
+091717N
+1001600E
+142°
+322°
+2.0
+NM
+FL
+460
+4 500
+ft
+Odd(1) | Even(1)
+[Class A]
+∆
+PAGLU
+091549N
+1001709E
+142°
+322°
+9.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+RIPMU
+090852N
+1002238E
+142°
+322°
+9.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+APOBI
+090147N
+1002814E
+142°
+322°
+10.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+LOSDA
+085356N
+1003425E
+142°
+322°
+34.0
+NM
+FL
+460
+6 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+IDRUK
+082724N
+1005513E
+142°
+322°
+60.0
+NM
+FL
+460
+9 500
+ft
+Odd(1) | Even(1)
+[Class A]
+▲
+IKOGA
+073935N
+1013235E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y96
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+GOKEX
+111815N
+1002544E
+332°
+152°
+18.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+OLSEL
+113411N
+1001649E
+332°
+152°
+5.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+UPVIL
+113836N
+1001421E
+332°
+152°
+12.0
+NM
+FL
+460
+7 500
+ft
+Even(1)
+[Class A]
+▲
+EM
+114931N
+1000814E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y98
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+NONEL
+105301N
+0995337E
+030°
+210°
+47.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+OLSEL
+113411N
+1001649E
+030°
+210°
+20.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+SURMA
+115122N
+1002633E
+002°
+182°
+74.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+LEBIM
+130515N
+1002825E
+009°
+189°
+49.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Initial Track MAG | Great Circle Dist (NM)
+Upper limit
+Lower limit
+FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+Y99
+(
+RNAV 2
+)
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+092°
+272°
+30.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+EMRI
+080621N
+0984840E
+090°
+270°
+10.0
+NM
+FL
+460
+6 500
+ft
+Odd(1)
+[Class A]
+▲
+KRABI
+DVOR/DME (
+KBI
+)
+080627N
+0985839E
+047°
+227°
+20.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+OSPEX
+082015N
+0991319E
+047°
+227°
+10.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+BI
+082659N
+0992029E
+003°
+183°
+18.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+EMVEL
+084438N
+0992122E
+003°
+183°
+19.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+AKVUG
+090349N
+0992219E
+003°
+183°
+11.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+VEGNA
+091427N
+0992251E
+018°
+198°
+11.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+NIXE
+092517N
+0992613E
+018°
+198°
+91.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+NONEL
+105301N
+0995337E
+018°
+198°
+37.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+EGUBO
+112838N
+1000450E
+010°
+190°
+21.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+EM
+114931N
+1000814E
+010°
+190°
+71.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+HO
+130006N
+1001948E
+017°
+197°
+12.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+MO
+131110N
+1002306E
+017°
+197°
+44.0
+NM
+FL
+460
+7 500
+ft
+Odd(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E

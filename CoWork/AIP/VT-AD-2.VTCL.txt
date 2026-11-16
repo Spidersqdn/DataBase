@@ -1,0 +1,883 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCL
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCL-en-GB.html
+VTCL
+— Lampang
+VTCL
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTCL
+— Lampang
+VTCL
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+181615N
+0993015E
+2
+Direction and distance from (city)
+2 km., S from city
+3
+Elevation/Reference temperature
+815 ft/37°C
+4 | Geoid Undulation at AD ELEV PSN
+-126 ft
+5
+MAG VAR/Annual change
+0°55' W(2025) / 0°2' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Lampang Airport
+Lampang Airport
+175 Thanon Sanambin 1, Tambon Phrabaht
+Amphoe Muang
+Lampang Province 52000
+Thailand
+Tel:
++665 482 1505
+Fax:
++665 482 1509
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTCL
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+0030-1230
+2
+Customs and immigration
+NIL
+3
+Health and sanitation
+NIL
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+0030-1230
+6
+MET Briefing Office
+NIL
+7
+ATS
+0030-1230
+8
+Fuelling
+0100-1000, other than this period on request.
+Lampang Petroleum Terminal
+59 Highway Lampang-Ngaow Rd.,
+Chompoo, Muang, Lampang, 52100
+Tel:
++665 422 6111
++668 9850 8974
++668 9850 8977
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Chiang Mai Air Traffic Control Centre (1st floor of tower building)
+Tel: +669 1818 5798
+Fax: +665 327 7897
+VTCL
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+JET A-1
+3
+Fuelling facilities/capacity
+2 JET A-1 Refueller @ 12,000 LTAD_HP_SPLY_SER;Annotation:4067.eng;1921
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTCL
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+Near the AD and in the cityTPASSENGER_FACILITY;Annotation:1487.eng;739
+2
+Restaurants
+Near the AD and in the cityTPASSENGER_FACILITY;Annotation:1488.eng;740
+3
+Transportation
+Car rental at ADTPASSENGER_FACILITY;Annotation:4061.eng;2241
+4
+Medical facilities
+Hospital in the cityTPASSENGER_FACILITY;Annotation:4062.eng;2242
+5
+Bank and Post Office
+Bank: In the city
+TPASSENGER_FACILITY;Annotation:4063.eng;2243
+Post Office: In the cityTPASSENGER_FACILITY;Annotation:4065.eng;2244
+6
+Tourist Office
+In the cityTPASSENGER_FACILITY;Annotation:4066.eng;2245
+7
+Remarks
+NIL
+VTCL
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 6
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1489.eng;567
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTCL
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTCL
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCN 48/R/C/X/
+2 | Taxiway width, surface and strength
+Width: 23 mM
+Surface: Asphaltic concrete
+Strength PCN 45/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 794 FTft (242.08 mM)
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTCL
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID sign: Marked
+TWY guide lines: Yes
+Nose-wheel guide lines at apron
+VDGS of aircraft stands: NIL, aircraft parking shall follow marshaller strictly.
+2
+RWY and TWY markings and LGT
+RWY markings: RWY Designation, THR, TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY markings: CL, Edge and RWY Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTCL
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+APCH RWY 18 /
+TKOF RWY 36
+Telecommunication mast
+882 FT (269 M)
+Painted red/white
+LGTD
+181719.7N
+0993003.6E
+AWOS 1
+838 FT (256 M)
+Painted red/white
+LGTD
+181557.5N
+0993019.4E
+NIL
+Building
+843 FT (257 M)
+NIL / NIL
+181701.7N
+0993008.0E
+AWOS 2
+841 FT (256 M)
+Painted red/white
+LGTD
+181557.4N
+0993019.3E
+LLZ
+800 FT (244 M)
+Painted red/white
+LGTD
+181651.7N
+0993012.5E
+Tree
+851 FT (259 M)
+NIL / NIL
+181628.2N
+0993017.8E
+Building
+817 FT (249 M)
+NIL / NIL
+181652.7N
+0993014.7E
+Tree
+863 FT (263 M)
+NIL / NIL
+181616.8N
+0993019.2E
+APCH RWY 36 /
+TKOF RWY 18 | High voltage pole
+1064 FT (324 M)
+NIL / NIL
+181301.1N
+0993020.2E
+Telecommunication mast
+985 FT (300 M)
+Painted red/white
+LGTD
+181701.1N
+0992924.3E
+Telecommunication mast
+976 FT (298 M)
+Painted red/white
+LGTD
+181816.7N
+0993105.1E
+Telecommunication mast
+971 FT (296 M)
+Painted red/white
+LGTD
+181432.3N
+0992918.4E
+Telecommunication mast
+1029 FT (314 M)
+Painted red/white
+LGTD
+181412.3N
+0992929.9E
+Radio mast
+1062 FT (324 M)
+Painted red/white
+LGTD
+181822.1N
+0992821.4E
+Radio mast
+983 FT (300 M)
+Painted red/white
+LGTD
+181506.9N
+0993050.3E
+Radio mast
+1187 FT (362 M)
+Painted red/white
+LGTD
+181530.6N
+0993239.6E
+Radio mast
+1172 FT (357 M)
+Painted red/white
+LGTD
+181529.0N
+0993242.5E
+Radio mast
+1002 FT (306 M)
+Painted red/white
+LGTD
+181752.9N
+0993108.1E
+Apron flood light pole
+881 FT (269 M)
+NIL / LGTD
+181641.2N
+0993019.4E
+Apron flood light pole
+883 FT (269 M)
+NIL / LGTD
+181639.5N
+0993019.6E
+Apron flood light pole
+884 FT (269 M)
+NIL / LGTD
+181637.9N
+0993019.7E
+Apron flood light pole
+884 FT (269 M)
+NIL / LGTD
+181636.3N
+0993019.8E
+Apron flood light pole
+883 FT (269 M)
+NIL / LGTD
+181634.7N
+0993020.0E
+High voltage pole
+1035 FT (315 M)
+NIL / NIL
+181329.5N
+0992923.9E
+High voltage pole
+1053 FT (321 M)
+Painted red/white
+LGTD
+181323.1N
+0992943.8E
+High voltage pole
+1119 FT (341 M)
+Painted red/white
+NIL
+181322.0N
+0993117.0E
+High voltage pole
+1096 FT (334 M)
+Painted red/white
+NIL
+181338.9N
+0993131.8E
+High voltage pole
+1138 FT (347 M)
+NIL / NIL
+181349.1N
+0993155.0E
+High voltage pole
+1207 FT (368 M)
+NIL / NIL
+181405.4N
+0993209.1E
+High voltage pole
+1251 FT (381 M)
+NIL / NIL
+181423.0N
+0993224.3E
+High voltage pole
+1267 FT (386 M)
+NIL / NIL
+181437.7N
+0993237.1E
+High voltage pole
+1291 FT (393 M)
+NIL / NIL
+181454.9N
+0993252.0E
+High voltage pole
+1328 FT (405 M)
+NIL / NIL
+181513.9N
+0993308.4E
+Telecommunication mast
+1862 FT (568 M)
+NIL / LGTD
+181500.9N
+0993335.4E
+Building
+938 FT (286 M)
+NIL / NIL
+181710.1N
+0993022.6E
+Building
+989 FT (301 M)
+NIL / NIL
+181356.3N
+0992908.8E
+Building
+1114 FT (339 M)
+NIL / NIL
+181526.6N
+0993246.8E
+Building
+1098 FT (335 M)
+NIL / NIL
+181526.9N
+0993241.3E
+VTCL
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Lampang,
+Northern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2300-1300
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Northern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2242.eng;832
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2243.eng;832
+Tel: +665 482 1517TSERVICE;Annotation:2244.eng;832
+Fax: +665 431 5788TSERVICE;Annotation:2245.eng;832
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2246.eng;832, U85TSERVICE;Annotation:2247.eng;832, Daily Weather ForecastTSERVICE;Annotation:2248.eng;832, satellite and radar imagesTSERVICE;Annotation:2249.eng;832
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS)
+9
+ATS units provided with information
+Lampang TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTCL
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+18
+175.44°
+1975x45
+PCN 45/F/C/X/
+Asphaltic concrete
+181641.85N
+0993012.82E-126 ft
+THR 792 ft
+36
+355.44°
+1975x45
+PCN 45/F/C/X/
+Asphaltic concrete
+181547.65N
+0993017.35E-126 ft
+THR 814 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA
+dimensions
+(m) | Location &
+description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+NIL
+NIL
+NIL
+2095x106 | 10x90
+NIL
+NIL
+THR displaced
+by 200 m southwards
+NIL
+NIL
+NIL
+2095x106 | 90x90
+NIL
+NIL
+THR displaced
+by 100 m northwards
+VTCL
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+18
+1975
+1975
+1975
+1775
+THR displaced
+by 200 m southwards
+36
+1965
+1965
+1965
+1865
+THR displaced by 100 m northwards
+VTCL
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+18
+NIL
+Green
+NIL
+PAPI
+Right 3°
+(45.02 ft)
+NIL
+NIL
+1975 m
+60 m
+FM 0 m - 200 m Red,
+FM 200 m - 1375 m
+White
+FM 1375 m - 1975 m
+Yellow,
+LIH
+Red
+NIL
+NIL
+RTIL
+36
+NIL
+Green
+NIL
+PAPI
+Left 3°
+(44.91 ft)
+NIL
+NIL
+1975 m
+60 m
+FM 0 m - 100 m Red,
+FM 100 m - 1375 m
+White
+FM 1375 m - 1975 m
+Yellow,
+LIH
+Red
+NIL
+NIL
+RTIL
+VTCL
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower buildingTAERO_GND_LGT;Annotation:1494.eng;516, FLG W G EV 3 SEC.TAERO_GND_LGT;Annotation:836.eng;516
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI: 1. Wind cone at 120 m from RWY End 36 off set to left side 80 m from RCL, illuminated
+2. Wind cone at 348 m from THR 36 off set to left side 80 m from RCL, illuminated.
+3
+TWY edge and centre line lighting
+TWY Edge: All TWY
+TWY Centre Line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Air Field Lighting (AFL) building.
+Switch-over time: 15 SECTAD_HP;Annotation:1496.eng;379
+5
+Remarks
+NIL
+VTCL
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTCL
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on LPN DVOR/DME
+(181636N 0993008E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+D
+4
+ATS unit call sign
+Language(s)
+Lampang Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTCL
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Lampang Approach
+119.3 MHz
+121.5 MHz 1)
+As AD OPR HR
+1)Emergency frequency
+Lampang Tower
+122.3 MHz
+236.6 MHz
+121.5 MHz 1)
+As AD OPR HR
+A
+Lampang Airport
+128.65 MHz | As AD OPR HR
+VTCL
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give VAR)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+LP
+395 KHZ | H24
+181640.8N
+0993026.9E
+Coverage 25 NM clockwise orbit data refer from commissioning checked as follows:
+Bearing 001°-360° at altitude
+5 500 ft
+DVOR/DME
+LPN
+114.7 MHZ
+CH94X
+H24
+181635.8N
+0993008.4E
+240 m (800 ft)
+DVOR/DME restriction due to Terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at required altitudes in various areas as follows:
+Radial 351°-070° beyond 40 NM should not below 6 000 ft
+Radial 071°-130° beyond 30 NM should not below 6 000 ft
+Radial 131°-320° beyond 40 NM should not below 6 000 ft
+Radial 321°-350° beyond 30 NM should not below 6 000 ft
+LOC 36
+I-LPN
+109.7 MHZ | H24
+181651.6N
+0993011.9E
+240 m (800 ft)
+LOC: Designated operation coverage 18 NM, ALT 7000 ft AMSL
+DME 36
+CH34X
+(109.7 MHZ)
+H24
+181651.8N
+0993014.4E
+DME: Paired with LOC Freq.
+GP: Not installation
+VTCL
+AD 2.20 LOCAL AERODROME REGULATIONS
+NIL
+VTCL
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTCL
+AD 2.22 FLIGHT PROCEDUREs
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute a visual departure:
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 18:
+LAMPANG OMNI 18 Departure: Required climb gradient 365 ft per NM (6.0%) until 6,000 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb 6.0% | (ft/min) | 395 | 456 | 608 | 911 | 1215 | 1519 | 1823
+No turn before DER.
+After departure climb straight ahead until 2,500 ft (or altitude assigned by ATC between 2,500 ft – 4,500 ft), then comply with
+ATC clearance issued (or as directed by ATC).
+- Runway 36:
+LAMPANG OMNI 36 Departure: Required climb gradient 383 ft per NM (6.3%) until 6,000 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb 6.3% | (ft/min) | 415 | 479 | 638 | 957 | 1276 | 1595 | 1914
+No turn before DER.
+After departure climb straight ahead until 2,500 ft (or altitude assigned by ATC between 2,500 ft – 4,500 ft), then comply with
+ATC clearance issued (or as directed by ATC).
+VTCL
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+- Bird concentrations in the vicinity of an aerodrome.
+Type of birds: Red-wattled, Starling, Coucals, Bat, Dove, Tailorbird, Heron and Martin.
+Bird weight: From 0.06 - 0.375 KG.
+Max. flock size: 15 birds.
+VTCL
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTCL-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTCL-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTCL-2-5
+Aerodrome Obstacle Chart - ICAO Type A - RWY 18/36
+AD 2-VTCL-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - IGNAX1D KABMU1D OMDIL1D OTBAD1D PANTA1D VENAG1D
+AD 2-VTCL-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - IGNAX1D KABMU1D OMDIL1D OTBAD1D PANTA1D VENAG1D (Tabular description)
+AD 2-VTCL-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - IGNAX1D KABMU1D OMDIL1D OTBAD1D PANTA1D VENAG1D (Waypoint list table)
+AD 2-VTCL-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - IGNAX1C KABMU1C OMDIL1C OTBAD1C VENAG1C
+AD 2-VTCL-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - IGNAX1C KABMU1C OMDIL1C OTBAD1C VENAG1C (Tabular description)
+AD 2-VTCL-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - IGNAX1C KABMU1C OMDIL1C OTBAD1C VENAG1C (Waypoint list table)
+AD 2-VTCL-6-7
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - IBIRI1B MEMAN1B OMDIL1B OTBAD1B VENAG1B
+AD 2-VTCL-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - IBIRI1B MEMAN1B OMDIL1B OTBAD1B VENAG1B (Tabular description)
+AD 2-VTCL-7-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 18 - IBIRI1B MEMAN1B OMDIL1B OTBAD1B VENAG1B (Waypoint list table)
+AD 2-VTCL-7-3
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - IBIRI1A IGNAX1A OMDIL1A VENAG1A
+AD 2-VTCL-7-5
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 36 - IBIRI1A IGNAX1A OMDIL1A VENAG1A
+(Tabular description)
+AD 2-VTCL-7-6
+Standard Arrival Chart - Instrument (STAR) - ICAO RNAV RWY 36 - IBIRI1A IGNAX1A OMDIL1A VENAG1A
+(Waypoint list table)
+AD 2-VTCL-7-7
+Instrument Approach Chart - ICAO - VOR RWY 18
+AD 2-VTCL-8-1
+Instrument Approach Chart - ICAO - VOR RWY 18 (Fix and point list table)
+AD 2-VTCL-8-2
+Instrument Approach Chart - ICAO - VOR RWY 36
+AD 2-VTCL-8-3
+Instrument Approach Chart - ICAO - VOR RWY 36 (Fix and point list table)
+AD 2-VTCL-8-4
+Instrument Approach Chart - ICAO - LOC y RWY 36
+AD 2-VTCL-8-5
+Instrument Approach Chart - ICAO - LOC y RWY 36 (Fix and point list table)
+AD 2-VTCL-8-6
+Instrument Approach Chart - ICAO - LOC z RWY 36
+AD 2-VTCL-8-7
+Instrument Approach Chart - ICAO - LOC z RWY 36 (Tabular description)
+AD 2-VTCL-8-8
+Instrument Approach Chart - ICAO - LOC z RWY 36 (Fix and point list table)
+AD 2-VTCL-8-9
+Instrument Approach Chart - ICAO - RNP RWY 18
+AD 2-VTCL-8-11
+Instrument Approach Chart - ICAO - RNP RWY 18 (Tabular description)
+AD 2-VTCL-8-12
+Instrument Approach Chart - ICAO - RNP RWY 18 (Waypoint list table)
+AD 2-VTCL-8-13
+Instrument Approach Chart - ICAO - RNP RWY 36
+AD 2-VTCL-8-15
+Instrument Approach Chart - ICAO - RNP RWY 36 (Tabular description)
+AD 2-VTCL-8-16
+Instrument Approach Chart - ICAO - RNP RWY 36 (Waypoint list table)
+AD 2-VTCL-8-17

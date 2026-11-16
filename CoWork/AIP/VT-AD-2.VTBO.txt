@@ -1,0 +1,618 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTBO
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTBO-en-GB.html
+VTBO
+— Trat/ Khao Sming
+VTBO
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTBO
+— Trat/ Khao Sming
+VTBO
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+121633N
+1021914E
+Centre line of RWY, 800 m From THR RWY 23
+2
+Direction and distance from (city)
+32 km , NW of city (Trat)
+3
+Elevation/Reference temperature
+109 ft (33 m)/30.8°C
+4 | Geoid Undulation at AD ELEV PSN
+-75 ft (-23 m)
+5
+MAG VAR/Annual change
+0°37' W(2025)/0°2' E/year
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Trat Airport
+Bangkok Airways Public Company Limited
+99 Moo 3 Tambon Tasom Khao Saming District
+Trat Thailand 23150
+Tel:
++663 952 5777
+Email:
+[email protected]
+URL: www.tratairport.com
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Bangkok Airways Public Company Limited
+VTBO
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1500
+2
+Customs and immigration
+NIL
+3
+Health and sanitation
+NIL
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+2300-1100 other this period 3 HR PN to ATC via
+AFS: VTBBZAZX
+Tel: +662 285 9695
+6
+MET Briefing Office
+NIL
+7
+ATS
+2300-1100 other this period 3 HR PN to ATC via
+AFS: VTBBZAZX
+Tel: +662 285 9695
+8
+Fuelling
+0100-1200 or available on Request
+9
+Handling
+0100-1200 or available on Request
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+NIL
+VTBO
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+JET A-1
+3
+Fuelling facilities/capacity
+Bangkok Aviation Fuel Service Public Co., Ltd. (BAFS)
+Regional Airport Manager
+Email:
+[email protected]
+Tel:
++669 4942 8778
+Trat Airport Station
+Email:
+[email protected]
+Tel:
++668 1863 8602
+Fuel Refueller Truck: 1, Capacity: 8,000 L
+Fuel Tank Capacity: 25,000 L
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+The airport has provided ground handling agent as following:
+Bangkok Airways Ground Services Co., Ltd. (PGGS)
+Ground Handling Inquiry
+Email:
+[email protected]
+Tel:
++667 742 8500 Ext. 31381
+Tel:
++666 3079 6696
+BAGS Ground Services Co., Ltd.
+Email:
+[email protected]
+Tel:
++666 1405 8296
+VTBO
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1000.eng;618
+2
+Restaurants
+At the AD and in the cityTPASSENGER_FACILITY;Annotation:1001.eng;619
+3
+Transportation
+LimousinesTPASSENGER_FACILITY;Annotation:1002.eng;620
+4
+Medical facilities
+First AID at airportTPASSENGER_FACILITY;Annotation:1005.eng;621
+5
+Bank and Post Office
+In the cityTPASSENGER_FACILITY;Annotation:1006.eng;622
+6
+Tourist Office
+Office in Amphoe Lame NgopTPASSENGER_FACILITY;Annotation:1853.eng;844
+7
+Remarks
+NIL
+VTBO
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 5
+2
+Rescue equipment
+AVBL at Fire Fighting Truck (Foam 600 L., Water 5400 L.) and Water Truck 15000 L.TAD_HP_GND_SER;Annotation:1854.eng;540
+3
+Capability for removal of disabled aircraft
+Available up to ATR72TAD_HP_GND_SER;Annotation:4324.eng;540
+4
+Remarks
+No removal equipment available at airport.
+For removal of disabled aircraft by contracted external resource,
+please contact aerodrome coordinator:
+- Supervisor Airport Rescue and Fire Fighting
+Tel: +663 952 5777 Ext. 3464TAD_HP_GND_SER;Annotation:1855.eng;540
+VTBO
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons
+VTBO
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
+1 | Apron surface and strength | N/A
+2 | Taxiway width, surface and strength | N/A
+3
+Altimeter checkpoint location and elevation
+Location: At THR RWY 23
+Elevation: 65 ft (20 m)TALTIMETER_SOURCE;Annotation:4361.eng;2041
+4
+VOR checkpoints
+N/A
+5
+INS checkpoints
+N/A
+6
+Remarks
+ACFT parking on RWY
+VTBO
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+N/A
+2
+RWY and TWY markings and LGT
+RWY : Marking and lighting
+3
+Stop bars
+N/A
+4
+Remarks
+No TWY
+VTBO
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+NIL
+Hill 210 m (690 ft)
+121608N
+1021805E
+NIL
+Hill 206 m (676 ft)
+121533N
+1021909E
+Hill 102.46 m (340 ft)
+121601N
+1021845E
+VTBO
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Trat,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2200-1100
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Aeronautical Meteorology Division
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+NIL
+NIL
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2494.eng;814
+Tel: +663 952 5777 ext. 3433TSERVICE;Annotation:2495.eng;814
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+NIL
+8
+Supplementary equipment available for
+providing information
+BarometerTSERVICE;Annotation:2496.eng;814, AnemometerTSERVICE;Annotation:2497.eng;814 and Thermometer ScreenTSERVICE;Annotation:2498.eng;814
+9
+ATS units provided with information
+Trat TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTBO
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+05
+051.28°
+1800x45
+PCR 420/F/B/X/
+Concrete and asphalt
+121612.64N
+1021848.49E
+-75 ft (-23 m)
+109 ft (33 m)
+23
+231.28°
+1800x45
+PCR 420/F/B/X/
+Concrete and asphalt
+121649.29N
+1021934.96E
+-75 ft (-23 m)
+65 ft (20 m)
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12
+-0.80%-0.40%
+(1550, 250)TRWY_DIRECTION;Annotation:488.eng;433
+NIL
+60x150
+1920x150
+NIL
+NIL
++0.40%+0.80%
+(250, 1550)TRWY_DIRECTION;Annotation:489.eng;434
+NIL
+60x150
+1920x150
+NIL
+NIL
+VTBO
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+05
+1800
+1860
+1800
+1800
+NIL
+23
+1800
+1860
+1800
+1800
+NIL
+VTBO
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+05
+NIL
+Green
+PAPI
+LEF 4°
+NIL
+NIL
+1800 m,
+60 m
+White;
+FM
+1200 m - 1800 m
+Yellow;
+LIH
+Red
+NIL
+NIL
+23
+NIL
+Green
+PAPI
+LEF 3°
+NIL
+NIL
+1800 m,
+60 m
+White;
+FM
+1200 m - 1800 m
+Yellow;
+LIH
+Red
+NIL
+NIL
+VTBO
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: On top of Control TowerTAERO_GND_LGT;Annotation:1861.eng;589. FLG WG EV 3 SECTAERO_GND_LGT;Annotation:1862.eng;589,
+HR of OPS as ATS OPR HR
+2
+LDI location and LGT
+Anemometer location and LGT
+1 WDI Left side, 315 m from THR RWY 23 and 92 m from RCL, illuminated TAD_HP;Annotation:1868.eng;475
+1 WDI right side, 619 m from THR RWY 23 and 88 m from RCL, illuminated TAD_HP;Annotation:1869.eng;475
+3
+TWY edge and centre line lighting
+NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Air Field Lighting (AFL), STBY power switch-overtime 15 SECTAD_HP;Annotation:1867.eng;475
+5
+Remarks
+NIL
+VTBO
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTBO
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A Circle of 5 nm radius centred on Trat NDB (121628.1N 1021850.1E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+D
+4
+ATS unit call sign
+Language(s)
+Trat Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTBO
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Trat Approach
+120.25 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Trat Tower
+122.9 MHz
+121.5 MHz)
+23:00-11:00
+VTBO
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+384 KHz
+H24
+121628.1N
+1021850.1E
+-
+NDB restriction, due to mountainous terrain surround NDB station, coverage check does not provide adequate signal clockwise 50 nm orbit at altitude in various areas as follows:
+- Bearing 001º-145º unable to performed due to border limited.
+- Bearing 146º-320º altitude should not below 5 000 ft
+- Bearing 321º-360º altitude should not below 8 000 ft
+DME
+Tx. 997 MHz
+Rx.1060 MHz
+CH36X
+(109.9 MHz)
+H24
+121635.2N
+1021908.7E
+60 m
+(200 ft)
+DME restriction, due to mountainous terrain surround DME station, coverage check does not provide adequate signal clockwise orbit at required altitude and distance in various areas as follows:
+1. 25 nm orbit
+- Radial 006º-020º altitude should not below 2 000 ft
+- Radial 121º-150º altitude should not below 14 000 ft
+- Radial 151º-190º altitude should not below 10 000 ft
+- Radial 191º-005º altitude should not below 7 000 ft
+2. 20 nm orbit (Due to border limited)
+- Radial 021º-090º altitude should not below 2 000 ft
+- Radial 091º-120º altitude should not below 5 000 ft
+VTBO
+AD 2.20 LOCAL AERODROME REGULATIONS
+- If an aircraft is parking on RWY, using the RWY is totally prohibited for another aircraft.
+VTBO
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTBO
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 05:
+TRAT OMNI 05 Departure: Required climb gradient 201 ft per NM (3.3%) until 4,100 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb3.3% | (ft/min) | 217 | 251 | 334 | 501 | 668 | 835 | 1003
+No turn before DER.
+After departure climb straight ahead until 1,200 ft (or altitude assigned by ATC between 1,200 ft - 3,500 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTBO
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+1.1 Bird concentrations in the vicinity of Trat Airport
+There have been observed and monitored on resident and migratory birds appear on or in vicinity of Trat Airport twice a year in rainy season (May – August) and winter season (November – February). The resident birds appear throughout the year, and their populations may fluctuate upon variety of factors. The migratory season is during September – March.
+Resident species with potential hazard to aircraft are as follows:
+Species | Size (cm) | Precautions | Warning Period
+Brahminy Kite | 38 – 52 cm | In Vicinity | All year
+(mostly in December – April)
+Red-wattled Lapwing | 32 – 35 cm | Grass Areas | All year
+(mostly in May – September)
+Edible-nest Swiftlet | 11.5 – 12.5 cm | In Vicinity | All year
+(mostly in January – May)
+Migratory species with potential hazard to aircraft are as follows:
+Species | Size (cm) | Precautions | Warning Period
+Oriental Pratincole | 23 – 25 cm | On Runway | February – August
+Little Ringed Plover | 14 – 17 cm | On Runway | July – February
+Note:
+“Size” is the length from the tip of the bill to the tip of the tail
+“Precautions” are any alerting information or hotspots for the species based on their behaviors and preferences relating to the attractions and environmental characteristics around the aerodrome.
+“Period” is the period of warning (NOT period of present) based on the abundances and accumulations of each species, representing the peak months which may yield high risk of bird strike.
+1.2 Bird hotspot in vicinity of Trat Airport
+Primary wildlife hazard for Trat Airport is the Brahminy Kites inhabited in estuary and riverine ecosystems along Welu River and Trat River between Chantaburi and Trat provinces, 13 – 30 km radius from ARP. Their overpopulation has been inflated by due to feeding as tourist attractions benefiting several local businesses for more than 20 years.
+On-airport preventive measures are to apply deterrent techniques and physical barriers such as wiring or netting over a freshwater reservoir. Trat Airport has been promoting multidisciplinary involvement with local stakeholders via the annual meetings of the Aerodrome Hazard Management Local Committee as the long term mitigations reduce their populations.
+1.3 Wildlife hazard management
+Trat Airport implements measures under habitat management program to reduce bird populations and the attractiveness on grassland, waterbodies, or potential breeding or roosting areas.
+VTBO
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTBO-2-1
+Instrument Approach Chart - ICAO - RNP RWY 23
+AD 2-VTBO-8-1
+Instrument Approach Chart - ICAO - RNP RWY 23 (Tabular description)
+AD 2-VTBO-8-2

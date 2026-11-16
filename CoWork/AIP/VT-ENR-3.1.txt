@@ -1,0 +1,7796 @@
+# AIP Thailand AIRAC 2026-10-29 VT-ENR-3.1
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-3.1-en-GB.html
+ENR 3 ATS ROUTES
+ENR 3.1 LOWER AND UPPER ATS ROUTES
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional system will be applied for a portion between BKK DVOR/DME and UBL DVOR/DME as follows:
+- ATS route A1 will apply for eastbound traffic only
+- Westbound traffic shall filed flight plan via W1 after UBL
+- The available for westbound traffic on A1 or direct route will be subject to prior approval from ATC
+A1
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+071°
+251°
+51.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+▲
+ROBKA
+141043N
+1012508E
+071°
+251°
+29.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+▲
+SELKA
+142020N
+1015311E
+071°
+251°
+54.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+▲
+143808N
+1024538E
+072°
+252°
+41.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+∆
+SANO
+145134N
+1032548E
+075°
+255°
+22.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+▲
+PASA
+145727N
+1034726E
+076°
+256°
+35.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+▲
+VENPO
+150645N
+1042202E
+076°
+256°
+30.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+077°
+257°
+30.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PO
+152153N
+1052206E
+077°
+257°
+14.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+BU
+152506N
+1053546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Pilot may expect ATC instructionto avoid VT D64, VT D54, VTD44 and VT D30
+(*) For width of airways, see ENR 2.1-1
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+A202
+Route availability:
+(1) H24
+▲
+RAMEI
+150240N
+1030040E
+049°
+229°
+91.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+13 000
+ft/FL 125
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+GUROK
+160329N
+1041106E
+049°
+229°
+19.0
+NM
+FL
+460
+12 500
+ft
+/FL 125
+13 000
+ft/FL 125
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OKENA
+161608N
+1042533E
+048°
+228°
+26.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲ | unknown reference: NAV-DVORDME-SAV
+163342N
+1044556E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Point/Segment Remarks:
+(2) For continuation, see AIP Malaysia.
+A334
+Route availability:
+(1) H24
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+112°
+292°
+25.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+064641N
+1004645E
+112°
+292°
+83.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PASVA
+061529N
+1020431E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+A457
+Route availability:
+(1) H24
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+178°
+358°
+24.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Even(1) | Odd(1)
+[Class A]
+▲
+063208N
+1002407E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+A464
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+163°
+343°
+38.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+ENBA
+180941N
+0991004E
+163°
+343°
+42.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+∆
+172916N
+0992358E
+163°
+343°
+71.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BEKOD
+162117N
+0994636E
+163°
+343°
+91.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+SEMBO
+145359N
+1001548E
+163°
+343°
+63.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+182°
+002°
+32.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+∆
+POLAK
+132106N
+1003454E
+181°
+001°
+33.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+GU
+124820N
+1003454E
+181°
+001°
+48.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+REGOS
+120007N
+1003454E
+182°
+002°
+60.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+∆
+DIRAX
+110007N
+1003248E
+183°
+003°
+40.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+101948N
+1003108E
+183°
+003°
+37.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+UPNEP
+094213N
+1002936E
+182°
+002°
+40.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+APOBI
+090147N
+1002814E
+182°
+002°
+12.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+GUPMO
+085012N
+1002750E
+182°
+002°
+46.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+RELIP
+080432N
+1002619E
+183°
+003°
+33.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PIMER
+073045N
+1002449E
+183°
+003°
+35.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+163°
+343°
+27.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+KARMI
+062940N
+1003121E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Point/Segment Remarks:
+(2) For continuation, see AIP Republic of the Union of Myanmar.
+A581
+Route availability:
+(1) H24
+▲
+BOMAS
+172305N
+0980549E
+(2)
+082°
+262°
+35.0
+NM
+FL
+460
+10 500
+ft
+FL
+110
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+BIGVO
+172830N
+0984154E
+012°
+192°
+41.0
+NM
+FL
+460
+10 500
+ft
+FL
+110
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PUMAM
+180831N
+0985001E
+012°
+192°
+38.0
+NM
+FL
+460
+10 500
+ft
+FL
+110
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+038°
+218°
+25.0
+NM
+FL
+350
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ADLUS
+190610N
+0991320E
+038°
+218°
+33.0
+NM
+FL
+350
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NUMDO
+193243N
+0993402E
+038°
+218°
+30.0
+NM
+FL
+350
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+CHIANG RAI
+DVOR/DME (
+C
+)
+195656N
+0995259E
+053°
+233°
+36.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PONUK
+201858N
+1002306E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+B202
+Route availability:
+(1) H24
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+094°
+274°
+51.0
+NM
+FL
+460
+FL
+260
+FL
+270
+(*) | Odd(1) | Even(1)
+[Class A]
+▲ | unknown reference: NAV-VORDME-PAK
+151148N
+1054417E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+B204
+Route availability:
+(1) H24
+▲
+GOMES
+132406N
+1013506E
+090°
+270°
+45.0
+NM
+FL
+460
+FL
+135
+FL
+140
+(*) | Odd(1)
+[Class A]
+▲
+AGEDO
+132419N
+1022139E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+B205
+Route availability:
+(1) H24
+▲
+RAYONG
+DVOR/DME (
+RYN
+)
+124643N
+1014035E
+078°
+258°
+33.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OLDIR
+125401N
+1021325E
+078°
+258°
+16.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+BOKAK
+125736N
+1022947E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+B218
+Route availability:
+(1) H24
+▲ | unknown reference: NAV-DVORDME-VTN
+180037N
+1023226E
+236°
+056°
+38.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Even(1) | Odd(1)
+[Class A]
+▲
+NOGAD
+173834N
+1020021E
+236°
+056°
+20.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+20
+Even(1) | Odd(1)
+[Class A]
+▲
+LOEI
+DVOR/DME (
+LOY
+)
+172649N
+1014323E
+164°
+344°
+20.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BOVGO
+170740N
+1014935E
+164°
+344°
+31.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR)
+availability:
+Portion between NOBER-PCB
+CDR1
+1. Weekdays, Monday to Friday
+1700 - 2200 UTC
+2. From Friday 1700 UTC to
+Sunday 2200 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use
+plan (AUP) published in
+www.thaicmac.aerothai.aero
+Point/Segment Remarks:
+(2)
+B346
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+(2)
+004°
+184°
+83.0
+NM
+FL
+460
+10 000
+ft
+11 000
+ft/FL 110
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+NOBER
+151636N
+1004006E
+021°
+201°
+89.0
+NM
+FL
+460
+10 000
+ft
+11 000
+ft/FL 110
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PHE
+DVOR/DME (
+PCB
+)
+164034N
+1011148E
+017°
+197°
+28.0
+NM
+FL
+460
+10 000
+ft
+11 000
+ft/FL 110
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+UDIKU
+170735N
+1011952E
+017°
+197°
+10.0
+NM
+FL
+460
+10 000
+ft
+11 000
+ft/FL 110
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+OMGIV
+171709N
+1012243E
+017°
+197°
+28.0
+NM
+FL
+460
+10 000
+ft
+11 000
+ft/FL 110
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+YAKUA
+174415N
+1013052E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR)
+Availability;
+Portion between KRT-ROT
+CDR1
+1. Weekdays, Monday to Friday
+1000-2300 UTC
+2. From Friday 1000 UTC to Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other periods, Availability will be
+Notified by Airspace use plan
+(AUP) Published in
+www.thaicmac.aerothai.aero
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+B460
+Route availability:
+(1) H24
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+054°
+234°
+89.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BODUR
+154853N
+1032127E
+054°
+234°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+066°
+246°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+RURAR
+161943N
+1041436E
+066°
+246°
+33.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲ | unknown reference: NAV-DVORDME-SAV
+163342N
+1044556E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+B579
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+141°
+321°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+REBED
+074332N
+0983736E
+141°
+321°
+20.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+NU
+072803N
+0985020E
+141°
+321°
+77.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+DALAN
+062808N
+0993920E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+G331
+Route availability:
+(1) H24
+▲
+PADE
+100007N
+0981719E
+180°
+000°
+53.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+DADSA
+090713N
+0981749E
+180°
+000°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SUSID
+083659N
+0981808E
+180°
+000°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+G458
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+197°
+017°
+44.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+MO
+131110N
+1002306E
+197°
+017°
+12.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+HO
+130006N
+1001948E
+198°
+018°
+61.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+UKERA
+120207N
+1000110E
+196°
+016°
+56.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+MENEX
+110831N
+0994543E
+197°
+017°
+9.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+APRIL
+110007N
+0994307E
+198°
+018°
+92.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+IKERA
+093146N
+0991532E
+198°
+018°
+25.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+SURAT
+DVOR/DME (
+S
+)
+090746N
+0990805E
+220°
+040°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+LAMUL
+084818N
+0985208E
+219°
+039°
+23.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+SAVSA
+083016N
+0983729E
+220°
+040°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+G463
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+298°
+118°
+70.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+142620N
+0993129E
+298°
+118°
+86.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+BE
+150554N
+0981231E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see
+ENR 2.1-1.
+G473
+Route availability:
+(1) H24
+▲
+MAKAS
+164947N
+0982949E
+093°
+273°
+103.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+096°
+276°
+98.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+118°
+298°
+172.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+VESUD
+152108N
+1043854E
+118°
+298°
+4.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OBKIB
+151913N
+1044249E
+118°
+298°
+3.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SAGAL
+151757N
+1044522E
+118°
+298°
+7.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+Point/Segment Remarks:
+(2) For continuation, see AIP Kingdom of Cambodia.
+G474
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+092°
+272°
+51.0
+NM
+FL
+460
+10 500
+ft
+11 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ANKOS
+135300N
+1012742E
+092°
+272°
+22.0
+NM
+FL
+460
+FL
+145
+FL
+150
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+DOSBU
+135240N
+1015002E
+092°
+272°
+28.0
+NM
+FL
+460
+FL
+145
+FL
+150
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ANREN
+135212N
+1021838E
+092°
+272°
+27.0
+NM
+FL
+460
+FL
+145
+FL
+150
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OMURO
+135143N
+1024559E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Excluding area of VTP7
+R201
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+163°
+343°
+77.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+U-
+DVOR/DME (
+BU
+)
+124000N
+1010002E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+R202
+Route availability:
+(1) H24
+▲
+BIGVO
+172830N
+0984154E
+066°
+246°
+93.0
+NM
+FL
+460
+12 500 ft/FL
+FL
+130
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PHRAE
+DVOR/DME (
+PAE
+)
+180803N
+1000958E
+042°
+222°
+20.0
+NM
+FL
+460
+12 500 ft/FL
+FL
+130
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SUNGO
+182312N
+1002346E
+042°
+222°
+34.0
+NM
+FL
+460
+12 500 ft/FL
+FL
+130
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+R203
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+268°
+088°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+UBNEN
+080520N
+0974812E
+268°
+088°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+SAPAM
+080434N
+0973300E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+R207
+Route availability:
+(1) H24
+▲
+SISUK
+194804N
+0980243E
+141°
+321°
+46.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+MACHI
+191306N
+0983346E
+141°
+321°
+10.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+LAMUN
+190513N
+0984044E
+141°
+321°
+25.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+090°
+270°
+38.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+MONLO
+184702N
+0993743E
+090°
+270°
+25.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+∆
+IKISU
+184739N
+1000349E
+090°
+270°
+9.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+∆
+CRIS
+184752N
+1001334E
+090°
+270°
+32.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+117°
+297°
+27.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+ANBOK
+183635N
+1011248E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+R215
+Route availability:
+(1) H24
+▲
+CHIANG RAI
+DVOR/DME (
+C
+)
+195656N
+0995259E
+144°
+324°
+30.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+DUBEN
+193249N
+1001207E
+144°
+324°
+55.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+052°
+232°
+35.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+191105N
+1011548E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+R325
+Route availability:
+(1) H24
+▲
+IKULA
+100007N
+0972114E
+154°
+334°
+66.0
+NM
+FL
+460
+9 000
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+MUDMA
+090050N
+0975115E
+154°
+334°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UPSAB
+083348N
+0980452E
+154°
+334°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+134°
+314°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+URGAD
+074615N
+0984031E
+133°
+313°
+5.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OSVIP
+074253N
+0984409E
+134°
+314°
+62.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+U
+070008N
+0992949E
+132°
+312°
+51.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+DUBAX
+062556N
+1000737E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+R334
+Route availability:
+(1) H24
+▲
+RAYONG
+DVOR/DME (
+RYN
+)
+124643N
+1014035E
+133°
+313°
+103.0
+NM
+FL
+460
+FL
+165
+FL
+170
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+SAKDA
+113654N
+1030000E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+R345
+Route availability:
+(1) H24
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+180°
+000°
+58.0
+NM
+FL
+460
+FL
+215
+FL
+220
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+GRASO
+150917N
+1034714E
+180°
+000°
+12.0
+NM
+FL
+460
+FL
+215
+FL
+220
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PASA
+145727N
+1034726E
+180°
+000°
+9.0
+NM
+FL
+460
+FL
+215
+FL
+220
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PEKBA
+144808N
+1034733E
+180°
+000°
+26.0
+NM
+FL
+460
+FL
+215
+FL
+220
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+BIDEM
+142154N
+1034750E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+Point/Segment Remarks:
+(2) For continuation, see AIP Kingdom of Cambodia.
+R468
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+118°
+298°
+18.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+UGIPA
+134524N
+1005221E
+118°
+298°
+32.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+GORSI
+133055N
+1012128E
+118°
+298°
+15.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+GOMES
+132406N
+1013506E
+117°
+297°
+23.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+BERLU
+131350N
+1015620E
+117°
+297°
+36.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+BOKAK
+125736N
+1022947E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+R470
+Route availability:
+(1) H24
+▲ | unknown reference: NAV-DVORDME-VTN
+180037N
+1023226E
+(2)
+162°
+342°
+15.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ELNE
+174625N
+1023746E
+162°
+342°
+25.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+144°
+324°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+POVEX
+165905N
+1030530E
+144°
+324°
+35.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+DO
+163103N
+1032732E
+144°
+324°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+EN
+154755N
+1041024E
+131°
+311°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ENLEP
+153353N
+1042800E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+Conditional Route (CDR)
+availability:
+Portion between 7,000 ft to FL350
+CDR1
+1.Weekdays,Monday to Friday
+0900-0100 UTC.
+2. Friday 0900 UTC to Monday 0100 UTC
+3.Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+Point/Segment Remarks:
+(2) For continuation, see AIP Lao People's Democratic Republic.
+R474
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+027°
+207°
+57.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ALBOS
+144442N
+1010142E
+027°
+207°
+126.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+022°
+202°
+78.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+LEDER
+175044N
+1022825E
+022°
+202°
+11.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲ | unknown reference: NAV-DVORDME-VTN
+180037N
+1023226E
+(2)
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+R575
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+069°
+249°
+30.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ONE
+081757N
+0984633E
+069°
+249°
+45.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+RECNO
+083425N
+0992825E
+031°
+211°
+38.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+MESEM
+090719N
+0994816E
+032°
+212°
+30.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+071°
+251°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+∆
+VININ
+093754N
+1001740E
+070°
+250°
+13.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+UPNEP
+094213N
+1002936E
+051°
+231°
+48.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+EMELA
+101249N
+1010729E
+053°
+233°
+15.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ANBUX
+102137N
+1011908E
+053°
+233°
+40.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ALUMO
+104554N
+1015123E
+053°
+233°
+29.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+ANOBO
+110323N
+1021442E
+054°
+234°
+56.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SAKDA
+113654N
+1030000E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+R588
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+092°
+272°
+30.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+EMRI
+080621N
+0984840E
+090°
+270°
+10.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+KRABI
+DVOR/DME (
+KBI
+)
+080627N
+0985839E
+092°
+272°
+87.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+RELIP
+080432N
+1002619E
+052°
+232°
+37.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+IDRUK
+082724N
+1005513E
+052°
+232°
+12.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+SUPIN
+083435N
+1010419E
+052°
+232°
+32.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+MUBAN
+085441N
+1012952E
+052°
+232°
+6.0 NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OSROG
+085820N
+1013431E
+052°
+232°
+31.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+091736N
+1015907E
+052°
+232°
+28.0
+NM
+FL
+460
+FL
+155
+FL
+160
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+BASI
+093447N
+1022108E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W1
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+044°
+224°
+51.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+MALKI
+143111N
+1011153E
+067°
+247°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+UBLOD
+143715N
+1012612E
+067°
+247°
+45.0
+NM
+FL
+460
+12 500
+ft
+/FL125
+13 000
+ft/ FL130
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+082°
+262°
+51.0
+NM
+FL
+460
+12 500
+ft
+/FL125
+13 000
+ft/ FL130
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+RAMEI
+150240N
+1030040E
+082°
+262°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+∆
+RAMBU
+150554N
+1032319E
+082°
+262°
+23.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+GRASO
+150917N
+1034714E
+086°
+266°
+33.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ASABO
+151209N
+1042102E
+086°
+266°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W4
+Route availability:
+(1) H24
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+144°
+324°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+POVEX
+165905N
+1030530E
+144°
+324°
+35.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+DO
+163103N
+1032732E
+144°
+324°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+EN
+154755N
+1041024E
+131°
+311°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ENLEP
+153353N
+1042800E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W5
+Route availability:
+(1) H24
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+180°
+000°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ANPUS
+165800N
+1024651E
+180°
+000°
+5.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ALGI
+165300N
+1024655E
+180°
+000°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+KHON KAEN
+DVOR/DME (
+KKN
+)
+162815N
+1024717E
+112°
+292°
+31.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SEDNO
+161733N
+1031707E
+112°
+292°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+EN
+154755N
+1041024E
+131°
+311°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ENLEP
+153353N
+1042800E
+131°
+311°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UBON
+DVOR/DME (
+UBL
+)
+151443N
+1045157E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W6
+Route availability:
+(1) H24
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+023°
+203°
+70.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+EMRU
+160020N
+1023533E
+023°
+203°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+KHON KAEN
+DVOR/DME (
+KKN
+)
+162815N
+1024717E
+061°
+241°
+24.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+AKRE
+164016N
+1030856E
+061°
+242°
+65.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SAKON NAKHON
+DVOR/DME (
+SKN
+)
+171251N
+1040812E
+071°
+252°
+31.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+NAKHON PHANOM
+DVOR/DME (
+NKP
+)
+172318N
+1043818E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W7
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+192°
+012°
+38.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+(*)
+Even(1) | Odd(1)
+[Class A]
+▲
+PUMAM
+180831N
+0985001E
+192°
+012°
+41.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+(*)
+Even(1) | Odd(1)
+[Class A]
+▲
+BIGVO
+172830N
+0984154E
+192°
+012°
+25.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+(*)
+Even(1) | Odd(1)
+[Class A]
+▲
+VEGRA
+170333N
+0983653E
+192°
+012°
+22.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+(*)
+Even(1) | Odd(1)
+[Class A]
+▲
+MAE SO
+DVOR/DME (
+MS
+)
+164152N
+0983230E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+For Military use only
+(*) For width of airways, see ENR 2.1-1.
+W8
+Route availability:
+(1) H24
+▲
+NDB (
+)
+151633N
+1001751E
+102°
+282°
+109.0
+NM
+FL
+460
+6 500 ft
+7 000 ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+KHORA
+DVOR/DME (
+KR
+)
+145502N
+1020823E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Excluding restricted area VTR5.
+(*) For width of airways, see ENR 2.1-1.
+W9
+Route availability:
+(1) H24
+▲
+MAE HONG SON
+DVOR/DME (
+MHS
+)
+191911N
+0975444E
+120°
+300°
+30.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BOKIB
+190434N
+0982225E
+120°
+300°
+13.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+VISES
+185811N
+0983438E
+120°
+300°
+25.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+148°
+328°
+38.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PAN
+181351N
+0991917E
+148°
+328°
+26.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+IGNAX
+175144N
+0993339E
+148°
+328°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+∆
+SARIM
+173030N
+0994737E
+148°
+328°
+23.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PIBIK
+171130N
+1000028E
+148°
+328°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+181°
+001°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PEBLI
+161606N
+1001736E
+181°
+001°
+59.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BLAFF
+151633N
+1001751E
+169°
+349°
+84.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+For Military use only.
+(*) For width of airways, see ENR 2.1-1.
+W10
+Route availability:
+(1) H24
+▲
+KAMPHAENG SAEN
+DVOR/DME (
+KPS
+)
+140956N
+0995715E
+001°
+181°
+40.0
+NM
+FL
+260
+5 500
+ft
+6 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+VU
+145007N
+0995725E
+037°
+218°
+33.0
+NM
+FL
+260
+5 500
+ft
+6 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+NDB (
+)
+151633N
+1001751E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W12
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+090°
+270°
+38.0
+NM
+FL
+460
+7 000
+ft
+8 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+MONLO
+184702N
+0993743E
+090°
+270°
+25.0
+NM
+FL
+460
+7 000
+ft
+8 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+IKISU
+184739N
+1000349E
+090°
+270°
+9.0
+NM
+FL
+460
+7 000
+ft
+8 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+CRIS
+184752N
+1001334E
+090°
+270°
+32.0
+NM
+FL
+460
+7 000
+ft
+8 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W13
+Route availability:
+(1) H24
+▲
+LAMPANG
+DVOR/DME (
+LPN
+)
+181636N
+0993008E
+104°
+284°
+25.0
+NM
+FL
+460
+6 000
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OMDIL
+181107N
+0995546E
+104°
+284°
+14.0
+NM
+FL
+460
+6 000
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+PHRAE
+DVOR/DME (
+PAE
+)
+180803N
+1000958E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W14
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+115°
+295°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+EPGO
+075416N
+0984555E
+115°
+295°
+57.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+DVOR/DME (
+)
+073032N
+0993734E
+128°
+308°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PADPA
+071700N
+0995532E
+128°
+308°
+35.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W15
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+120°
+300°
+23.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+MEMAN
+183452N
+0991859E
+120°
+300°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+KABMU
+182739N
+0993247E
+120°
+300°
+26.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+O
+181514N
+0995622E
+120°
+300°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+PHRAE
+DVOR/DME (
+PAE
+)
+180803N
+1000958E
+138°
+318°
+65.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+PANKU
+172035N
+1005606E
+083°
+263°
+16.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+BARCE
+172245N
+1011219E
+083°
+264°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+LOEI
+DVOR/DME (
+LOY
+)
+172649N
+1014323E
+095°
+275°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SWENI
+172555N
+1015903E
+095°
+275°
+16.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ESGIB
+172458N
+1021514E
+095°
+275°
+30.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+099°
+279°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+GULNO
+171915N
+1031735E
+099°
+279°
+49.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SAKON NAKHON
+DVOR/DME (
+SKN
+)
+171251N
+1040812E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W16
+Route availability:
+(1) H24
+∆
+PANKU
+172035N
+1005606E
+126°
+306°
+74.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+103°
+283°
+27.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ONUVI
+163228N
+1022655E
+103°
+283°
+20.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+KHON KAEN
+DVOR/DME (
+KKN
+)
+162815N
+1024717E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W17
+Route availability:
+(1) H24
+▲
+RANONG
+DVOR/DME (
+RAN
+)
+094641N
+0983501E
+140°
+320°
+26.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+092659N
+0985148E
+141°
+321°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SURAT
+DVOR/DME (
+S
+)
+090746N
+0990805E
+151°
+331°
+27.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+EMVEL
+084438N
+0992122E
+151°
+331°
+90.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ELREM
+072616N
+1000607E
+151°
+331°
+35.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W19
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+182°
+002°
+32.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+POLAK
+132106N
+1003454E
+181°
+001°
+33.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+GU
+124820N
+1003454E
+181°
+001°
+48.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+REGOS
+120007N
+1003454E
+183°
+003°
+60.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+DIRAX
+110007N
+1003248E
+183°
+003°
+40.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+101948N
+1003108E
+183°
+003°
+37.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+UPNEP
+094213N
+1002936E
+162°
+342°
+17.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ROBDA
+092558N
+1003511E
+162°
+342°
+62.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+IDRUK
+082724N
+1005513E
+162°
+342°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+∆
+ADNEP
+080344N
+1010318E
+156°
+336°
+75.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+NUBKA
+065434N
+1013426E
+156°
+336°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+;;
+NARA
+DVOR/DME (NTW)
+063138N
+1014442E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W20
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+038°
+218°
+25.0
+NM
+FL
+350
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ADLUS
+190610N
+0991320E
+038°
+218°
+33.0
+NM
+FL
+350
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NUMDO
+193243N
+0993402E
+038°
+218°
+30.0
+NM
+FL
+350
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+CHIANG RAI
+DVOR/DME (
+C
+)
+195656N
+0995259E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W21
+Route availability:
+(1) H24
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+004°
+184°
+83.0
+NM
+FL
+460
+10 000
+ft
+11 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NOBER
+151636N
+1004006E
+044°
+224°
+111.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+046°
+227°
+34.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SURGU
+170158N
+1022408E
+047°
+227°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+UDON
+DVOR/DME (
+UDN
+)
+172305N
+1024630E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W22
+Route availability:
+(1) H24
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+356°
+176°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+NIROP
+171614N
+1001444E
+356°
+176°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+IDKOR
+173810N
+1001243E
+356°
+176°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+PHRAE
+DVOR/DME (
+PAE
+)
+180803N
+1000958E
+353°
+173°
+40.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+∆
+IKISU
+184739N
+1000349E
+353°
+173°
+40.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+BENVI
+192707N
+0995741E
+353°
+173°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+CHIANG RAI
+DVOR/DME (
+C
+)
+195656N
+0995259E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W23
+Route availability:
+(1) H24
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+334°
+154°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+POLOB
+171309N
+1000328E
+334°
+154°
+37.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+∆
+PIVU
+174644N
+0994553E
+334°
+154°
+8.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+VENAG
+175411N
+0994158E
+334°
+154°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Even(1) | Odd(1)
+[Class A]
+▲
+LAMPANG
+DVOR/DME (
+LPN
+)
+181636N
+0993008E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W24
+Route availability:
+(1) H24
+▲
+SURAT
+DVOR/DME (
+S
+)
+090746N
+0990805E
+164°
+344°
+25.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+IDNAR
+084344N
+0991524E
+164°
+344°
+17.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+BI
+082659N
+0992029E
+164°
+344°
+59.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+DVOR/DME (
+)
+073032N
+0993734E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W25
+Route availability:
+(1) H24
+▲
+SUKHO
+NDB
+(
+)
+171407N
+0994919E
+021°
+201°
+40.0
+NM
+FL
+460
+6 500
+ft
+9 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+IBUBU
+175128N
+1000336E
+021°
+201°
+18.0
+NM
+FL
+460
+6 500
+ft
+9 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+PHRAE
+DVOR/DME (
+PAE
+)
+180803N
+1000958E
+042°
+222°
+20.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+SUNGO
+182312N
+1002346E
+042°
+222°
+34.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W26
+Route availability:
+(1) H24
+▲
+MAE SO
+DVOR/DME (
+MS
+)
+164152N
+0983230E
+074°
+254°
+21.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+KADAV
+164754N
+0985341E
+074°
+254°
+9.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+ISKIV
+165024N
+165044N
+0990229E
+0990341E
+074°
+254°
+13.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+BEVKU
+165358N
+0991508E
+098°
+278°
+31.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+∆
+IGPOP
+165002N
+0994708E
+098°
+278°
+29.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+097°
+277°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+GOKON
+164301N
+1004834E
+097°
+277°
+22.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+PHE
+DVOR/DME (
+PCB
+)
+164034N
+1011148E
+094°
+274°
+46.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*)
+Odd(1) | Even(1)
+[Class A]
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W27
+Route availability:
+(1) H24
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+065°
+245°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+REMER
+165935N
+1004531E
+065°
+245°
+40.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+OMGIV
+171709N
+1012243E
+065°
+245°
+7.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+RIBDO
+172014N
+1012918E
+065°
+245°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+LOEI
+DVOR/DME (
+LOY
+)
+172649N
+1014323E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W28
+Route availability:
+(1) H24
+▲
+SURAT
+DVOR/DME (
+S
+)
+090746N
+0990805E
+127°
+307°
+25.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SEGRA
+085300N
+0992831E
+127°
+307°
+35.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NAKHON SI
+DVOR/DME (
+NKS
+)
+083230N
+0995649E
+165°
+345°
+65.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ENVON
+072933N
+1001406E
+165°
+345°
+35.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+HAT YAI
+DVOR/DME (
+H
+)
+065603N
+1002317E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W29
+Route availability:
+(1) H24
+▲
+PHI
+DVOR/DME (
+PSL
+)
+164613N
+1001729E
+010°
+190°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+GOS
+171557N
+1002230E
+010°
+190°
+27.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+U
+174305N
+1002706E
+017°
+197°
+68.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NAN
+DVOR/DME (
+NAN
+)
+184833N
+1004657E
+324°
+144°
+55.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+DUBEN
+193249N
+1001207E
+324°
+144°
+30.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+CHIANG RAI
+DVOR/DME (
+C
+)
+195656N
+0995259E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W31
+Route availability:
+(1) H24
+▲
+SUPOJ
+101642N
+1001220E
+355°
+175°
+72.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+EGUBO
+112838N
+1000450E
+354°
+174°
+34.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+∆
+UKERA
+120207N
+1000110E
+354°
+174°
+36.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+HUA HIN
+DVOR/DME (
+HHN
+)
+123804N
+0995704E
+046°
+226°
+31.0
+NM
+FL
+150
+3 500
+ft
+4 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+HO
+130006N
+1001948E
+017°
+197°
+56.0
+NM
+FL
+150
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+BANGKOK
+DVOR/DME (
+BKK
+)
+135337N
+1003546E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound from
+GOKEX to REGOS
+Conditional Route (CDR)
+availability:
+Portion between REGOS-SMU
+CDR1
+1. Weekdays, Monday to Friday
+1700 - 2300 UTC
+2. From Friday 1700 UTC to
+Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use
+plan (AUP) published in
+www.thaicmac.aerothai.aero
+W32
+Route availability:
+(1) H24
+▲
+REGOS
+120007N
+1003454E
+193°
+013°
+43.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1)
+[Class A]
+▲
+GOKEX
+111815N
+1002544E
+193°
+013°
+63.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1)
+[Class A]
+▲
+SUPOJ
+101642N
+1001220E
+191°
+011°
+15.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+ENRAG
+100223N
+1000931E
+192°
+012°
+30.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+246°
+066°
+19.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+DORNA
+092459N
+0994614E
+246°
+066°
+16.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+∆
+ADLAL
+091810N
+0993106E
+246°
+066°
+9.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+VEGNA
+091427N
+0992251E
+246°
+066°
+16.0
+NM
+FL
+460
+3 500
+ft
+4 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+SURAT
+DVOR/DME (
+S
+)
+090746N
+0990805E
+189°
+009°
+19.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+084834N
+0990507E
+189°
+009°
+6.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+084257N
+0990416E
+189°
+009°
+12.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+NULMA
+083118N
+0990228E
+189°
+009°
+3.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+LUXIR
+082819N
+0990200E
+189°
+009°
+7.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+SARER
+082127N
+0990057E
+189°
+009°
+15.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+KRABI
+DVOR/DME (
+KBI
+)
+080627N
+0985839E
+133°
+313°
+28.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+074737N
+0991905E
+133°
+313°
+25.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+DVOR/DME (
+)
+073032N
+0993734E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR)
+availability:
+Portion between PUT-SMU
+CDR1
+1. Weekdays, Monday to Friday
+1700 - 2300 UTC
+2. From Friday 1700 UTC to
+Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use
+plan (AUP) published in
+www.thaicmac.aerothai.aero
+W33
+Route availability:
+(1) H24
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+069°
+249°
+30.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+ONE
+081757N
+0984633E
+069°
+249°
+45.0
+NM
+FL
+460
+9 500
+ft
+10 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+RECNO
+083425N
+0992825E
+031°
+211°
+38.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+MESEM
+090719N
+0994816E
+032°
+212°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+071°
+251°
+15.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+∆
+VININ
+093754N
+1001740E
+070°
+250°
+13.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+UPNEP
+094213N
+1002936E
+046°
+226°
+8.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+MABKO
+094809N
+1003543E
+046°
+226°
+103.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+SURIX
+105959N
+1015015E
+021°
+201°
+81.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+NDB (
+)
+121628N
+1021850E
+310°
+130°
+48.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+RAYONG
+DVOR/DME (
+RYN
+)
+124643N
+1014035E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W34
+Route availability:
+(1) H24
+▲
+MENEX
+110831N
+0994543E
+223°
+043°
+35.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+CHUM PHON
+DVOR/DME (
+CPN
+)
+104240N
+0992156E
+220°
+040°
+47.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+SAKUB
+100603N
+0985112E
+220°
+040°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+RANONG
+DVOR/DME (
+RAN
+)
+094641N
+0983501E
+190°
+010°
+25.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+ELPU
+092157N
+0983053E
+190°
+010°
+46.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+IGEVI
+083640N
+0982320E
+190°
+010°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+PHUKE
+DVOR/DME (
+PU
+)
+080650N
+0981825E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Conditional Route (CDR)
+availability:
+Portion between UPNEP-NKS
+CDR1
+1. Weekdays, Monday to Friday
+1700 - 2300 UTC
+2. From Friday 1700 UTC to
+Sunday 2300 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+W35
+Route availability:
+(1) H24
+▲
+UPNEP
+094213N
+1002936E
+206°
+026°
+15.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+PINUN
+092825N
+1002306E
+205°
+025°
+14.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+PAGLU
+091549N
+1001709E
+206°
+026°
+48.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+NAKHON SI
+DVOR/DME (
+NKS
+)
+083230N
+0995649E
+198°
+018°
+65.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+DVOR/DME (
+)
+073032N
+0993734E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W36
+Route availability:
+(1) H24
+▲
+CHIANG MAI
+DVOR/DME (
+CMA
+)
+184558N
+0985740E
+321°
+141°
+25.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+LAMUN
+190513N
+0984044E
+321°
+141°
+10.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+MACHI
+191306N
+0983346E
+280°
+100°
+7.4
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+DOMKA
+191419N
+0982602E
+280°
+100°
+30.0
+NM
+FL
+460
+8 000
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+MAE HONG SON
+DVOR/DME (
+MHS
+)
+191911N
+0975444E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+(*) For width of airways, see ENR 2.1-1.
+W38
+Route availability:
+(1) H24
+▲
+RAMEI
+150240N
+1030040E
+052°
+232°
+19.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+BURI RAM
+DVOR/DME (
+BRM
+)
+151422N
+1031532E
+031°
+211°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ANKID
+154049N
+1033057E
+031°
+211°
+30.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+ROI-E
+DVOR/DME (
+RO
+)
+160701N
+1034620E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+CDR1
+1. Weekdays, Monday to
+Friday 1700-2200 UTC.
+2.Friday 1700 UTC to
+Sunday 2200 UTC
+3. Public Holidays
+CDR2
+Other Periods, Availability shall be notified by Airspace use plan (AUP) published in
+www.thaicmac.aerothai.aero
+(*) For width of airways, see ENR 2.1-1.
+Point/Segment Remarks:
+(2) Conditional Route (CDR)
+availability:
+W39
+Route availability:
+(1) H24
+▲
+NOBER
+151636N
+1004006E
+(2)
+021°
+201°
+89.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+PHE
+DVOR/DME (
+PCB
+)
+164034N
+1011148E
+034°
+214°
+35.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+DUBOL
+171004N
+1013154E
+035°
+215°
+20.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+(*) | Odd(1) | Even(1)
+[Class A]
+▲
+LOEI
+DVOR/DME (
+LOY
+)
+172649N
+1014323E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W40
+Route availability:
+(1) H24
+▲
+PHRAE
+DVOR/DME (
+PAE
+)
+180803N
+1000958E
+147°
+327°
+18.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+AIZAK
+175302N
+1002040E
+147°
+327°
+87.0
+NM
+FL
+460
+7 500
+ft
+8 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+PHE
+DVOR/DME (
+PCB
+)
+164034N
+1011148E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W42
+Route availability:
+(1) H24
+▲
+MENEX
+110831N
+0994543E
+044°
+224°
+28.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+EGUBO
+112838N
+1000450E
+044°
+224°
+14.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+UPVIL
+113836N
+1001421E
+044°
+224°
+18.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+SURMA
+115122N
+1002633E
+044°
+224°
+12.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+REGOS
+120007N
+1003454E
+055°
+235°
+5.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+ASEKU
+120306N
+1003905E
+055°
+235°
+32.0
+NM
+FL
+460
+FL
+285
+FL
+290
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PIDEL
+122143N
+1010514E
+055°
+235°
+25.0
+NM
+FL
+460
+FL
+285
+FL
+290
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+ALEMI
+123626N
+1012600E
+055°
+235°
+18.0
+NM
+FL
+460
+FL
+285
+FL
+290
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+RAYONG
+DVOR/DME (
+RYN
+)
+124643N
+1014035E
+031°
+211°
+14.0
+NM
+FL
+460
+FL
+125
+FL
+130
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+RUP
+125839N
+1014733E
+030°
+210°
+5.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+NUGPA
+130254N
+1014959E
+030°
+210°
+13.0
+NM
+FL
+460
+FL
+155
+FL
+160
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+BERLU
+131350N
+1015620E
+030°
+210°
+35.0
+NM
+FL
+460
+FL
+205
+FL
+210
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+DULEM
+134416N
+1021400E
+030°
+210°
+9.0
+NM
+FL
+460
+FL
+205
+FL
+210
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+ANREN
+135212N
+1021838E
+030°
+210°
+35.0
+NM
+FL
+460
+FL
+205
+FL
+210
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+XIKMA
+142236N
+1023626E
+031°
+211°
+18.0
+NM
+FL
+460
+FL
+205
+FL
+210
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+143808N
+1024538E
+031°
+211°
+16.0
+NM
+FL
+460
+FL
+205
+FL
+210
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+PAKRI
+145202N
+1025409E
+032°
+212°
+12.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+RAMEI
+150240N
+1030040E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+W43
+Route availability:
+(1) H24
+▲
+CHUM PHAE
+DVOR/DME (
+CMP
+)
+163807N
+1015920E
+099°
+279°
+142.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+20
+Odd(1) | Even(1)
+[Class A]
+▲
+OKENA
+161608N
+1042533E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W44
+Route availability:
+(1) H24
+▲
+;;
+NARA
+DVOR/DME (NTW)
+063138N
+1014442E
+219°
+039°
+25.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+ERVES
+061208N
+1012853E
+219°
+039°
+32.0
+NM
+FL
+460
+8 500
+ft
+9 000
+ft
+10
+Even(1) | Odd(1)
+[Class A]
+▲
+BE
+DVOR/DME
+(
+BE
+)
+054708N
+1010839E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+W94
+Route availability:
+(1) H24
+▲
+NAKHON SI
+DVOR/DME (
+NKS
+)
+083230N
+0995649E
+061°
+241°
+35.0
+NM
+FL
+460
+4 500
+ft
+5 000
+ft
+10
+Odd(1) | Even(1)
+[Class A]
+▲
+GUPMO
+085012N
+1002750E
+Route Designator
+{RNP Type} | [Route Usage Notes]
+Significant Point Name | Significant Point Coordinates | | Remarks
+{RNP Type} | Track MAG | Dist (NM) | (COP)
+Upper limit
+Lower limit
+Minimum flight altitude | Lateral limits (NM) | FL series | Controlling unit {Airspace class} Remarks
+↓
+↑
+↓ | ↑
+Route Remarks:
+Uni-directional northbound route
+W99
+Route availability:
+(1) H24
+▲
+SAMUI
+DVOR/DME (
+SMU
+)
+093249N
+1000342E
+031°
+211°
+30.0
+NM
+FL
+460
+4 500
+ft
+5 000
+ft
+10
+Even(1)
+[Class A]
+▲
+OLBAG
+095849N
+1001852E
+030°
+210°
+2.0
+NM
+FL
+460
+4 500
+ft
+5 000
+ft
+10
+Even(1)
+[Class A]
+∆
+APUSA
+100057N
+1002007E
+031°
+211°
+8.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1)
+[Class A]
+▲
+DONSI
+100738N
+1002401E
+031°
+211°
+14.0
+NM
+FL
+460
+6 500
+ft
+7 000
+ft
+10
+Even(1)
+[Class A]
+▲
+101948N
+1003108E

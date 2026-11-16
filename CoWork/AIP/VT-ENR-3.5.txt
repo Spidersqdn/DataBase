@@ -1,0 +1,12 @@
+# AIP Thailand AIRAC 2026-10-29 VT-ENR-3.5
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-3.5-en-GB.html
+ENR 3.5 OTHER ATS ROUTES
+1. BANGKOK FIR CONTINGENCY ATS ROUTES AND FLIGHT LEVEL ALLOCATION SCHEME (FLAS)
+International route structure and communications for transit of the Bangkok FIR when no ATS available in Bangkok airspace.
+Contingency Routes Definition | ATS Route | Direction | FL Assignment | ACCs | Frequency (MHz)
+CRTHA001 | VTN R474 BKK A464 KARMI | Northbound | 310 | Vientiane ACC | 124.1
+Southbound | 390 | Kuala Lumpur ACC | 133.7
+CRTHA002 | MAKAS G473 CMP W43 OKENA A202 SAV | Eastbound | 370, 410 | Vientiane ACC | 128.3
+Westbound | 340 | Yangon ACC | 128.75
+CRTHA003 | TANEK L301 BKK G474 OMURO | Eastbound | 330, 410 | Phnom Penh ACC | 127.5
+Westbound | 360 | Yangon ACC | 124.75

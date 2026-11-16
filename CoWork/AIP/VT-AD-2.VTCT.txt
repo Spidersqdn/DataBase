@@ -1,0 +1,801 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCT
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCT-en-GB.html
+VTCT
+— Chiang Rai/ Mae Fah Luang-Chiang Rai International Airport
+VTCT
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTCT
+— Chiang Rai/ Mae Fah Luang-Chiang Rai International Airport
+VTCT
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+195708N
+0995259E
+Centre Line of RWY, 1500 m from THR RWY21
+2
+Direction and distance from (city)
+9 km, NE from city
+3
+Elevation/Reference temperature
+390 m (1280 ft) / 35.8°C
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+1°3'W (2025)/ 0°1'E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Mae Fah Luang-Chiang Rai International Airport
+Mae Fah Luang-Chiang Rai International Airport
+404 Chiang Rai-Maechan Road
+Rimkok-Baan Doo Sub-District
+Amphoe Mueang
+Chiang Rai 57100
+Thailand
+Tel:
++665 379 8000
+Tel:
++665 379 8999
+Fax:
++665 379 8049
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Airports of Thailand Public Company Limited (AOT)
+VTCT
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+H24
+2
+Customs and immigration
+Customs: 0130-0930 or available on request
+Immigration: Available with AD hours
+3
+Health and sanitation
+Available on request
+4
+AIS Briefing Office
+2300-1400
+5
+ATS Reporting Office (ARO)
+H24
+6
+MET Briefing Office
+H24
+7
+ATS
+2300 – 1430, Other than this period 1 HR PN to ATC
+8
+Fuelling
+H24
+9
+Handling
+Available with AD hours
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO): Located at Chiang Mai Air Traffic Control Center (1st floor of tower building)Tel: +669 1818 5798Fax:+66 5327 7897
+VTCT
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+Thai Airways International Public Co.,Ltd. (TG)
+Website: www.thaicargo.com
+E-mail: [email protected]
+[email protected]
+Tel: +665 379 8242
++665 379 8243
+2 Hand pallet trucks
+Handling weights up to 8 t per day.
+2
+Fuel/oil types
+JET A-1
+3
+Fuelling facilities/capacity
+PTT Oil and Retail Business Public Company Limited
+Website: www.pttor.com/en/product/commercial/Aviation-Fuel
+Tel: +665 379 3700
+Fax: +665 379 3701
+Fuel Refueller Truck: 2
+- 1 Capacity: 22,000 L
+- 1 Capacity: 22,000 L
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+Not available
+6
+Repair facilities for visiting aircraft
+Not available
+7
+Remarks
+The Airport has provided ground handling agents as following:
+a. BAGS Ground Services Co.,Ltd.
+Website: www.bags-groundservices.com
+E-mail: [email protected]
+Tel: +669 5524 4914
++669 3575 1133
+b. Chiang Mai Ground Handling Services Co.,Ltd.
+E-mail: [email protected]
+Tel: +668 3914 6495
++668 0495 9391
+c. H.S. Aviation Co.,Ltd.
+Website: www.hsavia.aero
+E-mail: [email protected]
+Tel: +668 1901 2070
++668 1916 6294
+Fax: +662 531 0509
+d. Thai Airways International Public Co.,Ltd. (TG)
+Website: www.thaigroundservices.com
+E-mail: [email protected]
+[email protected]
+Tel: +665 379 8212
++668 9555 2901
++665 379 8205
+Fax: +665 379 3060
+VTCT
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1281.eng;668
+2
+Restaurants
+Available at the ADTPASSENGER_FACILITY;Annotation:1179.eng;669 and in the cityTPASSENGER_FACILITY;Annotation:1180.eng;669
+3
+Transportation
+Taxi limousineTPASSENGER_FACILITY;Annotation:1181.eng;670, Taxi meterTPASSENGER_FACILITY;Annotation:1182.eng;670, Car rental service and public busTPASSENGER_FACILITY;Annotation:1183.eng;670
+4
+Medical facilities
+First aid at ADTPASSENGER_FACILITY;Annotation:1184.eng;671 and hospitals in the cityTPASSENGER_FACILITY;Annotation:1185.eng;671
+5
+Bank and Post Office
+In the cityTPASSENGER_FACILITY;Annotation:1186.eng;672 / At ADTPASSENGER_FACILITY;Annotation:1187.eng;672
+Bank open: 0200-1300TPASSENGER_FACILITY;Annotation:2124.eng;672
+Post Office open: 0130-1400TPASSENGER_FACILITY;Annotation:2125.eng;674
+6
+Tourist Office
+In the cityTPASSENGER_FACILITY;Annotation:1188.eng;673
+7
+Remarks
+NIL
+VTCT
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 9
+2
+Rescue equipment
+Adequately provided as recommended by ICAOTAD_HP_GND_SER;Annotation:3002.eng;555
+3
+Capability for removal of disabled aircraft
+Available up to B747
+4
+Remarks
+The registered owner or aircraft operator will always retain complete
+responsibilities for the removal of disabled aircraft.
+VTCT
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTCT
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Apron Aircraft Stand NR 1-7
+Surface: Concrete
+Strength: PCR 1040/R/D/W/
+2 | Taxiway width, surface and strength | TWY A: 28 m, Concrete surface, PCR 1500/R/D/W/
+TWY B: 30 m, Concrete surface, PCR 1500/R/D/W/
+TWY C: 35 m, Concrete surface, PCR 1500/R/D/W/
+TWY D: 35 m, Concrete surface, PCR 1500/R/D/W/
+TWY E: 30 m, Concrete surface, PCR 1500/R/D/W/
+TWY F: 30 m, Concrete surface, PCR 1500/R/D/W/
+TWY P: 23 m, Concrete surface, PCR 1500/R/D/W/
+TWY P1: 48 m, Concrete surface, PCR 1500/R/D/W/
+TWY P2: 48 m, Concrete surface, PCR 1500/R/D/W/
+TWY P3: 48 m, Concrete surface, PCR 1500/R/D/W/
+3
+Altimeter checkpoint location and elevation
+Location: At Apron
+Elevation: 389 m (1275 ft)
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTCT
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Taxiway center line is painted in yellow.
+Taxiway Edge is provided
+Illuminated guidance signs are provided at various intersections
+Intermediate holding positions are provided on:
+Taxiway B (At the intersections with Taxiway P)
+Taxiway P (At the intersections with Taxiway A, B, C, P1/F, P2/E and P3)
+P1, P2 and P3 (At the intersections with Taxilane D)
+Nose-Wheel guidelines at apron.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, , , Centre line, Aiming Point and Side Strip
+RWY LGT: , RWY EDGE and RWY End lights
+TWY marking: Centre line, Edge and RWY Holding PositionTTWY_MARKING;Annotation:226.eng;403
+TWY LGT: TWY EDGE lights
+3
+Stop bars
+Stop bars are installed at Taxiway A, B, C, E and F. It is controlled individually by ATC.
+4 | Other runway protection measures
+Runway Guard Lights are installed on either side of Taxiways A, B, C, E and F at 90 m off the runway centreline.
+The use of an Intermediate holding position on TWY B, E and F is allowed only for aircraft sizes up to Code Letter D.
+5
+Remarks
+NIL
+VTCT
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+VTCT
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station - Chiang Rai,
+Northern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Northern Meteorological Center
+30 HR
+4
+Type of landing forecast
+Interval of issuance
+TREND
+1 HRTSERVICE;Annotation:2176.eng;821
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2178.eng;821
+Tel: +665 379 3062-3, +665 379 3698-9TSERVICE;Annotation:2179.eng;821
+Fax: +665 379 3061TSERVICE;Annotation:2180.eng;821
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2181.eng;821, U85TSERVICE;Annotation:2182.eng;821, Daily Weather ForecastTSERVICE;Annotation:2183.eng;821, satellite and radar imagesTSERVICE;Annotation:2184.eng;821
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Chiang Rai TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTCT
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY(m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+03
+030.00
+030°
+3000x45
+PCR 1000/F/A/X/
+Asphalt
+195625.74N
+0995233.61E
+390.2 m
+(1280.2 ft AMSL)
+21
+210.00
+210°
+3000x45
+PCR 1000/F/A/X/
+Asphalt
+195751.09N
+0995323.63E
+389 m
+(1276 ft AMSL)
+Slope of
+RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA
+dimensions
+(m)
+Location and
+description of
+arresting
+system
+OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+-0.05%
+NIL
+NIL
+3120x300
+240x150
+NIL
+YES
+The Runway blast pad are provided beyond both Runway end; the width is 60 m and the length is 120 m. each.
+0.05%
+NIL
+NIL
+3120x300
+300x150
+NIL
+NIL
+VTCT
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+03
+3000
+3000
+3000
+3000
+NIL
+21
+3000
+3000
+3000
+3000
+NIL
+VTCT
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+03
+CAT1
+900 m
+LIH
+Green
+PAPI 3°
+Located either side of RWY, 420 m behind
+RWY THR
+(63.9 ft)
+NIL
+NIL
+3000 m
+60 m
+White
+Last 600 m
+60 m
+Amber
+LIH
+Red
+NIL
+NIL
+21
+SALS
+420 m
+LIH
+Green
+PAPI 3°
+Located either side of RWY, 377 m behind
+RWY THR
+(59.2 ft)
+NIL
+NIL
+3000 m
+60 m
+White
+Last 600 m
+60 m
+Amber
+LIH
+Red
+NIL
+NIL
+VTCT
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuidlingTAERO_GND_LGT;Annotation:1451.eng;509, FLG WG EV 3 SECTAERO_GND_LGT;Annotation:825.eng;509
+2
+LDI location and LGT
+Anemometer location and LGT
+2WDIsTAD_HP;Annotation:1212.eng;328 at 300 m from THR 03 offset to the left side 120 m from RWY centre lineTAD_HP;Annotation:1213.eng;328, at 450 m from THR 21 offset to the left side 105 m from RWY centre lineTAD_HP;Annotation:1214.eng;328. All are illuminatedTAD_HP;Annotation:1216.eng;328.
+3
+TWY edge and centre line lighting
+EDGE: All TWY
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at AD.
+Switch-over time 12 SECTAD_HP;Annotation:1211.eng;328.
+5
+Remarks
+NIL
+VTCT
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+Helicopters using active runway to take off and land as instructed by ATC. See AD 2-VTCT-1-11 for the Helicopter Operation.
+VTCT
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on C DVOR/DME
+(195656N 0995259E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Chiang Rai Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTCT
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Chiang Rai Approach
+120.05 MHz
+257.8 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Chiang Rai Tower
+118.4 MHz
+236.6 MHz
+121.5 MHz)
+As AD OPR HR
+A
+Chiang Rai Intl Airport
+127.85 MHz | As AD OPR HR
+VTCT
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+C
+277 kHz | H24
+195735.1N
+0995259.1E
+The coverage clockwise orbit data refer to commissioning due to mountainous terrain and border limit as follows:
+25 NM
+Bearing 001º-140º at altitude 5 500 ft
+Bearing 281º-360º at altitude 7 500 ft
+40 NM
+Bearing 141°-180;;;;° at altitude 6 000 ft
+Bearing 181°-280° at altitude 7 500 ft
+DVOR/DME
+C
+116.5 MHz
+CH 112X
+H24
+195655.9N 0995259.3E
+390 m (1300 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at the required altitude in various areas as follows:
+40 NM
+Radial 141º-180º altitude should not below 5 000 ft
+Radial 181º-210º altitude should not below 7 500 ft
+Radial 211º-255º altitude should not below 9 000 ft
+Radial 256º-265º altitude should not below 10 000 ft
+Radial 266º-270º altitude should not below 9 000 ft
+20 NM (Due to border limited)
+Radial 271º-340º altitude should not below 6 500 ft
+Radial 341º-140º altitude should not below 5 000 ft
+ILS CAT I LOC
+03
+IC
+109.5 MHz
+H24
+195759.5N
+0995328.5E
+Instrument Landing System (ILS) coverage over a sector of 35 either side of the runway centre line, no back course. The antenna array is located on the extended runway centre line at the distance of 300 m from the threshold of RWY 21, height of the array is 2 m
+Glide Path 3º.
+DME co - located with localizer, power output 100 watts omnidirectional.
+GP 03
+332.6 MHz | H24
+195632.5N
+0995242.6E
+DME 03 | | CH 32X | | 195757.7N 0995331.7E
+390
+(1300 ft)
+VTCT
+AD 2.20 LOCAL AERODROME REGULATIONS
+1.
+180 degrees turn on the runway
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, aircraft code letter C or higher shall make a 180 degrees turn at the runway turn pads located on both end of runway. Any breach done by the aircraft operator shall be recorded and reported to the The Civil Aviation Authority Of Thailand/ the Headquarters of that operator and shall be liable for the compensation caused by such violation.
+2. Apron Management
+2.1 In case of B737-800 parked at aircraft stand NR 2, aircrafts code E are not allowed to taxi behind this stand.
+2.2 In case of B747-400 parked at aircraft stand NR 2, aircrafts code C,D,E are not allowed to taxi behind this stand.
+2.3 In case of A300-600 parked at aircraft stand NR 2, aircrafts code D with wing span exceed 45 m. and code E are not allowed to taxi behind this stand.
+2.4 In case of B747-400 parked at aircraft stand NR 3, aircrafts code C with wing span exceed 30 m. and code D, E are not allowed to taxi behind this stand.
+2.5 In case of B777-300 parked at aircraft stand NR 3, aircrafts code C, D, E are not allowed to taxi behind this stand.
+2.6 Aircraft stand NR 6 and NR 7 are allowed to be used from sunrise to sunset only.
+3. Operation of all non-scheduled flight at Mae Fah Luang-Chiang Rai International Airport
+3.1 All aircraft wishing to operate at Mae Fah Luang-Chiang Rai International Airport shall adhere to the following procedures;
+3.1.1 All flights, including flight selecting Mae Fah Luang-Chiang Rai International Airport as an alternate aerodrome, shall have handling agent at Mae Fah Luang-Chiang Rai International Airport.
+3.1.2 Nose-in parking is applicable to all aircraft.
+3.1.3 All aircraft ready to taxi out shall prepare their own tow bars.
+4. LOW VISIBILITY PROCEDURES (LVP)
+4.1 RWY 03 is equipped with ILS and is approved for CAT I operations.
+4.2 Low visibility procedures will be activated when visibility is less than RVR 800 m, and all ground operators shall strictly follow.
+4.3 Airport's low visibility procedures will be enforced based on 4 Phases of Low Visibility Conditions (LVC) as follows:
+4.3.1 LVC Warning Phase
+4.3.1.1 LVC Warning will be activated when RVR is less than 800 m but not less than 550 m.
+4.3.1.2 All ground operators will be informed by voice announcement at the sorting area or by Follow-me vehicle broadcasting.
+4.3.1.3 Vehicles shall leave taxiways or the runway immediately, and no vehicles are allowed to enter taxiways or the runway.
+4.3.1.4 Vehicles wishing to operate on a service road and aprons shall maintain a speed of not more than 20 km/h and vehicles operating in the sorting area shall maintain a speed of not more than 10 km/h. All vehicles shall be ascertained that their headlamps and obstacle lights are turned on throughout the whole area of operations.
+4.3.1.5 During LVC Warning Phase, aircraft towing will be restricted unless receiving permission from ATC and shall strictly follow Follow-me vehicle guidance.
+4.3.2 LVC Phase A
+4.3.2.1 LVC Phase A will be activated when RVR is less than 550 m but not less than 350 m.
+4.3.2.2 All ground operators will be informed by both flashing-orange lights; in front of the parking stands and control post 1, and voice announcements at the sorting area or Follow-me broadcasting.
+4.3.2.3 Vehicles shall leave taxiways or the runway immediately, and no vehicles are allowed to enter taxiways or the runway.
+4.3.2.4 Vehicles wishing to operate on a service road and aprons shall maintain a speed of not more than 20 km/h and vehicles operating in the sorting area shall maintain a speed of not more than 10 km/h. All vehicles shall be ascertained that their headlamps and obstacle lights are turned on throughout the whole area of operations.
+4.3.2.5 During LVC Phase A, aircraft towing will be restricted unless receiving permission from ATC and shall strictly follow Follow-me vehicle guidance.
+4.3.3 LVC Phase B
+4.3.3.1 LVC Phase B will be activated when RVR is less than 350 m but not less than 200 m.
+4.3.3.2 All ground operators will be informed by both flashing-white lights; in front of the parking stands and control post 1, and voice announcements at the sorting area or Follow-me broadcasting.
+4.3.3.3 Vehicles shall leave taxiways or the runway immediately, and no vehicles are allowed to enter taxiways or the runway.
+4.3.3.4 Vehicles wishing to operate on a service road and aprons shall maintain a speed of not more than 20 km/h and vehicles operating in the sorting area shall maintain a speed of not more than 10 km/h. All vehicles shall be ascertained that their headlamps and obstacle lights are turned on throughout the whole area of operations.
+4.3.3.5 During LVC Phase B, aircraft towing will be restricted unless receiving permission from ATC and shall strictly follow Follow-me vehicle guidance.
+4.3.4 LVC Phase C
+4.3.4.1 LVC Phase C will be activated when RVR is less than 200 m.
+4.3.4.2 All ground operators will be informed by both flashing-white lights; in front of the parking stands and control post 1, and voice announcements at the sorting area or Follow-me broadcasting.
+4.3.4.3 All ground operations will be restricted except for an aircraft taxiing to the parking stand, which shall continue taxiing by following the marshaller until completely stopped.
+4.3.4.4 Embarkation and disembarkation of passengers will be prohibited during LVC Phase C.
+4.3.4.5 Aircraft fueling will be prohibited during LVC Phase C.
+4.3.5 Termination of low visibility procedures
+4.3.5.1 Low Visibility Procedures will be terminated when RVR is greater than or equal to 800 m.
+4.3.5.2 All ground operators will be informed by voice announcements at the sorting area or by Follow-me broadcasting. All warning lights are turned off.
+4.3.5.3 All ground operators shall resume normal operations.
+5. SELF-MANOEUVRING PROCEDURES
+5.1 Self-manoeuvring may be permitted and is limited by airport authority.
+5.2 Air Operator or Handling Agent shall get permission from airport authority before operate.
+5.3 Power back are not permitted at any parking stands.
+5.4 The following table describes self- manoeuvring procedures for remote stands:
+Stand 1 | Max aircraft size: GL5T or aircraft with wingspan not exceeded 29 meters.
+Self-manoeuvring Procedure | The Aircraft (at idle power) shall be turned east (facing North) until its nose-wheel reaches the stand taxi-lane centre line.
+Remark | Self-manoeuvring operation will be available if stand 2 is vacant.
+Stand 5 | Max aircraft size: CRJ2 or aircraft with wingspan not exceeded 22 meters.
+Self-manoeuvring Procedure | The Aircraft (at idle power) shall be turned east (facing North or South) until its nose-wheel reaches stand taxi-lane centre line.
+Remark | 1.In case of facing North: Self-manoeuvring operation will be available if stand 6 is vacant.
+2. In case of facing South: Self-manoeuvring operation will be available if stand 4 is vacant.
+3. In case of the aircraft size is bigger than CRJ2 shall be followed aerodrome
+recommendations.
+Stand 6 | Max aircraft size: CRJ2 or aircraft with wingspan not exceeded 22 meters.
+Self-manoeuvring Procedure | The Aircraft (at idle power) shall be turned east (facing North or South) until its nose-wheel reaches the stand taxi-lane centre line.
+Remark | 1. In case of facing North: Self-manoeuvring operation will be available if stand 7 is vacant.
+2. In case of facing South: Self-manoeuvring operation will be available if stand 5 is vacant.
+3. In case of the aircraft size is bigger than CRJ2 shall be followed aerodrome
+recommendations.
+Stand 7 | Max aircraft size: CRJ2 or aircraft with wingspan not exceeded 22 meters.
+Self-manoeuvring Procedure | The Aircraft (at idle power) shall be turned east (facing South) until its nose-wheel reaches stand taxi-lane centre line.
+Remark | 1. Self-manoeuvring operation will be available if stand 6 is vacant.
+2. In case of the aircraft size is bigger than CRJ2 shall be followed aerodrome
+recommendations.
+6. HELICOPTER OPERATIONS
+6.1 Helicopter to approach using active Runway, take off and land as instructed by ATC.
+6.2 Helicopter to use the helipads shall not have a rotor diameter more than 22 meters and MTOW no more than 13,600 kg.
+6.3 Inbound operation
+6.3.1 After Runway vacated, air-taxi follow taxiway center line then turn left and continue air-taxi until abeam aircraft stand number 1.
+6.3.2 Air-taxi heading South until ensure the rotor downwash will not affect to the other parked helicopters (If any), then turn right until
+abeam assigned helipad. Turn right and land on assigned helipad follow marshaller.
+6.4 Outbound operation
+6.4.1 When ready to departure contract Chiang Rai Tower on frequency 118.4/236.6 MHz.
+6.4.2 Lift off and hover then move ahead follow marshaller until ensure the rotor downwash will not affect to the other parked
+helicopters (If any).
+6.4.3 Turn right and continue air-taxi until abeam helipad number 3. Turn left into apron and air-taxi follow taxiway center line to
+active runway.
+6.5 Helicopter ground movement pattern shows as below:
+VTCT
+AD 2.21 NOISE ABATEMENT PROCEDURES
+Between 1500-2259 UTC, departing aircraft shall use runway 03 avoid the residential area, unless it would affect the safety of flight.
+VTCT
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback.
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 03:
+CHIANG RAI OMNI 03 Departure: Required climb gradient 365 ft per NM (6.0%) until 7,000 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb6.0% | (ft/min) | 395 | 456 | 608 | 912 | 1216 | 1519 | 1823
+No turn before DER.
+After departure climb straight ahead until 4,000 ft (or altitude assigned by ATC between 4,000 ft - 6,000 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 21:
+CHIANG RAI OMNI 21 Departure: Required climb gradient 365 ft per NM (6.0%) until 7,000 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb6.0% | (ft/min) | 395 | 456 | 608 | 912 | 1216 | 1519 | 1823
+No turn before DER.
+After departure climb straight ahead until 4,000 ft (or altitude assigned by ATC between 4,000 ft - 6,000 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTCT
+AD 2.23 ADDITIONAL INFORMATION
+1. AERODROME CONFUSION
+Aircraft landing at Mae Fah Luang-Chiang Rai International Airport (V) shall be aware of another operative aerodrome,
+Rob Wiang Airport (VTCR) located 5 NM Southwest of Mae Fah Luang-Chiang Rai International Airport (radial 220 from C VOR).
+VTCT
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome chart - ICAO
+AD 2-VTCT-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTCT-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTCT-2-5
+Aerodrome Obstacle Chart - ICAO Type A - RWY 03/21
+AD 2-VTCT-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03 - BENVI1A DUBEN1A NUMDO1A PONUK1A
+AD 2-VTCT-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 03 - BENVI1A DUBEN1A NUMDO1A PONUK1A (Tabular description)
+AD 2-VTCT-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21 - BENVI1B DUBEN1B NUMDO1B PONUK1B
+AD 2-VTCT-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 21 - BENVI1B DUBEN1B NUMDO1B PONUK1B (Tabular description)
+AD 2-VTCT-6-4
+Instrument Approach Chart - ICAO - VOR RWY 03
+AD 2-VTCT-8-1
+Instrument Approach Chart - ICAO - VOR RWY 03 (Fix and point list table)
+AD 2-VTCT-8-2
+Instrument Approach Chart - ICAO - VOR RWY 21
+AD 2-VTCT-8-3
+Instrument Approach Chart - ICAO - VOR RWY 21 (Fix and point list table)
+AD 2-VTCT-8-4
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 03
+AD 2-VTCT-8-5
+Instrument Approach Chart - ICAO - ILS or LOC y RWY 03 (Fix and point list table)
+AD 2-VTCT-8-6
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 03
+AD 2-VTCT-8-7
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 03 (Fix and point list table)
+AD 2-VTCT-8-8
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 03 (Tabular description)
+AD 2-VTCT-8-9
+Instrument Approach Chart - ICAO - RNP RWY 03
+AD 2-VTCT-8-11
+Instrument Approach Chart - ICAO - RNP RWY 03 (Tabular description)
+AD 2-VTCT-8-12
+Instrument Approach Chart - ICAO - RNP RWY 21
+AD 2-VTCT-8-13
+Instrument Approach Chart - ICAO - RNP RWY 21 (Tabular description)
+AD 2-VTCT-8-14

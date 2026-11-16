@@ -1,0 +1,1177 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTSP
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTSP-en-GB.html
+VTSP
+— Phuket/ Phuket International Airport
+VTSP
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTSP
+— Phuket/ Phuket International Airport
+VTSP
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+080645N
+0981833E
+Centre of runway 660 m from THR RWY 09
+2
+Direction and distance from (city)
+32 km (NW)
+3
+Elevation/Reference temperature
+26 m (84 ft) 36.10°C
+4 | Geoid undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+0° 28' W (2025) / 0° 2' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Phuket International Airport
+Airports of Thailand Public Company Limited (AOT)
+222 Village No.6, Mai Khao Sub District, Thalang District
+Phuket 83110, Thailand
+Tel:
++667 632 7230-6
+Fax:
++667 632 7478
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Airports of Thailand Public Company Limited (AOT)
+VTSP
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+H24
+2
+Customs and immigration
+H24
+3
+Health and sanitation
+H24
+4
+AIS Briefing Office
+H24
+5
+ATS Reporting Office (ARO)
+H24
+6
+MET Briefing Office
+H24
+7
+ATS
+H24
+8
+Fuelling
+H24
+9
+Handling
+H24
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Phuket International Airport (3rd floor of domestic terminal building)
+Tel: +66 7656 3045
+Mobile: +669 2262 2141
+Fax: +66 7632 7205
+VTSP
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+AOT Ground Aviation Services Co., Ltd. (AOTGA)
+2 Forklifts (5 t - 1 Forklift, 3 t - 1 Forklift)
+3 Hand Pallet Trucks (2.5 t)
+1 Tractor
+Handling weight up to 22 t per day.
+2
+Fuel/oil types
+JET A-1, AVGAS 100LL
+3
+Fuelling facilities/capacity
+PTT Oil and Retail Business Public Company Limited
+Tel:
++667 632 8220
+Tel:
++667 632 7190
+Jet A-1 Storage Tank:TAD_HP_SPLY_SER;Annotation:2768.eng;523 3 Tanks Total Volume 12,000,000 LTAD_HP_SPLY_SER;Annotation:1226.eng;523
+Jet A-1 Refueller: 3TAD_HP_SPLY_SER;Annotation:2764.eng;523
+- 1 Refueller Capacity: 22,000 LTAD_HP_SPLY_SER;Annotation:1227.eng;523
+- 2 Refueller Capacity: 12,000 LTAD_HP_SPLY_SER;Annotation:1228.eng;523
+Jet A-1 Hydrant Dispensers: 10TAD_HP_SPLY_SER;Annotation:1229.eng;523
+AVGAS 100LLTAD_HP_SPLY_SER;Annotation:2765.eng;523:
+- 5 Drums Capacity: 1,000 LTAD_HP_SPLY_SER;Annotation:2766.eng;523
+- 1 Trailer Capacity: 3,000 LTAD_HP_SPLY_SER;Annotation:2767.eng;523
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+Siam Land Private Jet Terminal (Private Aircraft only)
+6
+Repair facilities for visiting aircraft
+Line/Light Maintenance by arrangement with local operators
+7
+Remarks
+The Airport has provided ground handling agents as following:
+AOT Ground Aviation Services Co., Ltd. (AOTGA)
+URL: www.aotga.com
+Ground Handling & Private Aircraft Handling InquiryTONLINE_CONTACT;Annotation:2746.eng;1325:
+- Marketing DepartmentTONLINE_CONTACT;Annotation:2747.eng;1325
+Email:
+[email protected]
+Tel:
++666 4182 5396
+Operation InquiryTONLINE_CONTACT;Annotation:2748.eng;1327:
+- Ground & Operation DepartmentTONLINE_CONTACT;Annotation:2749.eng;1327
+Email:
+[email protected]
+Email:
+[email protected]
+Tel:
++666 4707 7515 (24 hrs.)
+Tel:
++666 4707 7918 (24 hrs.)
+Air To Ground Communication Frequency: 129.350 MHz
+Call sign: Blue Port Phuket
+- Cargo DepartmentTONLINE_CONTACT;Annotation:2942.eng;1485
+Email:
+[email protected]
+Tel:
++667 635 1355
+Tel:
++668 4202 3372
+Siam Land Flying Co.,Ltd (Private Aircraft only)
+Ground Handling and Operations InquiryTONLINE_CONTACT;Annotation:2752.eng;1329:
+Email:
+[email protected]
+Tel:
++667 668 8801-3
+Fax:
++667 668 8805
+AFS:
+V
+Air To Ground Communication Frequency: 131.325 MHz
+Call sign: Siamland PJT
+Bangkok Air Catering Phuket Co.,Ltd (BAC)
+Sales and Customer ServicesTONLINE_CONTACT;Annotation:2758.eng;1333:
+Email:
+[email protected]
+Operations DepartmentTONLINE_CONTACT;Annotation:2759.eng;1334:
+Email:
+[email protected]
+Tel:
++667 632 8080
+Tel:
++666 3082 9886
+Fax:
++667 632 8081
+SITA:
+hkthhpg
+VTSP
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+Adjacent to airport terminalTPASSENGER_FACILITY;Annotation:1232.eng;678 and in the cityTPASSENGER_FACILITY;Annotation:1233.eng;678
+2
+Restaurants
+At ADTPASSENGER_FACILITY;Annotation:1234.eng;679 and in the cityTPASSENGER_FACILITY;Annotation:1235.eng;679
+3
+Transportation
+LimousinesTPASSENGER_FACILITY;Annotation:1236.eng;680, Airport busTPASSENGER_FACILITY;Annotation:1237.eng;680, TaxisTPASSENGER_FACILITY;Annotation:1238.eng;680 and Car rentalTPASSENGER_FACILITY;Annotation:1239.eng;680 service are available
+At International and Domestic terminal arrival hall, level 1
+4
+Medical facilities
+Medical clinic at the airport, located at the International and Domestic terminal, level 1 and ambulance service is available H24.
+Emergency number is +667 635 1113
+5
+Bank and Post Office
+Bank: At the InternationalTPASSENGER_FACILITY;Annotation:1240.eng;681 and Domestic terminalTPASSENGER_FACILITY;Annotation:1241.eng;681
+Post office: At the International terminal, level 1TPASSENGER_FACILITY;Annotation:1242.eng;682
+6
+Tourist Office
+Office at the International terminalTTEL_CONTACT;Annotation:1245.eng;915 level 1
+Tel:
++667 621 9878
+Fax:
++667 632 7100
+Office in the cityTTEL_CONTACT;Annotation:1244.eng;916
+Tel:
++667 622 2177
+Fax: +667 635 4139
+7
+Remarks
+URL:
+http://www.airportthai.co.th/phuketTONLINE_CONTACT;Annotation:1247.eng;837
+for airport and flight informationTPASSENGER_FACILITY;Annotation:1248.eng;684
+VTSP
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+RFF Category 9
+2
+Rescue equipment
+Adequately provided as recommended by ICAO
+Boat of 6 people, Rescue truck, Ambulance
+3
+Capability for removal of disabled aircraft
+Available – Up to B747TAD_HP_GND_SER;Annotation:1250.eng;556
+For removal of disabled aircraft by contracted external resource please contact aerodrome coordinator:
+- Airport coordinator:
+Tel: +667 635 1581
+- Airside Operations Department
+Tel: +667 635 1581
+Tel: +667 6351085
+- Rescue and Fire Fighting Department
+Tel: +667 635 1361
+4
+Remarks
+All aircraft capable of aerodrome use can be removed using contracted external resource.
+The Discrete Emergency Frequency 121.60 MHz, call sign Phuket Command, is available for pilots and fire vehicles to communicate during emergency situations while aircraft are on the ground.
+This is non - ATS frequency and shall be used upon request by pilots or fire vehicles and subject to ATC approval.
+VTSP
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons
+VTSP
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
+1 | Apron surface and strength
+-Apron A,B,D
+Surface: Concrete
+Strength: PCR 780/R/A/W/
+Apron E
+Surface: Concrete
+Strength: PCR 580/R/C/W/T
+2 | Taxiway width, surface and strength
+Taxiway A, B, E, F and G
+Width: 30 m.
+Surface: Concrete
+Strength: PCR 710/R/A/W/
+Taxiway C
+Width: 30 m.
+Surface: Asphalt
+Strength: PCR 380/F/A/X/
+Taxiway D
+Width: 23 m.
+Surface: Asphalt
+Strength: PCR 380/F/A/X/
+Taxiway P
+Width: 23 m.
+Surface: Asphalt
+Strength: PCR 800/F/C/X/T
+Surface: ConcreteTTWY;Annotation:1945.eng;278
+Strength: PCR 710TTWY;Annotation:249.eng;278/RTTWY;Annotation:250.eng;278/ATTWY;Annotation:251.eng;278/W/
+Taxiway K
+Width: 20 m.
+Surface: Asphalt
+Strength: PCR 550/F/D/X/
+Taxiway H and J
+Width: 29.5 m.
+Surface: Concrete
+Strength: PCR 1240/R/C/W/
+Taxilane T1
+Width from taxilane centre line to taxilane shouder: 13.42 m,
+Surface: Concrete, PCR 780/R/A/W/
+Taxilane T2
+Width from taxilane centre line to taxilane shouder: 13.67 m.,
+Surface: Concrete, PCR 780/R/A/W/
+Taxilane T3, T4, T5, T6, T7
+Surface: Concrete, PCR 780/R/A/W/
+3
+Altimeter checkpoint location and elevation
+Location: At Apron
+Elevation: 5.18 m / 17 ft
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+See AD2-VTSP-2-4 /Chart for coordinates of aircraft stand
+6
+Remarks
+NIL
+VTSP
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Taxiing guidance signs at all intersections with TWY and RWY
+Nose-Wheel guide lines at apron.
+Solid Nose-Wheel guide lines at aircraft stands.
+Nose-in guidance at aircraft stands.
+Visual Docking System (VDGS)
+Apron A at stand number 7-16 (not included the Multi-Aircraft Ramp System (MARS) stand)
+Apron B at stand number 1-6
+Apron D at stand number 31-40 (included Multi-Aircraft Ramp System (MARS) stands 32L, 32R, 33L, 33R, 34L, 34R)
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, , , Centre line, Aiming Point Side StripTRWY_MARKING;Annotation:253.eng;186, and Displace THR
+RWY LGT: THR, RWY Edge and RWY End lights
+TWY marking: Centre line, Edge and RWY Holding Position and Intermediate Holding Position
+TWY LGT: TWY Edge lights, TWY Centre line lights (TWY P, H and J)
+3
+Stop bars
+Stop bars TWY A, B, G, H, J and K available.
+4
+Remarks
+If VDGS is out of service, marshaller shall guide the aircraft to the parking position. No pilot shall taxi an aircraft on its own into the aircraft stand without the aid of docking system or a marshaller.
+VTSP
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+TKOF RWY 09/ APCH RWY 27
+Mountain
+HGT 138 m.MSL
+See Aerodrome Obstacle Chart Type A
+Mountains
+HGT 130, 268 and
+210 m.MSL (North)
+(Inner Horizontal Surface)
+NIL
+NIL
+Mountains
+HGT 141, 120, 139 and
+225 m.MSL (South)
+(Inner Horizontal Surface)
+NIL
+NIL
+Mountains
+HGT 295 and 335 m.MSL
+(Conical Surface)
+NIL
+NIL
+Mountains
+HGT 141 m.MSL (North)
+(Transitional Surface)
+NIL
+NIL
+LLWAS
+HGT 69 m.MSL
+LGTD
+(Transitional Surface)
+08 06 41.8N
+098 19 23.9E
+NIL
+VTSP
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Southern West-Coast Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Southern West-Coast Meteorological Center
+30 HR
+4
+Trend forecast
+Interval of issuance
+30 MinTSERVICE;Annotation:2207.eng;822
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2208.eng;822
+Tel: +667 632 8149TSERVICE;Annotation:2209.eng;822
+Fax: +667 632 8148TSERVICE;Annotation:2210.eng;822
+6
+Flight documentation
+Language(s) used
+ChartsTSERVICE;Annotation:2211.eng;822, Tabular formsTSERVICE;Annotation:2212.eng;822 and Abbreviated Plain Language TextsTSERVICE;Annotation:2213.eng;822
+English
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2214.eng;822, U85TSERVICE;Annotation:2215.eng;822, U70TSERVICE;Annotation:2216.eng;822, U50TSERVICE;Annotation:2217.eng;822, U40TSERVICE;Annotation:2218.eng;822, U30TSERVICE;Annotation:2219.eng;822, U25TSERVICE;Annotation:2220.eng;822, U20TSERVICE;Annotation:2221.eng;822, SWHTSERVICE;Annotation:2222.eng;822, SWMTSERVICE;Annotation:2223.eng;822, SWLTSERVICE;Annotation:2224.eng;822, P85TSERVICE;Annotation:2225.eng;822, P70TSERVICE;Annotation:2226.eng;822, P50TSERVICE;Annotation:2227.eng;822, P40TSERVICE;Annotation:2228.eng;822, P30TSERVICE;Annotation:2229.eng;822, P25TSERVICE;Annotation:2230.eng;822, P20TSERVICE;Annotation:2231.eng;822, P15TSERVICE;Annotation:2232.eng;822, satellite and radar imagesTSERVICE;Annotation:2233.eng;822
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Phuket TWR
+Phuket APP
+10
+Additional information (limitation of service, etc.)
+NIL
+VTSP
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCR) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+09
+085°
+3000x45
+PCR 800/F/A/X/
+Asphalt
+080643.05N
+0981811.90E
+7 m/22 ft
+27
+265°
+3100x45
+PCR 800/F/A/X/
+Asphalt
+100 m BFR THR
+(Displacement)
+Is PCR 1240/R/C/W/T
+Concrete
+080652.23N
+0981949.46E
+25.6 m/84.0 ft
+TDZ 25.6 m/84.0 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12
++0.25% +0.05% +090% +0.80%
+(500m 1000m 2500m 3000m)
+TRWY_DIRECTION;Annotation:254.eng;217
+NIL
+NIL
+3120x150
+NIL
+NIL
+-0.80% -0.90% -0.05% -0.25%
+(600m 2100m 2600m 3100m)
+TRWY_DIRECTION;Annotation:256.eng;218
+NIL
+NIL
+3220x150
+YES
+NIL
+VTSP
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+09
+3000
+3000
+3000
+3000
+NIL
+27
+3100
+3100
+3100
+3000
+NIL
+VTSP
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+09
+NIL
+Green
+PAPI
+Both
+3°
+66.67 ft
+NIL
+NIL
+3000 m, 60 m
+FM 0 - 2400 m
+White: LIH
+FM 2400 m - 3000 m
+Yellow: LIH
+Red
+NIL
+RTILTRWY_DIRECTION_ALS;Annotation:255.eng;184
+27
+SALS
+(7 Barrettes)
+420
+m
+LIH
+Green
+PAPI
+Both
+3.2°
+55.11 ft
+NIL
+NIL
+3100 m, 60 m
+FM 0 - 100 m
+Red: LIH
+FM 100 - 2500 m
+White: LIH
+FM 2500 m - 3100 m
+Yellow: LIH
+Red
+NIL
+NIL
+VTSP
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: On the top of control towerTAERO_GND_LGT;Annotation:1254.eng;523 FLG W G EV 2.5 secTAERO_GND_LGT;Annotation:850.eng;523. / IBN: NIL,
+H24
+2
+LDI location and LGT
+Anemometer location and LGT
+WDI
+: 1 Wind Direction Indicator near left PAPI 09TAD_HP;Annotation:1259.eng;349
+: 1 Wind Direction Indicator 350 m. left side FM THR 27TAD_HP;Annotation:1260.eng;349,
+100 m FM RCLTAD_HP;Annotation:1261.eng;349, illuminatedTAD_HP;Annotation:1262.eng;349
+Anemometer: See AD Ground Movement Chart
+3
+TWY edge and centre line lighting
+EDGE: All TWY
+CENTRE LINE: TWY H,J and P
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at RWY 27/09
+Switch over time : 0 sec.(UPS)TAD_HP;Annotation:1266.eng;349
+5
+Remarks
+NIL
+VTSP
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+Helicopters using active runway to take off and land as instructed by ATC. See VTSP AD 2.20 for the Helicopter Operation
+VTSP
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centre on 080650N 0981825E
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Phuket Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTSP
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Phuket Approach
+124.7 MHz
+284.0 MHz
+121.5 MHz)
+243.0 MHz)2)
+H24
+1)Emergency frequency
+2)On radial 130, radial 170 and radial 210 at distance 15 NM altitude 2 500 ft are blind spot.
+ARR
+Phuket Arrival
+120.7 MHz | H24
+Phuket Tower
+118.1 MHz
+236.6 MHz)
+121.5 MHz)
+243.0 MHz)2)
+H24
+GND
+Phuket Ground
+121.9 MHz
+H24
+CDC
+Phuket Delivery
+118.55 MHz | H24
+A
+Phuket Intl Airport
+128.0 MHz
+H24
+VTSP
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+PU
+116.9 MHz
+CH 116X
+H24
+080650.2N
+0981825.1E
+30 m
+(100 ft)
+DVOR/DME restriction due to mountainous terrain surround station coverage check does not provide adequate signal 40 NM at required altitudes in various area as follows:
+Radial 360º-030º altitude should not below 5 500 ft.
+Radial 031º-170º altitude should not below 9 000 ft.
+Radial 171º-220º altitude should not below 7 000 ft.
+Radial 221º-359º altitude should not below 3 000 ft.
+ILS CAT I
+LOC
+27
+IPK
+109.9 MHz
+H24
+080647.7N
+0981819.6E
+ILS with non-standard localizer alignment, offset 1.4° from runway centre line, coverage over a sector of 35° either side of course, no back course and voice feature, the antenna array is located 245 m from end of RWY 27 120 m from runway centre line.
+Front course 266 Mag. Width 4.4°.
+Glide Path angle 3.2° .
+Middle Marker (MM without compass locator) distance 804 m. from approach end of RWY 27 .
+DME co-located with localizer
+Glide slope unusable starting at the middle marker (2.0 DME) to RWY THR. Glide slope shall not be used when DME out of service.
+GP 27
+333.8 MHz | H24
+080647.2N
+0981940.2E
+DME 27 | | CH 36X | H24
+080647.7N
+0981819.3E
+0 m
+(0 ft)
+MM
+75 MHz | H24
+080654.9N
+0982014.8E
+VTSP
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. SURFACE MOVEMENT PROCEDURE
+1.1 Ground Movement
+The supplementary of surface movement procedures has been established at Phuket International Airport as follows:
+1.1.1 Manoeuvring on movement area :
+Area of apron A, D and E is the blind spot area, when ATC instruction is issued, aircraft are to manoeuvre by pilot discretion.
+Special manoeuvring procedure at Phuket Aerodrome on TWY P, When visibility below 3,000 m., due to minimum distance between RWY centre line is 150 m. aircraft code letter C, D and E that taxiing on TWY P shall be instructed to hold, under the following conditions :
+Before departing aircraft code C,D, and E enters the runway for take-off or
+Before arriving aircraft code C, D and E crossing 4 NM final for landing.
+Taxiing on TWY P in connection with TWY E due to the minimum separation distance between TWY centre line and objects is 39.5 m wide body aircraft to taxi with extreme caution.
+2. USE OF RUNWAY
+To achieve the highest possible rate/hour for departure and arrival at Phuket International Airport, the runway occupancy times shall be reduced to a minimum. Therefore, the follow procedures are introduced;
+2.1 Departing aircraft
+Commensurate with safety and standard operating procedure, when in receipt of a line up clearance, pilots should ensure that they are able to taxi into the correct hold and line up position on the runway as soon as the preceding aircraft has commenced its take-off roll.
+Cockpit checks should be completed before line up, any further checks requiring completion whilst on the runway shall be kept to a minimum. Pilots should ensure that they are able to commence the take-off roll immediately after a take-off clearance is issued.
+Pilots unable to comply with these procedures shall inform ATC prior to passing the runway holding position.
+To reduce communication workload when a take off clearance has been issued by ATC, all departing aircraft shall still remain on the TWR freq. 118.1 MHz from commencing take off roll until further advised.
+2.2 Arriving aircraft
+Pilots are reminded that runway occupancy time should be kept to the minimum on the landing runway enables ATC to apply minimum spacing on Final Approach that will achieve maximum runway utilization as well as minimize the occurrence of go-arounds.
+3. START-UP PROCEDURE
+3.1 When Flight Formalities have been completed, Pilot of all aircraft, other than VFR domestic flight, shall contact Phuket Delivery Control on frequency 118.55 MHz 5 minutes before start up engine for request ATC Clearance, as appropriate information, of the following :
+Aircraft call sign
+Type of aircraft and category, if HEAVY
+Parking stand number / Location
+Identified of the latest ATIS received
+Destination
+Proposed flight level, if it is different from the filed flight plan
+3.2 After received ATC Clearance, Pilot shall read back the following information :
+Call sign
+Destination
+SID and route
+Level
+Transponder Code, and
+Any restriction
+3.3 Pilot shall contact Phuket Ground Control on frequency 121.9 MHz for push back and start-up, after ATC Clearance has been received.
+3.4 Unless other ATC restriction is imposed, the aircraft must be push back within 5 minutes from the time ATC clearance is received otherwise the ATC clearance will be cancelled. Additionally, in order to provide a more flexible ground traffic movement, all domestic departures shall no longer be required to push back within 5 minutes after clearance received.
+3.5 If ATC clearance includes a departure time restriction in order to establish longitudinal separation, pilots shall maintain listening watch on Phuket ground in readiness for push back and are to call Phuket Ground in the appropriate time with the departure time restriction. Pilots who fail to comply with these requirements or amended departure time restriction will result in cancellation of ATC clearance.
+3.6 When the weather condition below VMC, all of VFR operations on and in the vicinity of the Phuket aerodrome shall be suspended by Phuket Tower or Phuket Approach, if the pilot request SVFR, shall contact Phuket Delivery Control for SVFR clearance.
+3.7 Communication failure procedure: If unable to contact Phuket Delivery Control, Pilot of all aircraft shall contact Phuket Ground Control on frequency 121.9 MHz for request ATC clearance.
+3.8 All aircraft shall start-up and push back with minimum power.
+3.9 Pilot are reminded they shall start-up only one engine with minimum power (on idle power) when parking at aircraft stand or during push back. The other engines shall be allowed to start-up when push back procedure is complete (tow bar has been disconnected) and aircraft is aligned with the taxilane.
+3.10 In case the pilot needs to start-up engine more than minimum power (such as Cross-Bleed Start Up), an approval must be received from ATC before push back. Pilots shall start-up engine more than minimum power within the taxilane only, a delay may result in requesting for such operation.
+3.11 In case the pilot needs to test engine after repairing or replace new engines to the aircraft. Testing shall be conduct during the hours of 2300-1400 UTC at stand No.99 on taxiway A, heading of the aircraft to east.
+3.12 For the purpose of noise and carbon emission reduction on the apron area, any aircraft that is designated to park at the stand served with passenger loading bridges shall utilize the fixed ground power supply(400Hz) and fixed pre-conditioned air supply provides by the airport if airport if serviceable.
+Fixed ground power supply(400Hz)-Operators are recommended to reduce electric load immediately after parking. May be used but not more than 5 minutes after the aircraft has parked. If fixed ground power supply is out of service, mobile GPU may be used.
+Fixed Pre-Conditioned Air (PCA) supply-Operators are recommended to turn off the cabin air re-circulation system to prevent outside air mixing with PC-Air. If fixed PCA is out of service, mobile ACU may be used.
+In the event of an aircraft needs to run an APU, it could be done only when park on the remote parking stands which are far from the concourse buildings.
+4. PUSH BACK PROCEDURE
+APRON A
+4.1 Push back (Face to North or Face to South) procedures for an aircraft parking at stand number 7 through 16 will be advised by ATC.
+Aircraft stand | Taxi out | Push Back Instruction
+10 and 11 | T3 | Aircraft shall be pushed back face to north then further to the tow-bar release on marking (6) behind aircraft stand number 12L.
+10 and 11 | T5 | Aircraft shall be pushed back face to south then further to the tow-bar release on marking (3) behind aircraft stand number 9.
+15 | T2 | Aircraft shall be pushed back face to north then towed forward and the tow-bar released behind aircraft stand number 14.
+15 | T7 | Aircraft shall be pushed back face to south then further to the tow-bar release on marking (7) behind aircraft stand number 15.
+16 | T7 | Aircraft shall be pushed back face to south then further to the tow-bar release on marking (7) behind aircraft stand number 15.
+APRON B
+4.2 Push back (Face to East or Face to West) procedures for an aircraft parking at stand number 1 through 6 will be advised by ATC.
+Apron D
+4.3 Push back (Face to North or Face to South) procedures for an aircraft parking at stand number 31 through 40 will be advised by ATC.
+Aircraft stand | Taxi out | Push Back Instruction
+33L, 33, 34L, 34, 34R and 35 | T5 | Aircraft shall pushed back face to south then further to the tow-bar release on marking (1) behind aircraft stand number 33R.
+34L, 34, 34R and 35 | T4 | Aircraft shall pushed back face to north then further to the tow-bar release on marking (4) behind aircraft stand number 36.
+39 | T1 | Aircraft shall pushed back face to north towed forward and the tow-bar released behind aircraft stand number 38.
+39 | T7 | Aircraft shall pushed back face to south then further to the tow-bar release on marking (5) behind aircraft stand number 39.
+40 | T7 | Aircraft shall pushed back face to south then further to the tow-bar release on marking (5) behind aircraft stand number 39.
+Apron E
+4.4 Push back procedures for an aircraft parking at stand number 51 through 54 will be as follows:
+Apron | Aircraft Stand | Taxi out | Push Back Instruction
+E
+51
+(for private aircraft only)
+Taxiway K
+Aircraft shall be pushed back in south direction until nose gear is on “apron safety line” then swing aircraft nose forward in easterly direction facing south and tow to a release point at Taxiway “K”.
+52, 52L, 52R, 53, 53L,53R and 54
+(for private aircraft only)
+Taxiway K
+Aircraft shall be pushed back face to east until nose gear is on "apron safety line” of parking stand number 51 then tow to a release point at Taxiway “K”.
+Remarks
+- Pilots shall contact ATC for engine start-up when aircraft is at a release point.
+- Pilots are reminded that no engine start-up is permitted on Apron E. The engines shall be allowed to start-up when push back procedure is completed (tow bar has been disconnected) and aircraft is aligned with the taxiway “K”.
+4.5 Due to aircraft congestion, self-manoeuvring is not permitted at any parking stand, all aircraft must use tow-bar or towbar-less tractor for push back procedure.
+4.6 Area of Apron A, D and E are the blind spot area. Aircraft have to manoeuvre by push back procedures and pilot discretion.
+5. PARKING PROCEDURE
+5.1
+Apron A: Use Taxilane T1, T2, T3, T4, T5, T6 and T7 to enter or exit aircraft stand number 7 – 16 as advised by ATC.
+5.2
+Apron B: Use Taxiway P to enter or exit aircraft stand number 1 – 6 as advised by ATC.
+5.3 Apron D: Use Taxilane T1, T2, T3, T4, T5, T6 and T7 to enter or exit aircraft stand number 31-40 as advised by ATC.
+5.4 Apron E
+5.4.1 Parking procedures
+Aircraft Stand | Parking Instruction
+51 | Aircraft shall enter aircraft parking stand via taxiway “K” by using idle power and follow
+marshaller.
+52, 52L, 52R, 53, 53L, 53R and 54 | Aircraft shall taxi to “basic marshaller and towing stop line” via taxiway “K” by follow marshaller then shut down engine and enter to aircraft parking stand by towing only.
+Remarks: For aircraft that taxiing into Apron E, pilot shall be reminded that engine power is not permitted after “Basic Marshaller and Towing Stop Line” for parking at aircraft parking stand number 52 – 54. Idle power can be used for aircraft taxiing into aircraft parking stand number 51 only.
+5.5 The area between aircraft stands safety line belonging to aircraft stands number 1 through 6, 7 through 16 and 31 through 40 can be used as a temporary parking (during aircraft being in service only) for vehicles and ground service equipment.
+6. PROCEDURES FOR PRIVATE JET TAKING OFF AND LANDING AT PHUKET INTERNATIONAL AIRPOR
+(Except private jet aircraft operated at Siam Land Private Jet Terminal (Apron E)
+6.1 All private jet aircraft which has the permission granted by The Civil Aviation Authority of Thailand (CAAT) concerned to take off and land at Phuket International Airport, shall have Ground Handling Agent.
+6.2 Procedures for private jet aircraft wishing to stay overnight.
+6.2.1 Aircraft owner/operator or PIC shall prepare the information as following:
+Passengers information (First name, last name, position, and overnight parking purposed);
+Aircraft nationality and registration marks;
+Aircraft type, weight, and height of aircraft;
+Date and time of arrival and departure;
+Route of Flight;
+Owner of the aircraft.
+6.2.2 Aircraft owner/operator or PIC shall inform The Airports of Thailand Public Company Limited (AOT) at least three (3) workdays before the arrival aircraft
+6.3 The aircraft shall be pushed back by using the tow-bar or towbar-less tractor only. If the aircraft does not have such equipment, it will not be allowed to self-maneuver.
+6.4 The Private jet aircraft that is granted to operate at Phuket International Airport shall commence the flight in accordance with the approved time slot by the Slot Coordination Committee. If the flight is delay or arrive early, it should not more than 2 hours. In addition, when there is a change in the approved time slots, the aircraft shall notify the airport before flight commencement.
+6.5 For further information, contact the following
+Unit: Airside Operation Department, Phuket International Airport
+Tel: +667 635 1887
+Fax: +667 632 7478
+E-mail: [email protected]
+7. 180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, aircraft with wingspan of 24 m and greater are not allowed to make 180 degrees turn on the runway. The turn shall be made on the runway turn pad located near the threshold of runway 27. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator and shall be liable for the compensation caused by such violation.
+8. SAFEGATE DOCKING SYSTEM – IN SYSTEM AT PHUKET INTERNATIONAL AIRPOR
+8.1 INTRODUCTIONS
+8.1.1 The SAFEGATE Docking System – in system is install at aircraft stand identification no. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16 and 31, 32L, 32, 32R, 33L, 33, 33R, 34L, 34, 34R, 35, 36, 37, 38, 39 and 40
+8.1.2 The system enables the pilots seated on the left of the cockpit to position his aircraft on the correct stand centre line and stop position
+8.2 PILOT OPERATING INSTRUCTION
+8.2.1 Safety procedure
+General warning
+The VDGS system has a built-in error detection program to inform the aircraft pilot of impending dangers during the docking procedure. If the pilot is unsure of the information, being shown on the VDGS display unit, he must immediate stop the aircraft and obtain further information for clearance.
+Item to check before entering the stand area
+Warning : The pilot shall not enter the stand area, unless the docking system first is showing the vertical running arrows. The pilot must not proceed beyond the bridge, unless these arrows have been superseded by the closing rate bar.
+Warning : The pilot shall not enter the stand area, unless the aircraft type displayed is equal to the approaching aircraft/ The Correctness of other information, such as ‘door 2’, shall also be checked.
+Safety Back Up (SBU) message
+The message STOP Safety Back Up (SBU) means that docking has been interrupted and has to be resumed only by manual guidance. Do not try to resume docking without manual guidance.
+START-OF-DOCKING
+When the system is ready to operate, WAIT will be displayed.
+CAPTURE
+The floating arrows indicate that the system is activated and in capture mode, searching for an approaching aircraft. It shall be checked that the correct aircraft type is displayed. The lead-in line shall be followed. The pilot must not proceed beyond the bridge, unless the arrows have been superseded by closing rate bar.
+TRACKING
+When the aircraft has been caught by the laser, the floating arrow is replaced by the yellow centre line indicator. A flashing red arrow indicates the direction to turn. The vertical yellow arrow shows position in relation to the centre line. This indicator gives correct position and azimuth guidance.
+CLOSING RATE.
+Display of digital countdown will start when the aircraft is 20 m from stop position.When the aircraft is less than 12 m from the stop position, the closing rate is indicated by turning off one row of the centre line symbol per 0.5 m, covered by the aircraft. Thus, when the last row is turned off, 0.5 m remains to stop.
+ALIGNED TO CENTRE.
+The aircraft is 8 m from the stop position. The absence of any direction arrow indicates an aircraft on the centre line.
+SLOW DOWN.
+If the aircraft is approaching faster than the accepted speed, the system will show SLOW DOWN as a warning to the pilot.
+AZIMUTH GUIDANCE.
+The aircraft is 4 m from the stop-position. The yellow arrow indicates an aircraft to the right of the centre line, and the red flashing arrow indicates the direction to turn.
+STOP POSITION REACHED.
+When the correct stop-position is reached, the display will show STOP and red lights will be lit.
+DOCKING COMPLETE.
+When the aircraft has parked, OK will be displayed.
+CHOCKS ON.
+CHOCK ON will be displayed, when the ground staff has put the chocks in front of the nose wheel and pressed the “Chocks On” button on the operator panel.
+OVERSHOOT.
+If the aircraft overshoot the stop-position, TOO FAR will be displayed.
+BAD WEATHER CONDITION.
+During heavy fog, rain or snow, the visibility for the docking system can be reduced. When the system is activated and in capture mode, the display will deactivate the floating arrows and show DOWN GRADE. This message will be superseded by the closing rate bar, as soon as the System detects the approaching aircraft. The pilot must not proceed beyond the bridge, unless the DOWN GRADE text has been superseded by the closing rate bar.
+AIRCRAFT VERIFICATION FAILURE.
+During entry into the stand, the aircraft geometry is being checked. If, for any reason, aircraft verification is not made 15 m before the stop-position, the display will first show WAIT and make a second verification check. If this fails STOP and ID FAIL will be displayed. The text will be alternating on the upper two rows of the display. The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+GATE BLOCKED.
+If an object is found blocking the view from the VDGS to the planned stop position for the aircraft, the docking procedure will be halted with a GATE BLOCK message. The docking procedure will resume as soon as the blocking object has been removed. The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+VIEW BLOCKED.
+If the view towards the approaching aircraft is hindered for instance by dirt on the window, the VDGS will report a view block condition. Once the system is able to see the aircraft through the dirt, the message will be replaced with a closing rate display. The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+Safety Back Up (SBU)-STOP
+Any unrecoverable error during the docking procedure will generate a Safety Back Up (SBU) condition. The display will show red stop bar and the text STOP SBU. A manual backup procedure must be used for docking guidance.
+EMERGENCY STOP
+When the emergency stop button is pressed, STOP is displayed.
+ERROR
+If a system error occurs, the message ERROR is display with an error code. The code is used for maintenance purposes and explained else where.
+SYSTEM BREAKDOWN
+In case of a severe system failure, the display will go black, except for a red stop indicator. A marshalling service will be used for docking guidance.
+POWER FAILURE
+In case of a power failure, the display will be completely black. A marshalling service will be used for docking guidance.
+9. General Information
+The supplementary of general information has been established at Phuket International Airport as follows :-
+9.1
+APRON A and B
+Type of apron : Remote parking and Passenger boarding bridge parking.
+Aircraft can be parked for overnight parking and layover.
+Nose-in parking system
+Visual Docking Guidance System-VDGS is provided at stand 1-6 for apron B and stand 7-16 for apron A. If VDGS is out of service, a marshaller shall guide the aircraft to the parking position.
+Visual Docking Guidance System-VDGS is not provided for Multi-Aircraft Ramp System (MARS) stand (12L,12R,14L,14R), a marshaller shall guide the aircraft to the parking position.
+Refuel JET A-1 and AVGAS by trailer and hydrant system.
+9.2 APRON D
+Type of apron : Remote parking
+Aircraft can be parked for overnight parking and layover.
+Nose – in parking system
+Visual Docking Guidance System-VDGS is provided at each stand (included Multi-Aircraft Ramp System (MARS) stands 32L, 32R, 33L, 33R, 34L, 34R). If VDGS is out of service, a marshaller shall guide the aircraft to the parking position.
+Refuel JET A-1 and AVGAS by trailer and hydrant system.
+9.3 APRON E
+Type of Apron: Remote parking (for private aircraft only)
+Aircraft can be parked for overnight parking and layover.
+Nose-in aircraft parking.
+Visual Docking Guidance System-VDGS is not provided. Marshaller shall guide aircraft to the parking position.
+The aircraft parking stand number 52 (including 52L, 52R) and 53 (including 53L, 53R) are Multiple Aircraft Ramp System (MARS) stand.
+Refuel JET A-1 and AVGAS by trailer.
+9.4 Aircraft stand taxilane
+Taxilane T1 is the parallel to Taxilane T2. (Taxilane T1 located behind aircraft stand 31-40 and Taxilane T2 located behind aircraft stand 7-16)
+The distance between centre lines of T1 and T2 is 80 m.
+The distance between centre line of Taxilane T1 and aircraft tail limit line is 47.50 m.
+The distance between centre line of Taxilane T2 and aircraft tail limit line is 47.40 m.
+Taxilane T3, T4, T5, T6 and T7 connected with Taxilane T1 and T2 can accommodate aircraft code letter E and below
+The distance between centre line of taxilane and aircraft tail limit line of aircraft stand number 52 - 54 is 23 m.
+9.5 Ground services are provided by aircraft operating agency, for non-agency aircraft are persuaded to contact Blue Port Phuket (AOTGA) on VHF 129.350 MHz 15 minutes prior to arrival or notify by Flight Plan.
+10. Removal of disabled aircraft
+10.1 When the aircraft is involved in an accident at Phuket International airport, the aircraft operator or the registered owner is responsible for removal of its disabled aircraft. If the accident is likely to cause danger or obstruction to the movement of other aircraft or vehicles, the General Manager of Phuket International airport or his authorized representative may order the aircraft operator or the registered owner to remove its disabled aircraft without delay.
+10.2 If the aircraft operator or the registered owner does not comply with such order, the General Manager of Phuket International airport or authorized representative shall empower to remove the aircraft himself. The expense incurred in removing such aircraft shall be recovered from aircraft operator or the registered owner. The General Manager of Phuket International airport or authorized representative shall not be responsible for any damage occurring to the aircraft during its removal.
+11. Helicopter Operations
+11.1 All helicopter operate in Phuket International Airport shall be treated as fixed wing aircraft and shall strictly follow ATC instruction.
+11.2 There are no helicopter alighting areas at the airport. All inbound and outbound helicopters must use the runways.
+11.3 Helicopter handling agents are to obtain slot allocation for all flights.
+11.4 Helicopters may not carry out direct approaches to or take-off from apron areas or taxiways.
+11.5 After landing, helicopters will ground taxi or air taxi to an allocated parking area (usually an adjacent stand). A leader vehicle will normally be in attendance.
+11.6 While helicopters are operating on the manoeuvring area extreme caution must be exercised regarding wingtip clearance and turbulence.
+12. AIRPORT COLLABORATIVE DECISION MAKING (A-CDM)
+12.1 GENERAL
+12.1.1 The Airport Collaborative Decision Making (A-CDM) process at Phuket International Airport is designed to optimize resource management through the utilization of advanced tools and technologies. This process prioritizes collaboration among key stakeholders, including Airport Operator (AP), Air Traffic Controller (ATC), Air Traffic Flow Management Unit (ATFMU), Ground Handlers (GH), Aircraft Operator (AO) and other partners, to ensure adherence to the highest standards of safety, security, environmental sustainability and community welfare.
+12.1.2 All flights operated at Phuket International Airport are required to participate in the A-CDM to optimize airport operations by sharing accurate and timely information among airport partners. The process can help balance the number of flights with an ability to handle, both under normal situation and under any occurrence requiring co-decision making.
+12.2 DEFINITION OF TERMS COMMONLY USED IN A-CDM
+12.2.1 Target Off-Block Time (TOBT) - The time that an Aircraft Operator (AO) or Ground Handler (GH) estimates that an aircraft will be ready, all doors closed, boarding bridge removed, pushback vehicle available and ready to start-up and push back immediately upon reception of clearance from the Aerodrome Control Tower (TWR).
+12.2.2 Target Start-Up Approval Time (TSAT) - The time provided by ATC taking into account TOBT, CTOT and/or the traffic situation that an aircraft can expect start-up / push back approval.
+12.2.3 Calculated Take-Off Time (CTOT) - A time calculated and issued by the appropriate Central Management unit, as a result of tactical slot allocation, at which a flight is expected to become airborne.
+12.3 A-CDM OPERATIONAL ASPECTS
+12.3.1 INTRODUCTION
+This section details the key operational aspects of the Airport Collaborative Decision Making (A-CDM) process at Phuket International Airport, focusing on Target Off-Block Time (TOBT), Target Start-Up Approval Time (TSAT), and start-up and pushback procedures. It defines the roles and responsibilities necessary to ensure efficient and coordinated pre-departure operations, helping to minimize delays and optimize airport efficiency.
+12.3.2 Phuket A-CDM Procedure Overview
+The chart below describes the simple overview of the Pre-Departure process at Phuket International Airport from the time that airlines input the TOBT to the time that aircraft is airborne. It includes the responsibilities and procedures in brief, as described below.
+12.3.3 Target Off-Block Time (TOBT) Procedures
+12.3.3.1 General
+The TOBT is the essential contribution of airlines to the A-CDM process which establishes the Pre-Departure Sequence taking into account operators preferences and operational constraints. Airlines or person responsible for the TOBT are required to access and manually input the TOBT into the A-CDM Portal in order that the start-up approval time (TSAT) can be expected.
+12.3.3.2 Person Responsible for TOBT
+Aircraft operator (AO) is responsible for the input of and adherence to the TOBT. However, AO may prefer to delegate this function to ground handler (GH). It is the responsibility of the AO/GH to communicate and ensure that the pilot of a flight has the correct TOBT and TSAT prior to requesting ATC clearance. AO need to ensure that a timely, accurate and stable TOBT is provided. If it becomes obvious that the TOBT cannot be respected, it shall be updated by the person responsible for the TOBT as early as possible.
+12.3.3.3 TOBT Input and Revision
+The following has to be taken into account for the input and/or revision of the TOBT:
+The initial TOBT can be entered up to 120 minutes (2 hours) before the Estimated Off-Block Time (EOBT).
+TOBT entries cannot be set to a time earlier than the current time.
+TOBT updates can be made as frequently as necessary until the TSAT is issued (40 minutes before TOBT).
+After the TSAT is issued, the TOBT can be revised up to 5 times to maintain operational stability.
+Any new TOBT must differ by at least 5 minutes (+/ - 5 minutes) from the last entered TOBT to ensure a consistent
+Pre-Departure Sequence.
+12.3.3.4 Flights with Calculated Take-Off Time (CTOT)
+Flights with CTOT will usually take priority when calculating TSATs in order to minimize potential CTOT delay.
+12.3.3.5 TOBT Deletion
+Only users authorized to input or revise TOBT can delete a TOBT.
+If the TOBT is deleted, the TSAT will be automatically deleted.
+The TOBT must be deleted in the following situations:
+When the TOBT cannot be estimated, such as due to technical problems with the aircraft., or
+When the permitted number of TOBT inputs (5 times) after the generation of the TSAT has been exceeded.
+If a new TOBT is available, the process shall continue, and the responsible person must input the new TOBT.
+12.3.3.6 TOBT Reporting Channels
+The TOBT is reported or updated by the following ways:
+A-CDM Portal Web Based Application (https://acdm.airportthai.co.th)
+A-CDM Portal Mobile Application
+12.3.4 Target Start-Up Approval Time (TSAT) Procedures
+12.3.4.1 General
+The TSAT is calculated based on the following key parameters:
+Target Off-Block Time (TOBT)
+Calculated Take-Off Time (CTOT)
+Operation Capacity
+Variable Taxi Time (VTT)
+Parking Stand
+Departure Runway
+12.3.4.2 TSAT Distribution and Management
+The TSAT is displayed and distributed 40 minutes prior to the TOBT.
+After TSAT has been distributed, the TOBT can only be revised not more than 5 times to ensure a stable sequence and accurate CTOT allocation.
+Any subsequent TOBT revision will trigger a recalculation of the TSAT. An incorrect TOBT can lead to disadvantages in further sequencing and/or CTOT allocation for regulated flights.
+The TSAT may be subject to change and can be revised due to air traffic management considerations.
+The AO or GH is responsible for updating and ensuring that the pilot has the correct TOBT and TSAT before requesting ATC clearance.
+12.3.4.3 TSAT Reporting Channels
+The TSAT will be issued to airlines or person responsible for TOBT via:
+A-CDM Portal Web Based Application (https://acdm.airportthai.co.th)
+A-CDM Portal Mobile Application
+12.3.5 Start-Up and Push Back Procedures
+12.3.5.1 General
+Start-up and push back approval are issued taking into account the TOBT and TSAT. The sequence of the start-up and push back request is no longer a factor. The following rules apply:
+12.3.5.2 Start-Up and Push Back Procedures
+To ensure the pilot receives accurate TOBT and TSAT before requesting start-up and push back clearance, the AO or GH shall communicate and confirm the times with the pilot in advance.
+Pilots shall ensure that the aircraft is ready for push back at the TOBT.
+After obtaining ATC clearance, the pilot shall monitor the designated Ground Control frequency according to the aircraft parking stand.
+If there is any change to the TSAT, Ground Control will update the pilot as soon as possible.
+The pilot shall contact Ground Control for start-up and push back at TSAT +/- 5 minutes (TSAT window). The following scenarios may occur:
+Before the TSAT window: The flight will be asked to call again when it is within the TSAT window.
+Within the TSAT window: The flight will be planned for the outbound sequence and can expect start-up approval directly or within a few minutes, depending on the actual operational situation.
+After the TSAT window: The TSAT for the flight has expired. The flight will be denied start-up approval. The pilot must contact the AO/GH to update the TOBT and then contact ATC again once the TOBT update has resulted in a new TSAT.
+Ground Control will issue start-up and push back clearance by taking the TSAT into account.
+If a flight is unable to push back due to the aircraft not being ready, the TSAT will be cancelled. The pilot must notify the AO/GH to update the TOBT for a new TSAT.
+Note: When a departing aircraft is occupying a gate that has been assigned to an arriving aircraft, the departing aircraft may be instructed by ground control to push back onto the taxiway without engine start-up to allow the arriving aircraft to taxi in. An Expected Taxi Time will be provided accordingly.
+12.4 A-CDM IN ADVERSE CONDITION
+12.4.1 Adverse conditions, such as severe weather events, technical disruptions, or unexpected incidents, can significantly impact airport capacity and the overall flow of air traffic. In such situations, A-CDM partners must follow established procedures within their respective roles to effectively manage disruptions, minimize delays, and ensure operational continuity.
+12.4.2 In the event of adverse conditions, the A-CDM process will continue as usual. However, to ensure smooth and efficient operations, additional cooperation and TOBT management may be required.
+12.4.2.1 Pilots shall contact ATC within the TSAT window (+/- 5 minutes from TSAT) to request start-up clearance and push back approval from the stand. If there is a change in TSAT, ATC will inform the pilots accordingly
+12.4.2.2 GH/AO must update TOBT at the end of the turnaround, especially during adverse conditions, to ensure accurate departure sequencing and minimize delays.
+12.5 NON A-CDM OPERATIONS
+12.5.1 In case of unavailability or maintenance of A-CDM system, TSAT will not be provided and Non A-CDM Operation shall be performed.
+12.5.2 During period of Non A-CDM Operations, pilot shall request for ATC clearance when the aircraft is ready for push back. ATC will then issue start-up and push back clearance on a first-come-first-serve basis.
+12.6 CONTACT
+A-CDM Contact Desk
+Tel: +667 635 1875 / +667 635 1886
+E-mail: [email protected]
+VTSP
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTSP
+AD 2.22 FLIGHT PROCEDURES
+1. VFR REPORTING POINTS AND LOCAL PROCEDURES
+PHUKET INTERNATIONAL AIRPORT
+Reporting points for VFR flight
+In order to expedite and maintain an orderly flow of air traffic into airport, the procedure of the inbound traffic of VFR flights, conventional and prop-jet aircraft, be set up as follow:
+Aircraft entering to land from north of Phuket International Airport, shall report over Thai Muang District, designated as TANGO MIKE (0823.5N 09816.0E) and Ban Khok Kloi designated as KILO KILO (0816.0N 9819.0E) which are approximately 17 NM on R-352 and 9 NM on R-360 of PUT VOR/DME respectively. When reaching KK the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from northeast of Phuket International Airport, shall report over Phang Nga City, designated as PAPA NOVEMBER (0826.5N 09831.5E) which is 24 NM on R-033 of PUT VOR/DME. When reaching PN the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from east of Phuket International Airport, shall report over Ko Yao Noi, designated as YANKEE NOVEMBER (0807.0N 09837.0E) which is 18 NM on R-089 of PUT VOR/DME. When reaching YN the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from south of Phuket International Airport, shall report over Ko Racha Yai, designated as ROMEO CHARLIE (0736.0N 09822.0E) and Phuket City, designated as PAPA KILO (0753.0N 9823.5E) which are approximately 31 NM on R-174 and 15 NM on R-160 of PUT VOR/DME respectively. When reach PK the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aerodrome traffic circuit
+Using both sides of traffic circuit.
+Overhead approach pattern
+Using runway 09 by left turn pattern.
+Using runway 27 by left turn pattern.
+2. SPEED CONTROL PROCEDURE IN PHUKET TMA
+All arriving turbo-propeller and turbo-jet aircraft when flying below 10000 ft AMSL are subject to fly not faster than indicated air speed 230 knots unless authorized by ATC.
+Speed will be reduced to 180 knots at Intermediate fix (Including aircraft from RNAV STAR), or shortly before closing heading to intercept or to establish the final course,
+150 to 160 knots at FAP or FAF; all speed to be flown as accurately as possible. At the other times, speed control may be applied on a tactical basis to extent determined by ATC.
+Pilots who unable to comply with the speed limits specifics above for reasons of flight safety and/or weather conditions should inform ATC and state the speed acceptable.
+ATC will notify that the aircraft may keep its preferred speed without restriction and will use the phrase “NO SPEED RESTRICTIONS”. An instruction to notify that the aircraft need no longer comply with the previous issued speed restriction,the phrase “RESUME NORMAL SPEED” will be used.
+All aircraft navigating under conditions of RNAV STARs shall conform to speed limitation as published then at IF pilot shall comply with speed control procedures unless otherwise instructed by ATC.
+If the pilots do not comply, the flight shall follow ATC instruction for re-sequencing.
+NOTE - an instruction to “RESUME NORMAL SPEED” does not cancel speed restrictions that applicable to published procedure of upcoming segments of flight, aircraft shall comply speed restrictions specified in a) b) and c)
+VTSP
+AD 2.23 ADDITIONAL INFORMATION
+1. Bird concentrations in the vicinity of Phuket International Airport
+It has been observed that migratory birds in sizeable number appear on or in the vicinity of Phuket International Airport mostly depends on the time of year and geographical conditions which may divided into Rainy season (May to October), Winter season (October to February) and Summer season (March to April), while the resident birds are present in variable number every month.
+Pilots are requested to report bird strikes to the General Manager of the airport via
+Wildlife Hazard Control staff
+Phone +667 635 1216
+E-mail: [email protected]
+Species which account for high to very high to bird strike risk are as follows:
+Species | Weight (kg) | Period
+Haliastur indus (Brahminy Kite) | 0.32 - 0.67 | All year (mostly in April - October)
+Milvus migrans (Black Kite) | 0.56 - 0.94 | All year (mostly in April - October)
+Spilornis cheela (Crested Serpent Eagle) | 0.42 - 1.8 | All year (mostly in April - October)
+Tyto alba (Barn Owl) | 0.43 - 0.62 | All year (at night time)
+Bubulcus ibis (Cattle Eagle) | 0.27 - 0.51 | All year (mostly in May - October)
+Ardea intermedia (Intermediate Egret) | 0.4 - 0.5 | All year (mostly in May - October)
+Ardeola sp. (Pond Heron sp.) | 0.3 - 0.4 | August - April
+Vanellus indicus (Red-Wattled Lapwing) | 0.11 - 0.23 | All year (mostly in February - August)
+Glareola maldivarum (Oriental Pratincole) | 0.059 - 0.095 | February - October
+Charadrius sp. (Plover sp.) | 0.030 - 0.060 | All year (mostly in October - February)
+Hirundo tahitica (Pacific Swallow) | 0.011 - 0.060 | All year (mostly at dawn and twilight)
+2. Taxiing procedures for Apron E
+Taxiing procedures to/from Apron E for departing and arriving private jet are prescribed as follow:
+2.1 Departures
+Runway 09 in use: aircraft shall taxi via Taxiway K then enter and taxi down on runway to vacate at Taxiway B and taxi via Taxiway P and A to holding point runway 09 or as directed by ATC. (For aircraft departure from intersection Taxiway K, runway remaining distance is 2340 m)
+Runway 27 in use: aircraft shall taxi via Taxiway K then enter and taxi down on runway to vacate at Taxiway B and taxi via Taxiway P and G (or H, J) to holding point runway 27 or as directed by ATC. (For aircraft departure from intersection Taxiway G, runway remaining distance is 2500 m)
+2.2 Arrivals
+Runway 09 in use: aircraft shall be vacating runway via Taxiway F (or G, H) and taxi via Taxiway P and B then enter and taxi down on runway to vacate at Taxiway K or as directed by ATC.
+Runway 27 in use: aircraft shall be vacating runway via Taxiway K or as directed by ATC.
+3. EXEMPTION GRANTED BY THE CIVIL AVIATION AUTHORITY OF THAILAND (CAAT):
+CAAT has granted exemption vide letter dated 24.06.2024 for non-compliant of The Civil Aviation Authority of Thailand No.37 Aerodromes Standards, The details as follows:
+3.1 Article 145 and 146 Runway Strip for the period up to 24.02.2026
+3.2 Article 165 Runway End Safety Area for the period up to 24.02.2027
+3.3 Article 195 Separation distances between parallel taxiways and runways (Southern of aerodrome site) for the period up to 24.02.2027
+VTSP
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTSP-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTSP-2-3
+Aircraft Parking/Docking Chart - ICAO (Verso)
+AD 2-VTSP-2-4
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTSP-2-5
+Aerodrome Obstacle Chart - ICAO - Type A - RWY 09/27
+AD 2-VTSP-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 09 - ANPUB1A EMRIT1A EPGOT1A IGEVI1A ONETI1A REBED1A SATVA1A SAVSA1A SUSID1A UBNEN1A UPSAB1A
+AD 2-VTSP-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 09 - ANPUB1A EMRIT1A EPGOT1A IGEVI1A ONETI1A REBED1A SATVA1A SAVSA1A SUSID1A UBNEN1A UPSAB1A (Tabular description 1)
+AD 2-VTSP-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 09 - ANPUB1A EMRIT1A EPGOT1A IGEVI1A ONETI1A REBED1A SATVA1A SAVSA1A SUSID1A UBNEN1A UPSAB1A (Tabular description 2)
+AD 2-VTSP-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 09 - ANPUB1A EMRIT1A EPGOT1A IGEVI1A ONETI1A REBED1A SATVA1A SAVSA1A SUSID1A UBNEN1A UPSAB1A (Waypoint list table)
+AD 2-VTSP-6-4
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 27 - ANPUB1B EMRIT1B EPGOT1B IGEVI1B ONETI1B REBED1B SATVA1B SAVSA1B SUSID1B UBNEN1B UPSAB1B
+AD 2-VTSP-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 27 - ANPUB1B EMRIT1B EPGOT1B IGEVI1B ONETI1B REBED1B SATVA1B SAVSA1B SUSID1B UBNEN1B UPSAB1B (Tabular description 1)
+AD 2-VTSP-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 27 - ANPUB1B EMRIT1B EPGOT1B IGEVI1B ONETI1B REBED1B SATVA1B SAVSA1B SUSID1B UBNEN1B UPSAB1B (Tabular description 2)
+AD 2-VTSP-6-7
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 27 - ANPUB1B EMRIT1B EPGOT1B IGEVI1B ONETI1B REBED1B SATVA1B SAVSA1B SUSID1B UBNEN1B UPSAB1B (Waypoint list table)
+AD 2-VTSP-6-8
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 09 - ANPUB1C EMRIT1C EPGOT1C IGEVI1C MONBU1C ONETI1C SATVA1C SAVSA1C SUSID1C UBNEN1C UPSAB1C URGAD1C
+AD 2-VTSP-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 09 - ANPUB1C EMRIT1C EPGOT1C IGEVI1C MONBU1C ONETI1C SATVA1C SAVSA1C SUSID1C UBNEN1C UPSAB1C URGAD1C (Tabular description 1)
+AD 2-VTSP-7-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 09 - ANPUB1C EMRIT1C EPGOT1C IGEVI1C MONBU1C ONETI1C SATVA1C SAVSA1C SUSID1C UBNEN1C UPSAB1C URGAD1C (Tabular description 2)
+AD 2-VTSP-7-3
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 09 - ANPUB1C EMRIT1C EPGOT1C IGEVI1C MONBU1C ONETI1C SATVA1C SAVSA1C SUSID1C UBNEN1C UPSAB1C URGAD1C (Tabular description 3)
+AD 2-VTSP-7-4
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 09 - ANPUB1C EMRIT1C EPGOT1C IGEVI1C MONBU1C ONETI1C SATVA1C SAVSA1C SUSID1C UBNEN1C UPSAB1C URGAD1C (Waypoint list table)
+AD 2-VTSP-7-5
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - ANPUB1D EMRIT1D EPGOT1D IGEVI1D MONBU1D ONETI1D SATVA1D SAVSA1D SUSID1D UBNEN1D UPSAB1D URGAD1D
+AD 2-VTSP-7-7
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - ANPUB1D EMRIT1D EPGOT1D IGEVI1D MONBU1D ONETI1D SATVA1D SAVSA1D SUSID1D UBNEN1D UPSAB1D URGAD1D (Tabular description 1)
+AD 2-VTSP-7-8
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - ANPUB1D EMRIT1D EPGOT1D IGEVI1D MONBU1D ONETI1D SATVA1D SAVSA1D SUSID1D UBNEN1D UPSAB1D URGAD1D (Tabular description 2)
+AD 2-VTSP-7-9
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - ANPUB1D EMRIT1D EPGOT1D IGEVI1D MONBU1D ONETI1D SATVA1D SAVSA1D SUSID1D UBNEN1D UPSAB1D URGAD1D (Tabular description 3)
+AD 2-VTSP-7-10
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 27 - ANPUB1D EMRIT1D EPGOT1D IGEVI1D MONBU1D ONETI1D SATVA1D SAVSA1D SUSID1D UBNEN1D UPSAB1D URGAD1D (Waypoint list table)
+AD 2-VTSP-7-11
+Instrument Approach Chart - ICAO - VOR Y RWY 09
+AD 2-VTSP-8-1
+Instrument Approach Chart - ICAO - VOR Y RWY 27
+AD 2-VTSP-8-3
+Instrument Approach Chart - ICAO - VOR Z RWY 09
+AD 2-VTSP-8-5
+Instrument Approach Chart - ICAO - VOR Z RWY 27
+AD 2-VTSP-8-7
+Instrument Approach Chart - ICAO - ILS or LLZ RWY 27
+AD 2-VTSP-8-9
+Instrument Approach Chart - ICAO - RNP z RWY 09
+AD 2-VTSP-8-11
+Instrument Approach Chart - ICAO - RNP z RWY 09 (Tabular description)
+AD 2-VTSP-8-12
+Instrument Approach Chart - ICAO - RNP z RWY 27
+AD 2-VTSP-8-13
+Instrument Approach Chart - ICAO - RNP z RWY 27 (Tabular description)
+AD 2-VTSP-8-14
+Instrument Approach Chart - ICAO - RNP y RWY 09 (AR)
+AD 2-VTSP-8-15
+Instrument Approach Chart - ICAO - RNP y RWY 09 (AR) (Tabular description)
+AD 2-VTSP-8-16
+Instrument Approach Chart - ICAO - RNP y RWY 09 (AR) (Waypoint list table)
+AD 2-VTSP-8-17
+Instrument Approach Chart - ICAO - RNP y RWY 27 (AR)
+AD 2-VTSP-8-19
+Instrument Approach Chart - ICAO - RNP y RWY 27 (AR) (Tabular description)
+AD 2-VTSP-8-20
+Instrument Approach Chart - ICAO - RNP y RWY 27 (AR) (Waypoint list table)
+AD 2-VTSP-8-21

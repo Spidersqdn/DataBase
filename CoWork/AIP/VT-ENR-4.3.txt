@@ -1,0 +1,5 @@
+# AIP Thailand AIRAC 2026-10-29 VT-ENR-4.3
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-4.3-en-GB.html
+ENR 4.3 GLOBAL NAVIGATION SATELLITE SYSTEM (GNSS)
+GNSS Element | Frequency | Coverage Area | Remarks
+GPS | SPS L1 (1575.42 MHz) | Bangkok FIR | U.S. Space Force

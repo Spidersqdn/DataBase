@@ -1,0 +1,906 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTSS
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTSS-en-GB.html
+VTSS
+— Songkhla / Hat Yai International Airport
+VTSS
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTSS
+— Songkhla / Hat Yai International Airport
+VTSS
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+065558N
+1002342E
+Centre of runway 1600 m from THR RWY 08
+2
+Direction and distance from (city)
+12 km SW
+3
+Elevation/Reference temperature
+28 m (90 ft) / 26.8°C
+4 | Geoid undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+0° 18' W (2025) / 0° 2' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Hat Yai International Airport
+Airports of Thailand Public Company Limited
+Hat Yai, Songkhla 90115, Thailand
+Tel:
++667 422 7000
+Fax:
++667 425 1334
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Airports of Thailand Public Company Limited (AOT)
+VTSS
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1700
+2
+Customs and immigration
+Available within AD hours
+3
+Health and sanitation
+Available within AD hours
+4
+AIS Briefing Office
+H24
+5
+ATS Reporting Office (ARO)
+H24
+6
+MET Briefing Office
+H24
+7
+ATS
+H24
+8
+Fuelling
+AD 0000-1300, from 1300-2359 shall be requested 1 hrs. prior landing,In case of emergency from 1300-2359 service within 45 min.
+9
+Handling
+AD 2300-1400, from 1400-1700 shall be requested 3 hrs. prior landing.
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Hat Yai Air Traffic Control Center (1st floor of tower building)
+Mobile: +669 2262 2436
+Fax: +66 7425 1050
+VTSS
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+1 Folks lifts 1.5 t, 1 Tractor. Handling weights up to 18 t per day. Provided by Thai Airways International Public Co.,Ltd.
+2
+Fuel/oil types
+Jet A-1, AVGAS 100 LL
+3
+Fuelling facilities/capacity
+Fuelling provide by PTT Public Company Limited.
+Tel: +667 422 7248
+Fax: +667 422 7247
+3 JET A-1 Refueller @ 12,000+22,000+18,000 LTFUEL;Annotation:1368.eng;532
+AVGAS 100LL Drum tank 50 L @ 1,000 LTFUEL;Annotation:1370.eng;533
+-JET A-1: 4 tank.TTK 960,000 LTFUEL;Annotation:1369.eng;532
+-AVGAS 100 LL: Drum tank 50 L @ 1,000 LTFUEL;Annotation:1371.eng;533
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+The airport has provided ground handling agents as following:
+Thai Airways International Public Co.,ltd
+Email: [email protected]
+Tel: +667 422 7273
+Fax: +667 425 1335
+BAGS Ground Services Co.,Ltd
+Email: [email protected]
+Email: [email protected]
+Tel: +667 422 7264 (23.30-14.30 UTC)TTEL_CONTACT;Annotation:1034.eng;881
+Tel: +666 1172 2177(24 HR)TTEL_CONTACT;Annotation:1036.eng;882
+Fax: +667 425 1558
+VTSS
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1372.eng;708
+2
+Restaurants
+At ADTPASSENGER_FACILITY;Annotation:1373.eng;709 and in the cityTPASSENGER_FACILITY;Annotation:1374.eng;709
+3
+Transportation
+LimousinesTPASSENGER_FACILITY;Annotation:1375.eng;710 and TaxisTPASSENGER_FACILITY;Annotation:1376.eng;710
+4
+Medical facilities
+First aid at ADTPASSENGER_FACILITY;Annotation:1377.eng;711. Hospitals in the cityTPASSENGER_FACILITY;Annotation:1378.eng;711
+5
+Bank and Post Office
+In the cityTPASSENGER_FACILITY;Annotation:1379.eng;712/ At ADTPASSENGER_FACILITY;Annotation:1380.eng;712 open within AD HR.
+6
+Tourist Office
+Office in the city
+Tel:
++667 424 3747
+Fax:
++667 424 5986
+7
+Remarks
+NIL
+VTSS
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 9
+2
+Rescue equipment
+Adequately provided as recommended by ICAOTAD_HP_GND_SER;Annotation:1383.eng;562
+3
+Capability for removal of disabled aircraft
+Available – Up to B747TAD_HP_GND_SER;Annotation:1384.eng;562
+For removal of disabled aircraft please contact aerodrome coordinator:
+- Airside Operation Division
+Tel: +667 422 7765
++667 422 7766
+- Rescue and Fire Fighting Division
+Tel: +667 422 7021
+4
+Remarks
+Capable of communicating directly with an aircraft in an emergency
+situation using (on ground) an aeronautical radio frequency 121.6 MHz. Call sign " HATYAI COMMAND " (English/Thai)
+VTSS
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTSS
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCR 950/R/B/W/
+2 | Taxiway width, surface and strength
+Taxiway A: 23 m, Concrete PCR 950/R/A/W/ Asphalt, PCR 950/F/A/X/
+Taxiway B: 26 m, Concrete PCR 950/R/A/W/ Asphalt, PCR 950/F/A/X/
+Taxiway C: 26 m, Concrete PCR 950/R/A/W/ Asphalt, PCR 950/F/A/X/
+Taxiway D: 26 m, Concrete, PCR 950/R/A/W/
+Taxiway E: 30 m, Concrete, PCR 780/R/A/W/
+Taxiway F: 27 m, Concrete, PCR 950/R/A/W/
+Taxiway G: 24 m, Asphalt, PCR 950/F/D/X/
+Taxiway H: 24 m, Asphalt, PCR /F/C/X/
+Taxiway J: 26 m, Concrete, Asphalt
+Taxiway K: 26 m, Asphalt
+Taxiway L: 23 m, Asphalt
+Taxiway M: 23 m, Asphalt
+Taxiway P: 36 m, Concrete
+Taxilane N: Concrete, PCR 950/R/B/W/
+Taxiway Q: 30 m, Concrete, PCR 950/R/B/W/
+Taxiway R: 27 m, Concrete, PCR 950/R/B/W/
+3
+Altimeter checkpoint location and elevation
+Location: At Apron
+Elevation: 27.5 m/90 ft
+4
+VOR checkpoints
+Location:
+- At holding position RWY 08 on TWY R - RDL 254/0.6 NM
+- At holding position RWY 26 on TWY F - RDL 086/1.2 NM
+Radio frequency: 115.3 MHz
+5
+INS checkpoints
+NIL
+6
+Remarks
+Taxiway J, P, K, L and M for Military use, Taxiway J portion M to runway 26 not available to aircraft with wingspan are greater than 36 m. due to the distance between taxiway Centre line to object are less than the minimum required.
+Taxiway A and J not available when the aircraft code C, D, E take-off or landing due to the distance between runway Centre line and the taxiway Centre line are less than the minimum required.
+Taxilane N not available for aircraft code E taxi or tow behind aircraft stand number 5, 6 when aircraft code E parked at aircraft stand number 5, 6
+VTSS
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Taxiing guidance signs at all intersections with TWY and RWY.
+Nose-in guidance at aircraft stands.
+Nose-Wheel guide lines at apron.
+Solid Nose-Wheel guide lines at aircraft stands.
+VISUAL DOCKING SYSTEM at aircraft stand number 4, 5 and 6.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR, TDZ, Centre line, Aiming Point and Side Strip.
+RWY LGT: THR, RWY Edge and RWY End lights
+TWY marking: Centre line, Edge, RWY Holding Positions and Intermediate Holding Positions.
+TWY LGT: TWY Edge light.
+3
+Stop bars
+NIL
+4 | Other runway protection measures
+NIL
+5 | Remarks
+NIL
+VTSS
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+NIL
+Radio mast
+254 ft (78 m) AMSL
+Marked, Lighted
+065614.8 N
+1002330.2 E
+NIL
+VTSS
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Southern East-Coast Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Southern East-Coast Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+30 MinTSERVICE;Annotation:1491.eng;827
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:1941.eng;827
+Tel: +667 425 1884TSERVICE;Annotation:1943.eng;827
+Fax: +667 425 1083TSERVICE;Annotation:1944.eng;827
+6
+Flight documentation
+Language(s) used
+ChartsTSERVICE;Annotation:2188.eng;827, Tabular formsTSERVICE;Annotation:2189.eng;827 and Abbreviated Plain Language TextsTSERVICE;Annotation:2190.eng;827
+English
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2192.eng;827, U85TSERVICE;Annotation:2191.eng;827, U70TSERVICE;Annotation:1386.eng;827, U50TSERVICE;Annotation:1387.eng;827, U40TSERVICE;Annotation:2193.eng;827, U30TSERVICE;Annotation:2194.eng;827, U25TSERVICE;Annotation:2195.eng;827, U20TSERVICE;Annotation:2196.eng;827, SWHTSERVICE;Annotation:1393.eng;827, SWMTSERVICE;Annotation:2197.eng;827, SWLTSERVICE;Annotation:2198.eng;827, P85TSERVICE;Annotation:1388.eng;827, P70TSERVICE;Annotation:1389.eng;827, P50TSERVICE;Annotation:1390.eng;827, P40TSERVICE;Annotation:2199.eng;827, P30TSERVICE;Annotation:1391.eng;827, P25TSERVICE;Annotation:2200.eng;827, P20TSERVICE;Annotation:1392.eng;827, P15TSERVICE;Annotation:2201.eng;827, satellite and radar imagesTSERVICE;Annotation:2202.eng;827
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS),
+Low Level Windshear Alert System (LLWAS) and Weather Radar
+9
+ATS units provided with information
+Hat Yai
+Hat Yai APP
+10
+Additional information (limitation of service, etc.)
+NIL
+VTSS
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCR) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+08
+082°
+3050x45
+PCR 950/R/B/W/T TRWY;Annotation:3163.eng;313
+Concrete (600 m)TRWY;Annotation:3163.eng;313 and
+PCR 950/F/B/X/
+asphalt (2450 m)TRWY;Annotation:3164.eng;313
+065551.50N
+1002249.91E
+20 m / 65 ft
+26
+262°
+3050x45
+PCR 950/R/B/W/T TRWY;Annotation:3163.eng;313
+Concrete (600 m)TRWY;Annotation:3163.eng;313 and
+PCR 950/F/B/X/
+asphalt (2450 m)TRWY;Annotation:3164.eng;313
+065603.89N
+1002428.52E
+17.8 m/ 58 ft
+TDZ 23.2 m/ 76 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | Location and description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+0.60% +0.30% -0.13% -0.80%
+(1110 m 1460 m 1910 m 3050 m)TRWY_DIRECTION;Annotation:315.eng;237
+60x45
+NIL
+3290x300
+240x150
+NIL
+NIL
+NIL
++0.80% +0.13% -0.30% -0.60%
+(1140 m 1590 m 1940 m 3050 m)TRWY_DIRECTION;Annotation:316.eng;238
+60x45
+NIL
+3290x300
+240x150
+NIL
+YES
+NIL
+VTSS
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+08
+3050
+3050
+3110
+3050
+NIL
+26
+3050
+3050
+3110
+3050
+NIL
+VTSS
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+08
+SALS
+420 m
+LIH
+Green
+PAPI
+Both
+3°
+(64.06 ft)
+NIL
+NIL
+3050 m
+60 m
+White
+FM2450-3050 m
+Yellow: LIH
+Red
+60
+Red
+NIL
+26
+SALS
+420 m
+LIH
+Green
+PAPI
+Both
+3°
+(61.09 ft)
+NIL
+NIL
+3050 m
+60 m
+White
+FM 2450-3050 m
+Yellow: LIH
+Red
+60
+Red
+NIL
+VTSS
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: On top of control towerTAERO_GND_LGT;Annotation:1397.eng;511, FLG WG EV 3 SecTAERO_GND_LGT;Annotation:1398.eng;511 / IBN: NIL
+H24
+2
+LDI location and LGT
+Anemometer location and LGT
+WDI: 2 Wind ConesTAD_HP;Annotation:1486.eng;351, illuminated at
+450 m from THR RWY 26 : offset to the left side from RCL 105 m.TAD_HP;Annotation:1405.eng;351, and
+450 m from THR RWY 08 : offset to the left side from RCL 65 m.TAD_HP;Annotation:1406.eng;351
+Anemometer: see AD Chart.
+3
+TWY edge and centre line lighting
+EDGE: All TWY
+Centre line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all airfield lighting at AD switch-over time : Lights associated to runway 0 sec.(UPS) other lighting 15 sec.TAD_HP;Annotation:1403.eng;351
+5
+Remarks
+NIL
+VTSS
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+Helicopters to approach using active runway, take off and land as instructed by ATC.
+Military and State helicopters may take-off directly from Taxiway A subject to ATC permission.
+While helicopters are operating on the movement area extreme caution must be exercised regarding wingtip clearance and turbulence.
+VTSS
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on HTY DVOR/DME
+(065603N 1002317E)
+2
+Vertical limits
+3000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Hat Yai Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTSS
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Hat Yai Approach
+126.7 MHz
+301.5 MHz
+121.5 MHz)
+243.0 MHz)
+133.2 MHz)
+H24
+1)Emergency frequency
+2)Backup frequency
+Hat Yai Tower
+118.1 MHz
+275.8 MHz
+121.5 MHz)
+243.0 MHz)
+133.2 MHz)
+H24
+GND
+Hat Yai Ground
+121.9 MHz
+257.8 MHz
+121.5 MHz)
+243.0 MHz)
+H24
+A
+Hat Yai Intl. Airport
+128.8 MHz | H24
+VTSS
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+H
+115.3 MHz
+CH100X
+H24
+065602.8N
+1002316.6E
+30 m
+(100 ft)
+DVOR/DME restriction, due to mountainous terrain surround DVOR/DME station coverage check does not provide adequate signal to 40 nm at the required altitude in various areas as following:
+RDL 171-240 DEG at 10 NM ALT should not below 5,000 ft.
+RDL 131-170 DEG at 20 NM ALT should not below 4,000 ft.
+RDL 031-130 DEG at 40 NM ALT should not below 5,000 ft.
+RDL 241-270 DEG at 40 NM ALT should not below 7,000 ft.
+RDL 271-300 DEG at 40 NM ALT should not below 10,000 ft.
+RDL 301-330 DEG at 40 NM ALT should not below 6,000 ft.
+RDL 331-030 DEG at 40 NM ALT should not below 3,000 ft.
+ILS CAT I
+LOC
+26
+IH
+109.9 MHz
+H24
+065549.0N
+1002230.0E
+RWY 26 ILS Glide slope not coincident with PAPI starting at 0.7 DME
+GP 26
+333.8 MHz
+36X
+065558.7N
+1002419.3E
+DME 26 | | 36X
+065558.7N
+1002419.3E
+30 m
+(100 ft)
+H
+115.70 MHz
+CH104X
+2300-1100 Daily
+065541N
+1002344E
+HR service 30 Min PN to ATC
+VTSS
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. VFR REPORTING POINTS AND LOCAL PROCEDURES
+1.1 Reporting points for VFR flight
+In order to expedite and maintain an orderly flow of air traffic into airport, the procedure of the inbound traffic of VFR flights, conventional and prop-jet aircraft, be set up as follow:
+Aircraft entering to land from North of Hat Yai International Airport, shall report over Pak Phayun District, designated as PAPA PAPA (0722.0N 10022.0E) which is approximately 26 NM on R-356 of H VOR/DME. When reaching PP the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from East of Hat Yai International Airport, shall report over Chana District, designated as CHARLIE NOVEMBER (0655.0E 10044.5E) which is approximately 20 NM on R-094 of H VOR/DME. When reaching CN the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from South of Hat Yai International Airport, shall report over Sadao District, designated as SIERRA DELTA (0639.0N 10027.0E) which is approximately 18 NM on R-175 of H VOR/DME. When reaching SD the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering to land from North-west of Hat Yai International Airport, shall report over Khao Hua Chang, designated as KILO CHARLIE (0718.0N 10002.0E) and Rattaphum District, designated as ROMEO PAPA (0708.0N 10016.0E) which are approximately 31 NM on R-315 and 14 NM on R-322 of H VOR/DME respectively, when reaching RP the aircraft will be instructed to join aerodrome traffic circuit accordingly.
+Aircraft entering from Senanarong camp, Songkhlanagarind hospital, Bangkok Hospital Hat Yai or Northeast of Hat Yai International Airport intended to land at Hat Yai International Airport, shall report over A point, designated as ALPHA POINT(070046.70N 1002457.72E) which is approximately 5 NM on R-020 of H VOR/DME. When reaching A point the aircraft will be instructed to join aerodrome traffic circuit or hold accordingly.
+Aircraft entering from Southeast of Hat Yai International Airport intended to land at Senanarong camp, Songkhlanagarind hospital or Bangkok Hospital Hat Yai, shall report over B point, designated as BRAVO POINT (070117.62N 1003724.88E) which is approximately 15 NM on R-070 of H VOR/DME. When reaching B point the aircraft will be directed to destination accordingly.
+Aircraft entering to land from or depart to Southeast of Hat Yai International Airport, shall report over C point, designated as CHARLIE POINT (064938.32N 1003101.16E) which is approximately 10 NM on R-130 of H VOR/DME. When reaching C point, the arrival aircraft will be instructed to join aerodrome traffic circuit or hold and departure aircraft will be instructed to establish intended course accordingly.
+1.2 Aerodrome traffic circuit
+Using both sides of traffic circuit.
+1.3 Overhead approach pattern
+Using runway 08 by right turn pattern
+Using runway 26 by left turn pattern.
+2. STARTING UP PROCEDURE
+2.1 All IFR aircraft are to call "Ground Control" 5 minutes prior to start up to request for ATC clearance.
+2.2 Pilot are to inform "Ground Control" their call signs, and proposed flight level if it is different from the flight plan when they make the call as item 2.1 above.
+2.3 In order to provide a more flexible ground traffic movement all domestic departures shall on longer be required to be ready to taxi within 5 minutes after clearance received.
+3. PUSH BACK PROCEDURE
+3.1 Procedures for Push-back of aircraft in Apron described on paragraph as follows:
+3.1.1 Ground crew must ensure that the area behind an aircraft is clear of vehicles, equipment and other obstructions before the start-up or push-back of aircraft commences.
+3.1.2 When the pilot is ready for start-up and push-back, Pilots shall seek confirmation from the ground crew that there is on hazard to his aircraft starting up. Pilots shall then notify the ground controller that he is ready for push-back. On being told by Hat Yai Ground that push-back is approved, Pilots shall co-ordinate with the ground crew for the start-up and push-back of the aircraft.
+3.1.3 Pilots are reminded that they shall always use minimum power when starting engine or manoeuvring within the apron area. It is especially important when commencing to taxi that breakaway thrust is kept to an absolute minimum and then reduced to idle thrust as soon as practicable.
+3.1.4 The points where the tug will be disconnected from the aircraft and breakaway thrust will be applied on “taxilane N”
+3.1.5 Due to aircraft congestion, self-maneuvering is not permitted at any parking stands, all aircraft must use tow bar for push-back procedures except aircraft code letter C or below that permitted from Hat Yai International Airport.
+3.2 The following table describes the procedure for push-back of aircraft from the aircraft stands. When it becomes necessary to vary a procedure to expedite aircraft movements, Hat Yai Ground will issue specific instructions to the pilots.
+Aircraft stand
+Aircraft push back procedure
+Stand 1,2
+The aircraft (on idle power) shall be pushed back on yellow guideline to face East until its nosewheel on safe positioned at the taxilane N, the tug will be disconnected on this position. Breakaway thrust will be applied when cleared to taxi.
+Stand 3,4,5,6,7
+The aircraft (on idle power) shall be pushed back on yellow guideline to face either East or West until its nosewheel on safe positioned at the taxilane N, the tug will be disconnected on this position. Breakaway thrust will be applied when cleared to taxi.
+Stand 8,9
+The aircraft (on idle power) shall be pushed back on yellow guideline to face west until its nosewheel on safe positioned at the taxilane N, the tug will be disconnected on this position. Breakaway thrust will be applied when cleared to taxi.
+Remarks
+Stand 1 and 9 capacity up to code C MAX wingspan 29 m.Stand 2,3,4,7,8 capacity up to code C.Stand 5 capacity up to code E.Stand 6 up to code E MAX wingspan 64 m.Taxi lane N not available for aircraft code E taxi or tow behind stand no. 5,6 When aircraft code E parked at stand 5,6.
+4. SAFEGATE DOCKING SYSTEM – IN SYSTEM AT HAT YAI INTERNATIONAL AIRPOR
+4.1 INTRODUCTION
+4.1.1 The SAFEGATE Docking System – in system is install at bay No. 4, 5 and 6
+4.1.2 The system enables the pilots seated on the left of the cockpit to position his aircraft on the correct stand centre line and stop position
+4.2 PILOT OPERATING INSTRUCTION
+4.2.1 Safety procedure
+General warning
+The DGS system has a built-in error detection program to inform the aircraft pilot of impending dangers during the docking procedure.
+If the pilot is unsure of the information, being shown on the DGS display unit, he must immediate stop the aircraft and obtain further information for clearance.
+Item to check before entering the stand area
+Warning : The pilot shall not enter the stand area, unless the docking system first is showing the vertical running arrows. The pilot must not proceed beyond the bridge, unless these arrows have been superseded by the closing rate bar.
+Warning : The pilot shall not enter the stand area, unless the aircraft type displayed is equal to the approaching aircraft/ The Correctness of other information, such as ‘door 2’, shall also be checked.
+The SBU message
+The message STOP SBU means that docking has been interrupted and has to be resumed only by manual guidance. Do not try to resume docking without manual guidance.
+START-OF-DOCKING
+The system is started by pressing one of the aircraft type buttons on the operator panel. When the button has been pressed, WAIT will be displayed.
+CAPTURE
+The floating arrows indicate that the system is activated and in capture mode, searching for an approaching aircraft.
+If shall be checked that the correct aircraft type is displayed. The lead-in line shall be followed.
+The pilot must not proceed beyond the bridge, unless the arrows have been superseded by closing rate bar.
+TRACKING .
+When the aircraft has been caught by the laser, the floating arrow is replaced by the yellow centre line indicator.
+A flashing red arrow indicates the direction to turn.
+The vertical yellow arrow shows position in relation to the centre line. This indicator give correct position and azimuth guidance.
+CLOSING RATE.
+Display of digital countdown will start when the aircraft is 20 m from stop position.
+When the aircraft is less than 12 m from the stop position, the closing rate is indicated by turning off one row of the center line symbol per 0.5 m, covered by the aircraft. Thus, when the last row is turned off, 0.5 m remains to stop.
+ALIGNED TO CENTRE
+The aircraft is eight meters from the stop position. The absence of any direction arrow indicates an aircraft on the centre line.
+SLOW DOWN
+If the aircraft is approaching faster than the accepted speed, the system will show SLOW DOWN as a warning to the pilot.
+AZIMUTH GUIDANCE
+The aircraft is 4 m from the stop-position. The yellow arrow indicates an aircraft to the right of the centre line, and the red flashing arrow indicates the direction to turn.
+STOP POSITION REACHED .
+When the correct stop-position is reached, the display will show STOP and red lights will be lit.
+DOCKING COMPLETE .
+When the aircraft has parked, OK will be displayed.
+OVERSHOOT
+If the aircraft overshoot the stop-position, TOO FAR will be displayed.
+STOP SHORT
+If the aircraft is found standing still but has not reached the intended stop position, the message STOP OK will be shown after a while.
+WAIT
+If some object is blocking the view toward the approaching aircraft or the detected aircraft is lost during docking, before 12 m to STOP, the display will show WAIT. The docking will continue as soon as the blocking object has disappeared or the system detects the aircraft again.
+As the aircraft is approaching the stop position, the aircraft geometry is being checked. If, for any reason, aircraft verification is not made 12 m before the stop-position, the display will show WAIT, STOP and ID FAIL. The text will be alternating on the upper two row of the display .
+The pilot must not proceed beyond the bridge, unless the “WAIT” message has been superseded by the closing rate bar.
+BAD WEATHER CONDITION
+During heavy fog, rain or snow, the visibility for the docking system can be reduced.
+When the system is activated and in capture mode, the display will deactivate the floating arrows and show DOWN GRADE.
+This message will be superseded by the closing rate bar, as soon as the System detects the approaching aircraft.
+The pilot must not proceed beyond the bridge, unless the DOWN GRADE text has been superseded by the closing rate bar.
+AIRCRAFT VERIFICATION FAILURE
+During entry into the stand, the aircraft geometry is being checked. If, for any reason, aircraft verification is not made 40 ft metres before the stop-position, the display will first show WAIT and make a second verification check. If this fails STOP and ID FAIL will be displayed. The text will be alternating on the upper two rows of the display.
+The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+GATE BLOCKED
+If an object is found blocking the view from the DGS to the planned stop position for the aircraft, the docking procedure will be halted with a GATE BLOCK message. The docking procedure will resume as soon as the blocking object has been removed.
+The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar.
+VIEW BLOCKED
+If the view towards the approaching aircraft is hindered for instance by dirt on the window, the DGS will report a view block condition. Once the system is able to see the aircraft through the dirt, the message will be replaced with a closing rate display.
+The pilot must not proceed beyond the bridge without manual guidance, unless the WAIT message has been superseded by the closing rate bar .
+SBU-STOP .
+Any unrecoverable error during the docking procedure will generate an SBU condition. The display will show red stop bar and the text STOP SBU.
+A manual backup procedure must be used for docking guidance.
+TOO FAST
+If the aircraft approaches with a speed higher than the docking system can handle, the message STOP (with red squares) and TOO FAST will be displayed.
+The docking system must be re-started or docking procedure completed by manual guidance.
+EMERGENCY STOP .
+When the emergency stop button is pressed, STOP is displayed.
+CHOCKS ON .
+CHOCK ON will be displayed, when the ground staff has put the chocks in front of the nose wheel and pressed the “Chocks On” button on the operator panel.
+ERROR .
+If a system error occurs, the message ERROR is display with an error code. The code is used for maintenance purposes and explained else where.
+SYSTEM BREAKDOWN
+In case of a severe system failure, the display will go black, except for a red stop indicator. A manual backup procedure must be used for docking guidance.
+POWER FAILURE
+In case of a power failure, the display will be completely black. A manual backup procedure must be used for docking guidance.
+4.3 ALLOCATION OF AIRCRAFT PARKING BAYS.
+All aircraft parking bays are allocated by Ground / Apron. Controller with regard to aircraft type involved and the prevailing or anticipated traffic situation.
+4.4 AIRCRAFT MARSHALLING AND TOWING SERVICES.
+The marshalling of scheduled, non-scheduled, and general aviation aircraft into the bays either manually or by the VDGS Guide-In system, and the pushing out of aircraft for departure with a maximum takeoff weight of 5,700 kilograms, shall be under the responsibility of the aircraft operator or its appointed ground handling agency that has passed Marshalling Signals training as required by Annex 2 and has a certificate from the airline or company that has a duty to provide Marshalling Service.
+General aviation aircraft with a maximum takeoff weight below 5,700 kilograms and without a ground handling agent shall notify the ATC to coordinate the Airside Operations Division to provide Marshalling Signal Service.
+4.5 TAXIING PROCEDURES
+Due to the distance between the centerline of runway and centerline of taxiway A is 120 m. and centerline of taxiway J is 150 m.
+That does not conform to the requirement of The Civil Aviation Authority of Thailand. Operational Restrictions procedure on
+taxiway A and J as follow
+- Taxiway A and J not available to other aircraft when aircraft with code C, D or E taking off or landing on the runway, aircraft may be requested to hold on apron.
+4.5.1 Arriving Aircraft
+4.5.1.1 Aircraft entering the aprons are to follow closely to the taxiing and apron centre line so as to avoid reducing safety distance between them and parking aircraft.
+4.5.2 Departing Aircraft
+4.5.2.1 When start-up clearance is issued by ATC, and then pushed out onto apron centre line.
+5. 180 DEGREES TURN ON RUNWAY
+To prevent runway pavement damage, all aircraft code letter “C” and higher are not allowed to make 180 degrees turn on Runway.
+VTSS
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTSS
+AD 2.22 FLIGHT PROCEDURES
+1. LOW VISIBILITY PROCEDURES (LVP)
+1.1 RWY 26 is equipped with ILS and is approved for CAT I operations.
+1.2 Low visibility procedures will be established when a visibility of less than RVR 550m.
+1.3 Low visibility procedures will be enforced based on 3 Phases of Low visibility conditions (LVC) as following.
+1.3.1 LVC warning (RVR 800-550m)
+1.3.1.1 LVC warning or preparation phase will be established when RVR is less than 800m but not less than 550m.
+1.3.1.2 All ground operators will be informed by flashing-orange lights.
+1.3.1.3 Standard Operating Procedures (SOPs) for low visibility condition shall be strictly applied by all ground operators.
+1.3.2 LVP In Operation (RVR 550m-100m)
+1.3.2.1 LVP In Operation will be established when RVR is less than 550m but not less than 100m.
+1.3.2.2 All ground operators will be informed by flashing-white lights.
+1.3.2.3 Standard Operating Procedures (SOPs) for low visibility condition shall be strictly applied by all ground operators.
+1.3.2.4 All the vehicles must have their obstruction light “ON” and comply with speed limit of vehicles on Service road and the Apron area as mentioned in the airport rules and regulations.
+1.3.2.5 A Follow-me car is available on stand by to assist pilot during taxi upon request.
+1.3.2.6 The number of vehicles on the manoeuvring area shall be restricted. No vehicle enters the ILS sensitive area.
+1.3.3 STOP work phase (RVR < 100m)
+1.3.3.1 When RVR is less than 100m all ground operators will be informed by flashing-white lights with sound (siren).
+1.3.3.2 Standard Operating Procedures (SOPs) for low visibility condition shall be strictly applied by all ground operators.
+1.3.3.3 STOP All operations in the apron area.
+1.4 Termination of low visibility procedures (RVR > 800m)
+1.4.1 LVP will be terminated when RVR is greater than 800m and a continuing improvement in these condition is expected.
+1.4.2 All ground operators will be informed when LVP is terminated by telephone and all warning lights are turned off.
+1.4.3 All ground operators shall resume normal operations.
+2. SPEED CONTROL PROCEDURE IN HAT YAI TMA
+All arriving turbo-propeller and turbo-jet aircraft when flying below 10000 ft AMSL are subject to fly not faster than indicated air speed 250 knots unless authorized by ATC.
+Speed will be reduced to 220 knots during 20-25 track miles from touchdown.
+180 knots at Intermediate fix (Including aircraft from RNAV STAR), or shortly before closing heading to intercept or to establish the final course,
+150 to 160 knots at FAP or FAF; all speed to be flown as accurately as possible. At the other times, speed control may be applied on a tactical basis to extent determined by ATC.
+Pilots who unable to comply with the speed limits specifics above for reasons of flight safety and/or weather conditions should inform ATC and state the speed acceptable.
+ATC will notify that the aircraft may keep its preferred speed without restriction and will use the phrase “NO SPEED RESTRICTIONS”. An instruction to notify that the aircraft need no longer comply with the previous issued speed restriction, the phrase “RESUME NORMAL SPEED” will be used.
+All aircraft navigating under conditions of RNAV STARs shall conform to speed limitation as published then at IF pilot shall comply with speed control procedures unless otherwise instructed by ATC.
+If the pilots do not comply, the flight shall follow ATC instruction for re-sequencing.
+NOTE - an instruction to “RESUME NORMAL SPEED” does not cancel speed restrictions that applicable to published procedure of upcoming segments of flight, aircraft shall comply speed restrictions specified in a) b) c) and d)
+3. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+4. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute a visual departure
+meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+the pilot shall be responsible for obstacle clearance until such specified altitude,
+the pilot prior to take-off shall agree to execute this procedure,
+the ATC clearance shall be readback,
+5. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+the pilot shall be responsible for adherence to such obtained ATC clearance,
+the pilot prior to take-off shall agree to execute this procedure,
+The ATC clearance shall be readback,
+- Runway 08:
+HAT YAI OMNI 08 Departure: Required climb gradient 365 ft per NM (6.0%) until 4,400 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb6.0% | (ft/min) | 395 | 456 | 608 | 911 | 1215 | 1519 | 1823
+No turn before DER.
+After departure climb straight ahead until 2,000 ft (or altitude assigned by ATC between 2,000 ft – 3,900 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 26:
+HAT YAI OMNI 26 Departure: Required climb gradient 395 ft per NM (6.5%) until 4,400 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb6.5% | (ft/min) | 428 | 494 | 658 | 987 | 1316 | 1646 | 1975
+No turn before DER.
+After departure climb straight ahead until 2,000 ft (or altitude assigned by ATC between 2,000 ft – 3,900 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTSS
+AD 2.23 ADDITIONAL INFORMATION
+1. Operations of aircraft at Hat Yai International Airport outside Airport’s hours of operation.
+1.1 All aircraft wishing to operate outside specified hours of operations at Hat Yai International Airport shall adhere to the following procedures:
+1.1.1 Inform the airport authority, and approval must be received before such operation.
+1.1.2 All scheduled and non-scheduled flights, including flight selecting Hat Yai International Airport as alternate aerodrome shall have handling agent at Hat Yai International Airport.
+1.1.3 Nose-in parking is applicable to all aircraft.
+1.1.4 Aircraft ready to taxi out shall prepare their own tow bars.
+Remark: Aircraft below code letter “C” is allowed to seft-maneuver. Inform Hat Yai before seft-maneuver.
+2. BIRD CONCENTRATIONS
+2.1 BIRD CONCENTRATIONS IN THE VICINITY OF AN AERODROME
+The existence of birds at Hat Yai International Airport varies throughout the year. The large birds and migratory birds commonly found at Hat Yai International Airport includes the following:
+- Asian Openbill or Open-billed Stork (Weighting approximately 1000g - 1300g each)
+- Cattle Egret (Weighting approximately 250g - 500g each)
+- Oriental Pratincole (Weighting approximately 59g-95g each)
+2.2 There could be an increase in bird activities during the usual migratory months of March to July. During this period, migratory birds may use an aerodrome as their feeding and nesting ground.
+2.3 There could be some activities to reduce birds such as mowing the grass and plants. Grass mowing takes place in various areas. between 0200-0900 and 1600-2100 UTC. This activity will attract birds during sunrise to sunset. Pilots are advised to exercise with caution. The grass cutting on runway strip and taxiway strip will be carried out at night after last flight operated.
+3. Exemption granted by The Civil Aviation Authority of Thailand (CAAT):
+CAAT has granted exemption vide letter dated 10.07.2024. for non-compliant separation of runway and parallel taxiway (taxiway A and taxiway J). The minimum distance between their centre lines against provisions in the requirement of Civil Aviation Authority of Thailand No.37 Aerodrome Standards - Article 195 for the period up to 10.07.2034.
+VTSS
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTSS-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTSS-2-3
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTSS-2-5
+Aerodrome Obstacle Chart - ICAO Type A - RWY 08/26
+AD 2-VTSS-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 08 - DANDO1D ELREM1D ENVON1D KARMI1D KENNE1D PADPA1D PIMER1D TAXEB1D
+AD 2-VTSS-6-1
+Standard Departure Chart - Instrument (SID) -ICAO - RNAV RWY 08 - DANDO1D ELREM1D ENVON1D KARMI1D KENNE1D PADPA1D PIMER1D TAXEB1D (Tabular description 1)
+AD 2-VTSS-6-2
+Standard Departure Chart - Instrument (SID) -ICAO - RNAV RWY 08 - DANDO1D ELREM1D ENVON1D KARMI1D KENNE1D PADPA1D PIMER1D TAXEB1D (Tabular description 2)
+AD 2-VTSS-6-3
+Standard Departure Chart - Instrument (SID) -ICAO - RNAV RWY 26 - DANDO1C ELREM1C ENVON1C KARMI1C KENNE1C PADPA1C PIMER1C TAXEB1C
+AD 2-VTSS-6-5
+Standard Departure Chart - Instrument (SID) -ICAO - RNAV RWY 26 - DANDO1C ELREM1C ENVON1C KARMI1C KENNE1C PADPA1C PIMER1C TAXEB1C (Tabular description 1)
+AD 2-VTSS-6-6
+Standard Departure Chart - Instrument (SID) -ICAO - RNAV RWY 26 - DANDO1C ELREM1C ENVON1C KARMI1C KENNE1C PADPA1C PIMER1C TAXEB1C (Tabular description 2)
+AD 2-VTSS-6-7
+Standard Departure Chart - Instrument (SID) -ICAO - RNAV RWY 26 - DANDO1C ELREM1C ENVON1C KARMI1C KENNE1C PADPA1C PIMER1C TAXEB1C (Waypoint list table)
+AD 2-VTSS-6-8
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 08 - ELREM1B ENVON1B KENNE1B OBLEX1B PADPA1B PIMER1B TAMOS1B TAXEB1B
+AD 2-VTSS-7-1
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 08 - ELREM1B ENVON1B KENNE1B OBLEX1B PADPA1B PIMER1B TAMOS1B TAXEB1B (Tabular description 1)
+AD 2-VTSS-7-2
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 08 - ELREM1B ENVON1B KENNE1B OBLEX1B PADPA1B PIMER1B TAMOS1B TAXEB1B (Tabular description 2)
+AD 2-VTSS-7-3
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 26 - ELREM1A ENVON1A KENNE1A OBLEX1A PADPA1A PIMER1A TAMOS1A TAXEB1A
+AD 2-VTSS-7-5
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 26 - ELREM1A ENVON1A KENNE1A OBLEX1A PADPA1A PIMER1A TAMOS1A TAXEB1A (Tabular description 1)
+AD 2-VTSS-7-6
+Standard Arrival Chart - Instrument (STAR) - ICAO - RNAV RWY 26 - ELREM1A ENVON1A KENNE1A OBLEX1A PADPA1A PIMER1A TAMOS1A TAXEB1A (Tabular description 2)
+AD 2-VTSS-7-7
+Instrument Approach Chart - ICAO - VOR A
+AD 2-VTSS-8-1
+Instrument Approach Chart - ICAO - VOR a (Fix and point list table)
+AD 2-VTSS-8-2
+Instrument Approach Chart - ICAO - VOR RWY 26
+AD 2-VTSS-8-3
+Instrument Approach Chart - ICAO - VOR RWY26 (Fix and point list table)
+AD 2-VTSS-8-4
+Instrument Approach Chart – ICAO - ILS or LOC y RWY26
+AD 2-VTSS-8-5
+Instrument Approach Chart – ICAO - ILS orLOC y RWY26 (Fix and point list table)
+AD 2-VTSS-8-6
+Instrument Approach Chart – ICAO - ILS or LOC z RWY 26
+AD 2-VTSS-8-7
+Instrument Approach Chart – ICAO - ILS or LOC z RWY 26 (Tabular description)
+AD 2-VTSS-8-8
+Instrument Approach Chart – ICAO - ILS or LOC z RWY 26 (Fix and point list table)
+AD 2-VTSS-8-9
+Instrument Approach Chart - ICAO - RNP RWY 08
+AD 2-VTSS-8-11
+Instrument Approach Chart - ICAO - RNP RWY 08 (Tabular description)
+AD 2-VTSS-8-12
+Instrument Approach Chart - ICAO - RNP RWY 26
+AD 2-VTSS-8-13
+Instrument Approach Chart - ICAO - RNP RWY 26 (Tabular description)
+AD 2-VTSS-8-14

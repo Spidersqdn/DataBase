@@ -1,0 +1,724 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTBU
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTBU-en-GB.html
+VTBU
+— Rayong/ U-Tapao Rayong Pattaya International Airport
+VTBU
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTBU
+— Rayong/ U-Tapao Rayong Pattaya International Airport
+VTBU
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+124047N
+1010018E
+Centre of the runway, 1752.5 m from THR RWY18
+2
+Direction and distance from (city)
+34 km W of Rayong
+3
+Elevation/Reference temperature
+18 m (59 ft) / 34°C
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+0° 38' W (2025) / 0° 2' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Military: Base Operations Division Naval Air Station
+Royal Thai Naval Air Division
+70 moo.2 Phala Banchang Rayong
+21130
+Thailand
+Tel:
++663 824 5193 (Dispatcher)
+Tel:
++663 824 5190, +668 8669 9221 (TWR)
+Tel:
++663 824 5196 (APP)
+Fax:
++663 824 5193 (Dispatcher)
+Civil: U-Tapao Airport Authority
+U-Tapao Rayong Pattaya International Airport
+70 moo.2 Phala Banchang Rayong
+21130
+Thailand
+Tel:
++663 824 5600 (Airport Authority)
+Fax:
++663 824 5600 (Airport Authority)
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Royal Thai Navy
+VTBU
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+H24
+2
+Customs and immigration
+H24
+3
+Health and sanitation
+H24
+4
+AIS Briefing Office
+H24
+5
+ATS Reporting Office (ARO)
+H24
+6
+MET Briefing Office
+H24
+7
+ATS
+H24
+8
+Fuelling
+H24
+9
+Handling
+H24
+10
+Security
+H24
+11
+De-icing
+NIL
+12
+Remarks
+NIL
+VTBU
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+Handling weights up to 3 t
+2
+Fuel/oil types
+Jet A-1, AVGAS, JP8
+3
+Fuelling facilities/capacity
+1 JET A-1 Refueller @ 40,000 LTFUEL;Annotation:1343.eng;529
+2 JET A-1 Refueller @ 12,000 LTFUEL;Annotation:1344.eng;529
+1 Hydrant Dispenser for JET A-1TFUEL;Annotation:1345.eng;529
+1 JET A-1 Refueller @ 45,000 LTFUEL;Annotation:1346.eng;529
+1 JET A-1 Refueller @ 12,000 LTFUEL;Annotation:1347.eng;529
+3 Hydrant Cart for JP-8TFUEL;Annotation:1348.eng;531
+1 AVGAS DC Motor dispenser from drum 200 LTFUEL;Annotation:1349.eng;530
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTBU
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+5 km from ADTPASSENGER_FACILITY;Annotation:1350.eng;701 and in the cityTPASSENGER_FACILITY;Annotation:1351.eng;701
+2
+Restaurants
+In Pattaya cityTPASSENGER_FACILITY;Annotation:1352.eng;702 and BanchangTPASSENGER_FACILITY;Annotation:1353.eng;702
+3
+Transportation
+Airport busesTPASSENGER_FACILITY;Annotation:1354.eng;703 and limousinesTPASSENGER_FACILITY;Annotation:1355.eng;703
+4
+Medical facilities
+First aid stationTPASSENGER_FACILITY;Annotation:1356.eng;704 and queen Sirikit Hospital in the ADTPASSENGER_FACILITY;Annotation:1357.eng;704
+5
+Bank and Post Office
+2 km from ADTPASSENGER_FACILITY;Annotation:1358.eng;705
+6
+Tourist Office
+In Pattaya cityTPASSENGER_FACILITY;Annotation:1360.eng;707
+7
+Remarks
+NIL
+VTBU
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+24 HRTAD_HP_GND_SER;Annotation:1361.eng;560: Category 10
+2
+Rescue equipment
+2 boats of 10 peopleTAD_HP_GND_SER;Annotation:1362.eng;560, Rescue truckTAD_HP_GND_SER;Annotation:1363.eng;560, AmbulanceTAD_HP_GND_SER;Annotation:1364.eng;560
+3
+Capability for removal of disabled aircraft
+Available up to A320TAD_HP_GND_SER;Annotation:2917.eng;560
+4
+Remarks
+U-Tapao Airport Authority
+Tel: +669 7326 6074
+VTBU
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTBU
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Apron A and D
+Surface: Concrete
+Strength: PCR 460/R/A/W/
+Apron B and C
+Surface: Concrete
+Strength: PCR 360/R/A/W/
+2 | Taxiway width, surface and strength
+Width: 23 m
+Surface: Concrete
+A, B, E and H
+Strength: PCR 700/R/A/W/
+TWY C, D and G
+Strength: PCR 520/R/A/W/
+TWY F
+Strength: PCR 460/R/A/W/
+TWY I
+Strength: PCR 130/R/A/W/
+3
+Altimeter checkpoint location and elevation
+Location at Apron
+Elevation 18 m (59 ft)
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTBU
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Taxi guidance signs, all RWY and TWY intersections and holding positions.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, , , CL, Aiming Point and Edge
+RWY LGT: , RWY Edge and RWY End
+TWY marking: NIL
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTBU
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 18 Left base
+Hill 2.2 NM NNE,
+896 ft. from VOR
+no marking/LGT
+NIL
+NIL
+NIL
+NIL
+High tension line distance 840 M. from RWY THR 18, elevation of the high tension line 18 M.
+VTBU
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Base Operation Section Naval Air Station
+Subdivision Royal Thai Naval Air Division
+2
+Hours of service
+MET Office outside hours
+H24
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Weather Section
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+TREND
+30 Min
+5
+Briefing/consultation provided
+Personal Consultation
+Tel: +663 824 5489
+Email: [email protected]
+6
+Flight documentation
+Language(s) used
+Charts, Tabular Forms and Abbreviated Plain Language Texts
+English
+7
+Charts and other information available for
+briefing or consultation
+S, U85, U70, U50, U40, U30, U25, U20, SWH, SWM, SWL, P85, P70, P50, P40, P30, P25, P20, P15, satellite and radar pictures
+8
+Supplementary equipment available for
+providing information
+Doppler
+Weather Radar (DWR) X-band
+9
+ATS units provided with information
+U-Tapao TWR
+U-Tapao APP
+10
+Additional information (limitation of service, etc.)
+NIL
+VTBU
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+18
+184.00°
+3505x60
+PCR 700/R/A/W/
+Asphalt
+124144.26N
+1010022.66E
+59.0 ft (18.0 m)
+36
+004.00°
+3505x60
+PCR 700/R/A/W/
+Asphalt
+123950.42N
+1010013.26E
+24 ft (8 m)
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12
+0.3%
+305x60
+305x300
+4235x300
+NIL
+NIL
+-0.3%
+305x60
+305x300
+4235x300
+NIL
+NIL
+VTBU
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+18
+3505
+3810
+3810
+3505
+NIL
+36
+3505
+3810
+3810
+3505
+NIL
+VTBU
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+18
+CAT1
+(570 m)
+Green
+PAPI
+BI-Latteral
+3°
+NIL
+NIL
+3505 m
+60 m
+White
+LIH
+Red
+NIL
+NIL
+36
+SALS
+Green
+PAPI
+Left
+3°
+NIL
+NIL
+3505 m
+60 m
+LIH
+Red
+NIL
+NIL
+VTBU
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: On top of control towerTAERO_GND_LGT;Annotation:1365.eng;524, FLG WG EV 2 SEC.TAERO_GND_LGT;Annotation:852.eng;524 Sunset to sunrise and daylight when low visibility.
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+WDI
+- 1 WDI left side of THR RWY 36 (500 m from RWY THR)TAD_HP;Annotation:2918.eng;369
+- 1 WDI right side of THR RWY 18 (500 m from RWY THR)TAD_HP;Annotation:2919.eng;369
+3
+TWY edge and centre line lighting
+TWY edge lights (blue)
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at RWY 18/36
+Switch-over time: 0 SECTAD_HP;Annotation:1367.eng;369
+5
+Remarks
+NIL
+VTBU
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+Landing on E.
+VTBU
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+U-Tapao Aerodrome Traffic Zone (ATZ) a circle, radius 5 NM
+centred on 124047N 1010018E (ARP)
+2
+Vertical limits
+up to but not including 2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+U-Tapao Tower
+English, Thai
+5
+Transition altitude
+11000 ft MSL
+6
+Remarks
+NIL
+VTBU
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+U-Tapao Approach
+119.7 MHz/PRI
+121.5 MHz/EMERG
+134.5 MHz/SEC
+238.3 MHz/SEC
+273.3 MHz/PRI
+243.0 MHz/EMERG
+H24
+UHF reserved for military use
+U-Tapao Tower
+118.3 MHz
+121.5 MHz/EMERG
+227.0 MHz
+243.0 MHz/EMERG
+H24
+UHF reserved for military use
+GND
+U-Tapao Ground
+121.9 MHz
+275.8 MHz
+H24
+UHF reserved for military use
+A
+U-Tapao Int Airport
+127.2 MHz
+H24
+VTBU
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+UP
+414 kHz
+H24
+123943.0N
+1005942.0E
+The coverage 50 NM orbit clockwise data
+refer from commissioning shall be as follows
+-Bearing 321-020 degree altitude 3,000 feet.
+-Bearing 021-050 degree altitude 7,000 feet.
+-Bearing 051-100 degree altitude 6,000 feet.
+-Bearing 101-320 degree altitude 2,000 feet.
+DVOR/DME
+BU
+110.8 MHz
+CH 45X
+H24
+124000.0N
+1010001.7E
+-
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal clockwise orbit 40 NM at required altitude and distance in various areas:
+Radial 101°-170° altitude should not below 2 000 ft
+Radial 171°-250° altitude should not below 6 000 ft
+Radial 251°-320° altitude should not below 8 000 ft
+Radial 321°-050° altitude should not below 6 000 ft
+Radial 051°-100° altitude should not below 4 000 ft
+ILS CAT I LOC
+RWY 18
+IBU
+111.9 MHz
+H24
+123937.3N
+1010012.2E
+DME transponder provide minimum signal strength at 17 NM altitude 2 000 ft between 22-35 degrees (90Hz) of localizer course. Meanwhile DME signal has lock-on presented throughout the ILS/DME coverage.
+GP/DME
+331.1 MHz CH 56X
+H24
+124133.0N
+1010025.8E
+VTBU
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. U-TAPAO VFR LOCAL PROCEDURES
+1.1 Aerodrome Traffic Pattern
+Traffic pattern shown in diagram. The unlighted 896 feet hill, 2.2 NM NNE from runway 18 constitutes a hazard to VFR operation:
+1.1.1 Rectangular
+Altitude 1 400 ft MSL
+Left traffic for runway 18
+Right traffic for runway 36
+Enter downwind leg at a 45 Degree
+1.1.2 Overhead approach
+Altitude 1 900 ft MSL
+Runway 18 left turns
+Runway 36 right turns
+Enter final at a 45 degree.
+1.1.3 Helicopter
+Altitude 800 ft MSL
+Right traffic for runway 18
+Left traffic for runway 36
+Landing on taxiway E
+Enter downwind leg at a 45 Degree
+VFR TRAFFIC PATTERNS FIELD ELEVATION 59 FT
+1.2 HELICOPTER OPERATIONS
+1.2.1 Departure
+Normally, ATC may issue take off clearance on Taxiway E. If traffic not permit Pilots-in-command of Departing helicopters will be issued take off clearance on the runway.
+After taking off helicopter shall continue climbing straight ahead until passing the departure end of The runway or Taxiway E Unless safety dictates otherwise or when specifically authorized by the tower.
+1.2.2 Arrival
+Pilots-in-command of VFR arriving helicopters or IFR wishing to make an Visual Approach for landing will be issued landing clearance on Taxiway E.
+Pilots-in-command of arriving helicopters wishing to make an Instrument Approach for landing will be issued landing clearance on The runway.
+For traffic management or Pilot-in-command of arriving helicopters request for landing position ATC may issue Landing clearance on the runway or taxiway E depend on traffics situation.
+2. AIRCRAFT START UP AND / OR PUSH BACK
+2.1 The pilot-in-command of a departing aircraft shall contact U-TAPAO GROUND ON FRQ. 121.9 MHz for ATC clearance 5 minutes before engine start.
+2.2 All aircraft shall obtain approval from air traffic control for engine start and/or push back.
+2.3 The pilot in-command and aircraft marshaller shall be responsible for the safety of the aircraft with respect to all other aircraft, vehicles, persons and other obstruction during engine start-up power-out and taxiing, and also ensuring appropriate blast zones are clear during engine start-up.
+3. RADIO COMMUNICATIONS FAILURE
+3.1 Departing Aircraft
+3.1.1 Aircraft shall not be permitted to take-off unless two-way radio communication can be maintained with the control tower.
+3.1.2 If an aircraft experiences radio communications failure after departure, the pilot shall comply with the VFR cruising altitude.
+3.2 Arriving Aircraft
+3.2.1 When aircraft radio receiver inoperative, report their position, distance, heading, altitude and departure point when approaching 5O NM from U-Tapao Rayong Pattaya International Airport by transmitting in the blind.
+3.2.2 When two-way communications failure, radio transmitter or receiver inoperative, observe the direction of traffic in the pattern, and enter downwind with the flow of traffic.
+3.2.2.1 Day time
+Joining the traffic pattern of the landing runway be conformed to the altitude for the type of aircraft as listed in item 1, then make a low approach along the runway at 500 ft above the terrain, rocking wings of the aircraft until it reaches end of the runway.
+Re-enter downwind leg and observe light signals from the control tower for light signal on base leg and final approach.
+3.2.2.2 Night time
+Joining the traffic pattern of the landing runway be conformed to the altitude for the type of aircraft as listed in item 1, then make a low approach along the runway at 500 ft above the terrain, and blinking the landing light until it reaches end of runway.
+Re-enter downwind leg and observe light signals from the control tower for light signal on base leg and final approach.
+4. LOCAL FLYING RESTRICTION
+Flying over The gas separation plant in Rayong (Ban Map Ta Phut) is hazardous. Aircraft are to avoid areas starting from 12 41 12.00 N 101 08 00.00 E then clockwise along an arc of 2 NM radius from 12 43 00.00 N 101 09 00.00 E to 12 43 00.00 N 101 11 00.00 E then direct to 12 38 30.00 N 101 11 00.00 E from this point make an arc of 5 NM radius from 12 43 00.00 N 101 09 00.00 E clockwise to 12 38 12.00 N 101 08 00.00 E then direct to the starting point, altitude 2 000 ft.
+VTBU
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTBU
+AD 2.22 FLIGHT PROCEDURES
+1. GENERAL PROCEDURES
+1.1 All aircraft flying within U-TAPAO Controlled airspaces shall be provided Approach Control procedural Service.
+1.2 All Aircraft shall obtain appropriate ATC Clearance before penetrating the affected airspace.
+1.3 Except when necessary for take-off or landing, or except when specifically authorized by the U-tapao Approach Control, an IFR flight shall be flown at a level which is not below the Minimum Altitude for the aircraft operating IFR flight within BUT TMA or, minimum flight altitude has been established, descend below this level is only permitted in accordance with published Instrument Approach Procedures or ATS Routes Structure or Minimum Sector Altitude or when the aircraft having reported the terrain in-sight and has been cleared for the visual approach.
+1.4 Transition level is FL 130 and transition altitude is altitude 11 000 ft.
+2. OPERATING PROCEDURES AND ESTABLISHMENT OF STANDARD DEPARTURE CHART – INSTRUMENT (SID)
+In order to enhance ATS efficiency, Air Traffic safety and avoiding congested area in Bangkok Terminal Control Area, operational implementation to enhance Air Traffic Flow Management and Safety for aircraft intending to depart at U-TAPAO Rayong Pattaya International airport (VTBU) via R201 will be applied as follows:
+DEPARTURE PROCEDURES FOR IFR AIRCRAFT WITH RNP1 CAPABILITY
+FLIGHT PLAN FILING : BUT R201 BKK ...FPL RTE...
+RNAV SID FOR RWY 18 : BKK1A
+RNAV SID FOR RWY 36 : BKK1B
+VTBU
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS IN THE VICINITY OF U-TAPAO RAYONG PATTAYA INTERNATIONAL AIRPORT
+It has been observed that migratory birds appear on or in the vicinity of U-Tapao Rayong Pattaya International Airport mostly depends on the time of year and geographical conditions which may divided into Rainy season (May to October), Winter season (October to February) and Summer season (March to April), while the resident or presumed resident birds are present in variable number every month.
+Pilots are requested to report bird strikes to the staff of the airport via
+Airside Operations:
+Phone +663 824 5040
+E-mail: [email protected]
+Aerodrome and Aviation Standards Division:
+Phone +663 824 4524
+E-mail: [email protected], [email protected]
+Species which account for high to very high to bird strike risk are as follows:
+SPECIES | WEIGHT (kg) | PERIOD
+Glareola maldivarum (Oriental Pratincole) | 0.05 - 0.2 | April - September
+Vanellus indicus (Red-wattled Lapwing) | 0.15 | All year (Mostly in April - September)
+Charadrius alexandrius (Kentish Plover) | 0.06 | All yaer (Mostly in October - February)
+Columba livia (Rock Pigeon) | 0.4 | All year (Mostly in April - October)
+Acridotheres grandis (White -vented Myna) | 0.1 | All year (Mostly in April - September)
+Acridotheres tristis (Common Myna) | 0.1 | All year (Mostly in April - September)
+Coracias affinis (Indochinese Roller) | 0.2 | All year
+Anastomus oscitans (Asian Openbill) | 1.0 - 1.3 | All year (Mostly in May - August)
+Ardea intermedia (Intermediate Egret) | 0.4 - 1.0 | All year
+Pernis ptilorhynchus (Oriental Honey-buzzard) | 0.75 - 1.49 | All year (Mostly in August - January)
+Streptopelia tranquebarica (Red Collared Dove) | 0.09 | All year (Mostly in June - September)
+Geopelia striata (Zebra Dove) | 0.08 | All year (Mostly in May - August)
+Apus nipalensis (House Swift) | 0.015 | All year (Mostly in October - January)
+Cypsiurus balasiensis (Asian Palm Swift) | 0.012 | October - January
+Hirundo rustica (Barn Swollow) | 0.02 | November - February
+Anthus rufulus (Paddyfield Pipit) | 0.02 | All year
+Haliastur indus (Brahminy Kite) | 0.3 - 0.6 | All year (Mostly in July - December)
+Tyto alba (Barn owl) | 0.9 | All year
+VTBU
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTBU-2-1
+Aerodrome Ground Movement Chart - ICAO
+AD 2-VTBU-2-3
+Aerodrome Ground Movement Chart - ICAO (Verso)
+AD 2-VTBU-2-4
+Aerodrome Obstacle Chart - ICAO Type A - RWY 18/36
+AD 2-VTBU-3-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - BKK1A
+AD 2-VTBU-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 18 - BKK1A (Tabular description)
+AD 2-VTBU-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - BKK1B
+AD 2-VTBU-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 36 - BKK1B (Tabular description)
+AD 2-VTBU-6-4
+Instrument Approach Chart - ICAO - NDB RWY 36
+AD 2-VTBU-8-1
+Instrument Approach Chart - ICAO - VOR RWY 18
+AD 2-VTBU-8-3
+Instrument Approach Chart - ICAO - VOR RWY 18 (Fix and point list table)
+AD 2-VTBU-8-4
+Instrument Approach Chart - ICAO - VOR RWY 36
+AD 2-VTBU-8-5
+Instrument Approach Chart - ICAO - VOR RWY 36 (Fix and point list table)
+AD 2-VTBU-8-6
+Instrument Approach Chart - ICAO - ILS or LOC y RWY18
+AD 2-VTBU-8-7
+Instrument Approach Chart - ICAO - ILS or LOC y RWY18 (Fix and point list table)
+AD 2-VTBU-8-8
+Instrument Approach Chart - ICAO - ILS or LOC z RWY 18
+AD 2-VTBU-8-9
+Instrument Approach Chart - ICAO - ILS or LOC z RWY18 (Tabular description)
+AD 2-VTBU-8-10
+Instrument Approach Chart - ICAO - RNP RWY 18
+AD 2-VTBU-8-11
+Instrument Approach Chart - ICAO - RNP RWY 18 (Tabular description)
+AD 2-VTBU-8-12
+Instrument Approach Chart - ICAO - RNP RWY 36
+AD 2-VTBU-8-13
+Instrument Approach Chart - ICAO - RNP RWY 36 (Tabular description)
+AD 2-VTBU-8-14

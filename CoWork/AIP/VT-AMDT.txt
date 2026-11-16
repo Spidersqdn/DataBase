@@ -1,0 +1,179 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AMDT
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AMDT-en-GB.html
+AIPAMDTSUPsAICs
+Effective 29 OCT 2026
+An eAIP in HTML format has no "amendment pages", as opposed to a paper AIP. Instead, the list provided below points to all changes that occurred in this Amendment.
+- Miscellaneous
++GEN 3 SERVICES
++GEN 3.1 AERONAUTICAL INFORMATION SERVICES
++3. Aeronautical publications
+3.3 Amendment servi…►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►
+3.4 Supplement to t…►►►►►►►►►►
+►►►►►►►►►►
+3.5 Aeronautical In…►►►►►►►►
+►►►►►►►►
+3.6 NOTAM and Pre-f…►►►►►►►►►►►►
+►►►►►►►►►►►►
+3.8 Sale of publica…►►►►►►
+►►►►►►
++GEN 3.2 AERONAUTICAL CHARTS
+5. List of Aeronau…►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
++GEN 4 CHARGES FOR AERODROMES/HELIPORTS AND AIR NAVIGATION SERVICES
++GEN 4.1 AERODROME/HELIPORT CHARGES
+4. Advance Passeng…►►►
+►►►
++ENR 1 GENERAL RULES AND PROCEDURES
++ENR 1.6 ATS SURVEILLANCE SERVICES AND PROCEDURES
+►►►►►►►►►►►►►►►►►►►►►►►
++2. PRIMARY SURVEILLANCE RADAR
+2.1 Area of Radar C…►►►►
+►►►►
++ENR 3 ATS ROUTES
++ENR 3.1 LOWER AND UPPER ATS ROUTES
+W26►►►►►►
+►►►►►►
++ENR 4 RADIO NAVIGATION AIDS/SYSTEMS
+ENR 4.4 NAME-CODE DESIG…►►►►►►►
+►►►►►►►
++ENR 5 NAVIGATION WARNINGS
++ENR 5.1 PROHIBITED, RESTRICTED, DANGER AREAS
++5. PROHIBITED, RESTRICTED AND DANGER AREAS
+5.1 PROHIBITED AREAS►►►►►►►►►
+►►►►►►►►►
+ENR 6 EN-ROUTE CHARTS►
+►
++AD 1 AERODROMES - INTRODUCTION
+AD 1.3 INDEX TO AERODR…►►►►
+►►►►
+AD 1.5 STATUS OF CERTI…►►►►►
+►►►►►
++AD 2 AERODROMES
++ VTBD Bangkok/ Don Mueang International Airport
+AD 2.2 VTBD AERODROME …►►►►►►
+►►►►►►
+AD 2.8 VTBD APRONS, TA…►►►►
+►►►►
+AD 2.10 VTBD AERODROME …►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►
+AD 2.12 VTBD RUNWAY PHY…►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►
+AD 2.24 VTBD CHARTS REL…►
+►
++ VTCC Chiang Mai/ Chiang Mai International Airport
+AD 2.12 VTCC RUNWAY PHY…►►►►►
+►►►►►
++ VTCT Chiang Rai/ Mae Fah Luang-Chiang Rai International Airport
+AD 2.12 VTCT RUNWAY PHY…►►►►
+►►►►
++ VTSP Phuket/ Phuket International Airport
+AD 2.6 VTSP RESCUE AND…►►►►►►►
+►►►►►►►
++ VTBS Bangkok/ Suvarnabhumi International Airport
+AD 2.10 VTBS AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
++ VTUO Buri Ram Airport
+AD 2.2 VTUO AERODROME …►►►►
+►►►►
+AD 2.10 VTUO AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►
++ VTSE Chumphon/ Chumphon
+AD 2.10 VTSE AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
++ VTUK Khon Kaen
+AD 2.19 VTUK RADIO NAVI…►►►►►
+►►►►►
++ VTSG Krabi
+AD 2.10 VTSG AERODROME …►►►
+►►►
++ VTCL Lampang
+AD 2.8 VTCL APRONS, TA…►►►►►►►
+►►►►►►►
++ VTCI Mae Hong Son / Pai
+AD 2.2 VTCI AERODROME …►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►
+AD 2.10 VTCI AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+AD 2.12 VTCI RUNWAY PHY…►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►
+AD 2.13 VTCI DECLARED D…►►►►►►►►
+►►►►►►►►
+AD 2.14 VTCI APPROACH A…►►
+►►
+AD 2.24 VTCI CHARTS REL…►
+►
++ VTUW Nakhon Phanom
+AD 2.12 VTUW RUNWAY PHY…►►
+►►
++ VTUQ Nakhon Ratchasima
+AD 2.12 VTUQ RUNWAY PHY…►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►
+AD 2.13 VTUQ DECLARED D…►►►►►►►►
+►►►►►►►►
+AD 2.14 VTUQ APPROACH A…►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►
++ VTSF Nakhon Si Thammarat
+AD 2.2 VTSF AERODROME …►►►►►
+►►►►►
+AD 2.8 VTSF APRONS, TA…►►►►
+►►►►
++ VTCN Nan/ Nan Nakhon
+AD 2.2 VTCN AERODROME …►►►►
+►►►►
+AD 2.10 VTCN AERODROME …►►►►►►►►►
+►►►►►►►►►
++ VTSC Narathiwat
+AD 2.12 VTSC RUNWAY PHY…►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►
++ VTPB Phetchabun
+AD 2.2 VTPB AERODROME …►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►
+AD 2.24 VTPB CHARTS REL…►
+►
++ VTPP Phitsanulok
+AD 2.2 VTPP AERODROME …►►►►
+►►►►
++ VTCP Phrae
+AD 2.8 VTCP APRONS, TA…►►►►
+►►►►
+AD 2.10 VTCP AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
++ VTPH Prachuap Khiri Khan/ Hua Hin
+AD 2.20 VTPH LOCAL AERO…
++ VTUV Roi Et
+AD 2.8 VTUV APRONS, TA…►►
+►►
++ VTPO Sukhothai
+AD 2.8 VTPO APRONS, TA…►►►►►►►►►►►►
+►►►►►►►►►►►►
+AD 2.10 VTPO AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+AD 2.12 VTPO RUNWAY PHY…►►►►►►►►►►►►
+►►►►►►►►►►►►
+AD 2.19 VTPO RADIO NAVI…►►
+►►
+AD 2.24 VTPO CHARTS REL…►►►
+►►►
++ VTSB Surat Thani
+AD 2.10 VTSB AERODROME …►►►►►►►►►
+►►►►►►►►►
+AD 2.12 VTSB RUNWAY PHY…►►
+►►
+AD 2.14 VTSB APPROACH A…►
+►
++ VTST Trang
+AD 2.8 VTST APRONS, TA…►►
+►►
+AD 2.10 VTST AERODROME …►►
+►►
+AD 2.19 VTST RADIO NAVI…►
+►
++ VTUU Ubon Ratchathani
+AD 2.2 VTUU AERODROME …►►►►►►
+►►►►►►
+AD 2.10 VTUU AERODROME …►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►►
++ VTSY Yala/ Betong
+AD 2.10 VTSY AERODROME …►►►►►►►►►►►►►►►►►►►►
+►►►►►►►►►►►►►►►►►►►►

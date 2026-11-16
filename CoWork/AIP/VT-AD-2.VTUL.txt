@@ -1,0 +1,730 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUL
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUL-en-GB.html
+VTUL
+— Loei
+VTUL
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTUL
+— Loei
+VTUL
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+172621N
+1014319E
+2
+Direction and distance from (city)
+5 KM, from city
+3
+Elevation/Reference temperature
+864 ft/30°C
+4 | Geoid Undulation at AD ELEV PSN
+-106 ft
+5
+MAG VAR/Annual change
+0°59' W (2025)/0°1' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Loei Airport
+Loei Airport
+Loei Province
+42000
+Thailand
+Tel:
++664 281 2654
+Tel:
++664 281 1521
+Fax:
++664 281 2654
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTUL
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1100
+2
+Customs and immigration
+NIL
+3
+Health and sanitation
+NIL
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+2300-1100
+6
+MET Briefing Office
+NIL
+7
+ATS
+2300-1100
+8
+Fuelling
+NIL
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Udon Thani Air Traffic Control Centre (1st floor of tower building)
+Tel: +664 223 0124
+Tel: +669 2262 3477
+Fax: +664 224 2797
+VTUL
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+NIL
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTUL
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1498.eng;743
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1499.eng;744
+3
+Transportation
+NIL
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+NIL
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTUL
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 6
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1500.eng;568
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTUL
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTUL
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+Surface: Concrete
+Strength: PCN 45/R/C/X/
+2 | Taxiway width, surface and strength
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCN 42/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 854 ft (260 m)
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTUL
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+VDGS of aircraft stands: NIL,
+aircraft parking shall follow marshaller strictly.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR, TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY marking: TWY CL, TWY Edge and RWY Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTUL
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 19 /
+APCH area
+RWY 01 /
+TKOF area
+NDB
+895 ft (273 m)
+Painted red/white
+LGTD
+172656.0N
+1014336.2E
+AWOS
+842 ft (257 m)
+Painted red/white
+LGTD
+172558.5N
+1014315.3E
+NIL
+Billboard
+887 ft (271 m)
+NIL / NIL
+172722.1N
+1014345.4E
+AWOS
+839 ft (256 m)
+Painted red/white
+LGTD
+172558.7N
+1014315.3E
+Radio mast
+953 ft (291 m)
+Painted red/white
+LGTD
+172711.0N
+1014345.9E
+NDB
+895 ft (273 m)
+Painted red/white
+LGTD
+172654.1N
+1014334.9E
+Radio mast
+950 ft (289 m)
+Painted red/white LGTD
+172749.6N
+1014342.7E
+Water tank
+908 ft (277 m)
+Painted red/white
+LGTD
+172646.7N
+1014338.3E
+Telecommunication
+mast
+951 ft (290 m)
+Painted red/white
+LGTD
+172750.0N
+1014340.2E
+Radio mast
+1,011 ft (308 m)
+Painted red/white
+LGTD
+172605.4N
+1014336.4E
+Telecommunication mast
+959 ft (292 m)
+Painted red/white
+LGTD
+172749.2N
+1014342.7E
+Radio mast
+978 ft (298 m)
+Painted red/white
+LGTD
+172611.1N
+1014339.0E
+Radio mast
+901 ft (275 m)
+NIL / NIL
+172643.7N
+1014336.8E
+Radio mast
+1,174 ft (358 m)
+Painted red/white LGTD
+172831.8N
+1014323.9E
+Radio mast
+1,229 ft (375 m)Painted red/white LGTD
+172332.8N
+1014417.6E
+Telecommunication mast1,002 ft (305 m)Painted red/white LGTD
+172549.6N
+1014339.6E
+Telecommunication mast976 ft (298 m)
+NIL / NIL
+172551.4N
+1014337.5E
+Telecommunication mast974ft (297 m)Painted red/white LGTD | 172659.4N
+1014352.2E
+Telecommunication mast1,076 ft (328 m)
+NIL / LGTD | 172726.7N
+1014221.4E
+Telecommunication mast1,026 ft (313 m)Painted red/white LGTD | 172734.2N
+1014216.5E
+Telecommunication mast1,046 ft (319 m)Painted red/white LGTD | 172733.6N
+1014233.9E
+Telecommunication mast1,077 ft (328 m)Painted red/white LGTD | 172353.7N
+1014412.4E
+Lightning rod on top of building
+918 ft (280 m)NIL / NIL | 172612.3N
+1014326.6E
+Apron flood light pole942 ft (287 m)
+NIL / LGTD | 172641.8N
+1014335.1E
+Apron flood light pole941 ft (287 m)
+NIL / LGTD | 172643.8N
+1014335.8E
+Apron flood light pole940 ft (286 m)
+NIL / LGTD | 172646.5N
+1014336.6E
+ATC tower
+945 ft (288 m)Painted red/white LGTD | 172643.5N
+1014336.0E
+VTUL
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Loei,
+Upper Northeastern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2200-1200
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Upper Northeastern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2345.eng;833
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2346.eng;833
+Tel: +664 281 4639 ext. 6715TSERVICE;Annotation:2347.eng;833
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2348.eng;833, U85TSERVICE;Annotation:2349.eng;833, Daily Weather ForecastTSERVICE;Annotation:2350.eng;833, satellite and radar imagesTSERVICE;Annotation:2351.eng;833
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS)
+9
+ATS units provided with information
+Loei TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTUL
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+01
+016.47°
+2100x45
+PCN 42/F/C/X/
+Asphaltic concrete
+172548.17N
+1014309.17E
+THR 821 ft
+19
+196.47°
+2100x45
+PCN 42/F/C/X/
+Asphaltic concrete
+172653.56N
+1014329.81E
+THR 864 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | RESAdimensions (m) | Location & description of arresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+-0.60% | NIL
+NIL
+2280x280 | 160x90 | NIL
+NIL
+NIL
+-0.90% | 60x45
+NIL
+2280x280 | 240x90 | NIL
+NIL
+NIL
+VTUL
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+01
+2100
+2100
+2100
+2100
+NIL
+19 | 2100 | 2100 | 2160 | 2100 | NIL
+VTUL
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+01
+SALS
+420 m LIH
+Green
+NIL
+PAPI
+Left 3°
+(48.61 ft)
+NIL
+NIL
+2100 m
+60 m
+FM 0 m - 1500 m White,FM 1500 m -2100 m Yellow,5 steps, LIH
+Red
+NIL
+NIL
+NIL
+19
+NIL
+Green
+NIL
+PAPI
+Left 3°
+(52.65 ft)
+NIL
+NIL
+2100 m
+60 m
+FM 0 m - 1500 m White,FM 1500 m -2100 m Yellow,5 steps, LIH
+Red
+NIL | 60 m
+Red | RTIL
+VTUL
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1501.eng;517 FLG W G EV 3 SECTAERO_GND_LGT;Annotation:838.eng;517
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NILWDI: 1. Wind cone at 300 m from THR 01
+off set to the left side 80 m from
+RCL, illuminated. 2. Wind cone at 300 m from THR 19
+off set to the left side 110 m from
+RCL, illuminated.
+3
+TWY edge and centre line lighting
+TWY edge: All TWY
+TWY centre line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at
+Airfield Lighting (AFL) building.
+Switch-over time: 15 sec.
+5
+Remarks
+NIL
+VTUL
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTUL
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on Loei DVOR/DME
+(172649.4N 1014323.2E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Loei Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTUL
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Loei Approach
+122.55 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Loei Tower
+118.35 MHz
+236.6 MHz
+121.5 MHz 1)
+As AD OPR HR
+A
+Loei Airport
+126.25 MHz;;
+As AD OPR HR
+VTUL
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+LY
+325 KHz | H24
+172655.0N
+1014335.4E
+NIL
+50 NM Coverage clockwise orbit data refer from commissioning checked as follows:
+Bearing 061° - 160° at 4 000 ft
+Bearing 161° - 265°at 8 000 ft
+Bearing 266° - 060° unable to perform flight inspection due to border limited
+Facility unusable from bearing 205° - 255° clockwise below
+8 000 ft due to needle swing
+Facility performance classified as “Restricted” due to item b) and c) above as per commissioning checked
+DVOR/DME
+LOY
+115.9 MHz
+CH106X
+H24
+172649.3N
+1014323.1E
+270 m
+(900 ft)
+DVOR/DME restriction,
+Unusable due to roughness out of tolerance
+Radial 020° between 10-11 DME altitude 3 000 ft.
+Radial 243° between 7-8 DME altitude 6 000 ft and between 32-33 DME altitude 7 500 ft.
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+40 NM orbit
+Radial 030°-050° altitude should not below 10 000 ft.
+Radial 051°-100° altitude should not below 7 000 ft.
+Radial 101°-130° altitude should not below 10 000 ft.
+Radial 131°-200° altitude should not below 5 000 ft.
+Radial 201°-250° altitude should not below 12 000 ft.
+Radial 251°-270° altitude should not below 13 000 ft.
+20 NM orbit (Due to border limited)
+Radial 271°-029° altitude should not below 4 500 ft.
+VTUL
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. 180 DEGREE TURN ON THE RUNWAY
+To prevent runway pavement damage, all aircraft code letter C or higher are not allowed to make 180 degree turn on the runway. The turn shall be made on the runway turn pad at the end of runway 19 only. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand/The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTUL
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTUL
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 01:
+LOEI OMNI 01 Departure: Required climb gradient 365 ft per NM (6.0%) until 6,400 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb6.0% | (ft/min) | 395 | 456 | 608 | 912 | 1216 | 1519 | 1823
+No turn before DER.
+After departure climb straight ahead until 3,000 ft (or altitude assigned by ATC between 3,000 ft – 5,700 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 19:
+LOEI OMNI 19 Departure: Required climb gradient 414 ft per NM (6.8%) until 6,400 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb6.8% | (ft/min) | 448 | 516 | 689 | 1033 | 1377 | 1722 | 2066
+No turn before DER.
+After departure climb straight ahead until 3,000 ft (or altitude assigned by ATC between 3,000 ft – 5,700 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTUL
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+1.1 Bird Concentrations in the vicinity of the aerodrome
+1.1.1 A number of varieties of birds are found in Loei Airport mostly during the rainy season (May to October) and the winter season (November to February), the very small to moderate medium birds commonly found in Loei Airport include the following:
+- Hirundo rustica weighting: 0.07-0.2 KG Period: November-February
+(2300-0300 UTC)
+- Vanellus indicus weighting: 0.2-0.5 KG Period: May to October
+1.1.2 There could be some activities to reduce birds and make the area unattractive for birds such as devices generating sound, mowing the grass and other plants.
+VTUL
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTUL-2-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 01 - ANLUR1A BARCE1A BOVGO1A DUBOL1A NOGAD1A RIBDO1A SWENI1A
+AD 2-VTUL-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 01 - ANLUR1A BARCE1A BOVGO1A DUBOL1A NOGAD1A RIBDO1A SWENI1A (Tabular description)
+AD 2-VTUL-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 01 - ANLUR1A BARCE1A BOVGO1A DUBOL1A NOGAD1A RIBDO1A SWENI1A (Waypoint list table)
+AD 2-VTUL-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 19 - ANLUR1B BARCE1B BOVGO1B DUBOL1B NOGAD1B RIBDO1B SWENI1B
+AD 2-VTUL-6-5
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 19 - ANLUR1B BARCE1B BOVGO1B DUBOL1B NOGAD1B RIBDO1B SWENI1B (Tabular description)
+AD 2-VTUL-6-6
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 19 - ANLUR1B BARCE1B BOVGO1B DUBOL1B NOGAD1B RIBDO1B SWENI1B (Waypiont list table)
+AD 2-VTUL-6-7
+Instrument Approach Chart - ICAO - VOR RWY 19
+AD 2-VTUL-8-1
+Instrument Approach Chart - ICAO - VOR RWY 19 (Fix and point list table)
+AD 2-VTUL-8-2
+Instrument Approach Chart - ICAO - RNP RWY 19
+AD 2-VTUL-8-3
+Instrument Approach Chart - ICAO - RNP RWY 19 (Tabular description)
+AD 2-VTUL-8-4
+Instrument Approach Chart - ICAO - RNP RWY 19 (Waypoint list table)
+AD 2-VTUL-8-5

@@ -1,0 +1,585 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTST
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTST-en-GB.html
+VTST
+— Trang
+VTST
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTST
+— Trang
+VTST
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+073031N
+0993657E
+2
+Direction and distance from (city)
+7 KM S, from city
+3
+Elevation/Reference temperature
+67 F / 31°C
+4 | Geoid Undulation at AD ELEV PSN
+NIL
+5
+MAG VAR/Annual change
+0°20' W(2025)/0°2' E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Trang Airport
+Trang Airport
+Trang-palinan Road
+Amphone Muang
+Trang Province 92000 Thailand
+Tel:
++667 557 2151
+Tel:
++667 557 2152
+Tel:
++667 557 2153
+Fax:
++667 557 2154
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTST
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+2300-1300
+2
+Customs and immigration
+On request
+3
+Health and sanitation
+On request
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+2300-1300
+6
+MET Briefing Office
+NIL
+7
+ATS
+2300-1300
+8
+Fuelling
+NIL
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Hat Yai Air Traffic Control Centre (1st floor of tower building)
+Tel: +669 2262 2436
+Fax: +667 425 1050
+VTST
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+NIL
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTST
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:989.eng;613
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:990.eng;614
+3
+Transportation
+LimousinesTPASSENGER_FACILITY;Annotation:991.eng;615, BusTPASSENGER_FACILITY;Annotation:2901.eng;615 and TaxiTPASSENGER_FACILITY;Annotation:2902.eng;615
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+NIL
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTST
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 7
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:995.eng;538
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTST
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons
+VTST
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 | Apron surface and strength
+APRON A
+Surface: Asphaltic concrete
+Strength: PCR 500/F/C/X/
+APRON B
+Surface: Concrete
+Strength: PCR 550/R/C/X/
+APRON C
+Surface: Concrete
+Strength: PCR 910/R/C/X/
+2 | Taxiway width, surface and strength
+TWY A
+Width: 15 m
+Surface: Asphaltic concrete
+Strength: PCR 500/F/C/X/
+TWY B and C
+Width= 23 m
+Surface: Asphaltic concrete
+Strength: PCR 500/F/C/X/TWY D, E and F
+Width: 23 m
+Surface: Asphaltic concrete
+Strength: PCR 840/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 56 ft (17 m)TALTIMETER_SOURCE;Annotation:3963.eng;1825
+Location: At apron
+Elevation: 56 ft (16.96 m)TALTIMETER_SOURCE;Annotation:3963.eng;1825
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTST
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Marked
+2
+RWY and TWY markings and LGT
+RWY and TWY Markings and lighted
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTST
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+-
+Radio mast HGT 36 m Painted red/white LGTD on top
+073000.5N
+0993700.8E
+NIL
+NIL
+NIL
+VTST
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Trang,
+Southern West-Coast Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+2200-1300
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Southern West-Coast Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2477.eng;812
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2478.eng;812
+Tel: +667 557 2146TSERVICE;Annotation:2479.eng;812
+Fax: +667 557 2146TSERVICE;Annotation:2480.eng;812
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2481.eng;812, U85TSERVICE;Annotation:2482.eng;812, Daily Weather ForecastTSERVICE;Annotation:2483.eng;812, satellite and radar imagesTSERVICE;Annotation:2484.eng;812
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS) and Weather Radar
+9
+ATS units provided with information
+Trang TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTST
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY (m)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+08
+080.83°
+2320x45
+PCR 840/F/C/X/
+Asphaltic concrete
+073026.07N
+0993625.80E
+67 ft
+TDZ 67 ft
+26
+260.83°
+2320x45
+PCR 840/F/C/X/
+Asphaltic concrete
+073036.89N
+0993733.57E
+52 ft
+TDZ 56 ft
+Slope of RWY-SWY
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12
+-0.22%
+NIL
+NIL
+2440x300
+NIL
+NIL
++0.22%
+NIL
+NIL
+2440x300
+NIL
+NIL
+VTST
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+08
+2320
+2320
+2320
+2320
+NIL
+26
+2320
+2320
+2320
+2100
+NIL
+VTST
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (m)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+08
+SALS
+420
+m
+LIH
+Green
+PAPI
+Left
+3.5°
+NIL
+NIL
+2320 m
+60 m
+White/LIH
+Red
+NIL
+NIL
+26
+NIL
+Green
+PAPI
+Left
+3.5°
+NIL
+NIL
+2320 m
+60 m
+White/LIH
+Red
+NIL
+NIL
+VTST
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1848.eng;526, FLG W EV 7 SECTAERO_GND_LGT;Annotation:856.eng;526.
+IBN: Nil
+2
+LDI location and LGT
+Anemometer location and LGT
+NIL
+3
+TWY edge and centre line lighting
+EDGE: All TWY
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the air field lighting (AFL) and tower
+Switch-over time 15 SECTAD_HP;Annotation:1851.eng;473
+5
+Remarks
+Flares 2 HR PNTAERO_GND_LGT;Annotation:1849.eng;526
+VTST
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTST
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on DVOR/DME
+(073032N 0993734E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Trang Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTST
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Trang Approach
+125.3 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Trang Tower
+118.4 MHz
+236.6 MHz
+121.5 MHz)
+As AD OPR HR
+A
+Trang Airport
+134.5 MHz
+As AD OPR HR
+VTST
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give declination)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+DVOR/DME
+116.6 MHz
+CH 113X
+H24
+073032.1N
+0993733.6E
+30 m
+(100 ft)
+DVOR/DME restriction due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal at the required altitude in various areas as follows:
+20 NM orbit
+Radial 081°-130° altitude should not below 6 000 ft.
+40 NM orbit
+Radial 131°-350° altitude should not below 4 000 ft.
+Radial 351°-030° altitude should not below 6 000 ft.
+Radial 031°-080° altitude should not below 7 000 ft.
+ILS CAT I
+LOC 08
+I
+110.3 MHz
+CH 40X
+H24
+073038.3N
+0993743.2E
+LOC: Designated Operation Coverage 18 NM, ALT 6 300 ft/AMSL
+GP 08
+335 MHz
+H24
+073030.7N
+0993634.7E
+GP: 3.50 DEG, RDH 58 ft
+DME 08 | I-TRN
+110.3 MHz | H24 | 073040.7N
+0993742.8E | 30 m
+(100 ft)
+DME
+VTST
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. 180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, all aircraft Maximum Takeoff Weight (MTOW) more than 5700 kg are not allowed to make 180 degrees turn on the runway. The turn shall be made on the runway turn pad at the end of runway 08 and 26 only. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTST
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTST
+AD 2.22 FLIGHT PROCEDURES
+NIL
+VTST
+AD 2.23 ADDITIONAL INFORMATION
+1. BIRD CONCENTRATIONS
+- Bird concentrations in the vicinity of an aerodrome.
+VTST
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTST-2-1
+Aircraft Parking/Docking Chart - ICAO
+AD 2-VTST-2-3
+Instrument Approach Chart - ICAO - VOR RWY 08
+AD 2-VTST-8-1
+Instrument Approach Chart - ICAO - VOR RWY 08 (Fix and point list table)
+AD 2-VTST-8-2
+Instrument Approach Chart - ICAO - ILS or LOC RWY 08
+AD 2-VTST-8-3
+Instrument Approach Chart - ICAO - ILS or LOC RWY 08 (Fix and point list table)
+AD 2-VTST-8-4
+Instrument Approach Chart - ICAO - RNP RWY 08
+AD 2-VTST-8-5
+Instrument Approach Chart - ICAO - RNP RWY 08 (Tabular description)
+AD 2-VTST-8-6

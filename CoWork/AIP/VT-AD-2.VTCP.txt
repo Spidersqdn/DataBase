@@ -1,0 +1,706 @@
+# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCP
+# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCP-en-GB.html
+VTCP
+— Phrae
+VTCP
+AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+VTCP
+— Phrae
+VTCP
+AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1
+ARP coordinates and site at AD
+180756N
+1000953E
+2
+Direction and distance from (city)
+3 km E, from city
+3
+Elevation/Reference temperature
+540 ft/27°C
+4 | Geoid Undulation at AD ELEV PSN
+-121
+ft
+5
+MAG VAR/Annual change
+0°56' W (2025)/0°2'E
+6
+AD Administration, address, telephone,
+telefax, telex, AFS
+Director of Phrae Airport
+Phrae Airport
+72 Chohae Road, Tambon Nachack
+Amphoe Muangphrae,
+Phrae Province 54000
+Thailand
+Tel:
++665 451 1184
+Tel:
++665 452 2706
+Fax:
++665 452 2705
+AFS:
+V
+7
+Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8
+Remarks
+Operator: Department of Airports
+VTCP
+AD 2.3 OPERATIONAL HOURS
+1
+Aerodrome Operator
+0130-0930
+2
+Customs and immigration
+NIL
+3
+Health and sanitation
+NIL
+4
+AIS Briefing Office
+NIL
+5
+ATS Reporting Office (ARO)
+0130-0930
+6
+MET Briefing Office
+NIL
+7
+ATS
+0130-0930
+8
+Fuelling
+NIL
+9
+Handling
+NIL
+10
+Security
+NIL
+11
+De-icing
+NIL
+12
+Remarks
+ATS Reporting Office (ARO):
+Located at Phitsanulok Airport (1st floor of airport building)
+Tel: +665 530 1078
+Tel: +669 2262 3140
+Fax: +665 530 1077
+VTCP
+AD 2.4 HANDLING SERVICES AND FACILITIES
+1
+Cargo-handling facilities
+NIL
+2
+Fuel/oil types
+NIL
+3
+Fuelling facilities/capacity
+NIL
+4
+De-icing facilities
+NIL
+5
+Hangar space for visiting aircraft
+NIL
+6
+Repair facilities for visiting aircraft
+NIL
+7
+Remarks
+NIL
+VTCP
+AD 2.5 PASSENGER FACILITIES
+1
+Hotels
+In the cityTPASSENGER_FACILITY;Annotation:1689.eng;806
+2
+Restaurants
+In the cityTPASSENGER_FACILITY;Annotation:1690.eng;807
+3
+Transportation
+NIL
+4
+Medical facilities
+NIL
+5
+Bank and Post Office
+NIL
+6
+Tourist Office
+NIL
+7
+Remarks
+NIL
+VTCP
+AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1
+AD category for fire fighting
+Category 5
+2
+Rescue equipment
+YesTAD_HP_GND_SER;Annotation:1691.eng;582
+3
+Capability for removal of disabled aircraft
+NIL
+4
+Remarks
+NIL
+VTCP
+AD 2.7 SEASONAL AVAILABILITY - CLEARING
+1
+Types of clearing equipment
+NIL
+2
+Clearance priorities
+NIL
+3
+Remarks
+The aerodrome is available all seasons.
+VTCP
+AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSTIONS DATA
+1 | Apron surface and strength
+Surface: Asphaltic concrete
+Strength: PCN 20/F/C/X/
+2 | Taxiway width, surface and strength
+Width: 15 mM
+Surface: Asphaltic concrete
+Strength: PCN 20/F/C/X/
+3
+Altimeter checkpoint location and elevation
+Location : At Apron
+Elevation : 534 ft (163 m)TALTIMETER_SOURCE;Annotation:3961.eng;1823
+Location : At Apron
+Elevation : 534 FT (162.81 M) TALTIMETER_SOURCE;Annotation:3961.eng;1823
+4
+VOR checkpoints
+NIL
+5
+INS checkpoints
+NIL
+6
+Remarks
+NIL
+VTCP
+AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1
+Use of aircraft stand ID signs, TWY guide lines and visual docking/parking guidance system of aircraft stands
+Aircraft stand ID signs: Marked
+TWY guide lines: Yes
+VDGS of aircraft stands: NIL, aircraft parking shall follow marshaller strictly.
+2
+RWY and TWY markings and LGT
+RWY marking: RWY Designation, THR, TDZ, RCL, Aiming Point and Side Stripe
+RWY LGT: THR, RWY Edge and RWY End
+TWY marking: TWY CL, TWY Edge and RWY Holding Position
+TWY LGT: TWY Edge
+3
+Stop bars
+NIL
+4
+Remarks
+NIL
+VTCP
+AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+In circling areas and at AD
+Remarks
+1 | 2 | 3
+RWY/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+a | b | c | a | b
+RWY 01 /
+APCH area
+RWY 19 /
+TKOF area
+Pagoda
+609 ftFT (1865.67 mM)
+NIL / NIL
+180715.766N
+1000954.547E
+AWOS 1
+569 FTft (173.49 mM)
+Painted red/white
+LGTD | 180808.987N
+1000957.30E
+NIL
+Radio mast
+699 ftFT (213.13 mM)
+Painted red/white
+LGTD
+181014.02N
+1001020.107E
+AWOS 2
+5743 FTft (175 m4.73 M)
+Painted red/white
+LGTD | 180808.767N
+1000957.329E
+Building
+581 ftFT (177.23 mM)
+NIL / NIL | 180711.10N
+1000945.986E | AWOS 3
+5776 FTft (1765.71 mM)
+Painted red/white
+LGTD | 180741.769N
+10009554.098E
+AWOS 4
+572 FTft (174.26 mM)
+Painted red/white
+LGTD | 180741.50N
+1000955.04.95E
+DVOR/DME
+572 FTft (174.33 M m)
+Painted red/white
+LGTD | 180802.986N
+1000958.549E
+GP
+5876 FTft (178.66 M9 m)
+Painted red/white
+LGTD | 180740.61N
+1000954.73E
+Tree
+604 FTft (184.10 M m)
+NIL / NIL | 180828.42N
+1001002.545E
+Telecommunication mast
+689 FTft (210 m.15 M)
+Painted red/white
+LGTD | 180907.105N
+1000933.11E
+Telecommunication
+mast
+702 FTft (213.89 M4 m)Painted red/whiteLGTD | 180711.437N
+1001105.62E
+Telecommunication mast690 FTft (210.32 M m)Painted red/whiteLGTD | 180607.94N
+1001113.105E
+Telecommunication mast6921 ftFT (2110.75 mM)Painted red/whiteLGTD | 180842.01.98N
+1001123.21E
+Radio mast716 FTft (218 m.14 M)Painted red/whiteLGTD | 180841.00.95N
+1000833.51E
+Radio mast732 FTft (223.03 M m)Painted red/whiteLGTD | 180851.769N
+1000849.876E
+Radio mast713 FTft (217.37 M m)Painted red/whiteLGTD | 180850.00N
+1000846.64E
+Radio mast691 FT2 ft (210.66 M1 m)Painted red/whiteLGTD | 180757.677N
+1000807.33E
+Radio mast707 FTft (215.58 M m)Painted red/whiteLGTD | 180646.13N
+1000814.549E
+Radio mast778 FTft (237.14 M m)Painted red/whiteLGTD | 180651.326N
+1001049.34E
+Radio mast692 FTft (211.06 M m)Painted red/whiteLGTD | 180800.758N
+1000914.899E
+Hospital Building691 FT2 ft (210.85 M1 m)NIL / NIL | 180759.63N
+1000916.30E
+ATC tower645 FT6 ft (196.48 M7 m)Painted red/whiteLGTD | 180751.768N
+1000944.03.98E
+VTCP
+AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1
+Associated MET Office
+Aeronautical Meteorological Station-Phrae,
+Northern Meteorological Center,
+Thai Meteorological Department (TMD)
+2
+Hours of service
+MET Office outside hours
+0000-1000
+NIL
+3
+Office responsible for TAF preparation
+Periods of validity
+Supply TAF from Northern Meteorological Center
+24 HR
+4
+Type of landing forecast
+Interval of issuance
+1 HRTSERVICE;Annotation:2258.eng;847
+5
+Briefing/consultation provided
+Personal ConsultationTSERVICE;Annotation:2259.eng;847
+Tel: +665 453 1307 ext. 4508TSERVICE;Annotation:2260.eng;847
+6
+Flight documentation
+Language(s) used
+NIL
+7
+Charts and other information available for
+briefing or consultation
+STSERVICE;Annotation:2261.eng;847, U85TSERVICE;Annotation:2262.eng;847, Daily Weather ForecastTSERVICE;Annotation:2263.eng;847, satellite and radar imagesTSERVICE;Annotation:2264.eng;847
+8
+Supplementary equipment available for
+providing information
+Automated Weather Observing System (AWOS)
+9
+ATS units provided with information
+Phrae TWR
+10
+Additional information (limitation of service, etc.)
+NIL
+VTCP
+AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE BRG
+Dimensions of RWY(M)
+Strength (PCN) and surface of RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation and highest elevation of TDZ of precision APP RWY
+1 | 2 | 3 | 4 | 5 | 6
+01
+005.39°
+1500x30
+PCN 20/F/C/X/
+Asphaltic concrete
+180731.51N
+1000950.38E
+THR 540 F
+19
+185.39°
+1500x30
+PCN 20/F/C/X/
+Asphaltic concrete
+180820.08N
+1000955.31E
+THR 537 F
+Slope of RWY-SWY
+SWY dimensions (M)
+CWY dimensions (M) | Strip dimensions (M) | RESA
+dimensions
+(M) | Location &description ofarresting system | OFZ | Remarks
+7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
+75x30
+NIL
+1770x150
+NIL
+NIL
+NIL
+NIL
+75x30
+NIL
+1770x150
+NIL
+NIL
+NIL
+NIL
+VTCP
+AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+Remarks
+1 | 2 | 3 | 4 | 5 | 6
+01
+1500
+1500
+1575
+1500
+NIL
+19
+1500
+1500
+1575
+1500
+NIL
+VTCP
+AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, LGT
+LEN
+RWY Centre Line LGT
+Length, spacing,
+colour,
+INTST
+RWY edge LGT
+LEN, spacing,
+colour
+INTST
+RWY End LGT
+colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+01
+NIL
+Green
+NIL
+PAPI
+Left 3°
+(44.98 F)
+NIL
+NIL
+1500 M
+55.56 M
+FM 0 M - 1000 M
+White,
+FM 1000 M - 1500 M
+Yellow,
+LIH
+Red
+NIL
+75 M
+Red
+RTIL
+19
+NIL
+Green
+NIL
+PAPI
+Left 3.2°
+(45.77 F)
+NIL
+NIL
+1500 M
+55.56 M
+FM 0 M - 1000 M
+White,
+FM 1000 M - 1500 M
+Yellow,
+LIH
+Red
+NIL
+75 M
+Red
+RTIL
+VTCP
+AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1
+ABN/IBN location, characteristics and hours of operation
+ABN: At Tower BuildingTAERO_GND_LGT;Annotation:1692.eng;522, FLG W G EV 2 SECTAERO_GND_LGT;Annotation:848.eng;522
+IBN: NIL
+2
+LDI location and LGT
+Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI: 1. Wind cone at 267 M from THR 19 off set to the left side 90 M
+from RCL, illuminated.
+2. Wind cone at 110 M from RCL off set to the left side 50 M from
+TWY CL, illuminated.
+3. Wind cone at 252 M from THR 01 off set to the left side 90 M
+from RCL, illuminated.
+3
+TWY edge and centre line lighting
+TWY edge: All TWY
+TWY centre line: NIL
+4
+Secondary power supply/switch-over time
+Secondary power supply to all lighting at the Airfield Lighting (AFL) building.
+Switch-over time: 15 SEC.TAD_HP;Annotation:1694.eng;445
+5
+Remarks
+NIL
+VTCP
+AD 2.16 HELICOPTER LANDING AREA
+1
+Coordinates TLOF or THR of FATO
+Geoid undulation
+NIL
+2
+TLOF and/or FATO elevation M/FT
+NIL
+3
+TLOF and FATO area dimensions, surface, strength, marking
+NIL
+4
+True and MAG BRG of FATO
+NIL
+5
+Declared distance available
+NIL
+6
+APP and FATO lighting
+NIL
+7
+Remarks
+NIL
+VTCP
+AD 2.17 ATS AIRSPACE
+1
+Designation and lateral limits
+A circle of 5 NM radius centred on Phrae DVOR/DME
+(180803N 1000959E)
+2
+Vertical limits
+2000 ft/AGL
+3
+Airspace classification
+C
+4
+ATS unit call sign
+Language(s)
+Phrae Tower
+English, Thai
+5
+Transition altitude
+11000 ft
+6
+Remarks
+NIL
+VTCP
+AD 2.18 ATS COMMUNICATION FACILITIES
+Service designation
+Call sign
+Frequency
+Hours of operation
+Remarks
+1 | 2 | 3 | 4 | 5
+APP
+Phrae Approach
+120.1 MHz
+121.5 MHz)
+As AD OPR HR
+1)Emergency frequency
+Phrae Tower
+121.5 MHz)
+118.6 MHz
+236.6 MHz
+As AD OPR HR
+A
+Phrae Airport
+126.45 MHZ
+As AD OPR HR
+VTCP
+AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid,
+MAG VAR
+CAT of ILS/MLS
+(For VOR/ILS/MLS, give VAR)
+ID
+Frequency
+Hours of operation
+Position of transmitting antenna coordinates
+Elevation of DME transmitting antenna
+Remarks
+1 | 2 | 3 | 4 | 5 | 6 | 7
+NDB
+PR
+340
+KHz
+H24
+180746.1N
+1000940.9E
+The coverage clockwise orbit data refer to commissioning check due to excessive ADF needle oscillation in various areas within 50 NM radius as follows:
+Bearing 001°-040° altitude should not below 7 000 ft
+Bearing 041°-180° altitude should not below 8 000 ft
+Bearing 181°-200° altitude should not below 5 000 ft
+Bearing 201°-260° altitude should not below 8 000 ft
+Bearing 261°-360° altitude should not below 6 000 ft
+DVOR/DME
+PAE
+111.8
+MHZ
+CH55X
+H24
+180802.9N
+1000958.5E
+180 m (600 ft)
+DVOR/DME restrictions,
+Unusable due to roughness out of tolerance on radial 146° distance between 7.0-8.0 DME altitude 7 000 ft
+Due to mountainous terrain surround DVOR/DME station, coverage check does not provide adequate signal to 40 NM at the required altitude in various areas as follows:
+Radial 055º-080º altitude should not below 9 000 ft
+Radial 081º-160º altitude should not below 11 000 ft
+Radial 161º-180º altitude should not below 8 000 ft
+Radial 181º-350º altitude should not below 6 000 ft
+Radial 351º-054º altitude should not below 6 500 ft
+VTCP
+AD 2.20 LOCAL AERODROME REGULATIONS
+1. 180 DEGREES TURN ON THE RUNWAY
+To prevent runway pavement damage which may result in the closure of the aerodrome if such damage is severe, all aircraft are not allowed to make 180 degrees turn on the runway. The turn shall be made on the runway turn pad at the end of runway 01 and 19 only. Any breach done by the aircraft operator shall be recorded and reported to The Civil Aviation Authority of Thailand (CAAT)/ The Headquarter of that operator shall be liable for the compensation caused by such violation.
+VTCP
+AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+VTCP
+AD 2.22 FLIGHT PROCEDURES
+1. IFR DEPARTURES OTHER THAN VIA SID
+IFR departure procedures described below are determined for the purpose of case when an instrument departure via SID is impossible or undesirable.
+2. VISUAL DEPARTURES
+Visual departures during take-off and initial climb-out are permitted during the daytime and Visual Meteorological Conditions (VMC). ATC clearance to execute a visual departure may be issued upon request of the pilot or upon initiative of the ATC and accepted
+by the pilot.
+To execute a visual departure
+- meteorological conditions in the direction of take-off and the following climb-out shall enable visual reference to terrain up to Minimum Sector Altitude (MSA) or Minimum Flight Altitude (MFA) stated in ATC clearance,
+- the pilot shall be responsible for obstacle clearance until such specified altitude,
+- the pilot prior to take-off shall agree to execute this procedure,
+- the ATC clearance shall be readback,
+3. OMNIDIRECTIONAL DEPARTURES
+Omnidirectional departures during take-off and initial climb-out are permitted during the day and night. ATC clearance to execute
+an omnidirectional departure may be issued upon request of the pilot or upon initiative of the ATC and accepted by the pilot.
+To execute an omnidirectional departure:
+- the pilot shall be maintaining a minimum climb gradient up to specific altitude as published shown as below,
+- the pilot shall be responsible for adherence to such obtained ATC clearance,
+- the pilot prior to take-off shall agree to execute this procedure,
+- The ATC clearance shall be readback,
+- Runway 01:
+PHRAE OMNI 01 Departure: Required climb gradient 286 ft per NM (4.7%) until 7,500 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb4.7% | (ft/min) | 309 | 357 | 476 | 714 | 952 | 1190 | 1428
+No turn before DER.
+After departure climb straight ahead until 3,500 ft (or altitude assigned by ATC between 3,500 ft - 6,500 ft), then comply with ATC clearance issued (or as directed by ATC).
+- Runway 19:
+PHRAE OMNI 19 Departure: Required climb gradient 487 ft per NM (8.0%) until 7,500 ft.
+Ground speed | Knot | 65 | 75 | 100 | 150 | 200 | 250 | 300
+Rate of climb8.0% | (ft/min) | 527 | 608 | 810 | 1215 | 1620 | 2025 | 2430
+No turn before DER.
+After departure climb straight ahead until 3,500 ft (or altitude assigned by ATC between 3,500 ft - 6,500 ft), then comply with ATC clearance issued (or as directed by ATC).
+VTCP
+AD 2.23 ADDITIONAL INFORMATION
+NIL
+VTCP
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Chart name
+Page
+Aerodrome Chart - ICAO
+AD 2-VTCP-2-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 01 - AIZAK1E IDKOR1E OTBAD1E SUNGO1E
+AD 2-VTCP-6-1
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 01 - AIZAK1E IDKOR1E OTBAD1E SUNGO1E (Tabular description)
+AD 2-VTCP-6-2
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 19 - AIZAK1A IDKOR1A OTBAD1A SUNGO1A
+AD 2-VTCP-6-3
+Standard Departure Chart - Instrument (SID) - ICAO - RNAV RWY 19 - AIZAK1A IDKOR1A OTBAD1A SUNGO1A (Tabular description)
+AD 2-VTCP-6-4
+Instrument Approach Chart - ICAO - VOR RWY 01
+AD 2-VTCP-8-1
+Instrument Approach Chart - ICAO - VOR RWY 01 (Fix and point list table)
+AD 2-VTCP-8-2
+Instrument Approach Chart - ICAO - VOR RWY 19
+AD 2-VTCP-8-3
+Instrument Approach Chart - ICAO - VOR RWY 19 (Fix and point list table)
+AD 2-VTCP-8-4
+Instrument Approach Chart - ICAO - RNP RWY 01
+AD 2-VTCP-8-5
+Instrument Approach Chart - ICAO - RNP RWY 01 (Tabular description)
+AD 2-VTCP-8-6
+Instrument Approach Chart - ICAO - RNP RWY 19
+AD 2-VTCP-8-7
+Instrument Approach Chart - ICAO - RNP RWY 19 (Tabular description)
+AD 2-VTCP-8-8
