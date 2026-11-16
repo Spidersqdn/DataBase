@@ -66,8 +66,18 @@ def page_label(text):
     return ''
 
 
+def load_manual():
+    """tools/charts_geo_manual.json: hand georeference / label for pages without text grid labels."""
+    try:
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'charts_geo_manual.json'), encoding='utf-8') as fh:
+            return {k: v for k, v in json.load(fh).items() if not k.startswith('_')}
+    except (OSError, ValueError):
+        return {}
+
+
 def main(root):
     out = []
+    manual = load_manual()
     for d, _, fs in os.walk(root):
         for f in sorted(fs):
             if not EXT.search(f):
@@ -82,6 +92,17 @@ def main(root):
                     e['labels'] = [page_label(pg.get_text()) for pg in doc]
                     e['geo'] = [page_geo(pg) for pg in doc]
                     e['nts'] = [page_nts(pg, g) for pg, g in zip(doc, e['geo'])]
+                    for n, mp in (manual.get(rel) or {}).items():
+                        i = int(n) - 1
+                        if 0 <= i < len(doc):
+                            pg = doc[i]
+                            W, H = pg.rect.width, pg.rect.height
+                            sc = min(6, 2600 / max(W, H))
+                            if mp.get('label'):
+                                e['labels'][i] = mp['label']
+                            if mp.get('geo'):
+                                e['geo'][i] = [[round(u * W * sc, 1), round(v * H * sc, 1), la, lo] for u, v, la, lo in mp['geo']]
+                                e['nts'][i] = None
                 except Exception as ex:
                     print('warn', rel, ex, file=sys.stderr)
             elif f.lower().endswith('.pdf') and pypdf:
