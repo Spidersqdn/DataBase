@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPB
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPB-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTPB
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTPB-en-GB.html
 VTPB
 — Phetchabun
 VTPB
@@ -11,22 +11,18 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 164034N
-164033.71N
-1011142E.39E
+1011142E
 2
 Direction and distance from (city)
 36 km N, from city
-36 KM N, from city
 3
 Elevation/Reference temperature
-450 ftFT
+450 ft
 4 | Geoid Undulation at AD ELEV PSN
 NIL
 5
 MAG VAR/Annual change
-0°53'
-0.76°W
-W(2025)/ 0°2'.00°EE
+0°53'W(2025)/ 0°2'E
 6
 AD Administration, address, telephone,
 telefax, telex, AFS

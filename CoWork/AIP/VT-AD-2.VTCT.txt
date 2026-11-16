@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCT
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCT-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTCT
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTCT-en-GB.html
 VTCT
 — Chiang Rai/ Mae Fah Luang-Chiang Rai International Airport
 VTCT
@@ -334,8 +334,7 @@ THR geoid undulation
 THR elevation and highest elevation of TDZ of precision APP RWY
 1 | 2 | 3 | 4 | 5 | 6
 03
-030.00
-030°
+030.00°
 3000x45
 PCR 1000/F/A/X/
 Asphalt
@@ -344,8 +343,7 @@ Asphalt
 390.2 m
 (1280.2 ft AMSL)
 21
-210.00
-210°
+210.00°
 3000x45
 PCR 1000/F/A/X/
 Asphalt

@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCL
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCL-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTCL
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTCL-en-GB.html
 VTCL
 — Lampang
 VTCL
@@ -171,13 +171,13 @@ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/positions DATA
 Surface: Concrete
 Strength: PCN 48/R/C/X/
 2 | Taxiway width, surface and strength
-Width: 23 mM
+Width: 23 m
 Surface: Asphaltic concrete
 Strength PCN 45/F/C/X/
 3
 Altimeter checkpoint location and elevation
 Location: At apron
-Elevation: 794 FTft (242.08 mM)
+Elevation: 794 ft (242 m)
 4
 VOR checkpoints
 NIL

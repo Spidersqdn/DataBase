@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTBD
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTBD-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTBD
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTBD-en-GB.html
 AD 2 AERODROMES
 VTBD
 — Bangkok/ Don Mueang International Airport
@@ -12,16 +12,14 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 135452N
-135451.74N
-1003620E.49E
+1003620E
 centre line of RWY 03L/21R, 1510 m from THR RWY 21R
 2
 Direction and distance from (city)
 12 NM NE of Bangkok
 3
 Elevation/Reference temperature
-3
-2.65 m (9 ft) / 32.6°C
+3 m (9 ft) / 32.6°C
 4 | Geoid Undulation at AD ELEV PSN
 NIL
 5
@@ -325,11 +323,6 @@ See Aerodrome Ground Movement Chart - ICAO (Verso) for coordinates of aircraft s
 6
 Remarks
 See Aerodrome Ground Movement Chart - ICAO for REMARKS
-- Taxilane T between TWY V and TWY S can be used for Aircraft Code Letter A, B, C, D only
-- TWY Y conditions of use:
-When RWY 03R/21L is in use by arriving and departing aircraft, TWY Y is not allowed
-to be used by other aircraft. On the contrary if TWY Y is in use by any aircraft,
-RWY 03R/21L will not be allowed to be used by other aircraft.
 VTBD
 AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
 1
@@ -383,32 +376,32 @@ NIL
 Radio mast
 HGT 70 m
 Marked, Lighted
-135307.986N
-1003351.109E
+135307.9N
+1003351.1E
 NIL
 Radio mast
 HGT 61 m
 Marked, Lighted
-1354532.097N
-1003709.84E
+135453.0N
+1003709.8E
 NIL
 Building
 HGT 78 m
 Marked, Lighted
-135339.003N
-1003341.633E
+135339.0N
+1003341.6E
 NIL
 Building
-HGT 87.10 m
+HGT 87 m
 Lighted
-135212.877N
-1003403.106E
+135212.8N
+1003403.1E
 NIL
 Building
 HGT 50 m
 Lighted
-135711.109N
-1003715.04E
+135711.1N
+1003715.0E
 NIL
 VTBD
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
@@ -460,7 +453,7 @@ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
 Designations
 RWY NR
 TRUE BRG
-Dimensions of RWY(M)
+Dimensions of RWY (m)
 Strength (PCR) and surface of RWY and SWY
 THR coordinates
 RWY end coordinates
@@ -469,7 +462,6 @@ THR elevation and highest elevation of TDZ of precision APP RWY
 1 | 2 | 3 | 4 | 5 | 6
 03L
 029.00°
-029°
 3700x60
 PCR 1200/R/C/W/
 Asphalt
@@ -482,7 +474,6 @@ Concrete
 THR 2.0 m/7.0
 21R
 209.00°
-209°
 3700x60
 PCR 1200/R/C/W/
 Asphalt
@@ -495,22 +486,20 @@ Concrete
 THR 2.0 m/7.0
 03R
 028.00°
-028°
 3500x45
 PCR 1000/F/C/X/
 Asphalt
 135358.45N
 1003605.50E
-THR 1.49 m/5
+THR 1 m/5
 21L
 208.00°
-208°
 3500x45
 PCR 1000/F/C/X/
 Asphalt
 135528.33N
 1003655.97E
-THR 1.9.92 m/6.34
+THR 1.9 m/6.3
 Slope of RWY-SWY
 SWY dimensions (m)
 CWY dimensions (m) | Strip dimensions (m) | RESA dimensions (m) | Location and description of arresting system | OFZ | Remarks

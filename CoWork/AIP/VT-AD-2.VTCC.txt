@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCC
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCC-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTCC
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTCC-en-GB.html
 VTCC
 — Chiang Mai/ Chiang Mai International Airport
 VTCC
@@ -134,9 +134,12 @@ www.bags-groundservices.com
 Tel:
 +665 392 2461
 Chiang Mai Ground Handling Services Co., Ltd.
+URL: www.cgsground.com
 Tel:
 +668 0495 9391
 Email:
+[email protected]
+[email protected]
 [email protected]
 Hs Aviation Co., Ltd.
 Tel:
@@ -399,7 +402,6 @@ THR geoid undulation
 THR elevation and highest elevation of TDZ of precision APP RWY
 1 | 2 | 3 | 4 | 5 | 6
 18
-180°
 180.00°
 3400x45
 PCR 650/F/B/X/Asphalt
@@ -412,7 +414,6 @@ are PCR 660TRWY;Annotation:196.eng;253/RTRWY;Annotation:197.eng;253/ATRWY;Annota
 316 m/ 1036 ft
 36
 360.00°
-360°
 3100TRWY;Annotation:1901.eng;253x45
 PCR 650TRWY;Annotation:196.eng;253/F/B/X/
 Asphalt

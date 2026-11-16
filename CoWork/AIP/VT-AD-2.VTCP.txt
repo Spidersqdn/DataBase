@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCP
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCP-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTCP
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTCP-en-GB.html
 VTCP
 — Phrae
 VTCP
@@ -166,15 +166,13 @@ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSTIONS DATA
 Surface: Asphaltic concrete
 Strength: PCN 20/F/C/X/
 2 | Taxiway width, surface and strength
-Width: 15 mM
+Width: 15 m
 Surface: Asphaltic concrete
 Strength: PCN 20/F/C/X/
 3
 Altimeter checkpoint location and elevation
 Location : At Apron
 Elevation : 534 ft (163 m)TALTIMETER_SOURCE;Annotation:3961.eng;1823
-Location : At Apron
-Elevation : 534 FT (162.81 M) TALTIMETER_SOURCE;Annotation:3961.eng;1823
 4
 VOR checkpoints
 NIL
@@ -224,85 +222,85 @@ APCH area
 RWY 19 /
 TKOF area
 Pagoda
-609 ftFT (1865.67 mM)
+609 ft (186 m)
 NIL / NIL
-180715.766N
-1000954.547E
+180715.7N
+1000954.5E
 AWOS 1
-569 FTft (173.49 mM)
+569 ft (173 m)
 Painted red/white
-LGTD | 180808.987N
-1000957.30E
+LGTD | 180808.9N
+1000957.3E
 NIL
 Radio mast
-699 ftFT (213.13 mM)
+699 ft (213 m)
 Painted red/white
 LGTD
-181014.02N
-1001020.107E
+181014.0N
+1001020.1E
 AWOS 2
-5743 FTft (175 m4.73 M)
+574 ft (175 m)
 Painted red/white
-LGTD | 180808.767N
-1000957.329E
+LGTD | 180808.7N
+1000957.3E
 Building
-581 ftFT (177.23 mM)
-NIL / NIL | 180711.10N
-1000945.986E | AWOS 3
-5776 FTft (1765.71 mM)
+581 ft (177 m)
+NIL / NIL | 180711.1N
+1000945.9E | AWOS 3
+577 ft (176 m)
 Painted red/white
-LGTD | 180741.769N
-10009554.098E
+LGTD | 180741.7N
+1000955.0E
 AWOS 4
-572 FTft (174.26 mM)
+572 ft (174 m)
 Painted red/white
-LGTD | 180741.50N
-1000955.04.95E
+LGTD | 180741.5N
+1000955.0E
 DVOR/DME
-572 FTft (174.33 M m)
+572 ft (174 m)
 Painted red/white
-LGTD | 180802.986N
-1000958.549E
+LGTD | 180802.9N
+1000958.5E
 GP
-5876 FTft (178.66 M9 m)
+587 ft (179 m)
 Painted red/white
-LGTD | 180740.61N
-1000954.73E
+LGTD | 180740.6N
+1000954.7E
 Tree
-604 FTft (184.10 M m)
-NIL / NIL | 180828.42N
-1001002.545E
+604 ft (184 m)
+NIL / NIL | 180828.4N
+1001002.5E
 Telecommunication mast
-689 FTft (210 m.15 M)
+689 ft (210 m)
 Painted red/white
-LGTD | 180907.105N
-1000933.11E
+LGTD | 180907.1N
+1000933.1E
 Telecommunication
 mast
-702 FTft (213.89 M4 m)Painted red/whiteLGTD | 180711.437N
-1001105.62E
-Telecommunication mast690 FTft (210.32 M m)Painted red/whiteLGTD | 180607.94N
-1001113.105E
-Telecommunication mast6921 ftFT (2110.75 mM)Painted red/whiteLGTD | 180842.01.98N
-1001123.21E
-Radio mast716 FTft (218 m.14 M)Painted red/whiteLGTD | 180841.00.95N
-1000833.51E
-Radio mast732 FTft (223.03 M m)Painted red/whiteLGTD | 180851.769N
-1000849.876E
-Radio mast713 FTft (217.37 M m)Painted red/whiteLGTD | 180850.00N
-1000846.64E
-Radio mast691 FT2 ft (210.66 M1 m)Painted red/whiteLGTD | 180757.677N
-1000807.33E
-Radio mast707 FTft (215.58 M m)Painted red/whiteLGTD | 180646.13N
-1000814.549E
-Radio mast778 FTft (237.14 M m)Painted red/whiteLGTD | 180651.326N
-1001049.34E
-Radio mast692 FTft (211.06 M m)Painted red/whiteLGTD | 180800.758N
-1000914.899E
-Hospital Building691 FT2 ft (210.85 M1 m)NIL / NIL | 180759.63N
-1000916.30E
-ATC tower645 FT6 ft (196.48 M7 m)Painted red/whiteLGTD | 180751.768N
-1000944.03.98E
+702 ft (214 m)Painted red/whiteLGTD | 180711.4N
+1001105.6E
+Telecommunication mast690 ft (210 m)Painted red/whiteLGTD | 180607.9N
+1001113.1E
+Telecommunication mast692 ft (211 m)Painted red/whiteLGTD | 180842.0N
+1001123.2E
+Radio mast716 ft (218 m)Painted red/whiteLGTD | 180841.0N
+1000833.5E
+Radio mast732 ft (223 m)Painted red/whiteLGTD | 180851.7N
+1000849.8E
+Radio mast713 ft (217 m)Painted red/whiteLGTD | 180850.0N
+1000846.6E
+Radio mast692 ft (211 m)Painted red/whiteLGTD | 180757.7N
+1000807.3E
+Radio mast707 ft (215 m)Painted red/whiteLGTD | 180646.1N
+1000814.5E
+Radio mast778 ft (237 m)Painted red/whiteLGTD | 180651.3N
+1001049.3E
+Radio mast692 ft (211 m)Painted red/whiteLGTD | 180800.8N
+1000914.9E
+Hospital Building692 ft (211 m)NIL / NIL | 180759.6N
+1000916.3E
+ATC tower646 ft (197 m)Painted red/whiteLGTD | 180751.7N
+1000944.0E
 VTCP
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
 1

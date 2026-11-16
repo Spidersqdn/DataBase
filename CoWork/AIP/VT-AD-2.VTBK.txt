@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTBK
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTBK-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTBK
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTBK-en-GB.html
 VTBK
 — Nakhon Pathom/ Kamphaeng Saen
 VTBK
@@ -17,7 +17,7 @@ Direction and distance from (city)
 7 NM NW of Kamphaeng Saen District
 3
 Elevation/Reference temperature
-32 F/28.2°C
+32 Fft/28.2°C
 4 | Geoid Undulation at AD ELEV PSN
 NIL
 5
@@ -156,15 +156,27 @@ VTBK
 AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
 1 | Apron surface and strength
 Surface: Concrete
-Strength: PCN 48/R/D/X/
+Strength: PCRN 48/R/DC/X/
 2 | Taxiway width, surface and strength
-Width: 22.5 M
+Width: 22.5 M m
 Surface: Concrete
-Strength: PCN 45/R/C/X/
+Strength: PCN
+45
+/
+R
+/
+C
+/
+X
+/
+Strength:
+TWY A, E, F and G PCR = 390/R/C/X/T
+TWY C and D PCR = 365/R/C/X/T
+TWY B PCR = 380/R/D/X/T
 3
 Altimeter checkpoint location and elevation
 Location: Close to the apron
-Elevation: 9 M(30 FT)
+Elevation: 9 Mm(30 FTft)
 4
 VOR checkpoints
 NIL
@@ -208,16 +220,19 @@ Coordinates
 a | b | c | a | b
 21/APP
 03/TKOF
-Radio mast HGT 18 M painted red/white LGTD on top
+Radio mast HGT 18 Mm painted red/white LGTD on top
 140629N
 0995533E
-Microwave tower HGT 85 M LGTD on top.
+Microwave tower HGT 85 Mm LGTD on top.
 140936N
 0995852E
 NIL
-Chimney HGT 37 M
+Chimney HGT 37 Mm
 140828N
 0995713E
+OBST WATER TANK
+HGT 134 ft AGL
+140539N 0995540E
 VTBK
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
 1
@@ -276,21 +291,23 @@ THR elevation and highest elevation of TDZ of precision APP RWY
 03
 NIL
 2743x45
+410/R/C/X/T
 PCN 45/R/C/X/
 Concrete
 140528.37N
 0995439.56E
-THR 32 F
-TDZ 32 F
+THR 32 Fft
+TDZ 32 Fft
 21
 NIL
 2743x45
+410/R/C/X/T
 PCN 45/R/C/X/
 Concrete
 140646.1N
 0995524.72E
-THR 32 F
-TDZ 32 F
+THR 32 Fft
+TDZ 32 Fft
 Slope of RWY-SWY
 SWY dimensions (M)
 CWY dimensions (M) | Strip dimensions (M) | OFZ | Remarks
@@ -369,8 +386,8 @@ PAPI
 Left 3°
 NIL
 NIL
-2700 M
-60 M
+2700 Mm
+60 Mm
 White, LIH
 Red
 NIL
@@ -382,8 +399,8 @@ PAPI
 Both 3°
 NIL
 NIL
-2700 M
-60 M
+2700 Mm
+60 Mm
 White,LIH
 Red
 NIL
@@ -397,8 +414,10 @@ ABN: At Parachute TowerTAERO_GND_LGT;Annotation:1549.eng;552 AVBL ON REQTAERO_GN
 LDI location and LGT
 Anemometer location and LGT
 NIL
+Anemometer : 1 850 m from THR 21, no LGTTAD_HP;Annotation:1554.eng;389
 Anemometer : 1 850 M from THR 21, no LGTTAD_HP;Annotation:1554.eng;389
-Windsock : 240 M from THR 21, 267 M from THR 03, LGTTAD_HP;Annotation:1555.eng;389
+Windsock : 240 m from THR 21, 267 m from THR 03, LGTTAD_HP;Annotation:1555.eng;389
+Windsock : 240 M from THR 21, 267 M from THR 03, LGT
 3
 TWY edge and centre line lighting
 Edge: All TWY
@@ -441,7 +460,7 @@ A circle of 5 NM radius centred on KPS
 (140600.82N 0995443.77E)
 2
 Vertical limits
-2000 F/ AGL
+2000 Fft/ AGL
 3
 Airspace classification
 C
@@ -452,7 +471,7 @@ Kamphaeng Saen Tower
 English, Thai
 5
 Transition altitude
-11000 F
+11000 Fft
 6
 Remarks
 NIL
@@ -510,6 +529,11 @@ CH 92X
 0995715.52E
 NIL
 Operation during weekdays MON-FRI (Except public holiday)
+NDB KPS 251.0 KHz UNUSABLE
+BEYOND AS FLW.
+45 NM BRG 231 - 260 DEG ALT 6000 ft DUE TO BORDER LTD.
+20 NM BRG 071 - 160 DEG ALT 1500 ft
+DUE TO BANGKOK CONTROL AND CITY AREA.
 NDB
 (0° 17’W)
 KPS
@@ -560,6 +584,7 @@ AD 2.22 FLIGHT PROCEDURES
 NIL
 VTBK
 AD 2.23 ADDITIONAL INFORMATION
+Bird concentration in the vicinity of aerodrome.
 NIL
 VTBK
 AD 2.24 CHARTS RELATED TO AN AERODROME

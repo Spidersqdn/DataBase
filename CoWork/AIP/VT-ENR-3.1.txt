@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-ENR-3.1
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-3.1-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-ENR-3.1
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-ENR-3.1-en-GB.html
 ENR 3 ATS ROUTES
 ENR 3.1 LOWER AND UPPER ATS ROUTES
 Route Designator
@@ -5686,9 +5686,7 @@ Odd(1) | Even(1)
 ▲
 ISKIV
 165024N
-165044N
 0990229E
-0990341E
 074°
 254°
 13.0

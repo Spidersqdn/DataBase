@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUU
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUU-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTUU
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTUU-en-GB.html
 VTUU
 — Ubon Ratchathani
 VTUU
@@ -11,12 +11,10 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 151505N
-151504.58N
-1045213E.88E
+1045213E
 2
 Direction and distance from (city)
 1 km N, from city
-1 KM N, from city
 3
 Elevation/Reference temperature
 411 ft/36°C
@@ -218,309 +216,309 @@ Markings/LGT
 Coordinates
 a | b | c | a | b
 05 | Tree
-141 .1(M)m
+141 m
 151420.7N
 1045121.1E
 Radio Mast
-178.7(M)9 m marked
+179 m marked
 151348.6N
 1045108.9E
 NIL
 Sign Board
-143.5 (M)4 m
+144 m
 151425.0N
 1045109.8E
 Radio Mast
-180.2(M) m marked
+180 m marked
 151346.7N
 1045112.3E
 Sign Board
-141.4 (M) m
+141 m
 151421.6N
 1045111.1E
 Radio Mast
-182.9(M)3 m marked
+183 m marked
 151344.1N
 1045117.2E
 Sign Board
-139.0 (M) m
+139 m
 151419.0N
 1045113.2E
 Radio Mast
-165.8(M)6 m marked
+166 m marked
 151330.3N
 1045117.1E
 Building
-143.2 (M) m
+143 m
 151409.3N
 1045113.1E
 Radio Mast
-179.2(M) m marked/LGT
+179 m marked/LGT
 151328.7N
 1045125.9E
 Tree
-153.9 (M)4 m
+154 m
 151404.9N
 1045045.8E
 Radio Mast
-174.3(M) m marked
+174 m marked
 151327.0N
 1045125.7E
 Radio Mast
-168.3(M) m marked
+168 m marked
 151442.7N
 1045052.7E
 Radio Mast
-183.1(M) m marked
+183 m marked
 151445.5N
 1045056.1E
 Building
-166.1(M) m
+166 m
 151451.5N
 1045107.2E
 Radio Mast
-166.7(M)7 m marked/LGT
+167 m marked/LGT
 151504.1N
 1045140.0E
 Radio Mast
-171.3(M) m marked
+171 m marked
 151459.6N
 1045056.8E
 Radio Mast
-219.4(M) m marked/LGT
+219 m marked/LGT
 151431.5N
 1045005.1E
 Radio Mast
-200.8(M)1 m marked/LGT
+201 m marked/LGT
 151437.6N
 1044919.2E
 Radio Mast
-196.1(M) m marked/LGT
+196 m marked/LGT
 151445.6N
 1044930.0E
 Radio Mast
-185.4(M) m marked
+185 m marked
 151505.6N
 1044949.7E
 Radio Mast
-180.6(M)1 m marked/LGT
+181 m marked/LGT
 151506.6N
 1045012.8E
 Building
-170.0(M) m
+170 m
 151523.3N
 1045053.9E
 Radio Mast
-210.2(M) m marked/LGT
+210 m marked/LGT
 151524.8N
 1045042.5E
 Radio Mast
-186.6(M)7 m marked
+187 m marked
 151535.2N
 1045049.0E
 Radio Mast
-186.3(M) m marked
+186 m marked
 151517.1N
 1045013.8E
 Radio Mast
-165.3(M) m marked/LGT
+165 m marked/LGT
 151515.7N
 1045013.7E
 Radio Mast
-170.5(M)1 m marked
+171 m marked
 151514.5N
 1044950.3E
 05 | | | Radio Mast
-185.4(M) m marked/LGT
+185 m marked/LGT
 151551.7N
 1044934.8E
 NIL
 Radio Mast
-189.4(M) m marked
+189 m marked
 151541.1N
 1044941.1E
 Radio Mast
-165.7(M)6 m marked
+166 m marked
 151542.4N
 1044950.1E
 Radio Mast
-194.9(M)5 m marked/LGT
+195 m marked/LGT
 151542.6N
 1044944.0E
 Radio Mast
-170.9(M)1 m marked
+171 m marked
 151549.9N
 1045032.8E
-Building 180.7(M)1 m
+Building 181 m
 151548.3N
 1045023.0E
 Radio Mast
-187.4(M) m marked/LGT
+187 m marked/LGT
 151557.4N
 1045012.3E
 Building
-170.7(M)1 m
+171 m
 151602.4N
 1045034.5E
 Radio Mast
-184.5(M)5 m marked
+185 m marked
 151602.4N
 1045034.5E
 Radio Mast
-178.9(M)9 m marked/LGT
+179 m marked/LGT
 151612.9N
 1045102.3E
 Radio Mast
-200.5(M)1 m marked
+201 m marked
 151619.4N
 1045056.3E
 Radio Mast
-182.0(M) m marked
+182 m marked
 151609.3N
 1045143.8E
 Radio Mast
-181.2(M) m marked/LGT
+181 m marked/LGT
 151632.2N
 1045137.5E
 Radio Mast
-208.1(M) m marked/LGT
+208 m marked/LGT
 151637.2N
 1045131.8E
 Radio Mast
-172.2(M) m marked/LGT
+172 m marked/LGT
 151654.5N
 1045200.6E
 Radio Mast
-186.5(M)7 m marked/LGT
+187 m marked/LGT
 151718.8N
 1045305.6E
 Radio Mast
-186.7(M)7 m marked
+187 m marked
 151719.2N
 1045314.8E
 Radio Mast
-177.2(M) m marked
+177 m marked
 151607.7N
 1045301.0E
 Radio Mast
-278.9(M)9 m marked/LGT
+279 m marked/LGT
 151820.8N
 1045337.6E
 Radio Mast
-247.1(M) m marked/LGT
+247 m marked/LGT
 151821.0N
 1045344.7E
-Building 130.7 (M)1 m
+Building 131 m
 151436.9N
 1045129.2E
-Radio Pole 134.4 (M) m
+Radio Pole 134 m
 151502.6N
 1045200.2E
-Building 126.8 (M)7 m
+Building 127 m
 151434.2N
 1045138.3E
-Building 128.5 (M)9 m
+Building 129 m
 151433.8N
 1045143.8E
 05
 Building
-127.0 (M) m
+127 m
 AWOS
 151523.2N
 1045243.5E
 NIL
 Radio Mast G/P
-134 m marked/LGT 133.9(M)
+134 m marked/LGT
 151525.9N
 1045247.1E
-Building Marked DVOR/DME
-DVOR/DME 133.1(M) m marked
+Building DVOR/DME
+133 m marked
 151442.9N
 1045157.1E
 Tower
-166.4(M) m marked/LGT Marked/LGT
+166 m marked/LGT
 151445.8N
 1045209.2E
 23 | Tree
-131.2(M) m
+131 m
 151541.7N
 1045256.9E
 Radio Mast
-179.2(M) m marked
+179 m marked
 151345.9N
 1045136.4E
 TACAN
-130.0(M) m
+130 m
 Building/LGT
 151544.7N
 1045300.0E
 Radio Mast
-181.6(M)2 m LGT
+182 m LGT
 151333.5N
 1045201.1E
 Tree
-141.7(M)2 m
+142 m
 151552.8N
 1045314.5E
 Radio Mast
-176.6(M)7 m
+177 m
 151236.6N
 1045141.5E
 Tree
-148.3(M) m
+148 m
 151557.4N
 1045313.7E
 Radio Mast
-178.0(M) m marked/LGT
+178 m marked/LGT
 151602.4N
 1045145.8E
 Tree
-148.4(M) m
+148 m
 151600.5N
 1045314.1E
 Radio Mast
-169.9(M)70 m marked/LGT
+170 m marked/LGT
 151411.9N
 1045147.1E
 Radio Mast
-167.6(M)8 m
+168 m
 marked
 151349.8N
 1045058.0E
 Radio Mast
-170.4(M) m marked
+170 m marked
 151416.6N
 1045149.2E
 Radio Mast
-174.6(M)5 m marked/LGT
+175 m marked/LGT
 151411.4N
 1045149.8E
 Radio Mast
-166.5(M)7 m marked/LGT
+167 m marked/LGT
 151425.4N
 1045200.1E
 Radio Mast
-178.6(M)9 m marked/LGT
+179 m marked/LGT
 151409.3N
 1045227.7E
 Radio Mast
-170.4(M) m marked/LGT
+170 m marked/LGT
 151427.7N
 1045252.7E
 Radio Mast
-170.1(M) m
+170 m
 151512.0N
 1045252.7E
 Radio Mast
-174.5(M)5 m marked/LGT
+175 m marked/LGT
 151439.8N
 1045341.1E
 Radio Mast
-172.9(M)3 m marked/LGT
+173 m marked/LGT
 151618.3N
 1045501.2E
 Radio Mast
-262.9(M)3 m marked/LGT
+263 m marked/LGT
 151609.5N
 1045544.3E
 VTUU

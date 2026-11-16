@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTST
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTST-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTST
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTST-en-GB.html
 VTST
 — Trang
 VTST
@@ -187,8 +187,6 @@ Strength: PCR 840/F/C/X/
 Altimeter checkpoint location and elevation
 Location: At apron
 Elevation: 56 ft (17 m)TALTIMETER_SOURCE;Annotation:3963.eng;1825
-Location: At apron
-Elevation: 56 ft (16.96 m)TALTIMETER_SOURCE;Annotation:3963.eng;1825
 4
 VOR checkpoints
 NIL
@@ -515,7 +513,9 @@ Elevation of DME transmitting antenna
 Remarks
 1 | 2 | 3 | 4 | 5 | 6 | 7
 DVOR/DME
+115.9
 116.6 MHz
+CH 106X
 CH 113X
 H24
 073032.1N
@@ -548,7 +548,6 @@ DME 08 | I-TRN
 110.3 MHz | H24 | 073040.7N
 0993742.8E | 30 m
 (100 ft)
-DME
 VTST
 AD 2.20 LOCAL AERODROME REGULATIONS
 1. 180 DEGREES TURN ON THE RUNWAY

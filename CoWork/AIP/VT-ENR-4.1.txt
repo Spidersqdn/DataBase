@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-ENR-4.1
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-4.1-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-ENR-4.1
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-ENR-4.1-en-GB.html
 ENR 4 RADIO NAVIGATION AIDS/SYSTEMS
 ENR 4.1 RADIO NAVIGATION AIDS - EN-ROUTE
 Name of station (VOR/VAR) | Id | Frequency (CH) | Hours of operation | Co-ordinates | ELEV DME antenna | Remarks
@@ -578,8 +578,9 @@ H24
 1001751.11E
 -
 DVOR/DME
+115.9
 116.6 MHz
-(CH 113X)
+(CH 106XX)
 H24
 073032N
 0993734E

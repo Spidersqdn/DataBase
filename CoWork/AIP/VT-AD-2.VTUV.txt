@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUV
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUV-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTUV
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTUV-en-GB.html
 VTUV
 — Roi Et
 VTUV
@@ -174,8 +174,6 @@ Strength: PCN 42/F/C/X/
 Altimeter checkpoint location and elevation
 Location: At apron
 Elevation: 452 ft (138 m)TAD_HP;Annotation:4253.eng;453
-Location: At apron
-Elevation: 452 ft (137.68 m)TAD_HP;Annotation:4253.eng;453
 4
 VOR checkpoints
 NIL

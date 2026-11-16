@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-ENR-4.4
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-4.4-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-ENR-4.4
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-ENR-4.4-en-GB.html
 ENR 4.4 NAME-CODE DESIGNATORS FOR SIGNIFICANT POINTS
 Name-code designator | Co-ordinates | ATS route or other route
 1 | 2 | 3
@@ -665,8 +665,7 @@ R325
 L515
 ISKIV
 165024N
-165044N
-0990229EE
+0990229E
 W26
 KABMU
 182739N
@@ -1662,4 +1661,3 @@ YAKUA
 B346
 ,
 Y35
-ALGI.94N.83E

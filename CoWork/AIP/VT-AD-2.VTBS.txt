@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTBS
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTBS-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTBS
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTBS-en-GB.html
 VTBS
 — Bangkok/ Suvarnabhumi International Airport
 VTBS
@@ -385,706 +385,706 @@ Coordinates
 a | b | c | a | b
 19/TKOF
 CCTV Pole
-24.4 ft (7.4 m)
+24 ft (7 m)
 133858.4N
 1004457.3E
 Antenna on top of Building
-1987.5 ft (60.2 m)
+198 ft (60 m)
 134338.8N
 1004633.5E
+NIL
 19/TKOF
 CCTV Pole
-210.8 ft (6.3 m)
+21 ft (6 m)
 133900.5N
 1004457.2E
 Institute Building
-2043.9 ft (62.1 m)
+204 ft (62 m)
 LGTD
 134339.2N
 1004618.8E
 19/TKOF | Vegetation
-41.1 ft (132.5 m)
+41 ft (13 m)
 133849.6N
 1004456.6E
 Communication
 Tower
-153.0 ft (476.6 m)
+153 ft (47 m)
 134104.1N
 1004330.9E
 19/TKOF | Sub-distribution Building
-23.4 ft (7.1 m)
+23 ft (7 m)
 133858.4N
 1004503.6E
 Pole on top of
 Control Tower Building
-466.4 ft (142.1 m)
+466 ft (142 m)
 LGTD
-134147.12N
+134147.1N
 1004458.5E
 Antenna on top of East Apron Control Tower Building
-171.5 ft (52.3 m)
+171 ft (52 m)
 134124.0N
 1004516.1E
 Antenna on top of West Apron Control Tower Building
-170 . 4ft (521.9 m)
+170 ft (52 m)
 134131.4N
 1004446.5E
 Antenna on top of Building
-169.2 ft (52 1.6 m)
+169 ft (52 m)
 134142.8N
 1004511.2E
 Industrial Stack
-1676.5 ft (510.8 m)
+167 ft (51 m)
 marked
 133957.3N
 1004719.8E
 Industrial Stack
-1865.9 ft (576.7 m)
+186 ft (57 m)
 marked
 133958.2N
 1004720.1E
 Industrial Stack
-169.0 ft (521.5 m)
+169 ft (52 m)
 marked
 133955.8N
 1004719.1E
 Industrial Stack
-169.3 ft (521.6 m)
+169 ft (52 m)
 marked
 133954.7N
 1004718.6E
 Advertising Sign Board
-178.2 ft (54.3 m)
+178 ft (54 m)
 134123.9N
 1004346.0E
-Residential Building 165.2 ft (50.4 m)
+Residential Building 165 ft (50 m)
 LGTD
 133753.4N
 1004347.5E
-Residential Building 1598.8 ft (48.4 m)
+Residential Building 159 ft (48 m)
 LGTD
 133802.8N
 1004342.9E
-Residential Building 158.1 ft (48 . 2m)
+Residential Building 158 ft (48 m)
 LGTD
 133803.4N
 1004340.8E
 NIL
-Residential Building 157.3 ft (487.9 m)
+Residential Building 157 ft (48 m)
 LGTD
 133805.4N
 1004339.4E
-Residential Building 1587.7 ft (488.1 m)
+Residential Building 158 ft (48 m)
 LGTD
 133807.7N
 1004339.4E
-Residential Building 1576.7 ft (487.8 m)
+Residential Building 157 ft (48 m)
 LGTD
 133809.8N
 1004339.5E
-Residential Building 158.2 ft (48.2 m)
+Residential Building 158 ft (48 m)
 LGTD
 133812.0N
 1004340.1E
-Residential Building 1543.8 ft (476.9 m)
+Residential Building 154 ft (47 m)
 LGTD
 134332.3N
 1004618.1E
 Terminal Building
-1710.7 ft (52.0 m)
+171 ft (52 m)
 134127.1N
 1004510.9E
 Office Building
-1521.5 ft (46.2 m)
+152 ft (46 m)
 LGTD
 134239.7N
 1004530.1E
 Office Building
-162.4 ft (49.5 m)
+162 ft (49 m)
 LGTD
 134227.1N
 1004530.7E
 Secondary
-Surveillance Radar (SSR) Tower Building 1698.6 ft (51.4 m)
+Surveillance Radar (SSR) Tower Building 169 ft (51 m)
 LGTD
 134149.8N
 1004615.7E
 Primary Surveillance Radar (PSR)
 Tower Building
-1576.8 ft (47.8 m)
+157 ft (48 m)
 134122.9N
 1004613.2E
 Surface Movement Radar (SMR)
 Tower Building
-1532.8 ft (476.6 m)
+153 ft (47 m)
 134105.4N
-1004433.56E
-Residential Building 1643.6 ft (5049.9 m)
+1004433.5E
+Residential Building 164 ft (50 m)
 LGTD
 133751.4N
 1004358.0E
-Residential Building 161.1 ft (49.1 m)
+Residential Building 161 ft (49 m)
 LGTD
 133751.9N
 1004356.0E
-Residential Building 1610.5 ft (498.9 m)
+Residential Building 161 ft (49 m)
 LGTD
 133752.2N
 1004353.8E
-Residential Building 162.4 ft (5049.5 m)
+Residential Building 162 ft (50 m)
 LGTD
 133752.5N
 1004351.8E
 NIL
-Residential Building 1643.8 ft (5049.9 m)
+Residential Building 164 ft (50 m)
 LGTD
 133753.0N
 1004349.6E
 Terminal Building
-1710.7 ft (52.0 m)
+171 ft (52 m)
 LGTD
 134127.5N
 1004511.0E
 Hangar Building
-162.4 ft (49.5 m)
+162 ft (49 m)
 LGTD
 134223.6N
 1004539.4E
 02R/TKOF | Lighting Pole
-354.8 ft (110.6 m)
+35 ft (11 m)
 134258.3N
 1004443.1E
 Institute Building
-2043.9 ft (62.1 m)
+204 ft (62 m)
 LGTD
 134339.2N
 1004618.8E
 02R/TKOF | High Mast
 Lighting Pole
-116.2 ft (35.4 m)
+116 ft (35 m)
 134335.4N
 1004447.9E
 Communication
 Tower
-153.0 ft (476.6 m)
+153 ft (47 m)
 134104.1N
 1004330.9E
 02R/TKOF | High Mast
 Lighting Pole
-7069.6 ft (21 .2 m)
-134255.56N
+70 ft (21 m)
+134255.5N
 1004449.9E
 Pole on top of Control Tower Building
-466.4 ft (142.1 m)
+466 ft (142 m)
 LGTD
-134147.12N
+134147.1N
 1004458.5E
 02R/TKOF | High Mast
 Lighting Pole
-73.4 ft (22.4 m)
+73 ft (22 m)
 134257.5N
 1004448.4E
 Antenna on top
 of East Apron Control Tower Building
-171.5 ft (52.3 m)
+171 ft (52 m)
 134124.0N
 1004516.1E
 02R/TKOF | High Mast
 Lighting Pole
-887.5 ft (276.7 m)
+88 ft (27 m)
 134303.8N
 1004447.0E
 Antenna on top
 of West Apron Control Tower Building
-170.4 ft (521.9 m)
+170 ft (52 m)
 134131.4N
 1004446.5E
 02R/TKOF | High Mast
 Lighting Pole
-73.0 ft (22.2 m)
+73 ft (22 m)
 134306.8N
 1004447.6E
 Antenna on top of Building
-169.2 ft (521.6 m)
+169 ft (52 m)
 134142.8N
 1004511.2E
 02R/TKOF | High Mast
 Lighting Pole
-743.7 ft (22 . 5m)
+74 ft (22 m)
 134309.4N
 1004447.8E
 Advertising Sign Board
-178.2 ft (54.3 m)
+178 ft (54 m)
 134123.9N
 1004346.0E
 02R/TKOF | High Mast
 Lighting Pole
-90.0 ft (27.4 m)
+90 ft (27 m)
 134301.5N
 1004444.2E
-Residential Building 1587.7 ft (48.1 m)
+Residential Building 158 ft (48 m)
 LGTD
 133807.7N
 1004339.4E
 02R/TKOF | High Mast
 Lighting Pole
-865.7 ft (26.1 m)
+86 ft (26 m)
 134300.4N
 1004447.0E
-Residential Building 1576.7 ft (487.8 m)
+Residential Building 157 ft (48 m)
 LGTD
 133809.8N
 1004339.5E
 02R/TKOF | High Mast
 Lighting Pole
-921.9 ft (28.0 m)
+92 ft (28 m)
 134305.3N
 1004450.0E
-Residential Building 158.2 ft (48.2 m)
+Residential Building 158 ft (48 m)
 LGTD
 133812.0N
 1004340.1E
 02R/TKOF | High Mast
 Lighting Pole
-88.5 ft (27 27. 0m)
+88 ft (27 m)
 134301.3N
 1004449.9E
-Residential Building 1543.8 ft (476.9 m)
+Residential Building 154 ft (47 m)
 LGTD
 134332.3N
 1004618.1E
 02R/TKOF | Tree
-3029.6 ft (9.0 m)
+30 ft (9 m)
 134300.0N
 1004444.3E
 Terminal Building
-1710.7 ft (52.0 m)
+171 ft (52 m)
 134127.1N
 1004510.9E
 02R/TKOF | Tree
-25.0 ft (87.6 m)
+25 ft (8 m)
 134256.0N
 1004443.0E
 Office Building
-162.4 ft (49.5 m)
+162 ft (49 m)
 LGTD
 134227.1N
 1004530.7E
 NIL
 02R/TKOF | Tree
-44.1 ft (13.5 m)
+44 ft (13 m)
 134302.1N
 1004449.0E
 Secondary
-Surveillance Radar (SSR) Tower Building 1698.6 ft (51 1.4 m)
+Surveillance Radar (SSR) Tower Building 169 ft (51 m)
 LGTD
 134149.8N
 1004615.7E
 02R/TKOF | Tree
-38.4 ft (121.7 m)
+38 ft (12 m)
 134302.7N
 1004449.0E
 Primary Surveillance Radar (PSR) Tower Building
-1576.8 ft (487.8 m)
+157 ft (48 m)
 134122.9N
 1004613.2E
 02R/TKOF | High Mast
 Lighting Pole
-587.7 ft (187.6 m)
+58 ft (18 m)
 134307.3N
 1004452.6E
 Surface Movement Radar (SMR) Tower Building
-1532.8 ft
-(476.6 m)
+153 ft (47 m)
 134105.4N
-1004433.65E
+1004433.5E
 02R/TKOF | High Mast
 Lighting Pole
-921.9 ft (28.0 m)
+92 ft (28 m)
 134304.3N
 1004451.3E
 Hangar Building
-162.4 ft (49.5 m)
+162 ft (49 m)
 LGTD
 134223.6N
 1004539.4E
 02R/TKOF | High Mast
 Lighting Pole
-898.5 ft (27.0 m)
+89 ft (27 m)
 134301.2N
 1004449.0E
-Transmission Tower 2054.8 ft (62.4 m)
+Transmission Tower 205 ft (62 m)
 134058.2N
 1004147.7E
 02R/TKOF | High Mast
 Lighting Pole
-73.4 ft (22.4 m)
+73 ft (22 m)
 134312.0N
 1004447.8E
-Transmission Tower 204.3 ft (62 .3 m)
+Transmission Tower 204 ft (62 m)
 134044.8N
 1004151.6E
 02R/TKOF | High Mast
 Lighting Pole
-75.3 ft (23.0 m)
+75 ft (23 m)
 134314.6N
 1004447.8E
-Transmission Tower 207.0 ft (63.1 m)
+Transmission Tower 207 ft (63 m)
 134035.9N
 1004154.2E
 02R/TKOF | High Mast
 Lighting Pole
-75 .3 ft (23.0 m)
+75 ft (23 m)
 134317.2N
 1004447.8E
-Transmission Tower 204.1 ft (62.2 m)
+Transmission Tower 204 ft (62 m)
 134027.7N
 1004159.6E
 02R/TKOF | High Mast
 Lighting Pole
-75.3 ft (23.0 m)
+75 ft (23 m)
 134319.8N
 1004447.8E
-Transmission Tower 204.1 ft (62.2 m)
-134017.67N
+Transmission Tower 204 ft (62 m)
+134017.6N
 1004159.4E
 02R/TKOF | High Mast
 Lighting Pole
-1098.5 ft (33.1 m)
+109 ft (33 m)
 134322.7N
-1004448.67E
-Transmission Tower 225.2 ft (698.6 m)
+1004448.6E
+Transmission Tower 225 ft (69 m)
 133955.6N
-1004139.56E
+1004139.5E
 02R/TKOF | High Mast
 Lighting Pole
-108.5 ft (33.1 m)
+108 ft (33 m)
 134328.9N
 1004448.6E
-Transmission Tower 2265.8 ft (698.8 m)
+Transmission Tower 226 ft (69 m)
 134007.0N
 1004149.8E
 02R/TKOF | Tree
-454.8 ft (143.7 m)
+45 ft (14 m)
 134308.0N
 1004445.3E
 Hospital Building
-1900.2 ft (58.0 m)
+190 ft (58 m)
 134303.8N
 1004222.8E
-02R/TKOF | Transmission Pole 721.6 ft (221.8 m)
+02R/TKOF | Transmission Pole 72 ft (22 m)
 134320.9N
 1004450.5E
-02R/TKOF | Transmission Pole 721.6 ft (221.8 m)
+02R/TKOF | Transmission Pole 72 ft (22 m)
 134320.9N
 1004450.3E
-02R/TKOF | Transmission Pole 78.0 ft (243.8 m)
+02R/TKOF | Transmission Pole 78 ft (24 m)
 134322.6N
 1004449.0E
-02R/TKOF | Transmission Pole 787.9 ft (243.7 m)
+02R/TKOF | Transmission Pole 78 ft (24 m)
 134322.3N
 1004449.3E
 02R/TKOF | High Mast
 Lighting Pole
-887.7 ft (26.7 m)
+88 ft (27 m)
 134326.0N
 1004446.7E
 NIL
 02R/TKOF | Communication Tower
-1376.8 ft (421.7 m)
+137 ft (42 m)
 134351.2N
 1004502.5E
 02R/TKOF | Traffic Sign Board
-62.2 ft (19.0 m)
+62 ft (19 m)
 134257.2N
 1004448.5E
-02R/TKOF | Traffic Sign Board 6059.9 ft (18.2 m)
+02R/TKOF | Traffic Sign Board 60 ft (18 m)
 134302.2N
 1004446.2E
-02R/TKOF | Traffic Sign Board 64.1 ft (19.520 m)
+02R/TKOF | Traffic Sign Board 64 ft (20 m)
 134314.9N
 1004448.0E
-02R/TKOF | Traffic Sign Board 70.3 ft (21.4 m)
-134320.45N
+02R/TKOF | Traffic Sign Board 70 ft (21 m)
+134320.4N
 1004446.9E
 02R/TKOF | Overpass
-51.92 ft (15.86 m)
+52 ft (16 m)
 134307.6N
 1004451.6E
 02R/TKOF | Overpass
-50.81 ft (15.5 m)
-134306.01N
+51 ft (15 m)
+134306.0N
 1004449.2E
 02R/TKOF | Overpass
-35.3 ft (10.71 m)
+35 ft (11 m)
 134301.3N
-1004447.56E
+1004447.5E
 02R/TKOF | Overpass
-33.4 ft (10.2 m)
+33 ft (10 m)
 134301.4N
 1004448.6E
 02R/TKOF | Vegetation
-33.2 ft (10.1 m)
+33 ft (10 m)
 134256.7N
 1004445.0E
 02R/TKOF | Vegetation
-35.2 ft (110.7 m)
-134255.67N
+35 ft (11 m)
+134255.6N
 1004442.7E
 02R/TKOF | Vegetation
-39.0 ft (11.92 m)
+39 ft (12 m)
 134302.8N
 1004445.5E
 02R/TKOF | Vegetation
-43.84 ft (13.4 m)
+44 ft (13 m)
 134302.3N
-1004444.01E
+1004444.0E
 02R/TKOF | Vegetation
-51.5 ft (15.76 m)
+51 ft (16 m)
 134303.6N
 1004451.5E
 02R/TKOF | Vegetation
-40.4 ft (12.3 m)
+40 ft (12 m)
 134304.8N
-1004447.67E
+1004447.6E
 02R/TKOF | Vegetation
-115.76 ft (35.3 m)
+116 ft (35 m)
 134312.0N
 1004447.8E
 02R/TKOF | Vegetation
-60.91 ft (18.69 m)
-134313.34N
+61 ft (19 m)
+134313.3N
 1004457.5E
 02R/TKOF | Residential
 Building
-65.96 ft (20.1 m)
+66 ft (20 m)
 134315.8N
 1004453.4E
 02R/TKOF | Residential
 Building
-56.67 ft (17.3 m)
+57 ft (17 m)
 134306.7N
 1004444.6E
 02R/TKOF | Residential
 Building
-54 .0 ft (16.5 m)
-134309.89N
-1004444.12E
+54 ft (16 m)
+134309.8N
+1004444.1E
 NIL
 02R/TKOF | Residential
 Building
-53.1 ft (16.2 m)
+53 ft (16 m)
 134312.6N
 1004446.4E
 02R/TKOF | College Building
-60.2 ft (18.3 m)
+60 ft (18 m)
 134314.9N
 1004445.5E
 02R/TKOF | Vegetation
-487.5 ft (14.5 m)
+48 ft (14 m)
 134309.4N
 1004446.7E
 02R/TKOF | Vegetation
-64.4 ft (19.6 20 m)
+64 ft (20 m)
 134307.3N
 1004444.6E
 02R/TKOF | Vegetation
-37.68 ft (11.5 m)
+38 ft (11 m)
 134304.7N
 1004446.0E
 02R/TKOF | Vegetation
-49.1 ft (15.0 m)
+49 ft (15 m)
 134310.1N
 1004445.9E
 20L/APCH
 02R/TKOF | Buildings
-115.4 ft (35.2 m)
+115 ft (35 m)
 134305.9N
 1004444.6E
 20L/APCH | Resort Building
-97.2 ft (2930.6 m)
+97 ft (30 m)
 134259.1N
 1004439.7E
 20R/APCH
 02L/TKOF | Meteorological Tower
-65.1 ft (19.820 m)
+65 ft (20 m)
 marked and LGTD
 134228.0N
 1004425.1E
-Meteorological Tower 70.5 ft (21.5 m)
+Meteorological Tower 70 ft (21 m)
 marked and LGTD
 134126.4N
 1004401.6E
 20R/APCH | Vegetation
-59.4 ft (18.1 m)
+59 ft (18 m)
 134220.9N
 1004417.2E
 Office Building
-53.84 ft (16.4 m)
+54 ft (16 m)
 134221.1N
 1004415.0E
 20R/APCH | Office Building
-55.76 ft (17.0 m)
+56 ft (17 m)
 134220.0N
 1004415.3E
 Communication
 Tower
-303.84 ft (92.63 m)
+304 ft (93 m)
 marked and LGTD
 133747.5N
 1004226.1E
-20R/APCH | Factory Building 147.2 ft (44.95 m)
+20R/APCH | Factory Building 147 ft (45 m)
 LGTD
 134247.6N
 1004413.8E
 Transmission Tower
-204.4 ft (62.3 m)
+204 ft (62 m)
 134111.3N
 1004143.9E
-Transmission Tower 226.4 ft (69.0 m)
+Transmission Tower 226 ft (69 m)
 133944.6N
-1004129.76E
+1004129.6E
 Communication
 Tower
-163.4 ft (49.850 m)
+163 ft (50 m)
 marked and LGTD
 133806.3N
 1004237.6E
-Residential Building 168.4 ft (51.3 m)
+Residential Building 168 ft (51 m)
 LGTD
 133809.4N
 1004232.8E
 Industrial Building
-164.85 ft (50.2 m)
+165 ft (50 m)
 LGTD
 133812.3N
 1004226.6E
 Pole on top of Control Tower Building
-466.4 ft (142.1 m)
+466 ft (142 m)
 LGTD
-134147.21N
+134147.1N
 1004458.5E
 Antenna on top of East Apron Control Tower Building
-171.5 ft (52.3 m)
+171 ft (52 m)
 134124.0N
 1004516.1E
 NIL
 Antenna on top of West Apron Control Tower Building
-170.4 ft (51.92 m)
+170 ft (52 m)
 134131.4N
 1004446.5E
 Antenna on top of Building
-169 . 2ft (51.62 m)
+169 ft (52 m)
 134142.8N
 1004511.2E
 Advertising Sign Board
-178.2 ft (54.3 m)
+178 ft (54 m)
 134123.9N
 1004346.0E
-Residential Building 165.2 ft (50.4 m)
+Residential Building 165 ft (50 m)
 LGTD
 133753.4N
 1004347.5E
 Residential Building
-158.89 ft (48.4 m)
+159 ft (48 m)
 LGTD
 133802.8N
 1004342.9E
 Residential Building
-158.18 ft (48.2 m)
+158 ft (48 m)
 LGTD
 133803.4N
 1004340.8E
-Residential Building 157.3 ft (47.98 m)
+Residential Building 157 ft (48 m)
 LGTD
 133805.4N
 1004339.4E
-Residential Building 157.7 8 ft (48.1 m)
+Residential Building 158 ft (48 m)
 LGTD
 133807.7N
 1004339.4E
-Residential Building 156.77 ft (47.88 m)
+Residential Building 157 ft (48 m)
 LGTD
 133809.8N
 1004339.5E
-Residential Building 158.2 ft (48.2 m)
+Residential Building 158 ft (48 m)
 LGTD
 133812.0N
 1004340.1E
-Terminal Building 170.7 1ft (52.0 m)
+Terminal Building 171ft (52 m)
 134127.1N
 1004510.9E
 Office Building
-162.4 ft (49.5 m)
+162 ft (49 m)
 LGTD
 134227.1N
 1004530.7E
 Secondary
 Surveillance Radar (SSR) Tower Building
-168.69 ft (51.4 m)
+169 ft (51 m)
 LGTD
 134149.8N
 1004615.7E
 Primary Surveillance Radar (PSR) Tower Building
-156.87 ft (47.88 m)
+157 ft (48 m)
 134122.9N
 1004613.2E
-Residential Building 163.64 ft (49.950 m)
+Residential Building 164 ft (50 m)
 LGTD
 133751.4N
 1004358.0E
 NIL
-Residential Building 161.1 ft (49.1 m)
+Residential Building 161 ft (49 m)
 LGTD
 133751.9N
 1004356.0E
-Residential Building 160.51 ft (48.99 m)
+Residential Building 161 ft (49 m)
 LGTD
 133752.2N
 1004353.8E
 Residential Building
-162.4 ft (49.550 m)
+162 ft (50 m)
 LGTD
 133752.5N
 1004351.8E
 Residential Building
-163.84 ft (49.9 50 m)
+164 ft (50 m)
 LGTD
 133753.0N
 1004349.6E
 Terminal Building
-170.71 ft (52.0 m)
+171 ft (52 m)
 LGTD
 134127.5N
 1004511.0E
 Hangar Building
-162.4 ft (49.5 m)
+162 ft (49 m)
 LGTD
 134223.6N
 1004539.4E
-Transmission Tower 204.85 ft (62.4 m)
+Transmission Tower 205 ft (62 m)
 134058.2N
 1004147.7E
-Transmission Tower 204.3 ft (62.3 m)
+Transmission Tower 204 ft (62 m)
 134044.8N
 1004151.6E
-Transmission Tower 207.0 ft (63.1 m)
+Transmission Tower 207 ft (63 m)
 134035.9N
 1004154.2E
-Transmission Tower 204.1 ft (62.2 m)
+Transmission Tower 204 ft (62 m)
 134027.7N
 1004159.6E
-Transmission Tower 204.1 ft (62.2 m)
-134017.67N
+Transmission Tower 204 ft (62 m)
+134017.6N
 1004159.4E
-Transmission Tower 225.2 ft (68.6 9 m)
+Transmission Tower 225 ft (69 m)
 133955.6N
-1004139.56E
-Transmission Tower 225.86 ft (68.89 m)
+1004139.5E
+Transmission Tower 226 ft (69 m)
 134007.0N
 1004149.8E
 Hospital Building
-190.2 ft (58.0 m)
+190 ft (58 m)
 134303.8N
 1004222.8E
 VTBS

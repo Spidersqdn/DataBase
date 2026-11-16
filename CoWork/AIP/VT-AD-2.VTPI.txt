@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPI
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPI-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTPI
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTPI-en-GB.html
 VTPI
 — Nakhon Sawan/ Takhli
 VTPI
@@ -17,7 +17,7 @@ Direction and distance from (city)
 3NM WNW of Takhli
 3
 Elevation/Reference temperature
-103 F/28.2°C
+103 Fft/28.2°C
 4 | Geoid Undulation at AD ELEV PSN
 NIL
 5
@@ -159,7 +159,7 @@ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
 Surface: Concrete
 Strength: PCN 80/R/D/X/
 2 | Taxiway width, surface and strength
-Width: 23 M
+Width: 23 Mm
 Surface: Concrete
 Strength: PCN 80/R/D/X/
 3
@@ -208,10 +208,235 @@ a | b | c | a | b
 NIL
 NIL
 NIL
-Radio Mast on Top of ATC Tower HGT 189 FT Painted red/white LGTD on top
+Radio Mast
+on Top of ATC Tower HGT 189 FTft
+Painted red/white LGTD on top
 151644.41N
 1001731.63E
 NIL
+Cell tower
+HGT 148 ft
+Painted red/white LGTD on top
+151746.4N
+1001850.8E
+TACAN antenna
+HGT 61 ft
+Painted red/white LGTD on top
+151629.1N
+1001756.6E
+Air traffic control tower
+HGT 112 ft
+Painted red/white LGTD on top
+151644.4N
+1001731.6E
+Cell tower
+HGT 115 ft
+Painted red/white LGTD on top
+151613.2N
+1001849.1E
+LTE tower
+HGT 89 ft
+Painted red/white LGTD on top
+151702.0N
+1001722.4E
+Weather radar tower
+HGT 76 ft
+Painted red/white LGTD on top
+151637.0N
+1001731.1E
+Water tank tower
+HGT 119 ft
+Painted white
+LGTD on top
+151609.8N
+1001719.5E
+Cell tower
+HGT 121 ft
+Painted red/white LGTD on top
+151608.0N
+1001838.7E
+Radiol tower
+HGT 118 ft
+Painted white
+LGTD on top
+151537.9N
+1001837.5E
+Cell tower
+HGT 121 ft
+Painted red/white LGTD on top
+151704.6N
+1001722.4E
+Radiol tower
+HGT 197 ft
+Painted white
+LGTD on top
+151525.9N
+1001835.9E
+NIL
+NIL
+NIL
+Cell tower
+HGT 137 ft
+Painted red/white LGTD on top
+151634.5N
+1001728.0E
+NIL
+Cell tower
+HGT 148 ft
+Painted red/white LGTD on top
+151515.7N
+1001707.9E
+Water tank tower
+HGT 138 ft
+Painted red
+LGTD on top
+151610.5N
+1001718.5E
+Cell tower
+HGT 89 ft
+Painted red/white LGTD on top
+151612.4N
+1001719.4E
+NDB antenna
+HGT 40 ft
+Painted red/white LGTD on top
+151632.2N
+1001751.5E
+NDB antenna
+HGT 40 ft
+Painted red/white LGTD on top
+151634.3N
+1001751.3E
+Transmission tower
+HGT 131 ft
+Painted grey
+LGTD on top
+151458.5N
+1001653.5E
+Cell tower
+HGT 263 ft
+Painted red/white LGTD on top
+151428.9N
+1001420.0E
+Cell tower
+HGT 263 ft
+Painted red/white LGTD on top
+1001420.0E
+1001551.3E
+Transmission tower
+HGT 105 ft
+Painted grey
+LGTD on top
+151459.7N
+1001650.4E
+Transmission tower
+HGT 105 ft
+Painted grey
+LGTD on top
+1001650.4E
+1001630.3E
+Cell tower
+HGT 131 ft
+Painted red/white LGTD on top
+151506.3N
+1002200.2E
+Transmission tower
+HGT 105 ft
+Painted grey
+LGTD on top
+151338.8N
+1002012.2E
+NIL
+NIL
+NIL
+Transmission tower
+HGT 105 ft
+Painted grey
+LGTD on top
+151345.1N
+1001956.8E
+NIL
+Transmission tower
+HGT 105 ft
+Painted grey
+LGTD on top
+151400.8N
+1001917.7E
+Transmission tower
+HGT 105 ft
+Painted grey
+LGTD on top
+151422.5N
+1001824.1E
+Cell tower
+HGT 230 ft
+Painted red/white LGTD on top
+152112.0N
+1001836.5E
+Cell tower
+HGT 263 ft
+Painted red/white LGTD on top
+152107.0N
+1001858.2E
+Transmission tower
+HGT 105 ft
+Painted grey LGTD on top
+152138.9N
+1001749.5E
+Radiol tower
+HGT 328 ft
+Painted white LGTD on top
+152243.1N
+1001509.5E
+Transmission tower
+HGT 105 ft
+Painted grey LGTD on top
+152030.8N
+1001709.0E
+Royal rain making
+department
+Radio tower
+HGT 230 ft
+Painted white LGTD on top
+151504.3N
+1002013.0E
+Royal rain making
+department
+Radio tower
+HGT 230 ft
+Painted white LGTD on top
+151502.4N
+1002012.3E
+Signal RTA
+Radio tower
+HGT 197 ft
+Painted white LGTD on top
+151448.7N
+1002011.6E
+Cell tower
+HGT 131 ft
+Painted red/white LGTD on top
+151534.6N
+1001930.8E
+NIL
+NIL
+NIL
+Cell tower
+HGT 147 ft
+Painted red/white LGTD on top
+151524.9N
+1001853.2E
+NIL
+Cell tower
+HGT 114 ft
+Painted red/white LGTD on top
+151713.5N
+1001858.0E
+Cell tower
+HGT 230 ft
+Painted red/white LGTD on top
+151924.4N
+1001956.4E
 VTPI
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
 1
@@ -258,7 +483,7 @@ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
 Designations
 RWY NR
 TRUE BRG
-Dimensions of RWY(M)
+Dimensions of RWY (mM)
 Strength (PCN) and surface of RWY and SWY
 THR coordinates
 RWY end coordinates
@@ -272,7 +497,7 @@ PCN 80/R/D/X/
 Concrete
 151727.00N
 1001746.22E
-103 F
+103 ftFT
 36
 001.28°
 3000x45
@@ -280,7 +505,7 @@ PCN 80/R/D/X/
 Concrete
 151549.66N
 1001743.98E
-65 F
+65 ftFT
 Slope of RWY-SWY
 SWY dimensions (M)
 CWY dimensions (M) | Strip dimensions (M) | OFZ | Remarks
@@ -427,7 +652,7 @@ Designation and lateral limits
 A circle of 5 NM radius centred on 151638.35N 1001745.10E
 2
 Vertical limits
-2000 F/AGL
+2000 Fft/AGL
 3
 Airspace classification
 C
@@ -438,7 +663,7 @@ Takhli Tower
 English, Thai
 5
 Transition altitude
-11000 F
+11000 Fft
 6
 Remarks
 NIL
@@ -542,6 +767,29 @@ AD 2.22 FLIGHT PROCEDURES
 NIL
 VTPI
 AD 2.23 ADDITIONAL INFORMATION
+1.
+Runway
+18/36 RAG installed and in operations details as follows:
+BAK14 : 396 m from threshold cable height 3 inches.
+NET BARRIER : height 3.7 m position 25 m from end of runway
+2. BIRD CONCENTRATIONS
+2.1 Bird concentrations in the vicinity of Takhli Aerodrome.
+2.1.1 It has been observed that migratory and resident birds in remarkable numbers appear on or in Aerodrome and they are present in variable numbers every month. That may mostly during Rainy season (May to October), Winter season (October to February) and Summer season (March to April), while the resident or presumed resident birds are present in variable number every month. Pilots are essentially requested to report bird strikes to the Aerodrome Control Tower via: Takhli Tower, Wing 4, Takhli Air Force Base, Takhli District Nakhon Sawan Province
+Tel: +662 534 6000
+Bird Species that has potential hazard to aircraft are as follows:
+Species | Weight (kg) | Period
+Asian Openbil | 1.30 - 8.90 | All year
+Cattle Egret | 0.27 - 0.51 | All year
+Pigeon | 0.24 - 0.38 | All year
+SBarn Swallow | 0.70 - 1.6 | All year (mostly in October-April)
+Mallard | 0.4 - 1.6 | All year (mostly in October-February)
+Res-wattled lapwin | 0.11 - 0.23 | All year
+Cormorants | 0.36 - 0.53 | All year
+Munia | 0.012 | All year
+Lyle’s flying fox | 0.40 - 1.00 | All year (during night time)
+Chinese franco | 0.28 - 0.40 | All year
+Brahminy kite | 0.3 - 0.5 | All year
+2.1.2 Takhli Aerodrome has many measures and activities to reduce wildlife hazard by managing the environment to make the area unattractive for wildlife hazard and safe for the aircraft operations. Also, Environmental management such as grass mowing, chemicals Using (reduce bird’s food resources), waste managing (refuse collection and garbage dumps), Tree trimming or cutting down, weeds dredging (in drainage ditch, water pond and lowland), Sail grading and reducing bird’s potential breeding and roosting area in airside.
 - Runway/36 RAG installed and in operations details as follows:
 BAK14 : 396 M from threshold cable height 3 inches.
 NET BARRIER : height 3.7 M position 25 M from end of runway

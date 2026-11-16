@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTSF
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTSF-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTSF
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTSF-en-GB.html
 VTSF
 — Nakhon Si Thammarat
 VTSF
@@ -11,16 +11,14 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 083223N
-083222.62N
-0995641E.01E
+0995641E
 Centre of RWY 1060 m. from THR RWY19
 2
 Direction and distance from (city)
 10 km N, from city
 3
 Elevation/Reference temperature
-4
-m (13 ft) /33°C
+4 m (13 ft) /33°C
 4 | Geoid Undulation at AD ELEV PSN
 NIL
 5
@@ -188,9 +186,9 @@ Width: 23 m
 Surface: Asphaltic concrete
 Strength: PCN 42/F/C/X/
 TWY D
-Width: 11.5 m
+Width: 11 m
 Surface: Asphaltic concrete
-Strength: 5300 kg/ 0.5 MPpa
+Strength: 5300 kg/ 0.5 MPa
 Remarks: TWY D use for Helicopter only
 3
 Altimeter checkpoint location and elevation

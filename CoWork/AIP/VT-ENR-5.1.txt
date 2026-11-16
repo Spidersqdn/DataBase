@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-ENR-5.1
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-5.1-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-ENR-5.1
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-ENR-5.1-en-GB.html
 ENR 5 NAVIGATION WARNINGS
 ENR 5.1 PROHIBITED, RESTRICTED, DANGER AREAS
 1. All airspace in which a potential hazard to aircraft operations may exist and all areas over which the operation of civil aircraft may, for one reason or another, be restricted either temporarily or permanently, are classified, according to the following types of areas as defined by ICAO.
@@ -35,9 +35,9 @@ FL 240 / GND
 AMC - Manageable Area
 Type of restriction : RTAF Flying Training
 Nature of hazard/activity : Bombing / Air Firing Area
-Time of activity : MON - FRI, 0000-1000
+Time of activity: MON - FRI, 0000-1000
 Planned activation time and level to be
-specified in AUP/UUP or NOTAM.H24
+specified in AUP/UUP or NOTAM.
 Permission to entry : Only authorized aircraft
 Inflight information : Chandy Tower freq. 134.75 MHz or 285.4 MHz
 Contact agency : Chandy Tower, Tel: +662 534 6000 ext. 25884

@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-ENR-3.5
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-ENR-3.5-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-ENR-3.5
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-ENR-3.5-en-GB.html
 ENR 3.5 OTHER ATS ROUTES
 1. BANGKOK FIR CONTINGENCY ATS ROUTES AND FLIGHT LEVEL ALLOCATION SCHEME (FLAS)
 International route structure and communications for transit of the Bangkok FIR when no ATS available in Bangkok airspace.

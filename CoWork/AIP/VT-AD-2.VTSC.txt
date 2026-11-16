@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTSC
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTSC-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTSC
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTSC-en-GB.html
 VTSC
 — Narathiwat
 VTSC
@@ -116,6 +116,7 @@ Restaurants
 In the cityTPASSENGER_FACILITY;Annotation:1656.eng;797
 3
 Transportation
+Limousines
 NIL
 4
 Medical facilities
@@ -160,11 +161,13 @@ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
 Surface: Concrete
 Strength: PCN 65/R/C/X/
 2 | Taxiway width, surface and strength
-Width: 23 M
+Width: 23 Mm
 Surface: Asphaltic concrete
 Strength: PCN 65/F/C/X/
 3
 Altimeter checkpoint location and elevation
+Location: At apron
+Elevation: 23 ft (7 m)
 NIL
 4
 VOR checkpoints
@@ -218,6 +221,77 @@ NIL
 NIL
 NIL
 NIL
+NIL
+NIL
+NIL
+AWOS 1
+ELEV 48 ft
+Painted red/white
+LGTD
+063131.7N
+1014451.6E
+NIL
+AWOS 2
+ELEV 49 ft
+Painted red/white
+LGTD
+063131.5N
+1014451.5E
+GP
+ELEV 71 ft
+Painted red/white
+LGTD
+063035.6N
+1014424.9E
+NDB 1
+ELEV 110 ft
+Painted red/white
+LGTD
+063141.7N
+1014458.2E
+NDB 2
+ELEV 110 ft
+Painted red/white
+LGTD
+063141.0N
+1014459.9E
+Radio mast
+ELEV 102 ft
+Painted red/white
+LGTD
+063110.3N
+1014446.6E
+Telecommunication
+mast 1
+ELEV 187 ft
+Painted red/white
+NIL | 063109.3N
+1014513.7E
+Telecommunication
+mast 2
+ELEV 233 ft
+Painted red/white
+NIL | 063102.1N
+1014517.6E
+Telecommunication
+mast 3
+ELEV 183 ft
+Painted red/white
+LGTD
+063056.1N
+1014519.2E
+Guard tower
+ELEV 64 ft
+Painted red/white
+NIL
+063128.5N
+1014435.8E
+Pole on top of Fire
+station
+ELEV 87 ft
+NIL / NIL
+063120.0N
+1014449.8E
 VTSC
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
 1
@@ -266,7 +340,7 @@ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
 Designations
 RWY NR
 TRUE BRG
-Dimensions of RWY (mM)
+Dimensions of RWY (m)
 Strength (PCN) and surface of RWY and SWY
 THR coordinates
 RWY end coordinates
@@ -279,8 +353,8 @@ THR elevation and highest elevation of TDZ of precision APP RWY
 PCN 65/F/C/X/Asphaltic concrete
 063026.88N
 1014416.86E
--34.65 ftFT
-THR 22.9 ftFT
+-34.6 ft
+THR 22.9 ft
 20
 203.43°
 2500x45
@@ -288,20 +362,20 @@ PCN 65/F/C/X/
 Asphaltic concrete
 063141.55N
 1014449.22E
--35 ftFT
-THR 23 ftFT
+-35 ft
+THR 23 ft
 Slope of
 RWY-SWY
 SWY
 dimensions
-(mM)
+(m)
 CWY
 dimensions
-(mM) | Strip
+(m) | Strip
 dimensions
-(mM) | RESA
+(m) | RESA
 dimensions
-(mM) | Location & description of arresting system | OFZ | Remarks
+(m) | Location & description of arresting system | OFZ | Remarks
 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
 NIL
 60x45
@@ -375,28 +449,49 @@ CAT1
 900 m
 LIH
 Green
+GREEN
+GREEN
 PAPI
 Left 3°
+(54.44 ft)
 NIL
 NIL
 2500 m
+50
 60 m
-White, LIH
+FM 0 m - 1900 m
+White,
+FM 1900 m - 2500 m
+Yellow,
+LIH
+RED
+NIL
 Red
 NIL
 NIL
 20
 SALS
+SALS
 300 m
 LIH
+GREEN
+NIL
 Green
 PAPI
 Left 3°
+(53.51 ft)
 NIL
 NIL
 2500 m
+50
 60 m
-White, LIH
+FM 0 m - 1900 m
+White,
+FM 1900 m - 2500 m
+Yellow,
+LIH
+RED
+NIL
 Red
 NIL
 NIL
@@ -404,14 +499,21 @@ VTSC
 AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
 1
 ABN/IBN location, characteristics and hours of operation
-ABN: At tower buildingTAERO_GND_LGT;Annotation:1660.eng;520, FLG W G EV 7 SECTAERO_GND_LGT;Annotation:844.eng;520
+ABN: At tower buildingTAERO_GND_LGT;Annotation:1660.eng;520, FLG W G EV 3 SECTAERO_GND_LGT;Annotation:844.eng;520FLG W G EV 7 SEC
+IBN: NIL
 2
 LDI location and LGT
 Anemometer location and LGT
+LDI: NIL
+Anemometer: NIL
+WDI: 1. Wind cone at 350 m from THR 02 off set to left side 84 m from RCL, Illuminated.
+2. Wind cone at 300 m from THR 20 off set to left side 120 m from RCL, Illuminated.
 NIL
 3
 TWY edge and centre line lighting
-EDGE: ALL TWY
+EDGE
+TWY edge: ALL TWY
+TWY centre line: NIL
 4
 Secondary power supply/switch-over time
 Secondary power supply to all lighting at the airport
@@ -447,7 +549,7 @@ VTSC
 AD 2.17 ATS AIRSPACE
 1
 Designation and lateral limits
-A circle of 5 nm radius centred on N DVOR/DME
+A circle of 5 nmNM radius centred on N DVOR/DME
 (063138N 1014443E)
 2
 Vertical limits

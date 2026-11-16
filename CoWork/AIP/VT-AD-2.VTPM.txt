@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPM
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPM-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTPM
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTPM-en-GB.html
 VTPM
 — Tak/ Mae Sot
 VTPM
@@ -10,8 +10,9 @@ VTPM
 AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
+164200N
 164159.73N
-0983300.44E
+0983300E.44E
 2
 Direction and distance from (city)
 5 km W, from city

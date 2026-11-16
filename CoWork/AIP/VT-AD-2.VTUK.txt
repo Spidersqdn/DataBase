@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUK
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUK-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTUK
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTUK-en-GB.html
 VTUK
 — Khon Kaen
 VTUK
@@ -541,7 +541,6 @@ NIL
 Coverage clockwise orbit 50 NM checked as follows:
 Bearing 350° -225° at altitude 2 500 ft.
 Bearing 226° - 349° at altitude 5 000 ft.
-NIL
 DVOR/DME
 KKN
 114.9 MHz
@@ -551,7 +550,7 @@ H24
 1024716.7E
 210 m
 (700 ft)
-DVOR/DME restriction due to terrain surround DVOR/DME station, coverage check does not provide adequate signal 40 NMnm. at required altitude in various areas as follows:
+DVOR/DME restriction due to terrain surround DVOR/DME station, coverage check does not provide adequate signal 40 NM. at required altitude in various areas as follows:
 Radial 001°-080° altitude should not below 2 500 ft.
 Radial 081°-220° altitude should not below 2 000 ft.
 Radial 221°-360° altitude should not below 3 500 ft.

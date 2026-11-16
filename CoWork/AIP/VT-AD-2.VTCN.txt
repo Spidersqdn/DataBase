@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCN
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCN-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTCN
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTCN-en-GB.html
 VTCN
 — Nan/ Nan Nakhon
 VTCN
@@ -11,8 +11,7 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 184828N
-184828.49N
-1004700E.31E
+1004700E
 2
 Direction and distance from (city)
 3 km N, from city
@@ -214,8 +213,8 @@ a | b | c | a | b
 NIL
 NIL
 NIL
-Radio mast erected at field right side of RWY 20,215 mM from centre line
-height 24 mM and the another, height 153 mM
+Radio mast erected at field right side of RWY 20,215 m from centre line
+height 24 m and the another, height 153 m
 Both painted red and white alternatively lighted by red light on top
 184430.0N
 1004435.0E

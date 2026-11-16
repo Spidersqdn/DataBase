@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTSY
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTSY-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTSY
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTSY-en-GB.html
 VTSY
 — Yala/ Betong
 VTSY
@@ -208,29 +208,25 @@ a | b | c | a | b
 APCH RWY 07/
 TKOF RWY 25
 Tree
-253.63
 254 m
-(HGT 28.3828 m)
+(HGT 28 m)
 054711.8N
 1010817.0E
 NIL
 NIL
 NIL
 Tree
-275.27
 275 m
-(HGT 50.0250 m)
+(HGT 50 m)
 054657.6N
 1010803.3E
 Radio Mast
-387.41
 387 m
-(HGT 162.16162 m)
+(HGT 162 m)
 Marked and LGT
 054615.5N
 1010356.8E
 Radio Mast
-423.26
 423 m
 (HGT 198 m)
 Marked and LGT
@@ -240,14 +236,14 @@ APCH RWY 25/
 TKOF RWY 07
 Mountain
 415 m
-(HGT 195.82196 m)
+(HGT 196 m)
 See Aerodrome Obstacle Chart - ICAO Type A
 Mountain
 644 m
-(HGT 424.82425 m)
+(HGT 425 m)
 Mountain
 954 m
-(HGT 734.825 m)
+(HGT 735 m)
 VTSY
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
 1

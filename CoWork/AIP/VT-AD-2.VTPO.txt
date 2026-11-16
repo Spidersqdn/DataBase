@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPO
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPO-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTPO
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTPO-en-GB.html
 VTPO
 — Sukhothai
 VTPO
@@ -191,11 +191,11 @@ Surface:Concrete and asphalt
 Strength: PCR 430/F/D/X/
 APRON 2
 Surface: Concrete
-Strength: PCRN 470/R/DC/W/
+Strength: PCR 470/R/D/W/
 2 | Taxiway width, surface and strength
 Width: 30 m
 Surface: Concrete and asphalt
-Strength: PCRN 370/F/C/X/
+Strength: PCR 370/F/C/X/
 3
 Altimeter checkpoint location and elevation
 ALC location: At Apron
@@ -239,9 +239,7 @@ Elevation
 Markings/LGT
 Coordinates
 a | b | c | a | b
-TKOF RWY 36/APCH 18
-NIL
-Building
+TKOF RWY 36/APCH 18 | Building
 200 ft
 (61 m)
 Markings/LGT
@@ -251,12 +249,10 @@ Pole
 201 ft
 (61 m)
 Markings/LGT
-NIL
 171348.6N
 0994902.0E
 NIL
-TKOF RWY 36/APCH 18
-Fence
+TKOF RWY 36/APCH 18 | Fence
 197 ft
 (60 m)
 171458.7N
@@ -267,8 +263,7 @@ Antenna
 Markings/LGT
 171351.1N
 0994902.1E
-TKOF RWY 36/APCH 18
-Antenna
+TKOF RWY 36/APCH 18 | Antenna
 206 ft
 (63 m)
 171458.8N
@@ -279,8 +274,7 @@ Building
 Markings
 171351.3N
 0994902.1E
-TKOF RWY 36/APCH 18
-Antenna
+TKOF RWY 36/APCH 18 | Antenna
 419 ft
 (147 m)
 Markings/LGT
@@ -292,8 +286,7 @@ Building
 Markings/LGT
 171416.5N
 0994911.1E
-TKOF RWY 36/APCH 18
-Antenna
+TKOF RWY 36/APCH 18 | Antenna
 510 ft
 (156 m)
 Markings/LGT
@@ -375,18 +368,16 @@ THR elevation and highest elevation of TDZ of precision APP RWY
 18
 181.12°
 2100x45
-PCRN 370/F/C/X/
+PCR 370/F/C/X/
 Concrete and asphalt
-Asphalt
 171449.85N
 0994906.69E-123 ft (-37 m)
 184 ft (56 m)
 36
 001.12°
 2100x45
-PCRN 370/F/C/X/
+PCR 370/F/C/X/
 Concrete and asphalt
-Asphalt
 171341.56N
 0994905.30E-123 ft (-37 m)
 183 ft (56 m)
@@ -599,7 +590,7 @@ Elevation of DME transmitting antenna
 Remarks
 1 | 2 | 3 | 4 | 5 | 6 | 7
 NDB
-292 KHzKHZ
+292 KHz
 H24
 171406.7N
 0994919.3E

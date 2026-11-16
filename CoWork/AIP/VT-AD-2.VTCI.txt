@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTCI
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTCI-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTCI
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTCI-en-GB.html
 VTCI
 — Mae Hong Son / Pai
 VTCI
@@ -11,22 +11,18 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 192219N
-192219.23N
-0982609E.11E
+0982609E
 2
 Direction and distance from (city)
 1 km. from town.
-1 KM. from town.
 3
 Elevation/Reference temperature
-1676 ftFT/38°C
+1676 ft/38°C
 4 | Geoid Undulation at AD ELEV PSN
 NIL
 5
 MAG VAR/Annual change
-0°53'
-0°46'W
-W (2025)/ 0°2'°1'EE
+0°53'W (2025)/ 0°2'E
 6
 AD Administration, address, telephone,
 telefax, telex, AFS
@@ -212,50 +208,50 @@ a | b | c | a | b
 NIL
 NIL
 MAST (C)
-525 m4.60 M
-1922098.098N
-09826043.099E
+525 m
+192209.0N
+0982604.0E
 NIL
 TREE (D)
-5343.60 mM
-192204.438N
-0982607.986E
+534 m
+192204.4N
+0982607.9E
 MAST (E)
-5254.60 mM
-192205.219N
-0982603.105E
+525 m
+192205.2N
+0982603.1E
 MAST (F)
-5254.60 mM
-192206.545N
-0982603.439E
+525 m
+192206.5N
+0982603.4E
 MAST (G)
-5254.60 mM
-192207.70N
-0982603.875E
+525 m
+192207.7N
+0982603.8E
 MAST (H)
-5254.60 mM
-192210.328N
-0982604.04E
+525 m
+192210.3N
+0982604.0E
 MAST (I)
-525 m4.60 M
-192211.658N
-0982603.94E
+525 m
+192211.6N
+0982603.9E
 MAST (J)
-525 m4.60 M
-192212.988N
-0982603.91E
+525 m
+192212.9N
+0982603.9E
 MAST (O)
-5254.60 mM
-192226.548N
-0982608.219E
+525 m
+192226.5N
+0982608.2E
 MAST (P)
-524.605 mM
-192227.769N
-0982608.70E
+525 m
+192227.7N
+0982608.7E
 MAST (Q)
-524.605 mM
-1922298.097N
-0982608.92E
+525 m
+192229.0N
+0982608.9E
 VTCI
 AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
 1
@@ -299,7 +295,7 @@ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
 Designations
 RWY NR
 TRUE BRG
-Dimensions of RWY (mM)
+Dimensions of RWY (m)
 Strength (PCN) and surface of RWY and SWY
 THR coordinates
 RWY end coordinates
@@ -308,25 +304,23 @@ THR elevation and highest elevation of TDZ of precision APP RWY
 1 | 2 | 3 | 4 | 5 | 6
 01
 014.40°
-014.397°
 710x18
-5700 kgKG / 0.50 MPaMPA
+5700 kg / 0.50 MPa
 Asphalt
 192207.80N
 0982605.90E
 NIL
 19
 194.40°
-194.397°
 710x18
-5700 kgKG / 0.50 MPaMPA
+5700 kg / 0.50 MPa
 Asphalt
 192230.30N
 0982612.40E
 NIL
 Slope of RWY-SWY
-SWY dimensions (mM)
-CWY dimensions (mM) | Strip dimensions (mM) | OFZ | Remarks
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | OFZ | Remarks
 7 | 8 | 9 | 10 | 11 | 12
 0.69%
 NIL
@@ -344,13 +338,13 @@ VTCI
 AD 2.13 DECLARED DISTANCES
 RWY Designator
 TORA
-(mM)
+(m)
 TODA
-(mM)
+(m)
 ASDA
-(mM)
+(m)
 LDA
-(mM)
+(m)
 Remarks
 1 | 2 | 3 | 4 | 5 | 6
 01
@@ -391,7 +385,7 @@ RWY End LGT
 colour
 WBAR
 SWY LGT
-LEN (mM)
+LEN (m)
 colour
 Remarks
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10

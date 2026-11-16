@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTUQ
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTUQ-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTUQ
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTUQ-en-GB.html
 VTUQ
 — Nakhon Ratchasima
 VTUQ
@@ -266,7 +266,7 @@ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
 Designations
 RWY NR
 TRUE BRG
-Dimensions of RWY (mM)
+Dimensions of RWY (m)
 Strength (PCN) and surface of RWY and SWY
 THR coordinates
 RWY end coordinates
@@ -279,8 +279,8 @@ PCN 42/F/C/X/
 Concrete and asphalt
 145641.79N
 1021815.01E
-THR 765.0 ftFT
-TDZ 765.0 ftFT
+THR 765.0 ft
+TDZ 765.0 ft
 24
 242.42°
 2100x45
@@ -288,11 +288,11 @@ PCN 42/F/C/X/
 Concrete and asphalt
 145714.58N
 1021916.70E
-THR 740 ftFT
-TDZ 748 ftFT
+THR 740 ft
+TDZ 748 ft
 Slope of RWY-SWY
-SWY dimensions (mM)
-CWY dimensions (mM) | Strip dimensions (mM) | OFZ | Remarks
+SWY dimensions (m)
+CWY dimensions (m) | Strip dimensions (m) | OFZ | Remarks
 7 | 8 | 9 | 10 | 11 | 12
 -0.4%
 60x60
@@ -310,13 +310,13 @@ VTUQ
 AD 2.13 DECLARED DISTANCES
 RWY Designator
 TORA
-(mM)
+(m)
 TODA
-(mM)
+(m)
 ASDA
-(mM)
+(m)
 LDA
-(mM)
+(m)
 Remarks
 1 | 2 | 3 | 4 | 5 | 6
 06
@@ -357,26 +357,26 @@ RWY End LGT
 colour
 WBAR
 SWY LGT
-LEN (mM)
+LEN (m)
 colour
 Remarks
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 06
 CAT I
-900 mM
+900 m
 LIH
 Green
 Green
 PAPI
 LEF 3°
-(52.87 ftFT)
+(52.87 ft)
 NIL
 NIL
-2100 mM
-60 mM
+2100 m
+60 m
 White
-FM 1500 mM-
-2100 mM
+FM 1500 m-
+2100 m
 Yellow; LIH
 Red
 NIL
@@ -388,13 +388,13 @@ Green
 NIL
 PAPI
 LEF 3°
-(48.82 ftFT)
+(48.82 ft)
 NIL
 NIL
-2100 mM
-60 mM
+2100 m
+60 m
 White
-FM 1500 mM - 2100 mM
+FM 1500 m - 2100 m
 Yellow; LIH
 Red
 NIL

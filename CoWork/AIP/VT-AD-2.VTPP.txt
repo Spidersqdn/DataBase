@@ -1,5 +1,5 @@
-# AIP Thailand AIRAC 2026-10-29 VT-AD-2.VTPP
-# https://aip.caat.or.th/2026-10-29-AIRAC/html/eAIP/VT-AD-2.VTPP-en-GB.html
+# AIP Thailand AIRAC 2026-11-26 VT-AD-2.VTPP
+# https://aip.caat.or.th/2026-11-26-AIRAC/html/eAIP/VT-AD-2.VTPP-en-GB.html
 VTPP
 — Phitsanulok
 VTPP
@@ -11,8 +11,7 @@ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
 1
 ARP coordinates and site at AD
 164659N
-164658.59N
-1001645E.88E
+1001645E
 2
 Direction and distance from (city)
 8 km SE, from city
