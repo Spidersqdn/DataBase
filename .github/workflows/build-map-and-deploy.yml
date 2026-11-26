@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write   # charts: commit the encrypted copies back (plain PDFs removed)
   pages: write
   id-token: write
 
@@ -194,16 +194,39 @@ jobs:
             echo "No release falcon2cp-maps yet, skipping"
           fi
 
+      # Charts are password protected (thread "Login"): stored + served only as AES-GCM .enc files.
+      # Upload a new chart as plain PDF into AirNavFlow/charts/: this step encrypts it, deletes the plain
+      # file and commits. Password = repo secret CHART_KEY (the same password users type in the app).
+      - name: AirNavFlow charts - encrypt new plain files and commit
+        if: hashFiles('AirNavFlow/charts/**') != ''
+        env:
+          CHART_KEY: ${{ secrets.CHART_KEY }}
+        run: |
+          pip install --quiet cryptography pymupdf pypdf || true
+          python3 tools/charts_crypt.py lock AirNavFlow/charts
+          if [ -n "$(git status --porcelain AirNavFlow/charts)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+            git add -A AirNavFlow/charts
+            git commit -m "charts: encrypt (plain files removed)"
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
+
       - name: AirNavFlow charts list (charts/index.json for the CHART box)
         if: hashFiles('AirNavFlow/charts/**') != ''
+        env:
+          CHART_KEY: ${{ secrets.CHART_KEY }}
         run: |
-          pip install --quiet pymupdf pypdf || true
-          python3 tools/charts_index.py AirNavFlow/charts
+          python3 tools/charts_crypt.py unlock AirNavFlow/charts "$RUNNER_TEMP/charts"
+          python3 tools/charts_index.py "$RUNNER_TEMP/charts"
+          python3 tools/charts_crypt.py index "$RUNNER_TEMP/charts" AirNavFlow/charts
+          rm -rf "$RUNNER_TEMP/charts"
 
       - name: Site folder (one folder per project)
         run: |
           mkdir -p site
           for d in AirNavFlow FalCon2CP CoWork; do cp -r "$d" site/; done
+          find site/AirNavFlow/charts -type f \( -iname "*.pdf" -o -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.webp" \) -delete 2>/dev/null || true   # never serve plain charts
           cp map/thailand.pmtiles map/elevation.pmtiles site/AirNavFlow/
           if [ -f map/enroute.pmtiles ]; then cp map/enroute.pmtiles site/AirNavFlow/; fi
           echo '<!doctype html><meta charset=utf-8><title>DataBase</title><p>Data files: <a href="AirNavFlow/">AirNavFlow</a> · <a href="FalCon2CP/">FalCon2CP</a> · <a href="CoWork/">CoWork</a>' > site/index.html
