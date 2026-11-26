@@ -13,7 +13,7 @@ Usage (workflow):
   charts_crypt.py unlock <dir> <out>    decrypt every .enc into <out> (same sub-folders) for charts_index.py
   charts_crypt.py index <plain> <dir>   <plain>/index.json -> <dir>/index.json with 'u' (.enc path), enc sizes, 'enc'
 """
-import base64, json, os, re, sys
+import base64, hashlib, json, os, re, sys
 
 from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
@@ -107,6 +107,11 @@ def index(plain, root):
         e['u'] = e['f'] + '.enc'
         e['bytes'] = os.path.getsize(os.path.join(root, e['u']))
     j['enc'] = {k: meta[k] for k in ('v', 'iter', 'salt', 'check')}
+    # fast check for the app's login box (type the right password = logged in at once, like FalCon2CP's PASS_HASH;
+    # same SHA-256 FalCon2CP already publishes in its config.js, so nothing new is exposed)
+    pw = os.environ.get('CHART_KEY', '')
+    if pw:
+        j['enc']['ph'] = hashlib.sha256(pw.encode('utf-8')).hexdigest()
     with open(os.path.join(root, 'index.json'), 'w', encoding='utf-8') as fh:
         json.dump(j, fh, ensure_ascii=False, separators=(',', ':'))
     print(len(j['charts']), 'charts in index (encrypted)')
