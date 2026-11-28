@@ -56,13 +56,25 @@ def fetch(url, tries=3):
     raise RuntimeError("fetch failed: %s (%s)" % (url, err))
 
 
+VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
+
+
 class Text(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
-        self.out, self.skip = [], 0
+        self.out, self.skip, self.stack = [], 0, []
 
     def handle_starttag(self, tag, attrs):
-        if tag in ("script", "style", "head"):
+        d = dict(attrs)
+        cls = d.get("class") or ""
+        st = (d.get("style") or "").replace(" ", "").lower()
+        hide = (tag in ("script", "style", "head", "del")
+                or "sdparams" in cls.lower()
+                or "amdtdeleted" in cls.lower()
+                or "display:none" in st)
+        if tag not in VOID:
+            self.stack.append((tag, hide))
+        if hide and tag not in VOID:
             self.skip += 1
         elif tag in BLOCK:
             self.out.append("\n")
@@ -70,9 +82,13 @@ class Text(HTMLParser):
             self.out.append(" | ")
 
     def handle_endtag(self, tag):
-        if tag in ("script", "style", "head"):
-            self.skip = max(0, self.skip - 1)
-        elif tag in BLOCK:
+        while self.stack:
+            t, hide = self.stack.pop()
+            if hide:
+                self.skip = max(0, self.skip - 1)
+            if t == tag:
+                break
+        if tag in BLOCK:
             self.out.append("\n")
 
     def handle_data(self, data):
@@ -81,7 +97,7 @@ class Text(HTMLParser):
 
 
 # eAIP pages carry hidden database tags such as "TFREQUENCY;VAL_FREQ_TRANS;188"
-TAG_RE = re.compile(r"T[A-Z_]+;[A-Z_]+;\d+")
+TAG_RE = re.compile(r"T[A-Z_]+;[A-Za-z0-9_:.\-]+;\d+")
 
 
 def to_text(src):
